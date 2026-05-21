@@ -1,0 +1,2142 @@
+{
+  "source": "C:\\ai_diarizen5090\\code_qwen_25_7b\\results\\summaries\\data26\\intermediates\\data26_asr_input.txt",
+  "stats": {
+    "num_blocks": 8,
+    "num_normalized_blocks": 8,
+    "num_block_summaries": 8
+  },
+  "meeting_overview": "Đây là một đoạn talkshow với nhiều phần dẫn dắt và trao đổi. Nội dung chính xoay quanh câu chuyện gia đình, cách phân chia trách nhiệm giữa vợ chồng hoặc việc dạy con. Transcript có nhiều đoạn chuyển cảnh và dẫn chương trình nên cần tránh gộp nhầm các phần khác nhau.",
+  "conversation_main_summary": "Nội dung chính của cuộc hội thoại tập trung vào cách phân chia lịch và trách nhiệm trong gia đình.",
+  "meeting_type": "talkshow",
+  "segments": [
+    {
+      "title": "Chia sẻ về gia đình",
+      "block_ids": [
+        0,
+        1
+      ],
+      "summary": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm."
+    },
+    {
+      "title": "Chia sẻ về sức khỏe / áp lực",
+      "block_ids": [
+        2
+      ],
+      "summary": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân."
+    },
+    {
+      "title": "Chia sẻ về gia đình",
+      "block_ids": [
+        3
+      ],
+      "summary": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        4
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        5
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        6,
+        7
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    }
+  ],
+  "action_items": [],
+  "speaker_insights": [
+    {
+      "speaker": "Conan",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          260.0,
+          278.5
+        ]
+      ]
+    },
+    {
+      "speaker": "Conan_old",
+      "insight": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+      "evidence_spans": [
+        [
+          958.4,
+          969.7
+        ]
+      ]
+    },
+    {
+      "speaker": "Habara",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          263.0,
+          328.9
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_02",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          610.8,
+          613.7
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_03",
+      "insight": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+      "evidence_spans": [
+        [
+          410.8,
+          553.7
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_04",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          18.8,
+          132.4
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_05",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          27.6,
+          124.1
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_07",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          588.2,
+          745.0
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_08",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          55.7,
+          96.2
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_09",
+      "insight": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+      "evidence_spans": [
+        [
+          414.2,
+          559.2
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_10",
+      "insight": "Thì ra là vậy. Cảm ơn thông tin của các cháu nha. Giờ các cháu có thể đi theo chú. Để trả lời thêm vài câu hỏi nữa có được không hả.",
+      "evidence_spans": [
+        [
+          761.2,
+          889.8
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_11",
+      "insight": "Thì ra là vậy. Cảm ơn thông tin của các cháu nha. Giờ các cháu có thể đi theo chú. Để trả lời thêm vài câu hỏi nữa có được không hả.",
+      "evidence_spans": [
+        [
+          787.6,
+          939.5
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_12",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          292.0,
+          376.2
+        ]
+      ]
+    }
+  ],
+  "speaker_main_summaries": [
+    {
+      "speaker": "Conan",
+      "main_summary": "Người này chủ yếu trao đổi về đời sống cá nhân hoặc gia đình, vì người này vừa phản hồi vừa trao đổi về phát ngôn của người này tập trung vào chủ đề đang được bàn tới.",
+      "evidence_spans": [
+        [
+          260.0,
+          278.5
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "speaker": "Conan_old",
+      "main_summary": "Người này tham gia trao đổi về việc dẫn dắt chương trình và chuyển cảnh, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          958.4,
+          969.7
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Habara",
+      "main_summary": "Người này chủ yếu đặt câu hỏi và gợi mở về đời sống cá nhân hoặc gia đình, vì người này liên tục hỏi và đào sâu đề cập chuyện dạy con trong gia đình.",
+      "evidence_spans": [
+        [
+          263.0,
+          328.9
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "speaker": "speaker_02",
+      "main_summary": "Người này tham gia trao đổi về đời sống cá nhân hoặc gia đình, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          610.8,
+          613.7
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_03",
+      "main_summary": "Người này tham gia trao đổi về sức khỏe và áp lực, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          410.8,
+          553.7
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_04",
+      "main_summary": "Người này tham gia trao đổi về đời sống cá nhân hoặc gia đình, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          18.8,
+          132.4
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_05",
+      "main_summary": "Người này tham gia trao đổi về đời sống cá nhân hoặc gia đình, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          27.6,
+          124.1
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_07",
+      "main_summary": "Người này tham gia trao đổi về đời sống cá nhân hoặc gia đình, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          588.2,
+          745.0
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_08",
+      "main_summary": "Người này chủ yếu trao đổi về đời sống cá nhân hoặc gia đình, vì người này vừa phản hồi vừa trao đổi về phát ngôn của người này tập trung vào chủ đề đang được bàn tới.",
+      "evidence_spans": [
+        [
+          55.7,
+          96.2
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "speaker": "speaker_09",
+      "main_summary": "Người này chủ yếu đặt câu hỏi và gợi mở về sức khỏe và áp lực, vì người này liên tục hỏi và đào sâu phát ngôn của người này tập trung vào chủ đề đang được bàn tới.",
+      "evidence_spans": [
+        [
+          414.2,
+          559.2
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "speaker": "speaker_10",
+      "main_summary": "Người này tham gia trao đổi về nội dung trao đổi chính của cuộc hội thoại, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          761.2,
+          889.8
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_11",
+      "main_summary": "Người này chủ yếu trao đổi về nội dung trao đổi chính của cuộc hội thoại, vì người này vừa phản hồi vừa trao đổi về phát ngôn của người này tập trung vào chủ đề đang được bàn tới.",
+      "evidence_spans": [
+        [
+          787.6,
+          939.5
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "speaker": "speaker_12",
+      "main_summary": "Người này tham gia trao đổi về đời sống cá nhân hoặc gia đình, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          292.0,
+          376.2
+        ]
+      ],
+      "confidence": "low"
+    }
+  ],
+  "risk_flags": [
+    "Transcript có nhiều segment/chủ đề khác nhau; cần chú ý tránh gộp nhầm."
+  ],
+  "quality_notes": [
+    "rule_reducer_v9_speaker_main_confidence_fallback"
+  ],
+  "cleaned_transcript": [
+    {
+      "block_id": 0,
+      "start": 12.6,
+      "end": 18.8,
+      "speaker": "speaker_03",
+      "text": "Tuyệt quá ha, có nhiều du thuyền ghê ha, mấy chiếc du thuyền đó có thể đi được bao xa."
+    },
+    {
+      "block_id": 0,
+      "start": 18.8,
+      "end": 24.0,
+      "speaker": "speaker_04",
+      "text": "Nó có thể đi tới tận biên giới biển của nước ta và có thể đi ngao vô được vòng quanh thế giới luôn."
+    },
+    {
+      "block_id": 0,
+      "start": 24.1,
+      "end": 25.7,
+      "speaker": "speaker_03",
+      "text": "Ayumi muốn được lên thử."
+    },
+    {
+      "block_id": 0,
+      "start": 25.9,
+      "end": 27.6,
+      "speaker": "speaker_04",
+      "text": "Mình cũng muốn được như vậy đó."
+    },
+    {
+      "block_id": 0,
+      "start": 27.6,
+      "end": 34.0,
+      "speaker": "speaker_05",
+      "text": "Nhưng điều quan trọng nhất bây giờ là mình lại thấy đau bụng nữa rồi mau quay về lấy bento ăn cho no cái đã."
+    },
+    {
+      "block_id": 0,
+      "start": 35.2,
+      "end": 38.9,
+      "speaker": "speaker_04",
+      "text": "Đúng là ghen ta với cái bụng đói. Thức ăn luôn là ưu tiên số 1 của cậu."
+    },
+    {
+      "block_id": 0,
+      "start": 55.7,
+      "end": 63.2,
+      "speaker": "speaker_08",
+      "text": "Ở đây rồi. Ngài Takiguchi ơi. Tôi ở khách sạn Shirakabe. Chúng tôi đã chuẩn bị xong bữa ăn ngài đặt rồi đây."
+    },
+    {
+      "block_id": 0,
+      "start": 63.5,
+      "end": 65.0,
+      "speaker": "speaker_05",
+      "text": "Là đầu bếp của khách sạn."
+    },
+    {
+      "block_id": 0,
+      "start": 65.0,
+      "end": 67.5,
+      "speaker": "speaker_04",
+      "text": "Xịn sò quá, hèn gì đồ ăn nhìn hấp dẫn ghê luôn."
+    },
+    {
+      "block_id": 0,
+      "start": 67.6,
+      "end": 72.2,
+      "speaker": "speaker_08",
+      "text": "Thôi đây, không có cái gì cho mấy nhóc ăn ở đây đâu nha. Đi chỗ khác chơi dùm cái đi."
+    },
+    {
+      "block_id": 0,
+      "start": 72.4,
+      "end": 75.4,
+      "speaker": "speaker_12",
+      "text": "Sao lại thôi lỗ vậy. Chúng lại trẻ con thôi mà."
+    },
+    {
+      "block_id": 0,
+      "start": 77.1,
+      "end": 79.5,
+      "speaker": "speaker_12",
+      "text": "Cảm ơn anh nhiều lắm nha. Chủng bị cũng nhanh thiệt."
+    },
+    {
+      "block_id": 0,
+      "start": 86.1,
+      "end": 88.4,
+      "speaker": "speaker_03",
+      "text": "Dòng cổ của cô thiệt là đẹp quá đi."
+    },
+    {
+      "block_id": 0,
+      "start": 88.8,
+      "end": 93.5,
+      "speaker": "speaker_12",
+      "text": "Cảm ơn cô bé. Đây chỉ là chiếc vòng cổ acrylic nhân tạo. Không phải là trang sức quý gì đâu."
+    },
+    {
+      "block_id": 0,
+      "start": 94.0,
+      "end": 96.2,
+      "speaker": "speaker_08",
+      "text": "Dạ thưa phu nhân, bà muốn để thức ăn ở đâu?"
+    },
+    {
+      "block_id": 0,
+      "start": 96.5,
+      "end": 101.8,
+      "speaker": "speaker_12",
+      "text": "À xin lỗi đã để anh chờ có thể đem nó lên thuyền giúp tôi được chứ mấy đứa ăn cùng với ngà cô luôn đi."
+    },
+    {
+      "block_id": 0,
+      "start": 102.0,
+      "end": 103.2,
+      "speaker": "speaker_05",
+      "text": "Nhưng chuyện đó."
+    },
+    {
+      "block_id": 0,
+      "start": 103.3,
+      "end": 113.7,
+      "speaker": "speaker_04",
+      "text": "Cháu ăn cùng như vậy có tiện không hả cô. Thức ăn của khách sạn này ngon nổi tiếng ở đây đó. Cùng ăn với cô đi á. Nhưng nếu như tụi cháu ăn cùng với nhà cô. Thì sẽ tốn thêm nhiều đồ ăn lắm."
+    },
+    {
+      "block_id": 0,
+      "start": 114.4,
+      "end": 120.7,
+      "speaker": "speaker_09",
+      "text": "Mấy đứa đừng có lo chuyện đó Nhà bác đã đặt thức ăn cho bữa tối rồi Tụi cháu có thể ăn bao nhiêu tùy thích đâu."
+    },
+    {
+      "block_id": 0,
+      "start": 121.9,
+      "end": 124.1,
+      "speaker": "speaker_05",
+      "text": "Dạ, bây giờ mình ăn luôn được không bác?"
+    },
+    {
+      "block_id": 0,
+      "start": 124.2,
+      "end": 129.6,
+      "speaker": "speaker_12",
+      "text": "Chứ du thuyền này chỉ có hai vợ chồng cô nên hơi buồn. Có mấy đứa không khí sẽ vui hơn."
+    },
+    {
+      "block_id": 0,
+      "start": 129.8,
+      "end": 132.4,
+      "speaker": "speaker_04",
+      "text": "Vậy cho tụi cháu xin lỗi nếu như làm phiền cô và bác."
+    },
+    {
+      "block_id": 1,
+      "start": 260.0,
+      "end": 262.8,
+      "speaker": "Conan",
+      "text": "Tụi nhóc chạy đi đâu mất tiêu rồi không biết nữa à."
+    },
+    {
+      "block_id": 1,
+      "start": 263.0,
+      "end": 266.3,
+      "speaker": "Habara",
+      "text": "Thì cũng tại cậu chứ. Cứ ngủ suốt trên đường đi tới đây đó."
+    },
+    {
+      "block_id": 1,
+      "start": 266.9,
+      "end": 271.5,
+      "speaker": "Conan",
+      "text": "Speaker Conan:\"Nếu không tìm thấy tụi nhóc trước giờ cơm trưa, mình sẽ ăn hết phần bento đó."
+    },
+    {
+      "block_id": 1,
+      "start": 272.1,
+      "end": 277.1,
+      "speaker": "Habara",
+      "text": "Cậu mà làm vậy thì tụi nhóc sẽ ghét cậu lắm. Ác cảm về việc ăn uống là đáng sợ nhất đó."
+    },
+    {
+      "block_id": 1,
+      "start": 277.1,
+      "end": 278.5,
+      "speaker": "Conan",
+      "text": "Cũng đúng, mình hiểu rồi."
+    },
+    {
+      "block_id": 1,
+      "start": 280.4,
+      "end": 285.9,
+      "speaker": "speaker_04",
+      "text": "Conan và Haibara thật sự tội nghiệp quá đây à. Không được thưởng thức mấy món ăn ngon tuyệt vời này cùng với tụi mình."
+    },
+    {
+      "block_id": 1,
+      "start": 286.7,
+      "end": 291.4,
+      "speaker": "speaker_05",
+      "text": "Còn gì phải lo cho hai cậu ấy. Ai bị cứ ngủ gà ngủ gật trên đường đen. Chị không biết nữa."
+    },
+    {
+      "block_id": 1,
+      "start": 292.0,
+      "end": 293.9,
+      "speaker": "speaker_12",
+      "text": "Mấy đứa tới đây cùng các bạn khác nữa đúng không?"
+    },
+    {
+      "block_id": 1,
+      "start": 294.0,
+      "end": 300.7,
+      "speaker": "speaker_03",
+      "text": "Vậy hát nhóm bạn tụi cháu thường đi chơi cùng nhau đó cơ Nhưng mà bé ai nói sợ bị đen da nên cậu ấy ngại đi biển."
+    },
+    {
+      "block_id": 1,
+      "start": 300.9,
+      "end": 308.9,
+      "speaker": "speaker_09",
+      "text": "Thật vậy sao? Mới là học sinh tiểu học mà đã biết chăm sóc da rồi hay sao? Bác rất muốn biết cô bé đó xinh đẹp cỡ nào mà điệu nào quá."
+    },
+    {
+      "block_id": 1,
+      "start": 308.9,
+      "end": 316.1,
+      "speaker": "speaker_04",
+      "text": "Còn Conan, tuy chỉ mới học tiểu học, nhưng thường thức khuya để đọc tiểu thuyết trinh thám. Nên suy nghĩ của cậu ấy cũng khác xa với bạn bè cùng lớp luôn đó."
+    },
+    {
+      "block_id": 1,
+      "start": 316.2,
+      "end": 317.5,
+      "speaker": "speaker_05",
+      "text": "Có vẻ hấp dẫn lắm."
+    },
+    {
+      "block_id": 1,
+      "start": 317.9,
+      "end": 319.6,
+      "speaker": "speaker_11",
+      "text": "Xin lỗi vì mình không đủ hấp dẫn."
+    },
+    {
+      "block_id": 1,
+      "start": 320.2,
+      "end": 321.1,
+      "speaker": "speaker_03",
+      "text": "Conan hả ?"
+    },
+    {
+      "block_id": 1,
+      "start": 321.5,
+      "end": 324.9,
+      "speaker": "speaker_09",
+      "text": "Vậy cô bé dễ thương này chắc là hai ba ra rồi có đúng không hả."
+    },
+    {
+      "block_id": 1,
+      "start": 325.1,
+      "end": 328.9,
+      "speaker": "Habara",
+      "text": "Dạ đúng vậy. Cháu rất tiếc vì cháu không được xinh đẹp giống như mong đợi của bác."
+    },
+    {
+      "block_id": 1,
+      "start": 330.1,
+      "end": 334.6,
+      "speaker": "speaker_09",
+      "text": "Như vậy cũng đã xinh đẹp lắm rồi. Chỉ tiếc cháu mới là học sinh tiểu học thôi."
+    },
+    {
+      "block_id": 1,
+      "start": 336.2,
+      "end": 338.9,
+      "speaker": "speaker_05",
+      "text": "Mà sao hai cậu lại xuất hiện ở đây vậy hả."
+    },
+    {
+      "block_id": 1,
+      "start": 338.9,
+      "end": 344.6,
+      "speaker": "speaker_11",
+      "text": "Câu này mình phải hỏi mấy cậu mới đúng á. Nãy giờ hai đứa mình đi lòng vòng tìm mấy cậu về để ăn bento đây nè."
+    },
+    {
+      "block_id": 1,
+      "start": 344.6,
+      "end": 353.5,
+      "speaker": "speaker_12",
+      "text": "Cô rất tiếc phần bento mà mẹ các cháu chuẩn bị là bị bỏ dở. Nhưng các cháu có thể ăn nó trên đường về cũng được mà. Đằng nào hai đứa cũng tới đây rồi. Ăn cùng mọi người luôn cho vui."
+    },
+    {
+      "block_id": 1,
+      "start": 353.4,
+      "end": 359.5,
+      "speaker": "speaker_05",
+      "text": "Hai cậu ăn chung đi, thịt bò nướng này ngon bá trái bò. Mấy con tôm rồng sốt bơ tỏi cũng ngon hết chỗ."
+    },
+    {
+      "block_id": 1,
+      "start": 364.0,
+      "end": 367.2,
+      "speaker": "speaker_05",
+      "text": "Nè, Michihiko. Đừng có ăn hết mấy con tôm hờ một mình."
+    },
+    {
+      "block_id": 1,
+      "start": 367.3,
+      "end": 369.3,
+      "speaker": "speaker_04",
+      "text": "Đã nói là tôm rồng không phải tôm hùm mà."
+    },
+    {
+      "block_id": 1,
+      "start": 372.4,
+      "end": 376.2,
+      "speaker": "speaker_12",
+      "text": "Nè ông xã. Coi chừng tụi nhỏ thấy sẽ cười cho bây giờ đó."
+    },
+    {
+      "block_id": 1,
+      "start": 378.0,
+      "end": 380.2,
+      "speaker": "speaker_03",
+      "text": "Bác nhìn yên a vợ chồng son vậy."
+    },
+    {
+      "block_id": 1,
+      "start": 380.4,
+      "end": 393.6,
+      "speaker": "speaker_09",
+      "text": "Thật ra thì vợ chồng bác cũng chỉ mới cưới nhau được nửa năm thôi à. Dù đã hơi lớn tuổi rồi nhưng đây là lần đầu bác kết hôn. Vì quá bận rộn với việc mở rộng. Bác quên bén chuyện phải lập gia đình nên bác mới cưới vợ hơi trễ chốt."
+    },
+    {
+      "block_id": 1,
+      "start": 400.0,
+      "end": 403.5,
+      "speaker": "speaker_03",
+      "text": "Đẹp quá à. Phải chi mình có thể đi ra giữa biển."
+    },
+    {
+      "block_id": 1,
+      "start": 403.3,
+      "end": 410.8,
+      "speaker": "speaker_04",
+      "text": "Bơi dài bơi thỏa thích ở đó thì tuyệt biết mấy ha. Bớt mơ mộng đi nha. Cậu bơi có giỏi gì đâu. Mà đòi ra giữa biển để bơi hả Ayumi."
+    },
+    {
+      "block_id": 2,
+      "start": 410.8,
+      "end": 414.0,
+      "speaker": "speaker_03",
+      "text": "Được sống ở trên du thuyền này thì mình sẽ học bơi nhanh lắm luôn cho coi."
+    },
+    {
+      "block_id": 2,
+      "start": 414.2,
+      "end": 425.9,
+      "speaker": "speaker_09",
+      "text": "Cháu nói đúng lắm đó Ayumi Để bắt đầu thì không có gì là quá trễ Bác đã từng tuổi này rồi mà vẫn chưa biết bơi nè Nhờ chăm chỉ luyện tập mà bác đã biết bơi. Chỉ cần không bỏ cuộc thì việc gì cũng có thể."
+    },
+    {
+      "block_id": 2,
+      "start": 426.2,
+      "end": 428.9,
+      "speaker": "speaker_04",
+      "text": "Vậy bác đã tham gia vào câu lạc bộ bơi lội rồi hả."
+    },
+    {
+      "block_id": 2,
+      "start": 428.9,
+      "end": 432.7,
+      "speaker": "speaker_09",
+      "text": "À không, bác chỉ xây thêm một hồ bơi tại nhà để tập bơi thường xuyên thôi."
+    },
+    {
+      "block_id": 2,
+      "start": 433.1,
+      "end": 435.7,
+      "speaker": "speaker_12",
+      "text": "Cô có cái này muốn cho các cháu xem nè."
+    },
+    {
+      "block_id": 2,
+      "start": 439.5,
+      "end": 444.4,
+      "speaker": "speaker_09",
+      "text": "Quay lại lúc anh tập bơi ở nhà hả. Thôi đừng mở nữa mà, mấy đứa nhỏ coi anh ngượng lắm đó."
+    },
+    {
+      "block_id": 2,
+      "start": 445.0,
+      "end": 447.3,
+      "speaker": "speaker_12",
+      "text": "Speaker 08? Nhưng mà sau đó thì như vậy nè."
+    },
+    {
+      "block_id": 2,
+      "start": 450.7,
+      "end": 452.1,
+      "speaker": "speaker_03",
+      "text": "Bán chọi quá."
+    },
+    {
+      "block_id": 2,
+      "start": 452.3,
+      "end": 454.4,
+      "speaker": "speaker_04",
+      "text": "Đúng là bác bơi giỏi thật luôn đó nha."
+    },
+    {
+      "block_id": 2,
+      "start": 454.7,
+      "end": 460.0,
+      "speaker": "speaker_05",
+      "text": "Được thôi, vậy bây giờ chúng ta cùng thi bơi coi ai tới bờ bên kia trước là người chiến thắng."
+    },
+    {
+      "block_id": 2,
+      "start": 460.5,
+      "end": 463.1,
+      "speaker": "speaker_04",
+      "text": "Vậy thì Ayumi, cậu dùng thêm phao cho chắc nha."
+    },
+    {
+      "block_id": 2,
+      "start": 465.2,
+      "end": 472.8,
+      "speaker": "speaker_12",
+      "text": "Không được đó, anh vừa uống rượu nên xuống bơi liền sẽ không tốt cho sức khỏe. Hơn nửa quyết áp của anh cũng đang cao nên nghỉ ngơi một chút thì sẽ an toàn hơn."
+    },
+    {
+      "block_id": 2,
+      "start": 473.0,
+      "end": 476.4,
+      "speaker": "speaker_05",
+      "text": "Sợ, mình tự tin mình sẽ thắng cuộc thi bơi này đó."
+    },
+    {
+      "block_id": 2,
+      "start": 480.5,
+      "end": 482.9,
+      "speaker": "Habara",
+      "text": "Dễ thương quá bé cún này mấy tuổi rồi cô."
+    },
+    {
+      "block_id": 2,
+      "start": 483.2,
+      "end": 485.6,
+      "speaker": "speaker_12",
+      "text": "Nó chỉ mới hơn một tuổi thôi, hai ba ra."
+    },
+    {
+      "block_id": 2,
+      "start": 485.7,
+      "end": 488.9,
+      "speaker": "speaker_11",
+      "text": "Hình như mảnh kim loại trên vòng cổ của nó bị rỉ rồi."
+    },
+    {
+      "block_id": 2,
+      "start": 489.0,
+      "end": 492.4,
+      "speaker": "speaker_12",
+      "text": "Speaker 08.: À, chắc là do hôm qua lăn lộn dưới mưa quá đi mà."
+    },
+    {
+      "block_id": 2,
+      "start": 494.8,
+      "end": 497.2,
+      "speaker": "Habara",
+      "text": "Nè, tụi mình cũng nên về được rồi đó."
+    },
+    {
+      "block_id": 2,
+      "start": 497.8,
+      "end": 499.4,
+      "speaker": "speaker_11",
+      "text": "Speaker Conan:\"À, tự nhiên mình quên mất."
+    },
+    {
+      "block_id": 2,
+      "start": 500.6,
+      "end": 511.8,
+      "speaker": "speaker_07",
+      "text": "Mấy đứa được người ta chiêu đãi một bữa toàn đồ sơn hào hải dị ít ra cũng phải phân công một đứa về báo tin cho bác biết. Bắt tìm mãi không thấy đứa nào đang định đi báo cảnh sát địa phương rồi đó."
+    },
+    {
+      "block_id": 2,
+      "start": 512.0,
+      "end": 515.2,
+      "speaker": "Habara",
+      "text": "Ăn trong tâm trạng thức giận sẽ không tốt cho sức khỏe của bác đâu."
+    },
+    {
+      "block_id": 2,
+      "start": 519.6,
+      "end": 520.6,
+      "speaker": "speaker_11",
+      "text": "Tới đây."
+    },
+    {
+      "block_id": 2,
+      "start": 520.7,
+      "end": 522.5,
+      "speaker": "speaker_04",
+      "text": "Đập hay lắm Conan."
+    },
+    {
+      "block_id": 2,
+      "start": 527.0,
+      "end": 532.5,
+      "speaker": "speaker_04",
+      "text": "Nè các cậu mau nhìn chiếc du thuyền đó kìa nó có phải của bác Takiguchi không vậy."
+    },
+    {
+      "block_id": 2,
+      "start": 534.4,
+      "end": 535.4,
+      "speaker": "speaker_05",
+      "text": "Đúng rồi đó."
+    },
+    {
+      "block_id": 2,
+      "start": 538.5,
+      "end": 540.0,
+      "speaker": "speaker_11",
+      "text": "Hình như họ định tắm biển á."
+    },
+    {
+      "block_id": 2,
+      "start": 540.2,
+      "end": 543.2,
+      "speaker": "speaker_05",
+      "text": "Bác ơi bác, cảm ơn quân lúc nãy nha."
+    },
+    {
+      "block_id": 2,
+      "start": 548.9,
+      "end": 550.6,
+      "speaker": "speaker_05",
+      "text": "Tụi mình cũng xuống bơi chút đây."
+    },
+    {
+      "block_id": 2,
+      "start": 550.8,
+      "end": 551.6,
+      "speaker": "speaker_11",
+      "text": "Ở đây, tất cả các bạn, đều có một cái tài năng để tìm hiểu về mình. Ý hay đó."
+    },
+    {
+      "block_id": 2,
+      "start": 551.8,
+      "end": 553.7,
+      "speaker": "speaker_03",
+      "text": "Mấy cậu chờ mình đi lấy phao nha."
+    },
+    {
+      "block_id": 2,
+      "start": 555.1,
+      "end": 559.2,
+      "speaker": "speaker_09",
+      "text": "Nước khác quá vậy. Có ai có."
+    },
+    {
+      "block_id": 2,
+      "start": 559.4,
+      "end": 560.2,
+      "speaker": "speaker_11",
+      "text": "Có thấy đàn chim?"
+    },
+    {
+      "block_id": 2,
+      "start": 582.5,
+      "end": 583.9,
+      "speaker": "speaker_04",
+      "text": "Hy vọng là không sao."
+    },
+    {
+      "block_id": 2,
+      "start": 584.3,
+      "end": 587.1,
+      "speaker": "speaker_05",
+      "text": "Tự nhiên mình không còn tâm trạng để chơi bò ở gì nữa."
+    },
+    {
+      "block_id": 3,
+      "start": 588.2,
+      "end": 594.6,
+      "speaker": "speaker_07",
+      "text": "Nắng vẫn còn gắt lắm. Chúng ta nên quay về trước đi. Có thể gọi điện cho bệnh viện hỏi thăm tình hình của ông Takiguchi sau."
+    },
+    {
+      "block_id": 3,
+      "start": 600.6,
+      "end": 610.1,
+      "speaker": "speaker_08",
+      "text": "Hồi nãy mấy đứa đã cùng dùng bữa trưa cùng với vợ chồng ngài Takiguchi có đúng không hả? Quay lại để dọn chén đĩa nhưng không thấy có ai ở trên du thuyền hết trơn á. Mấy đứa có biết họ ra đi đâu rồi."
+    },
+    {
+      "block_id": 3,
+      "start": 610.8,
+      "end": 613.7,
+      "speaker": "speaker_02",
+      "text": ", vậy để tụi cháu lên dọn rồi đem lại đây cho chú nha."
+    },
+    {
+      "block_id": 3,
+      "start": 620.4,
+      "end": 624.6,
+      "speaker": "Habara",
+      "text": "Thật là tội nghiệp. Ra là bé không được lên xe cấp cứu cùng với họ hả?"
+    },
+    {
+      "block_id": 3,
+      "start": 626.9,
+      "end": 631.5,
+      "speaker": "speaker_04",
+      "text": "Còn quần áo này thì làm sao đây. Tụi mình thu dọn luôn cho vợ chồng bác ấy nha."
+    },
+    {
+      "block_id": 3,
+      "start": 632.0,
+      "end": 633.3,
+      "speaker": "speaker_11",
+      "text": "phải, cậu nói đúng."
+    },
+    {
+      "block_id": 3,
+      "start": 639.3,
+      "end": 640.8,
+      "speaker": "speaker_06",
+      "text": "Đây là một vụ tai nạn thật sao."
+    },
+    {
+      "block_id": 3,
+      "start": 641.5,
+      "end": 648.9,
+      "speaker": "speaker_10",
+      "text": "Hiện giờ chúng tôi vẫn đang tiến hành điều tra vụ việc. Để biết chính xác nguyên nhân nhưng theo lời khai của các nhân chứng. Thì lúc đó ông ấy đã tự nhảy xuống biển."
+    },
+    {
+      "block_id": 3,
+      "start": 649.3,
+      "end": 653.8,
+      "speaker": "speaker_06",
+      "text": "Không thể nào có chuyện như vậy. Biết đâu thời điểm đó có người đẩy ông ấy xuống biển thì sao?"
+    },
+    {
+      "block_id": 3,
+      "start": 654.1,
+      "end": 660.3,
+      "speaker": "speaker_10",
+      "text": "Chúng tôi đã xác nhận trên YouTube lúc đó chỉ có ông ấy và vợ thôi không lẽ ý của anh chính là vợ ông ấy đã làm sao."
+    },
+    {
+      "block_id": 3,
+      "start": 660.4,
+      "end": 671.5,
+      "speaker": "speaker_06",
+      "text": "Không phải là tôi muốn đổ tội cho ai hết nhưng Ngài chủ tịch đã từng kể là Lúc nhỏ ông ấy suýt nữa thì chết đuối ở một. Nên từ đó rất sợ nước. Hơn nữa ông ấy cũng không biết bơi."
+    },
+    {
+      "block_id": 3,
+      "start": 671.6,
+      "end": 675.0,
+      "speaker": "speaker_04",
+      "text": "Nhưng bác ấy đã tập bơi và đã có thể bơi thành thạo luôn rồi."
+    },
+    {
+      "block_id": 3,
+      "start": 676.7,
+      "end": 677.9,
+      "speaker": "speaker_10",
+      "text": "Sao có mấy đứa nhỏ ở đây."
+    },
+    {
+      "block_id": 3,
+      "start": 678.7,
+      "end": 685.2,
+      "speaker": "speaker_07",
+      "text": "xin lỗi vì đã chen ngang. Đã làm quen với ông Takiguchi ở trên du thuyền khi cũng tới đây tắm biển."
+    },
+    {
+      "block_id": 3,
+      "start": 720.7,
+      "end": 731.7,
+      "speaker": "speaker_06",
+      "text": "Trước đây chúng tôi đã thuyết phục ngài chủ tịch. Lập di chúc trước khi kết hôn. Để đảm bảo minh bạch mọi tài sản. Thuộc sở hữu của ông ấy. Nếu như thật sự chủ tịch bị vợ của mình lừa gạt. Và ra tay giết hại. Thì tất cả tài sản đó sẽ."
+    },
+    {
+      "block_id": 3,
+      "start": 733.1,
+      "end": 735.1,
+      "speaker": "speaker_03",
+      "text": "Sao chúng lại có thể nói conao như vậy."
+    },
+    {
+      "block_id": 3,
+      "start": 735.0,
+      "end": 738.1,
+      "speaker": "speaker_05",
+      "text": "Phải đó, cô ấy không bao giờ làm chuyện độc ác cho chú vừa nói."
+    },
+    {
+      "block_id": 3,
+      "start": 738.1,
+      "end": 745.0,
+      "speaker": "speaker_07",
+      "text": "Thôi, bình tĩnh đi mấy đứa. Rất tiếc về sự mất mát này. Vậy anh là nhân viên công ty của ông Takiguchi."
+    },
+    {
+      "block_id": 3,
+      "start": 745.1,
+      "end": 748.0,
+      "speaker": "speaker_06",
+      "text": "Dạ đúng, tôi chính là thư ký của chủ tịch Takiguchi."
+    },
+    {
+      "block_id": 3,
+      "start": 748.5,
+      "end": 750.6,
+      "speaker": "speaker_10",
+      "text": "Các cháu để nhìn thấy toàn bộ sự việc sau."
+    },
+    {
+      "block_id": 3,
+      "start": 750.9,
+      "end": 752.0,
+      "speaker": "speaker_05",
+      "text": "Dạ, tụi cháu thấy hết."
+    },
+    {
+      "block_id": 3,
+      "start": 752.2,
+      "end": 760.3,
+      "speaker": "speaker_04",
+      "text": "Lúc đó tụi cháu đang chơi bóng trên bãi biển. Và nhìn thấy bác ấy bị đuối nước. Trước đó bác ấy đứng trên du thuyền dãy chào tụi cháu. Sau đó thì nhảy ầm xuống nước luôn."
+    },
+    {
+      "block_id": 4,
+      "start": 761.2,
+      "end": 768.3,
+      "speaker": "speaker_10",
+      "text": "Thì ra là vậy. Cảm ơn thông tin của các cháu nha. Giờ các cháu có thể đi theo chú. Để trả lời thêm vài câu hỏi nữa có được không hả."
+    },
+    {
+      "block_id": 4,
+      "start": 779.0,
+      "end": 783.6,
+      "speaker": "speaker_10",
+      "text": "Các cháu có biết vợ ông Takiguchi làm gì khi ông ấy nhảy xuống biển và bị đuối nước."
+    },
+    {
+      "block_id": 4,
+      "start": 787.6,
+      "end": 790.8,
+      "speaker": "speaker_11",
+      "text": "Hình như là cô ấy đang dọn dẹp chén dĩa sau bữa ăn trưa á chú."
+    },
+    {
+      "block_id": 4,
+      "start": 791.1,
+      "end": 797.0,
+      "speaker": "speaker_10",
+      "text": "Thì ra là vậy. Vậy là lát sau cô ấy mới để ý chồng mình đã nhảy xuống và bị đuối nước. Mời vào."
+    },
+    {
+      "block_id": 4,
+      "start": 802.4,
+      "end": 803.4,
+      "speaker": "speaker_03",
+      "text": "Conao."
+    },
+    {
+      "block_id": 4,
+      "start": 806.5,
+      "end": 809.5,
+      "speaker": "speaker_12",
+      "text": "Ayumi. Cảm ơn cháu đã đem quần áo kế đây cho cô nha."
+    },
+    {
+      "block_id": 4,
+      "start": 815.1,
+      "end": 820.1,
+      "speaker": "speaker_12",
+      "text": "Chắc móc sắt bị đứt ra nên nó rơi xuống biển. Khi cô nhảy xuống biển cứu chồng mình lúc anh ấy bị đuối nước."
+    },
+    {
+      "block_id": 4,
+      "start": 822.6,
+      "end": 833.1,
+      "speaker": "speaker_10",
+      "text": "Tôi đã nghe lời khai của tụi nhỏ chứng kiến sự việc. Chồng của cô đã tự mình nhảy xuống biển và nguyên nhân tử vong là do bị đuối nước. Và xem ra đây đúng là một vụ tai nạn đáng tiếc trong lúc ông ấy tấm biển."
+    },
+    {
+      "block_id": 4,
+      "start": 833.9,
+      "end": 841.2,
+      "speaker": "speaker_12",
+      "text": "Tai nạn này tất cả là do tôi. Dù chồng tôi có bơi giỏi như thế nào đi chăng nữa. Tôi cũng phải chú ý tới ông ấy mọi lúc mọi nơi."
+    },
+    {
+      "block_id": 4,
+      "start": 841.5,
+      "end": 853.3,
+      "speaker": "speaker_10",
+      "text": "Speaker 07.: Tôi cần xác nhận với cô một chi tiết nữa để chắc chắn các kết luận ở trên là đúng. Speaker 07.: Một nhân viên của công ty ông Takiguchi nói nạn nhân không hề biết bơi. Vậy trước đó thật sự ông ấy đã học và bơi được rồi hả?"
+    },
+    {
+      "block_id": 4,
+      "start": 853.8,
+      "end": 854.5,
+      "speaker": "speaker_12",
+      "text": "Speaker 07."
+    },
+    {
+      "block_id": 4,
+      "start": 854.6,
+      "end": 858.2,
+      "speaker": "speaker_05",
+      "text": "Cô có thể cho chú ấy xem đoạn băng cảnh bác ấy tập bơi ở nhà."
+    },
+    {
+      "block_id": 4,
+      "start": 858.9,
+      "end": 864.6,
+      "speaker": "speaker_12",
+      "text": "Cháu nói đúng. Đoạn phim này quay lại cảnh chồng tôi lần đầu tiên tập bơi trong hồ bơi ở nhà."
+    },
+    {
+      "block_id": 4,
+      "start": 866.2,
+      "end": 870.1,
+      "speaker": "speaker_12",
+      "text": "Lúc đó có tôi xuất hiện trong đoạn phim này. Bởi vì người cầm máy quay là cô giúp việc."
+    },
+    {
+      "block_id": 4,
+      "start": 872.0,
+      "end": 875.1,
+      "speaker": "speaker_12",
+      "text": "Còn cái này là đoạn phim quay lại. Chồng tôi bơi vào tuần trước."
+    },
+    {
+      "block_id": 4,
+      "start": 885.6,
+      "end": 889.8,
+      "speaker": "speaker_10",
+      "text": "Vậy là tôi hiểu rồi. Đúng thật là ông già bơi khá giỏi chứ không phải không biết bơi."
+    },
+    {
+      "block_id": 4,
+      "start": 891.6,
+      "end": 892.7,
+      "speaker": "speaker_11",
+      "text": "Ra đây với mình một chút."
+    },
+    {
+      "block_id": 4,
+      "start": 895.4,
+      "end": 896.5,
+      "speaker": "speaker_04",
+      "text": "Chuyện gì vậy Conan."
+    },
+    {
+      "block_id": 4,
+      "start": 896.8,
+      "end": 898.7,
+      "speaker": "speaker_11",
+      "text": "Cháu mình coi lại đoạn phim cậu đó quay hồi nãy đi."
+    },
+    {
+      "block_id": 4,
+      "start": 898.9,
+      "end": 900.4,
+      "speaker": "speaker_04",
+      "text": "được, để mình lấy cho cậu."
+    },
+    {
+      "block_id": 4,
+      "start": 907.9,
+      "end": 912.0,
+      "speaker": "speaker_04",
+      "text": "Trong đó có gì quan trọng hả? Hay cậu đã phát hiện ra lúc đó có điều gì bất ổn?"
+    },
+    {
+      "block_id": 4,
+      "start": 917.4,
+      "end": 919.3,
+      "speaker": "speaker_11",
+      "text": "Tốt lắm. Đoạn phim này có âm thanh."
+    },
+    {
+      "block_id": 4,
+      "start": 937.3,
+      "end": 939.5,
+      "speaker": "speaker_11",
+      "text": "Mình có thể phóng to hình ảnh được không?"
+    },
+    {
+      "block_id": 5,
+      "start": 939.7,
+      "end": 941.9,
+      "speaker": "speaker_04",
+      "text": "Được chứ, đây là máy quay kỹ thuật số mà."
+    },
+    {
+      "block_id": 5,
+      "start": 958.4,
+      "end": 969.7,
+      "speaker": "Conan_old",
+      "text": "Như vậy nghĩa là sao? Khi nhìn thấy chồng mình dùng dãy dưới biển. Và đang kêu cứu liên tục như vậy. Thì cô ấy chờ thêm một lát mới nhảy xuống. Mà hơn nữa, trên du thuyền có phao cứu hộ."
+    },
+    {
+      "block_id": 5,
+      "start": 1009.2,
+      "end": 1015.5,
+      "speaker": "speaker_10",
+      "text": "Sẽ đưa cô quay trở lại bệnh viện. Nhờ mọi người mà cảnh sát đã giải quyết xong vụ án. Cảm ơn mọi người rất nhiều."
+    },
+    {
+      "block_id": 5,
+      "start": 1015.7,
+      "end": 1018.1,
+      "speaker": "speaker_07",
+      "text": "Ngài thanh tra hả?"
+    },
+    {
+      "block_id": 5,
+      "start": 1018.5,
+      "end": 1021.2,
+      "speaker": "speaker_10",
+      "text": "Không lẽ là ông còn điều gì muốn nói về vụ án nữa."
+    },
+    {
+      "block_id": 5,
+      "start": 1021.5,
+      "end": 1028.8,
+      "speaker": "speaker_07",
+      "text": "Không, không có. Đây không phải là một vụ tai nạn đuối nước. Mà là một vụ án mạng có sắp đặt cẩn thận từ trước."
+    },
+    {
+      "block_id": 5,
+      "start": 1032.7,
+      "end": 1041.6,
+      "speaker": "speaker_10",
+      "text": "Các nhân chứng đều nói đã nhìn thấy ông Takiguchi tự nhảy xuống biển mà đúng như vậy nhưng nếu như ông ấy nhận thức được mình không hề biết bơi thì tôi chắc."
+    },
+    {
+      "block_id": 5,
+      "start": 1041.6,
+      "end": 1059.6,
+      "speaker": "speaker_07",
+      "text": "Không bao giờ dám nhảy xuống biển như vậy đâu Takiguchi nghĩ là mình đã bơi rất thuần thục Nhưng thực tế thì hoàn toàn ngược lại Và ông ta đã bị dụ lên. Một vùng biển mình không quen thuộc Để thể hiện khả năng bơi lội Vậy đây không phải vụ mưu sát có tính toán sao Đúng chứ Cô Takiguchi nào."
+    },
+    {
+      "block_id": 5,
+      "start": 1060.1,
+      "end": 1068.8,
+      "speaker": "speaker_12",
+      "text": "Sự thật là chồng của tôi bơi rất thành thạo. Mọi người đã tận mắt nhìn thấy rồi kia mà. Không lẽ ý ông muốn nói. Đoạn phim đó có gì đó không ổn."
+    },
+    {
+      "block_id": 5,
+      "start": 1069.0,
+      "end": 1082.4,
+      "speaker": "speaker_07",
+      "text": "Không phải vậy. Đoạn phim đã quay không có gì bất ổn. Đúng là ông Takiguchi biết bơi. Ê, vậy rốt cuộc ông muốn nói điều gì chứ? Sự thật chính là. Ông ấy biết bơi trong hồ bơi nhà mình thôi. Conan ơi giúp bác."
+    },
+    {
+      "block_id": 5,
+      "start": 1084.9,
+      "end": 1098.8,
+      "speaker": "Conan",
+      "text": "Cháu chơi mượn cái này chút. Cháu sẽ chỉ cho mọi người thấy sự khác thường. Chú hãy nhìn dòng cổ của cô Nao trong đoạn phim này đi. Đây nè, chú có thấy nó đang chìm dưới nước không? Nhưng trong đoạn phim quay tuần trước, đây nó lại nổi trên mặt nước."
+    },
+    {
+      "block_id": 5,
+      "start": 1099.5,
+      "end": 1101.4,
+      "speaker": "speaker_10",
+      "text": "Đợi, đợi một chút."
+    },
+    {
+      "block_id": 5,
+      "start": 1104.5,
+      "end": 1112.0,
+      "speaker": "speaker_10",
+      "text": "Đúng là trong đoạn phim này. Vòng cổ nổ trên mặt nước. Chuyện này là sao. Có thể giải thích kỹ càng hơn cho tôi được không?"
+    },
+    {
+      "block_id": 6,
+      "start": 1114.5,
+      "end": 1150.3,
+      "speaker": "speaker_07",
+      "text": "Tại sao dòng cổ lại chìm thì chính cô Rô đã cho chúng ta biết câu trả lời rồi miếng kim loại đeo trên dòng cổ của bé Cun Cô Rô này. Bị gỉ một cách rất bất thường vì nó đã bị oxy hóa ở trong nước. Quyên nhân là vì cô Na O đây đã cho vào hồ mơi ở nhà mình một lượng lớn muối. Để cơ thể của chồng mình nổi dậy dàng trên mặt nước chiếc dòng cổ làm từ acrylic và trông lượng riêng của nó so với nước là 1.17 tới 1.2. Nên cái dòng cổ bị chìm trong đoạn phim đầu tiên. Nhưng sau khi cô ấy cho thêm muối tắm vào hồ bơi. Tỉ trọng thay đổi cho nên cái dòng cổ nổi lên. Tôi nói như vậy có đúng không?"
+    },
+    {
+      "block_id": 6,
+      "start": 1152.1,
+      "end": 1157.7,
+      "speaker": "speaker_12",
+      "text": "Ông nói không đúng. Nếu tôi cho nhiều muối vào hồ như vậy. Thì dù chồng tôi có ngốc tới mấy. Chắc chắn cũng sẽ nhận ra."
+    },
+    {
+      "block_id": 6,
+      "start": 1157.8,
+      "end": 1174.2,
+      "speaker": "speaker_07",
+      "text": "Vậy cô đã dùng thứ gì thay cho muối tắm. Vòng cổ cô đeo lúc đầu chìm trong nước. Sau đó lại nổi trên nước cách đây một tuần. Chỉ cần cảnh sát lấy mẫu xét nghiệm nước hồ bơi ở nhà cô. Là có thể xác định được thành phần cắt chất có trong đó ngay thôi mà chắc là chúng tôi phải ghé nhà cô một chuyến để kiểm chứng chuyện này rồi."
+    },
+    {
+      "block_id": 6,
+      "start": 1174.7,
+      "end": 1179.3,
+      "speaker": "speaker_12",
+      "text": "Các ông sẽ không tìm thấy được gì đâu. Bởi vì tôi đã tháo hết nước trong hồ bơi ra từ lâu rồi."
+    },
+    {
+      "block_id": 6,
+      "start": 1179.6,
+      "end": 1188.3,
+      "speaker": "speaker_07",
+      "text": "Cô đừng đánh giá thấp nghiệp vụ của cảnh sát. Họ có thể xác định được cô đã bỏ chất gì vào trong nước chỉ bằng cách phân tích cái thành hồ bơi chứ không cần lấy bộ nước trong hồ."
+    },
+    {
+      "block_id": 6,
+      "start": 1188.5,
+      "end": 1189.1,
+      "speaker": "speaker_12",
+      "text": "Cái gì chứ?"
+    },
+    {
+      "block_id": 6,
+      "start": 1189.5,
+      "end": 1195.3,
+      "speaker": "speaker_10",
+      "text": "Rè của Nao, những gì ông mới vừa nói có phải là sự thật hay không? Rốt cuộc mọi chuyện là sao?"
+    },
+    {
+      "block_id": 6,
+      "start": 1201.8,
+      "end": 1203.6,
+      "speaker": "speaker_12",
+      "text": "Ông ấy đã nói đúng."
+    },
+    {
+      "block_id": 6,
+      "start": 1205.9,
+      "end": 1228.7,
+      "speaker": "speaker_12",
+      "text": "Đúng như những gì ông ấy vừa phân tích. Lúc đầu tôi đã cho muối tắm vào hồ bơi. Nhưng sau khi tăng lượng muối lên. Thì chồng tôi nhận ra sự bất thường này ngay. Vì vậy tôi đã thay muối tắm. Speaker 07.: Bằng chất polymer hòa tan trong nước, đây là một hợp chất an toàn, thường được dùng trong thực phẩm và cả trong dược phẩm. Speaker 07. Khi đó tỉ trọng của nước trong hồ vào khoảng 1,3. Và chồng tôi tin là mình đã biết bơi rồi."
+    },
+    {
+      "block_id": 6,
+      "start": 1230.0,
+      "end": 1234.6,
+      "speaker": "speaker_07",
+      "text": "Nếu tị trọng khoảng 130 thì đủ để một người lớn vừa nằm đọc sách vừa nói trên mặt."
+    },
+    {
+      "block_id": 6,
+      "start": 1236.2,
+      "end": 1252.4,
+      "speaker": "speaker_07",
+      "text": "Hoàn toàn có thể đánh lừa ông Takiguchi và khiến ông ấy nghĩ là mình đã bơi rất thành thạo. Có lẽ vào lúc đó, cô đã cố tình quay lại những đoạn phim này để đề phòng trường hợp cảnh sát sẽ điều tra cái chết của chồng. Nhưng thật không ngờ chính sự cẩn tận đó lại là bằng chứng tố cáo."
+    },
+    {
+      "block_id": 6,
+      "start": 1254.9,
+      "end": 1260.2,
+      "speaker": "speaker_12",
+      "text": "Speaker 07.: Tôi không hề thấy hối hận. Speaker 07.: Người đàn ông đó không hề nghĩ tới một điều gì khác ngoài việc phát triển công ty."
+    },
+    {
+      "block_id": 7,
+      "start": 1261.5,
+      "end": 1285.9,
+      "speaker": "speaker_12",
+      "text": "Để đạt được mục đích, ông ta sẵn sàng dùng mọi thủ đoạn, bất chấp những hậu quả mình đã gây ra, mà không cần biết những việc mình làm khiến bao nhiêu người phải chịu đau khổ. Cho nên tôi đã quyết định bắt ông ta phải trả giá cho những việc vô nhân tính đó. Tôi không thể chịu đựng được hơn nữa khi chứng kiến sự vô cảm của ông ta. Thật ghê tởm khi sống cùng một mái nhà. Tôi đã chịu đựng quá giới hạn của bản thân mình rồi."
+    },
+    {
+      "block_id": 7,
+      "start": 1286.5,
+      "end": 1300.7,
+      "speaker": "speaker_07",
+      "text": "Có lẽ ông Takiguchi là một người vô cảm và chỉ biết tới tiền mà thôi. Vì mục đích của mình mà ông ta có thể bất chấp mọi thủ đoạn. Nhưng cô không nghĩ một người ra tay giết chồng của mình mà không hề thấy hối hận. Cũng là một kẻ mất khích nhân tính và đám bị trừng trị hay sao."
+    },
+    {
+      "block_id": 7,
+      "start": 1393.5,
+      "end": 1397.6,
+      "speaker": "speaker_04",
+      "text": "Sau khi được mời bữa trưa thịnh soạn, mình cũng có ấn tượng rất tốt với cô ấy."
+    },
+    {
+      "block_id": 7,
+      "start": 1397.7,
+      "end": 1400.3,
+      "speaker": "speaker_05",
+      "text": "Chuyện này mình không cần tin vào người lớn nữa."
+    },
+    {
+      "block_id": 7,
+      "start": 1400.7,
+      "end": 1404.0,
+      "speaker": "Habara",
+      "text": "Speaker 08?"
+    },
+    {
+      "block_id": 7,
+      "start": 1404.0,
+      "end": 1410.6,
+      "speaker": "speaker_07",
+      "text": "Cháu nói đúng lắm. Nên bác luôn cố giữ cho mình một tâm hồn trong sáng. Cháu dám cười nhạo sự trong sáng của bác."
+    },
+    {
+      "block_id": 7,
+      "start": 1410.8,
+      "end": 1413.3,
+      "speaker": "speaker_11",
+      "text": "Mà chúng ta có bên tôi không vậy bác tiến sĩ ơi."
+    },
+    {
+      "block_id": 7,
+      "start": 1413.5,
+      "end": 1421.9,
+      "speaker": "speaker_05",
+      "text": "quên ha. Bữa trưa chúng ta được ngồi ăn nên bên tôi chỉ cho ai đụng tới. Mày quá, cháu muốn ăn lắm. Nhất mới nhớ, tự nhiên mình thấy đói bụng quá."
+    },
+    {
+      "block_id": 7,
+      "start": 1426.4,
+      "end": 1429.7,
+      "speaker": "Conan_old",
+      "text": "Cảm giác buồn bã hồi nãy biến đôi rồi. Đúng là trẻ con."
+    }
+  ],
+  "debug": {
+    "blocks": [
+      {
+        "block_id": 0,
+        "start": 12.6,
+        "end": 132.4,
+        "duration": 119.80000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 22
+      },
+      {
+        "block_id": 1,
+        "start": 260.0,
+        "end": 410.8,
+        "duration": 150.8,
+        "is_transition_heavy": false,
+        "num_segments": 28
+      },
+      {
+        "block_id": 2,
+        "start": 410.8,
+        "end": 587.1,
+        "duration": 176.3,
+        "is_transition_heavy": false,
+        "num_segments": 34
+      },
+      {
+        "block_id": 3,
+        "start": 588.2,
+        "end": 760.3,
+        "duration": 172.0999999999999,
+        "is_transition_heavy": false,
+        "num_segments": 22
+      },
+      {
+        "block_id": 4,
+        "start": 761.2,
+        "end": 939.5,
+        "duration": 178.29999999999995,
+        "is_transition_heavy": false,
+        "num_segments": 23
+      },
+      {
+        "block_id": 5,
+        "start": 939.7,
+        "end": 1112.0,
+        "duration": 172.29999999999995,
+        "is_transition_heavy": false,
+        "num_segments": 13
+      },
+      {
+        "block_id": 6,
+        "start": 1114.5,
+        "end": 1260.2,
+        "duration": 145.70000000000005,
+        "is_transition_heavy": false,
+        "num_segments": 12
+      },
+      {
+        "block_id": 7,
+        "start": 1261.5,
+        "end": 1429.7,
+        "duration": 168.20000000000005,
+        "is_transition_heavy": false,
+        "num_segments": 9
+      }
+    ],
+    "block_summaries": [
+      {
+        "block_id": 0,
+        "segment_type": "family_story",
+        "overview": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+        "key_points": [
+          "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+          "Tuyệt quá ha, có nhiều du thuyền ghê ha, mấy chiếc du thuyền đó có thể đi được bao xa."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                12.6,
+                88.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                18.8,
+                132.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_05",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                27.6,
+                124.1
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_08",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                55.7,
+                96.2
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                72.4,
+                129.6
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+            "evidence_spans": [
+              [
+                12.6,
+                132.4
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 1,
+        "segment_type": "family_story",
+        "overview": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+        "key_points": [
+          "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+          "Tụi nhóc chạy đi đâu mất tiêu rồi không biết nữa à."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Conan",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                260.0,
+                278.5
+              ]
+            ]
+          },
+          {
+            "speaker": "Habara",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                263.0,
+                328.9
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                280.4,
+                410.8
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_05",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                286.7,
+                367.2
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                292.0,
+                376.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+            "evidence_spans": [
+              [
+                260.0,
+                410.8
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 2,
+        "segment_type": "health_story",
+        "overview": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+        "key_points": [
+          "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+          "Được sống ở trên du thuyền này thì mình sẽ học bơi nhanh lắm luôn cho coi."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                410.8,
+                553.7
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_09",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                414.2,
+                559.2
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                426.2,
+                583.9
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                433.1,
+                492.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_05",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                454.7,
+                587.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+            "evidence_spans": [
+              [
+                410.8,
+                587.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 3,
+        "segment_type": "family_story",
+        "overview": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+        "key_points": [
+          "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+          "Nắng vẫn còn gắt lắm. Chúng ta nên quay về trước đi. Có thể gọi điện cho bệnh viện hỏi thăm tình hình của ông Takiguchi sau."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_07",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                588.2,
+                745.0
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_08",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                600.6,
+                610.1
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_02",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                610.8,
+                613.7
+              ]
+            ]
+          },
+          {
+            "speaker": "Habara",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                620.4,
+                624.6
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                626.9,
+                760.3
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+            "evidence_spans": [
+              [
+                588.2,
+                760.3
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 4,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Thì ra là vậy. Cảm ơn thông tin của các cháu nha. Giờ các cháu có thể đi theo chú. Để trả lời thêm vài câu hỏi nữa có được không hả."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_10",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                761.2,
+                889.8
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_11",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                787.6,
+                939.5
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                802.4,
+                803.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                806.5,
+                875.1
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_05",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                854.6,
+                858.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                761.2,
+                939.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 5,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Được chứ, đây là máy quay kỹ thuật số mà."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                939.7,
+                941.9
+              ]
+            ]
+          },
+          {
+            "speaker": "Conan_old",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                958.4,
+                969.7
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_10",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1009.2,
+                1112.0
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_07",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1015.7,
+                1082.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1060.1,
+                1068.8
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                939.7,
+                1112.0
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 6,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Tại sao dòng cổ lại chìm thì chính cô Rô đã cho chúng ta biết câu trả lời rồi miếng kim loại đeo trên dòng cổ của bé Cun Cô Rô này. Bị gỉ một cách rất bất thường vì nó đã bị oxy hó"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_07",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1114.5,
+                1252.4
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_12",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1152.1,
+                1260.2
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_10",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1189.5,
+                1195.3
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1114.5,
+                1260.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 7,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Để đạt được mục đích, ông ta sẵn sàng dùng mọi thủ đoạn, bất chấp những hậu quả mình đã gây ra, mà không cần biết những việc mình làm khiến bao nhiêu người phải chịu đau khổ. Cho n"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_12",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1261.5,
+                1285.9
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_07",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1286.5,
+                1410.6
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1393.5,
+                1397.6
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_05",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1397.7,
+                1421.9
+              ]
+            ]
+          },
+          {
+            "speaker": "Habara",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1400.7,
+                1404.0
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1261.5,
+                1429.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      }
+    ]
+  }
+}

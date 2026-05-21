@@ -1,0 +1,55 @@
+{
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "summary_json": "C:\\ai_diarizen5090\\code_qwen_25_7b\\qwen_out\\data55\\summary.json",
+  "transcript": "C:\\ai_diarizen5090\\code_pho_whisper\\test_labeled_bestcp_low025\\data55\\labeled\\transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 2,
+      "faithfulness_score": 2,
+      "conciseness_score": 2,
+      "total_score": 8,
+      "verdict": "review"
+    },
+    "issues": [
+      "Summary không nêu rõ ý chính của cuộc hội thoại, chỉ tóm tắt các đoạn trao đổi riêng lẻ.",
+      "Không có bằng chứng rõ ràng về vai trò của các diễn giả trong cuộc hội thoại.",
+      "Tóm tắt theo speaker không chính xác, ví dụ: speaker_00 và speaker_01 không có nội dung chính xác.",
+      "Các tóm tắt theo speaker không đủ ngắn gọn và thiếu ý chính."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "speaker_00",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có nội dung chính xác về vai trò của speaker_00 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_01",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có nội dung chính xác về vai trò của speaker_01 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_02",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có nội dung chính xác về vai trò của speaker_02 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_03",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có nội dung chính xác về vai trò của speaker_03 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_04",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có nội dung chính xác về vai trò của speaker_04 trong cuộc hội thoại."
+      }
+    ],
+    "final_comment": "Summary cần cải thiện để nêu rõ ý chính của cuộc hội thoại và tóm tắt chính xác vai trò của các diễn giả."
+  },
+  "raw_text": "{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 2,\n    \"faithfulness_score\": 2,\n    \"conciseness_score\": 2,\n    \"total_score\": 8,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Summary không nêu rõ ý chính của cuộc hội thoại, chỉ tóm tắt các đoạn trao đổi riêng lẻ.\",\n    \"Không có bằng chứng rõ ràng về vai trò của các diễn giả trong cuộc hội thoại.\",\n    \"Tóm tắt theo speaker không chính xác, ví dụ: speaker_00 và speaker_01 không có nội dung chính xác.\",\n    \"Các tóm tắt theo speaker không đủ ngắn gọn và thiếu ý chính.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"speaker_00\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có nội dung chính xác về vai trò của speaker_00 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_01\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có nội dung chính xác về vai trò của speaker_01 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_02\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có nội dung chính xác về vai trò của speaker_02 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_03\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có nội dung chính xác về vai trò của speaker_03 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_04\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có nội dung chính xác về vai trò của speaker_04 trong cuộc hội thoại.\"\n    }\n  ],\n  \"final_comment\": \"Summary cần cải thiện để nêu rõ ý chính của cuộc hội thoại và tóm tắt chính xác vai trò của các diễn giả.\"\n}"
+}

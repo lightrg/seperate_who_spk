@@ -1,0 +1,48 @@
+{
+  "root_dir": "D:\\infe",
+  "python_exe": "D:\\infe\\.venv\\Scripts\\python.exe",
+  "eval_script": "D:\\infe\\danh_gia_check_point_md_v2_fixed_low025.py",
+  "cp_dir": "D:\\infe\\cp",
+  "data_root": "D:\\infe\\data",
+  "output_dir": "D:\\infe\\checkpoint_eval_report_low025",
+  "checkpoints": [
+    {
+      "label": "baseline",
+      "ckpt_path": null
+    },
+    {
+      "label": "ep004_phase1_top4_anchor",
+      "ckpt_path": "D:\\infe\\cp\\ep004_phase1_top4_anchor.pth"
+    },
+    {
+      "label": "ep007_phase2_top6_overlap",
+      "ckpt_path": "D:\\infe\\cp\\ep007_phase2_top6_overlap.pth"
+    },
+    {
+      "label": "ep014_phase3_top6_consolidate",
+      "ckpt_path": "D:\\infe\\cp\\ep014_phase3_top6_consolidate.pth"
+    },
+    {
+      "label": "best_model",
+      "ckpt_path": "D:\\infe\\cp\\best_model.pth"
+    }
+  ],
+  "n_samples": 14,
+  "expected_runs": 70,
+  "cached_runs": 70,
+  "failed_runs": 0,
+  "splits": [
+    "test_data",
+    "test_labeled"
+  ],
+  "tables": {
+    "raw_case_results": "D:\\infe\\checkpoint_eval_report_low025\\tables\\raw_case_results.csv",
+    "overall_summary": "D:\\infe\\checkpoint_eval_report_low025\\tables\\overall_summary.csv",
+    "test_labeled_class_summary": "D:\\infe\\checkpoint_eval_report_low025\\tables\\test_labeled_class_summary.csv",
+    "test_data_vivo_by_nspeaker_summary": "D:\\infe\\checkpoint_eval_report_low025\\tables\\test_data_vivo_by_nspeaker_summary.csv",
+    "test_data_vivo_by_overlap_and_nspeaker_summary": "D:\\infe\\checkpoint_eval_report_low025\\tables\\test_data_vivo_by_overlap_and_nspeaker_summary.csv",
+    "failed_runs": "D:\\infe\\checkpoint_eval_report_low025\\tables\\failed_runs.csv"
+  },
+  "plots_dir": "D:\\infe\\checkpoint_eval_report_low025\\plots",
+  "rttm_cp_pred": "D:\\infe\\checkpoint_eval_report_low025\\rttm_cp_pred"
+}

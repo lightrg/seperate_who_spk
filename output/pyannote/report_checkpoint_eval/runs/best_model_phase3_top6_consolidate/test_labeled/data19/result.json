@@ -1,0 +1,180 @@
+{
+  "low_threshold": 0.25,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 1225,
+  "collect_stats": {
+    "primary": 1047,
+    "aux": 0,
+    "fallback": 178,
+    "discarded_lt_0_5": 67
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 1046,
+    "assigned_primary": 952,
+    "assigned_aux": 0,
+    "assigned_fallback": 94
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": false,
+    "skip_reason": "cluster_imbalance_too_high",
+    "selected_total": 0,
+    "selected_per_cluster": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "candidate_total": 534,
+    "candidate_per_cluster": [
+      182,
+      175,
+      170,
+      7
+    ],
+    "rejected_invalid": 179,
+    "rejected_tier": 94,
+    "rejected_low_sim": 33,
+    "rejected_low_margin": 35,
+    "rejected_short": 350,
+    "min_cluster_count": 7,
+    "max_cluster_count": 182,
+    "cluster_imbalance_ratio": 26.0,
+    "centroid_shift_cosine": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 492,
+    "force_meta_bucket_entries_created": 492,
+    "force_meta_tracks_seen": 726,
+    "force_meta_tracks_existing_skipped": 492,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 17,
+    "force_meta_tracks_no_segments": 217,
+    "force_meta_tracks_no_active": 217,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 11,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 4,
+    "force_meta_entries_created_from_force_only": 13,
+    "force_meta_total_entries": 505,
+    "force_meta_force_only_sample_keys": [
+      "(73, 0)|continuous_segment|tier=aux",
+      "(83, 2)|continuous_segment|tier=aux",
+      "(96, 0)|continuous_segment|tier=fallback",
+      "(110, 0)|continuous_segment|tier=fallback",
+      "(123, 0)|continuous_segment|tier=fallback",
+      "(139, 2)|continuous_segment|tier=aux",
+      "(172, 0)|continuous_segment|tier=aux",
+      "(173, 0)|continuous_segment|tier=aux"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 0,
+    "kept": 1398,
+    "removed_dur_sec": 0.0,
+    "removed_by_tier": {}
+  },
+  "propagate_stats": {
+    "propagated_tracks": 188,
+    "force_assigned_tracks": 3,
+    "force_assign_candidates_total": 3,
+    "force_assign_lookup_hits_pass1": 3,
+    "force_assign_lookup_misses_pass1": 74,
+    "force_assign_lookup_misses_pass1_active": 1,
+    "force_assign_lookup_misses_pass1_inactive": 73,
+    "force_assign_same_track_other_chunk_pass1": 74,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 0,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 0,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 0,
+    "global_propagate_rejected_low_conf": 74,
+    "unmapped_tracks": 0,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 0,
+    "force_assign_sample_pass1_miss_active": [
+      "(134, 0)"
+    ],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 74,
+    "hard_fallback_no_history": 0
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 461,
+  "mapped_tracks_after_propagate": 726,
+  "raw_segment_rows": 1398,
+  "vbx_segment_rows": 1398,
+  "final_segment_rows": 1398,
+  "artifacts": {
+    "raw_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\runs\\best_model_phase3_top6_consolidate\\test_labeled\\data19\\forensics_best_model_phase3_top6_consolidate__test_labeled__data19\\raw_low025.rttm",
+    "hyp_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\runs\\best_model_phase3_top6_consolidate\\test_labeled\\data19\\forensics_best_model_phase3_top6_consolidate__test_labeled__data19\\hyp_low025.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "Anh",
+      "SPK_1": "Cuong",
+      "SPK_2": "Dustin",
+      "SPK_3": "google"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 34.83,
+      "hypothesis_overlap_seconds": 277.87,
+      "true_positive_seconds": 20.09,
+      "false_positive_seconds": 257.78000000000003,
+      "false_negative_seconds": 14.74,
+      "precision": 0.0722999964011948,
+      "recall": 0.5768016078093597,
+      "f1": 0.12849376399104573
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 34.83,
+      "both_correct_any_seconds": 15.19999999999972,
+      "both_correct_exact_seconds": 15.19999999999972,
+      "one_correct_seconds": 17.71999999999997,
+      "zero_correct_seconds": 1.9100000000000015,
+      "detected_as_overlap_seconds": 20.09000000000034,
+      "collapsed_to_nonoverlap_seconds": 14.73999999999973
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 142.41000000001546,
+      "kept_true_plus_extra_seconds": 125.63000000002737,
+      "both_wrong_seconds": 16.779999999999824
+    }
+  },
+  "skipped": false,
+  "der": 60.1862557949631,
+  "miss": 6.084201149105018,
+  "fa": 41.660567157239406,
+  "conf": 12.441487488618677
+}

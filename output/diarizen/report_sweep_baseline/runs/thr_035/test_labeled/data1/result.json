@@ -1,0 +1,189 @@
+{
+  "low_threshold": 0.35,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 1395,
+  "collect_stats": {
+    "primary": 1161,
+    "aux": 0,
+    "fallback": 234,
+    "discarded_lt_0_5": 88
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 1000,
+    "assigned_primary": 926,
+    "assigned_aux": 0,
+    "assigned_fallback": 74
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": true,
+    "skip_reason": null,
+    "selected_total": 590,
+    "selected_per_cluster": [
+      180,
+      108,
+      232,
+      70
+    ],
+    "candidate_total": 590,
+    "candidate_per_cluster": [
+      180,
+      108,
+      232,
+      70
+    ],
+    "rejected_invalid": 384,
+    "rejected_tier": 78,
+    "rejected_low_sim": 37,
+    "rejected_low_margin": 26,
+    "rejected_short": 280,
+    "min_cluster_count": 70,
+    "max_cluster_count": 232,
+    "cluster_imbalance_ratio": 3.3142857142857145,
+    "centroid_shift_cosine": [
+      [
+        0.9972768425941467,
+        0.998576819896698,
+        0.9981898069381714,
+        0.9935283064842224
+      ]
+    ],
+    "skipped_clusters_unstable": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 557,
+    "force_meta_bucket_entries_created": 557,
+    "force_meta_tracks_seen": 1092,
+    "force_meta_tracks_existing_skipped": 557,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 17,
+    "force_meta_tracks_no_segments": 518,
+    "force_meta_tracks_no_active": 518,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 11,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 5,
+    "force_meta_entries_created_from_force_only": 12,
+    "force_meta_total_entries": 569,
+    "force_meta_force_only_sample_keys": [
+      "(49, 1)|continuous_segment|tier=fallback",
+      "(56, 1)|continuous_segment|tier=fallback",
+      "(58, 1)|continuous_segment|tier=aux",
+      "(89, 3)|continuous_segment|tier=aux",
+      "(91, 3)|continuous_segment|tier=fallback",
+      "(173, 3)|continuous_segment|tier=aux",
+      "(212, 1)|continuous_segment|tier=fallback",
+      "(232, 3)|continuous_segment|tier=aux"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 0,
+    "kept": 1542,
+    "removed_dur_sec": 0.0,
+    "removed_by_tier": {}
+  },
+  "propagate_stats": {
+    "propagated_tracks": 219,
+    "force_assigned_tracks": 25,
+    "force_assign_candidates_total": 25,
+    "force_assign_lookup_hits_pass1": 25,
+    "force_assign_lookup_misses_pass1": 397,
+    "force_assign_lookup_misses_pass1_active": 2,
+    "force_assign_lookup_misses_pass1_inactive": 395,
+    "force_assign_same_track_other_chunk_pass1": 397,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 0,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 0,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 263,
+    "global_propagate_rejected_low_conf": 134,
+    "unmapped_tracks": 0,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 0,
+    "force_assign_sample_pass1_miss_active": [
+      "(89, 1)",
+      "(241, 1)"
+    ],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 134,
+    "hard_fallback_no_history": 0
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 451,
+  "mapped_tracks_after_propagate": 1092,
+  "raw_segment_rows": 1542,
+  "vbx_segment_rows": 1542,
+  "final_segment_rows": 1542,
+  "artifacts": {
+    "raw_rttm": "D:\\infe\\threshold_sweep_report\\runs\\thr_035\\test_labeled\\data1\\forensics_baseline__thr035__test_labeled__data1\\raw_low035.rttm",
+    "hyp_rttm": "D:\\infe\\threshold_sweep_report\\runs\\thr_035\\test_labeled\\data1\\forensics_baseline__thr035__test_labeled__data1\\hyp_low035.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "speaker_02",
+      "SPK_1": "speaker_03",
+      "SPK_2": "speaker_05",
+      "SPK_3": "speaker_06"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 12.13,
+      "hypothesis_overlap_seconds": 195.65,
+      "true_positive_seconds": 1.1500000000000001,
+      "false_positive_seconds": 194.5,
+      "false_negative_seconds": 10.98,
+      "precision": 0.005877843087145413,
+      "recall": 0.09480626545754328,
+      "f1": 0.011069400327269227
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 12.13,
+      "both_correct_any_seconds": 0.8800000000000006,
+      "both_correct_exact_seconds": 0.8800000000000006,
+      "one_correct_seconds": 10.799999999999814,
+      "zero_correct_seconds": 0.45000000000000023,
+      "detected_as_overlap_seconds": 1.1500000000000008,
+      "collapsed_to_nonoverlap_seconds": 10.97999999999981
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 124.93000000002701,
+      "kept_true_plus_extra_seconds": 108.61000000001866,
+      "both_wrong_seconds": 16.31999999999975
+    }
+  },
+  "skipped": false,
+  "der": 50.80076604868389,
+  "miss": 7.4289349107638705,
+  "fa": 34.107639434223564,
+  "conf": 9.264191703696444
+}

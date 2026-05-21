@@ -1,0 +1,5332 @@
+{
+  "source": "c:\\ai_diarizen5090\\code_qwen_25_7b\\qwen_out\\data52\\intermediates\\data52_asr_input.txt",
+  "stats": {
+    "num_blocks": 27,
+    "num_normalized_blocks": 27,
+    "num_block_summaries": 27
+  },
+  "meeting_overview": "Đây là một đoạn talkshow có phần mở đầu và giới thiệu khách mời. Nội dung chính xoay quanh câu chuyện gia đình, cách phân chia trách nhiệm giữa vợ chồng hoặc việc dạy con. Transcript có nhiều đoạn chuyển cảnh và dẫn chương trình nên cần tránh gộp nhầm các phần khác nhau.",
+  "conversation_main_summary": "Cuộc hội thoại mở đầu bằng phần giới thiệu khách mời. Nội dung chính tập trung vào cách phân chia lịch và trách nhiệm trong gia đình.",
+  "meeting_type": "talkshow",
+  "segments": [
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        0
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        1
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        2
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        3,
+        4
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi khác",
+      "block_ids": [
+        5,
+        6
+      ],
+      "summary": "Dùng ví dụ để giải thích cách hiểu và ứng xử đối với tình yêu và gia đình. D_ng và Dustin thảo luận về cảm giác của họ đối với thời tiết."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        7,
+        8,
+        9
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chia sẻ về gia đình",
+      "block_ids": [
+        10
+      ],
+      "summary": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm."
+    },
+    {
+      "title": "Trao đổi khác",
+      "block_ids": [
+        11
+      ],
+      "summary": "Dương và Dustin đang trò chuyện về việc Dương tham gia một cuộc thi âm nhạc."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        12
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Giới thiệu khách mời",
+      "block_ids": [
+        13
+      ],
+      "summary": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        14
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        15
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Chia sẻ về sức khỏe / áp lực",
+      "block_ids": [
+        16
+      ],
+      "summary": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        17,
+        18
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Trao đổi khác",
+      "block_ids": [
+        19
+      ],
+      "summary": "Dustin và Tuy_T đang thảo luận về Dustin và Mai Tiến Dũng."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        20
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        21
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Trao đổi khác",
+      "block_ids": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "summary": "Tác giả và Dustin thảo luận về xã hội và nghệ thuật. Dung và Dustin discuss their struggles and the importance of self-reflection in a professional setting. Tác giả đề cập đến khó khăn trong việc lắng nghe và phản ứng với các bình luận từ khán giả. Dương và Dustin thảo luận về phản ứng của khán giả đối với bài hát và đề xuất giải pháp."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        26
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    }
+  ],
+  "action_items": [],
+  "speaker_insights": [
+    {
+      "speaker": "D_ng",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          1454.5,
+          1604.4
+        ]
+      ]
+    },
+    {
+      "speaker": "Dung",
+      "insight": "Feeling overwhelmed by career goals and societal pressures.",
+      "evidence_spans": []
+    },
+    {
+      "speaker": "Dustin",
+      "insight": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+      "evidence_spans": [
+        [
+          2419.2,
+          2569.1
+        ]
+      ]
+    },
+    {
+      "speaker": "Dương",
+      "insight": "Đạo diễn Dương, đang tham gia một cuộc thi âm nhạc và muốn chia sẻ cảm nhận của mình",
+      "evidence_spans": []
+    },
+    {
+      "speaker": "Tuy_t",
+      "insight": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+      "evidence_spans": [
+        [
+          1453.3,
+          1553.9
+        ]
+      ]
+    },
+    {
+      "speaker": "Tác giả",
+      "insight": "Đọc sách và tìm hiểu về xã hội và nghệ thuật.",
+      "evidence_spans": []
+    }
+  ],
+  "speaker_main_summaries": [
+    {
+      "speaker": "D_ng",
+      "main_summary": "Người này tham gia trao đổi về việc dạy con, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          1454.5,
+          1604.4
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Dung",
+      "main_summary": "Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Dustin",
+      "main_summary": "Người này tham gia trao đổi về sức khỏe và áp lực, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          2419.2,
+          2569.1
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Dương",
+      "main_summary": "Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Tuy_t",
+      "main_summary": "Người này tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          1453.3,
+          1553.9
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "Tác giả",
+      "main_summary": "Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [],
+      "confidence": "low"
+    }
+  ],
+  "risk_flags": [
+    "Transcript có nhiều segment/chủ đề khác nhau; cần chú ý tránh gộp nhầm."
+  ],
+  "quality_notes": [
+    "rule_reducer_v9_speaker_main_confidence_fallback"
+  ],
+  "cleaned_transcript": [
+    {
+      "block_id": 0,
+      "start": 37.6,
+      "end": 46.8,
+      "speaker": "Dustin",
+      "text": "Cuối cùng thì cũng đã gặp được chị Minh Tuyết. Hello. Và Mai Tiến Dũng. Hello. Chào mừng cả hai chị em đã đến với bật nến của Dustin on the go."
+    },
+    {
+      "block_id": 0,
+      "start": 40.5,
+      "end": 41.2,
+      "speaker": "Tuy_t",
+      "text": "Hello."
+    },
+    {
+      "block_id": 0,
+      "start": 42.3,
+      "end": 43.6,
+      "speaker": "D_ng",
+      "text": "Hello."
+    },
+    {
+      "block_id": 0,
+      "start": 49.5,
+      "end": 61.9,
+      "speaker": "Dustin",
+      "text": "Thì bật nến là nơi mà bạn được sống thật là chính mình. Thông qua cái ánh nến thì mình hy vọng là ở đây mọi người sẽ được sưởi ấm. Mình sẽ tề tụ với nhau. Và đặc biệt bây giờ cũng là. Dịp cuối năm nữa."
+    },
+    {
+      "block_id": 0,
+      "start": 63.2,
+      "end": 78.3,
+      "speaker": "Dustin",
+      "text": "Và Dustin cũng xin được. Gửi lời chúc mừng. Chị Minh Phước và Mai Tiến Dũng. Đã có những chương trình truyền hình thực tế rất là hot và mọi người cũng đã kịp nhảy lên cái chuyến tàu để cùng tham gia với lại các nghệ sĩ của Việt Nam mình thì rất là."
+    },
+    {
+      "block_id": 0,
+      "start": 78.5,
+      "end": 80.0,
+      "speaker": "D_ng",
+      "text": "Trộn bí đi ạ."
+    },
+    {
+      "block_id": 0,
+      "start": 79.7,
+      "end": 86.3,
+      "speaker": "Dustin",
+      "text": "Trộn vía đi ạ. Trộn viếng. Truyền thống là mình sẽ thắp lên ngọn nến này để mình bắt đầu câu chuyện."
+    },
+    {
+      "block_id": 0,
+      "start": 90.5,
+      "end": 94.3,
+      "speaker": "Dustin",
+      "text": "Mọi người ở nhà có hay bật Mê nến luôn là khác."
+    },
+    {
+      "block_id": 0,
+      "start": 95.0,
+      "end": 98.6,
+      "speaker": "Tuy_t",
+      "text": "Chị là chị hay bật nến, ông xã cũng vậy."
+    },
+    {
+      "block_id": 0,
+      "start": 98.6,
+      "end": 104.1,
+      "speaker": "Dustin",
+      "text": "Thích nến. Mình có mùi thơm. Xong rồi mình. Mình có thể thư giãn hơn."
+    },
+    {
+      "block_id": 0,
+      "start": 100.8,
+      "end": 101.7,
+      "speaker": "Tuy_t",
+      "text": "Cảm ơn các bạn."
+    },
+    {
+      "block_id": 0,
+      "start": 105.7,
+      "end": 117.9,
+      "speaker": "Dustin",
+      "text": "Bạn đang nghe. Bật nến podcast của Dustin On The Go. Cái lịch trình của hai người là bay đi bay về rất là nhiều. Vậy một năm là mọi người phải về Việt Nam mấy lần rồi phải quay lại Mỹ bao nhiêu lần."
+    },
+    {
+      "block_id": 0,
+      "start": 118.1,
+      "end": 119.1,
+      "speaker": "D_ng",
+      "text": "Cái này không đếm được đâu chị."
+    },
+    {
+      "block_id": 0,
+      "start": 119.2,
+      "end": 131.5,
+      "speaker": "Tuy_t",
+      "text": "Rất là không tùy thuộc vào cái schedule hoặc là cái show mình nó tới như thế nào ấy. Nếu mà show tới liên tục thì bay như Jim. Còn nếu không có sôi thì ngủ."
+    },
+    {
+      "block_id": 0,
+      "start": 131.7,
+      "end": 133.6,
+      "speaker": "D_ng",
+      "text": "Có chim đổ trên cành thôi."
+    },
+    {
+      "block_id": 0,
+      "start": 135.1,
+      "end": 139.8,
+      "speaker": "Dustin",
+      "text": "Vậy hai người đã từng. Talk. Trò chuyện với nhau trong một cái. Talk show nào chung chưa."
+    },
+    {
+      "block_id": 0,
+      "start": 142.7,
+      "end": 143.6,
+      "speaker": "Tuy_t",
+      "text": "Hình như chưa nha."
+    },
+    {
+      "block_id": 0,
+      "start": 145.3,
+      "end": 147.0,
+      "speaker": "D_ng",
+      "text": "Đi sâu cùng nhau và nói xấu."
+    },
+    {
+      "block_id": 0,
+      "start": 147.0,
+      "end": 151.6,
+      "speaker": "Dustin",
+      "text": "Không hẹn gặp lại. Chứ chưa có ngồi mà đối mặt với nhau 3 mặt."
+    },
+    {
+      "block_id": 0,
+      "start": 154.0,
+      "end": 157.1,
+      "speaker": "Dustin",
+      "text": "Vậy hôm nay sẽ là cơ hội để chúng ta ba mặt một lời."
+    },
+    {
+      "block_id": 1,
+      "start": 159.5,
+      "end": 166.9,
+      "speaker": "Dustin",
+      "text": "Bật nến sẽ có những trò chơi rất là hấp dẫn. Mọi người đã sẵn sàng chưa ạ? Sẵn sàng chưa?"
+    },
+    {
+      "block_id": 1,
+      "start": 169.9,
+      "end": 171.7,
+      "speaker": "Dustin",
+      "text": "Tình chị em sẽ tan vỡ."
+    },
+    {
+      "block_id": 1,
+      "start": 174.2,
+      "end": 178.1,
+      "speaker": "Dustin",
+      "text": "Bình thường tình chị em mình có kháng thích không? Nếu mình gặp nhau thì mình sẽ nói."
+    },
+    {
+      "block_id": 1,
+      "start": 179.2,
+      "end": 180.5,
+      "speaker": "Tuy_t",
+      "text": "2 bé Dũng. Hai ví dụ."
+    },
+    {
+      "block_id": 1,
+      "start": 182.7,
+      "end": 187.5,
+      "speaker": "D_ng",
+      "text": "Bé Mai còn không rồi, còn không. Vào chi tiết lại. Ê, là Thúy, là Thúy, là Thúy. Là bà Thúy không à."
+    },
+    {
+      "block_id": 1,
+      "start": 187.5,
+      "end": 189.6,
+      "speaker": "Dustin",
+      "text": "Bây giờ chị lý còn có nghe là mẹ tuyết."
+    },
+    {
+      "block_id": 1,
+      "start": 192.2,
+      "end": 193.7,
+      "speaker": "Tuy_t",
+      "text": "Tôi đã già rồi."
+    },
+    {
+      "block_id": 1,
+      "start": 194.0,
+      "end": 195.9,
+      "speaker": "Dustin",
+      "text": "Chị có hài lòng với cái danh xưng mẹ tuyết không?"
+    },
+    {
+      "block_id": 1,
+      "start": 196.5,
+      "end": 201.4,
+      "speaker": "Tuy_t",
+      "text": "À chị vui. Tại vì chị nghĩ cái danh sân đó nó chứng minh một cái cảnh khác. Chị vui."
+    },
+    {
+      "block_id": 1,
+      "start": 197.8,
+      "end": 198.4,
+      "speaker": "Dustin",
+      "text": "Tại vì em có một cái thứ khác. Chị vui."
+    },
+    {
+      "block_id": 1,
+      "start": 202.3,
+      "end": 207.4,
+      "speaker": "Tuy_t",
+      "text": "Là một cái khía cạnh là mình được yêu thương ấy. Cho nên chị vui với cái danh xưng đó. Dạ hả?"
+    },
+    {
+      "block_id": 1,
+      "start": 209.9,
+      "end": 212.7,
+      "speaker": "Dustin",
+      "text": "Còn Dũng, Dũng thích gọi là anh Dũng hay bé Dũng."
+    },
+    {
+      "block_id": 1,
+      "start": 212.8,
+      "end": 214.4,
+      "speaker": "D_ng",
+      "text": "Thật sự em thích gọi là bé hơn."
+    },
+    {
+      "block_id": 1,
+      "start": 216.1,
+      "end": 222.1,
+      "speaker": "D_ng",
+      "text": "Sắp đầu bốn rồi chị Tuyết. Nhưng mà em vẫn thích kiểu như trong mắt các anh chị. Mình lúc nào cũng bé bỏng nhất."
+    },
+    {
+      "block_id": 1,
+      "start": 223.3,
+      "end": 234.7,
+      "speaker": "D_ng",
+      "text": "Chính vì sự bé bỏng đó cho nên là đi show đi đâu. Là cũng được kiểu như take care. Mà nhất là chị Tuyết nữa nè. Là một trong những người mà. Hay nhỏng nhẽo thì mình chăm sóc chị. Nhưng mà khi mà mình cần cái gì. Là chị Tuyết đứng ra."
+    },
+    {
+      "block_id": 1,
+      "start": 236.5,
+      "end": 237.7,
+      "speaker": "Dustin",
+      "text": "Vẫn là vai bé bỏng."
+    },
+    {
+      "block_id": 1,
+      "start": 238.9,
+      "end": 243.4,
+      "speaker": "Tuy_t",
+      "text": "Lúc nào cũng vẫn thích gọi là bé Mai bé Mai hoặc là bé Dũng chứ không có thích gọi là mai tiến."
+    },
+    {
+      "block_id": 1,
+      "start": 245.0,
+      "end": 248.3,
+      "speaker": "Dustin",
+      "text": "Bé Dũng nha. Mẹ tuyết và bé Dũng."
+    },
+    {
+      "block_id": 1,
+      "start": 251.5,
+      "end": 267.4,
+      "speaker": "Dustin",
+      "text": "Lý do mà Dustin rất là muốn có được sự xuất hiện của chị Tuyết với lại Dũng. Là bởi vì trong thời gian qua nếu mà mình so sánh quá trình làm nghề. Thì nếu mà mình ví nó như một chuyến tàu. Thì cả hai đã qua những cái trạm như là sân khấu của hải ngoại."
+    },
+    {
+      "block_id": 1,
+      "start": 270.1,
+      "end": 293.1,
+      "speaker": "Dustin",
+      "text": "Sau đó là trở về với thị trường âm nhạc trong nước nè. Rồi tiếp đến là truyền hình thực tế ở Việt Nam. Và đó là lý do mà hai người đã có những hoạt động sôi nổi. Nhưng có một cái lý do chính nữa là hoạt động social của hai người gần đây cũng rất là sôi nổi nữa. Rất là hài hước. Đó là lý do mà khán giả rất yêu và yêu cầu chị Minh Tuyết và Mai Tiến Dũng sẽ phải có mặt ở Bật Nến thì đó là cái lý do."
+    },
+    {
+      "block_id": 1,
+      "start": 293.2,
+      "end": 294.0,
+      "speaker": "D_ng",
+      "text": "Vô cái nửa pháo."
+    },
+    {
+      "block_id": 1,
+      "start": 294.0,
+      "end": 296.2,
+      "speaker": "Dustin",
+      "text": "Mình vô một cái để mình chúc mừng cho."
+    },
+    {
+      "block_id": 1,
+      "start": 296.3,
+      "end": 298.0,
+      "speaker": "Tuy_t",
+      "text": "Cảm ơn các bạn. Cảm ơn cho cái chuyến tàu của chúng ta."
+    },
+    {
+      "block_id": 1,
+      "start": 299.1,
+      "end": 301.4,
+      "speaker": "Dustin",
+      "text": "Nhờ vậy mình mới gặp nhau ở Việt Nam."
+    },
+    {
+      "block_id": 1,
+      "start": 304.7,
+      "end": 319.1,
+      "speaker": "Dustin",
+      "text": "Trời đất xin giới thiệu về không gian mà mình đang ngồi ở đây là Paris Garden ở số 2Bit Nguyễn Thị Minh Khai đa cao quận 1. Thì nơi đây là một cái cà phê, nhà hàng tái hiện lại thành phố Paris."
+    },
+    {
+      "block_id": 1,
+      "start": 322.7,
+      "end": 325.8,
+      "speaker": "Tuy_t",
+      "text": "Một trong những thành phố mà chị rất là thích. Minh Tú rất là thích."
+    },
+    {
+      "block_id": 1,
+      "start": 325.8,
+      "end": 327.5,
+      "speaker": "D_ng",
+      "text": "Em rất là muốn đi nhưng em chưa được đi."
+    },
+    {
+      "block_id": 1,
+      "start": 328.8,
+      "end": 334.9,
+      "speaker": "D_ng",
+      "text": "Thì em mình đi điêu luyện rất là nhiều. Nhưng em chỉ được dừng chân tại mặt xe thôi. Chứ chưa, em chưa được đi Farry bao giờ cả."
+    },
+    {
+      "block_id": 2,
+      "start": 335.3,
+      "end": 337.3,
+      "speaker": "Dustin",
+      "text": "Nếu đến Ba Ghi thì Mai Tiến Dũng sẽ đến."
+    },
+    {
+      "block_id": 2,
+      "start": 337.6,
+      "end": 340.7,
+      "speaker": "D_ng",
+      "text": "Chắc sẽ là type excel."
+    },
+    {
+      "block_id": 2,
+      "start": 341.5,
+      "end": 344.3,
+      "speaker": "Dustin",
+      "text": "Đây, ngồi đây."
+    },
+    {
+      "block_id": 2,
+      "start": 346.9,
+      "end": 349.8,
+      "speaker": "D_ng",
+      "text": "Ồ quý vị ơi, đây cũng có đôi quý vị à, già mô phỏng rất giống."
+    },
+    {
+      "block_id": 2,
+      "start": 350.3,
+      "end": 352.7,
+      "speaker": "Dustin",
+      "text": "Ủa, hồi nãy chụp hình là sống ảo là y chang luôn nha."
+    },
+    {
+      "block_id": 2,
+      "start": 353.3,
+      "end": 356.4,
+      "speaker": "D_ng",
+      "text": "Rồi nghe nói là phải, đi đến Paris là phải ngồi."
+    },
+    {
+      "block_id": 2,
+      "start": 356.4,
+      "end": 357.4,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi."
+    },
+    {
+      "block_id": 2,
+      "start": 357.8,
+      "end": 360.2,
+      "speaker": "D_ng",
+      "text": "Là đường y trang trưởng Việt Nam chắc là lãng mạn lắm."
+    },
+    {
+      "block_id": 2,
+      "start": 360.2,
+      "end": 365.8,
+      "speaker": "Tuy_t",
+      "text": "Thông khí, rồi cái fashion, mọi thứ nó làm cho mình cảm giác nó lãng mạn."
+    },
+    {
+      "block_id": 2,
+      "start": 365.9,
+      "end": 367.4,
+      "speaker": "Dustin",
+      "text": "Nó phù hợp với những người điệu."
+    },
+    {
+      "block_id": 2,
+      "start": 367.7,
+      "end": 368.4,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi."
+    },
+    {
+      "block_id": 2,
+      "start": 369.8,
+      "end": 374.1,
+      "speaker": "D_ng",
+      "text": "Và nhất là mình xem đã có một cái show của emily in paris đó."
+    },
+    {
+      "block_id": 2,
+      "start": 374.1,
+      "end": 375.4,
+      "speaker": "Dustin",
+      "text": "Emily in Paris."
+    },
+    {
+      "block_id": 2,
+      "start": 375.5,
+      "end": 387.8,
+      "speaker": "D_ng",
+      "text": "Tự nhiên mình thấy. Trời ơi sao mình cũng muốn. Thời trang nó thời thường. Nhưng mà mình cảm thấy thời thượng nó lại không bị quá nhanh. Có cảm giác là bên châu Âu và Paris nó chậm hơn một chút."
+    },
+    {
+      "block_id": 2,
+      "start": 387.8,
+      "end": 397.8,
+      "speaker": "Tuy_t",
+      "text": "Thích nhất là đi ngang mấy cái công viên á. Xong rồi mấy anh chàng ngồi á. Rồi bận áo măng tô rồi. Vấn khăn này nọ rồi. Xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích x"
+    },
+    {
+      "block_id": 2,
+      "start": 402.4,
+      "end": 404.4,
+      "speaker": "Tuy_t",
+      "text": "Thấy nó lãng mạn làm sao."
+    },
+    {
+      "block_id": 2,
+      "start": 404.4,
+      "end": 407.7,
+      "speaker": "Dustin",
+      "text": "Cái giọng Pháp là nghe nó đã là rất là tình rồi."
+    },
+    {
+      "block_id": 2,
+      "start": 407.8,
+      "end": 408.4,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi."
+    },
+    {
+      "block_id": 2,
+      "start": 408.4,
+      "end": 415.8,
+      "speaker": "Dustin",
+      "text": "Vậy thì mọi người nếu đói. Mình có đồ ăn đến từ nhà Paris Garden. Có steak, mình có tôm hùm. Mời chị nha."
+    },
+    {
+      "block_id": 2,
+      "start": 420.7,
+      "end": 421.8,
+      "speaker": "Dustin",
+      "text": "Mời Mai Tiến Dũng."
+    },
+    {
+      "block_id": 2,
+      "start": 422.2,
+      "end": 424.3,
+      "speaker": "Tuy_t",
+      "text": "Bây giờ mình ngồi đây mình ăn luôn vậy đó hả?"
+    },
+    {
+      "block_id": 2,
+      "start": 424.3,
+      "end": 429.5,
+      "speaker": "Dustin",
+      "text": "Mình vừa ăn, mình vừa uống. Tại vì chuyến tàu này nó sẽ đi qua rất là nhiều trạm."
+    },
+    {
+      "block_id": 2,
+      "start": 430.3,
+      "end": 432.4,
+      "speaker": "D_ng",
+      "text": "Bây giờ nạp năng lượng."
+    },
+    {
+      "block_id": 2,
+      "start": 432.4,
+      "end": 434.6,
+      "speaker": "Dustin",
+      "text": "Cứ nạp năng lượng nha mọi người."
+    },
+    {
+      "block_id": 2,
+      "start": 433.9,
+      "end": 434.6,
+      "speaker": "D_ng",
+      "text": "Cứu em em ơi."
+    },
+    {
+      "block_id": 2,
+      "start": 440.8,
+      "end": 441.6,
+      "speaker": "Tuy_t",
+      "text": "Ngon nha."
+    },
+    {
+      "block_id": 2,
+      "start": 445.7,
+      "end": 448.2,
+      "speaker": "Tuy_t",
+      "text": "Beautiful."
+    },
+    {
+      "block_id": 3,
+      "start": 452.9,
+      "end": 475.6,
+      "speaker": "Dustin",
+      "text": "Trò chơi đầu tiên mang tên là Thần Giao Cách Cảm. Luật chơi như sau. Chương trình sẽ có những câu hỏi. Thì Dustin đọc một câu hỏi. Ba chị em mình sẽ trả lời cùng một lúc. Nếu đáp án ba chị em giống nhau thì ok, nếu mà ai có đáp án khác với hai người còn lại. Thì người đó phải uống một ly nước."
+    },
+    {
+      "block_id": 3,
+      "start": 476.4,
+      "end": 477.1,
+      "speaker": "D_ng",
+      "text": "Thiệt luôn hả?"
+    },
+    {
+      "block_id": 3,
+      "start": 477.6,
+      "end": 480.1,
+      "speaker": "Tuy_t",
+      "text": "Trời ơi là chơi hết."
+    },
+    {
+      "block_id": 3,
+      "start": 481.3,
+      "end": 482.7,
+      "speaker": "D_ng",
+      "text": "Tôi tưởng là uống."
+    },
+    {
+      "block_id": 4,
+      "start": 483.2,
+      "end": 490.4,
+      "speaker": "Dustin",
+      "text": "Cái này là thấm giọng. Còn cái kia là hình phạt. Mọi người có thường hay chơi game không?"
+    },
+    {
+      "block_id": 4,
+      "start": 490.4,
+      "end": 493.2,
+      "speaker": "D_ng",
+      "text": "Không, nhưng mà chơi đi, chứ bao giờ chơi game bà Tuyết hết."
+    },
+    {
+      "block_id": 4,
+      "start": 494.8,
+      "end": 498.1,
+      "speaker": "Tuy_t",
+      "text": "Tôi đã coi chương trình của Dustin rồi. Tôi cũng hoảng sợ lắm."
+    },
+    {
+      "block_id": 4,
+      "start": 498.1,
+      "end": 500.0,
+      "speaker": "Dustin",
+      "text": "Ủa chị có rô là chị cũng hiểu."
+    },
+    {
+      "block_id": 4,
+      "start": 500.0,
+      "end": 502.2,
+      "speaker": "Tuy_t",
+      "text": "Chị cũng đã từng xem rồi."
+    },
+    {
+      "block_id": 4,
+      "start": 503.4,
+      "end": 515.4,
+      "speaker": "Dustin",
+      "text": "Bạn đang nghe. Bật nến podcast của Dustin on the go. Đây là. Chín ly nước đắng. Yes or no thôi. 1, 2, 3 mới trả lời nha. Mình cùng trả lời."
+    },
+    {
+      "block_id": 4,
+      "start": 517.1,
+      "end": 518.0,
+      "speaker": "Dustin",
+      "text": "Anh sẵn?"
+    },
+    {
+      "block_id": 4,
+      "start": 521.2,
+      "end": 524.7,
+      "speaker": "Dustin",
+      "text": "6 packs hay là slim fit. Mình có thể suy nghĩ."
+    },
+    {
+      "block_id": 4,
+      "start": 528.9,
+      "end": 532.3,
+      "speaker": "Dustin",
+      "text": "1, 2, 3. Slim Fit."
+    },
+    {
+      "block_id": 4,
+      "start": 531.7,
+      "end": 532.5,
+      "speaker": "Tuy_t",
+      "text": "Plimp it. Plimp it."
+    },
+    {
+      "block_id": 4,
+      "start": 535.3,
+      "end": 538.4,
+      "speaker": "Dustin",
+      "text": "Vậy là khỏi uống. Ok. Rồi tới mời chị."
+    },
+    {
+      "block_id": 4,
+      "start": 536.6,
+      "end": 541.6,
+      "speaker": "Tuy_t",
+      "text": "Ok. Trời ơi câu này căng rồi nha. Câu này căng rồi nha."
+    },
+    {
+      "block_id": 4,
+      "start": 542.5,
+      "end": 546.1,
+      "speaker": "Dustin",
+      "text": "Căn không? Căn, chị đọc luôn đi."
+    },
+    {
+      "block_id": 4,
+      "start": 544.4,
+      "end": 544.9,
+      "speaker": "Tuy_t",
+      "text": "Hẹn gặp lại."
+    },
+    {
+      "block_id": 4,
+      "start": 546.2,
+      "end": 548.9,
+      "speaker": "Tuy_t",
+      "text": "Tại vì bản thân chị chỉ có suy nghĩ."
+    },
+    {
+      "block_id": 4,
+      "start": 550.8,
+      "end": 553.5,
+      "speaker": "Dustin",
+      "text": "Nhưng mà nó chỉ có A với B à chị suy nghĩ 50."
+    },
+    {
+      "block_id": 4,
+      "start": 553.6,
+      "end": 556.5,
+      "speaker": "Tuy_t",
+      "text": "Lên chọn cái nào muốn hồi cho người khác."
+    },
+    {
+      "block_id": 4,
+      "start": 556.9,
+      "end": 558.5,
+      "speaker": "Dustin",
+      "text": "Chị đọc xong rồi đếm 123."
+    },
+    {
+      "block_id": 4,
+      "start": 558.8,
+      "end": 564.7,
+      "speaker": "Tuy_t",
+      "text": "Nhiều fan hay nhiều tiền? 1, 2, 3, 4. Nhiều fan hay nhiều tiền?"
+    },
+    {
+      "block_id": 4,
+      "start": 563.4,
+      "end": 564.4,
+      "speaker": "Dustin",
+      "text": "3, 2, 1."
+    },
+    {
+      "block_id": 4,
+      "start": 563.8,
+      "end": 564.8,
+      "speaker": "D_ng",
+      "text": "Nhiều phần. Nhiều phần."
+    },
+    {
+      "block_id": 4,
+      "start": 566.0,
+      "end": 568.5,
+      "speaker": "Tuy_t",
+      "text": "Là đúng rồi. Là đúng rồi. Nhiều xét."
+    },
+    {
+      "block_id": 4,
+      "start": 571.0,
+      "end": 571.8,
+      "speaker": "Dustin",
+      "text": "Hạt tiền."
+    },
+    {
+      "block_id": 4,
+      "start": 572.9,
+      "end": 575.7,
+      "speaker": "Tuy_t",
+      "text": "Khoan để hỏi là tại sao chưởng lại chọn nhiều fan hơn nhiều."
+    },
+    {
+      "block_id": 4,
+      "start": 575.8,
+      "end": 618.8,
+      "speaker": "D_ng",
+      "text": "Tại vì em là thích kiểu tính người tình cảm. Cho nên là khi mà em được nhiều người yêu mến và có nhiều fan thì em nghĩ là từ những cái đó. Thì mình sẽ có nhiều cơ hội khác hơn. Cái tinh thần đối với em nó quan trọng lắm. Phê em không hiện tại không quá nhiều. Thế nhưng fan của em là những người rất là trung thành. Mà rất yêu quý em và chăm sóc em thật sự. Có những chị chăm sóc em như là em trong nhà đó. Thế nên rất là trân quý bao nhiêu năm trời. Họ lớn lên cùng mình các bạn nhỏ. Lớn lên cùng mình. Chị gà đi cùng mình thì cái đó em thấy nó thú vị. Ngành nghiệp của mình đôi khi có những cái bấp minh. Mình vẫn có thể tâm sự với những người đó. Rồi họ chia sẻ với mình. Nhiều tiền nhưng mà đâu có chia sẻ được với ai nếu không mình không có thật sự có những người chia sẻ cùng với mình những cái tinh."
+    },
+    {
+      "block_id": 4,
+      "start": 619.8,
+      "end": 620.6,
+      "speaker": "Dustin",
+      "text": "Còn chị?"
+    },
+    {
+      "block_id": 4,
+      "start": 621.0,
+      "end": 628.2,
+      "speaker": "Tuy_t",
+      "text": "Cái đó là vì Dũng nói hoa mỹ. Mình nói sự thật luôn. Mình là nghệ sĩ, mình cần fan. Mà có nhiều fan thì có nhiều."
+    },
+    {
+      "block_id": 4,
+      "start": 628.5,
+      "end": 629.1,
+      "speaker": "Dustin",
+      "text": "Dạ đúng."
+    },
+    {
+      "block_id": 4,
+      "start": 632.3,
+      "end": 642.4,
+      "speaker": "Dustin",
+      "text": "Chính xác, em cũng vậy thôi. Em làm nghề tới bây giờ em nghĩ là tiền thì không có. Nhưng fan là những người mà sẽ đi cùng với mình qua từng năm từng tháng."
+    },
+    {
+      "block_id": 4,
+      "start": 643.0,
+      "end": 646.6,
+      "speaker": "Tuy_t",
+      "text": "Mình là nghệ sĩ cho nên chọn giữa hai thứ mình vẫn phải chọn fan."
+    },
+    {
+      "block_id": 4,
+      "start": 648.2,
+      "end": 649.4,
+      "speaker": "Dustin",
+      "text": "Câu tiếp theo ai đọc nè."
+    },
+    {
+      "block_id": 4,
+      "start": 651.3,
+      "end": 658.2,
+      "speaker": "D_ng",
+      "text": "Cái này em giống chị Tuyết nè. Em cũng đáng đó phải suy nghĩ nè. Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình."
+    },
+    {
+      "block_id": 4,
+      "start": 659.2,
+      "end": 661.4,
+      "speaker": "Tuy_t",
+      "text": "Quay, quay, quay, khoan, khoan đếm nha."
+    },
+    {
+      "block_id": 5,
+      "start": 661.7,
+      "end": 663.1,
+      "speaker": "D_ng",
+      "text": "Văn đếm nha, thật sự những cái này khó đó."
+    },
+    {
+      "block_id": 5,
+      "start": 663.8,
+      "end": 665.6,
+      "speaker": "Dustin",
+      "text": ", nhưng mà em có chỗ trả lời nha."
+    },
+    {
+      "block_id": 5,
+      "start": 665.8,
+      "end": 677.9,
+      "speaker": "Tuy_t",
+      "text": "Ví dụ như là nếu mà mình nói là nó nằm trong cái situation là mình chỉ nghĩ một người nào đó. Bạn bè với mình nó khác. Và khi mình nghĩ về một người. Là gia đình của mình tức là chồng vợ."
+    },
+    {
+      "block_id": 5,
+      "start": 678.0,
+      "end": 679.6,
+      "speaker": "Dustin",
+      "text": "Mỗi người có hệ quy chiếu khác."
+    },
+    {
+      "block_id": 5,
+      "start": 679.6,
+      "end": 680.2,
+      "speaker": "Tuy_t",
+      "text": "Không có gì đánh giá nữa."
+    },
+    {
+      "block_id": 5,
+      "start": 681.2,
+      "end": 684.9,
+      "speaker": "D_ng",
+      "text": "Phải nói là người tình của mình hoặc là chồng của mình. Hoặc là vợ."
+    },
+    {
+      "block_id": 5,
+      "start": 685.0,
+      "end": 687.2,
+      "speaker": "Dustin",
+      "text": "À mỗi người có một tố chất khác."
+    },
+    {
+      "block_id": 5,
+      "start": 687.3,
+      "end": 700.1,
+      "speaker": "Tuy_t",
+      "text": "Giống như bây giờ đơn giản nha. Khi mà một người đàn ông họ quen một người đàn bà. Chỉ là người tình thôi. Thì họ muốn người tình của họ sẽ là như vậy. Nhưng mà khi đã nghĩ tới lấy cái người đã làm vợ thì họ sẽ nghĩ một cái kiểu khác."
+    },
+    {
+      "block_id": 5,
+      "start": 700.5,
+      "end": 701.6,
+      "speaker": "D_ng",
+      "text": "Thấy thấu chưa?"
+    },
+    {
+      "block_id": 5,
+      "start": 701.9,
+      "end": 704.5,
+      "speaker": "Tuy_t",
+      "text": "Cái người đàn bà già rồi nó suy nghĩ khác em à."
+    },
+    {
+      "block_id": 5,
+      "start": 705.5,
+      "end": 707.4,
+      "speaker": "Dustin",
+      "text": "Vậy là người nào khác là người đã uống đó."
+    },
+    {
+      "block_id": 5,
+      "start": 709.0,
+      "end": 720.2,
+      "speaker": "D_ng",
+      "text": "Thì mình cứ trả lời đi ạ. Ok đọc lại câu hỏi nha. Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình? 2, 3. Giỏi chăm sóc gia đình."
+    },
+    {
+      "block_id": 5,
+      "start": 718.9,
+      "end": 720.2,
+      "speaker": "Tuy_t",
+      "text": "Giỏi chăm sóc gia đình. Giỏi chăm sóc gia đình."
+    },
+    {
+      "block_id": 5,
+      "start": 721.7,
+      "end": 722.7,
+      "speaker": "D_ng",
+      "text": "Ok em thoát."
+    },
+    {
+      "block_id": 5,
+      "start": 724.5,
+      "end": 731.8,
+      "speaker": "Dustin",
+      "text": "Thì đúng rồi đúng rồi. Tại vì ở thời điểm này. Cả em với Dũng thì cũng. Mong muốn là chỉ có một cái mái ấm gia đình thật sự."
+    },
+    {
+      "block_id": 5,
+      "start": 732.0,
+      "end": 743.6,
+      "speaker": "Tuy_t",
+      "text": "Chị nghĩ là có lẽ là tại vì chúng ta đều là những người đi ra ngoài làm việc á. Và nói chung là chúng ta cũng đã có một cái thành tựu khá là nhất định. Thì chúng ta lại khao khát cái tình cảm nhiều."
+    },
+    {
+      "block_id": 5,
+      "start": 745.2,
+      "end": 747.3,
+      "speaker": "Tuy_t",
+      "text": "Khao khát cái sự ấm êm."
+    },
+    {
+      "block_id": 5,
+      "start": 747.7,
+      "end": 749.4,
+      "speaker": "Dustin",
+      "text": "Chúng ta có thể tự đi ngoại giao."
+    },
+    {
+      "block_id": 5,
+      "start": 749.4,
+      "end": 753.3,
+      "speaker": "Tuy_t",
+      "text": "Thì mình đâu dám nói bạch tạc ra như thế. Mình phải nói như vậy."
+    },
+    {
+      "block_id": 5,
+      "start": 754.7,
+      "end": 757.2,
+      "speaker": "Dustin",
+      "text": "Mình chỉ cần một người là chỗ dựa cho mình thôi."
+    },
+    {
+      "block_id": 5,
+      "start": 757.2,
+      "end": 760.2,
+      "speaker": "Tuy_t",
+      "text": "Để cho mình có thể bay nhảy bên ngoài đúng không?"
+    },
+    {
+      "block_id": 5,
+      "start": 761.9,
+      "end": 770.8,
+      "speaker": "Dustin",
+      "text": "Câu nào mà nó khác khác đi. Để có người phải thua chứ. Phở hay bún bò. 1, 2, 3. Bún bò."
+    },
+    {
+      "block_id": 5,
+      "start": 770.0,
+      "end": 770.8,
+      "speaker": "Tuy_t",
+      "text": "Đúng à."
+    },
+    {
+      "block_id": 5,
+      "start": 772.8,
+      "end": 777.1,
+      "speaker": "Tuy_t",
+      "text": "Uống thôi uống bò. Uống thôi uống bò chết chưa. Xin mời phở uống nha."
+    },
+    {
+      "block_id": 5,
+      "start": 777.4,
+      "end": 780.2,
+      "speaker": "Dustin",
+      "text": "Hai chị em hẹn thêm bún bò hả? Chị là fan bún bò."
+    },
+    {
+      "block_id": 5,
+      "start": 780.3,
+      "end": 781.0,
+      "speaker": "Tuy_t",
+      "text": "Thì là Phan."
+    },
+    {
+      "block_id": 5,
+      "start": 786.2,
+      "end": 787.0,
+      "speaker": "Tuy_t",
+      "text": "Nhiều."
+    },
+    {
+      "block_id": 5,
+      "start": 789.5,
+      "end": 790.3,
+      "speaker": "D_ng",
+      "text": "Sao đắng dữ vậy?"
+    },
+    {
+      "block_id": 5,
+      "start": 791.2,
+      "end": 799.4,
+      "speaker": "Tuy_t",
+      "text": "Em ăn thử như vậy đi em sẽ thấy rất ngon. Đó là mình đừng húp nước thôi. Nhưng mà khi nước béo nó nhiều thì cái mùi bún bò mùi xả nó sẽ dậy lên nhiều hơn. Ủa mà uống gì vậy?"
+    },
+    {
+      "block_id": 5,
+      "start": 799.4,
+      "end": 801.2,
+      "speaker": "D_ng",
+      "text": "Nước đắng, đắng lắm."
+    },
+    {
+      "block_id": 5,
+      "start": 801.4,
+      "end": 802.5,
+      "speaker": "Tuy_t",
+      "text": "Bạn nước đó là cái gì?"
+    },
+    {
+      "block_id": 5,
+      "start": 802.5,
+      "end": 811.2,
+      "speaker": "D_ng",
+      "text": "Là nước đắng đó cho nó mát da, đẹp da. Mà đắng, đắng xong bây giờ uống xong rồi ha. Xong bây giờ nước bọt không biết tiết ra, nó còn đắng từ từ từ từ."
+    },
+    {
+      "block_id": 5,
+      "start": 818.1,
+      "end": 819.5,
+      "speaker": "Tuy_t",
+      "text": "Nhưng mà cái này tôi cũng không biết trả lời."
+    },
+    {
+      "block_id": 5,
+      "start": 821.0,
+      "end": 823.3,
+      "speaker": "Tuy_t",
+      "text": "Mưa tháng 6 hay nắng tháng 10."
+    },
+    {
+      "block_id": 5,
+      "start": 824.1,
+      "end": 825.2,
+      "speaker": "Dustin",
+      "text": "Này nó thơ quá vậy."
+    },
+    {
+      "block_id": 5,
+      "start": 825.2,
+      "end": 826.6,
+      "speaker": "D_ng",
+      "text": "10 tháng 6."
+    },
+    {
+      "block_id": 5,
+      "start": 827.3,
+      "end": 828.9,
+      "speaker": "Tuy_t",
+      "text": "Suy nghĩ xong chưa đếm nha."
+    },
+    {
+      "block_id": 6,
+      "start": 829.5,
+      "end": 829.9,
+      "speaker": "D_ng",
+      "text": "Khó quá."
+    },
+    {
+      "block_id": 6,
+      "start": 829.9,
+      "end": 830.5,
+      "speaker": "Dustin",
+      "text": "Không rồi nè."
+    },
+    {
+      "block_id": 6,
+      "start": 831.3,
+      "end": 834.5,
+      "speaker": "Tuy_t",
+      "text": "Thì chị nói là cái này đơn giản nhưng mà lại khó."
+    },
+    {
+      "block_id": 6,
+      "start": 836.3,
+      "end": 841.3,
+      "speaker": "Tuy_t",
+      "text": "Đi đây em sẽ thích mùa nắng hay mùa mưa. Em sẽ thích cái cảm giác đầu hơn."
+    },
+    {
+      "block_id": 6,
+      "start": 841.3,
+      "end": 848.5,
+      "speaker": "D_ng",
+      "text": "Giờ chị nói cảm giác về thực tế là tooling. Hay chị thích kiểu là. Thực tế là trong cuộc sống. Tại vì nếu trong cuộc sống đi kiếm cơm."
+    },
+    {
+      "block_id": 6,
+      "start": 848.5,
+      "end": 849.5,
+      "speaker": "Tuy_t",
+      "text": "Filling đi Filling."
+    },
+    {
+      "block_id": 6,
+      "start": 849.5,
+      "end": 851.0,
+      "speaker": "D_ng",
+      "text": "Bọc phải bọc phi linh nha."
+    },
+    {
+      "block_id": 6,
+      "start": 852.3,
+      "end": 855.9,
+      "speaker": "Tuy_t",
+      "text": "2, 3, muôn tháng 6, nắng tháng 10."
+    },
+    {
+      "block_id": 6,
+      "start": 854.8,
+      "end": 856.0,
+      "speaker": "Dustin",
+      "text": "Nắng tháng mười."
+    },
+    {
+      "block_id": 6,
+      "start": 858.6,
+      "end": 859.6,
+      "speaker": "D_ng",
+      "text": "Đã đó là kiêu linh."
+    },
+    {
+      "block_id": 6,
+      "start": 860.6,
+      "end": 861.6,
+      "speaker": "Dustin",
+      "text": "Cho chị thích được không?"
+    },
+    {
+      "block_id": 6,
+      "start": 861.6,
+      "end": 862.4,
+      "speaker": "D_ng",
+      "text": "Được rồi."
+    },
+    {
+      "block_id": 6,
+      "start": 863.0,
+      "end": 864.0,
+      "speaker": "Dustin",
+      "text": "Của mình tháng 10."
+    },
+    {
+      "block_id": 6,
+      "start": 864.0,
+      "end": 869.7,
+      "speaker": "Tuy_t",
+      "text": "Ê nè sinh nhật tháng 10 nè. Nhưng mà tại vì mưa nó lãng mạn hơn."
+    },
+    {
+      "block_id": 6,
+      "start": 869.9,
+      "end": 872.7,
+      "speaker": "Dustin",
+      "text": "Nhưng mà tháng 10 nào mưa nó cũng ngập tới đầu gối hết đó chị."
+    },
+    {
+      "block_id": 6,
+      "start": 873.0,
+      "end": 874.4,
+      "speaker": "Tuy_t",
+      "text": "Nắng tháng mười mà."
+    },
+    {
+      "block_id": 6,
+      "start": 874.4,
+      "end": 877.6,
+      "speaker": "Dustin",
+      "text": "Mong là có ngày nắng tháng mùi để cái sinh nhật em nó bớt ảm đạm."
+    },
+    {
+      "block_id": 6,
+      "start": 877.3,
+      "end": 878.2,
+      "speaker": "Tuy_t",
+      "text": "Tại tụi chị không ấy?"
+    },
+    {
+      "block_id": 6,
+      "start": 880.8,
+      "end": 888.3,
+      "speaker": "D_ng",
+      "text": "Nói chung là mưa nắng đều có cái heavy nguồn độ. Nhưng mà tại vì nếu mà đi show thì chỉ mong là ngày nắng. Tại vì ngày mưa thì nguy hiểm."
+    },
+    {
+      "block_id": 6,
+      "start": 888.4,
+      "end": 889.9,
+      "speaker": "Tuy_t",
+      "text": "Thôi 15g thôi."
+    },
+    {
+      "block_id": 6,
+      "start": 889.9,
+      "end": 894.0,
+      "speaker": "D_ng",
+      "text": "Mình đang nói về khí cạnh nào. Piêu Linh thì tất nhiên là mưa."
+    },
+    {
+      "block_id": 6,
+      "start": 894.0,
+      "end": 897.2,
+      "speaker": "Tuy_t",
+      "text": "Tại vì thật sự ở Mỹ. Nó ít khi nào mà mưa dầm mưa về."
+    },
+    {
+      "block_id": 6,
+      "start": 898.5,
+      "end": 900.1,
+      "speaker": "Tuy_t",
+      "text": "Không có nhiều."
+    },
+    {
+      "block_id": 6,
+      "start": 900.1,
+      "end": 908.6,
+      "speaker": "D_ng",
+      "text": "Em thấy ở Việt Nam như thế nào. Mưa người ta hay gọi là mưa rào Việt Nam. Rào nó ngưng. Còn bên Mỹ á. Mưa là từ sáng đến tối."
+    },
+    {
+      "block_id": 6,
+      "start": 908.6,
+      "end": 912.6,
+      "speaker": "Tuy_t",
+      "text": "Nhưng mà nó không có nhiều. Không nhiều ngày thôi. Không tức là nó không có nhiều ngày. Không nhiều ngày thôi. Không tức là nó không có."
+    },
+    {
+      "block_id": 6,
+      "start": 910.4,
+      "end": 911.6,
+      "speaker": "D_ng",
+      "text": "Không nhiều ngày thôi."
+    },
+    {
+      "block_id": 6,
+      "start": 914.4,
+      "end": 915.6,
+      "speaker": "Dustin",
+      "text": "Lấp phớt, lấp phớt."
+    },
+    {
+      "block_id": 6,
+      "start": 915.6,
+      "end": 916.7,
+      "speaker": "D_ng",
+      "text": "Nhưng mà nó ra nguyên."
+    },
+    {
+      "block_id": 6,
+      "start": 916.7,
+      "end": 920.4,
+      "speaker": "Tuy_t",
+      "text": "Nó dai nhưng mà nó rĩ rã chứ nó không kiểu à mà mà mà mà mà."
+    },
+    {
+      "block_id": 6,
+      "start": 920.6,
+      "end": 928.9,
+      "speaker": "Dustin",
+      "text": "Ở đây là xong rồi nắng hết. Xong rồi đang nắng là mưa mưa mưa. Vậy là tính mọi người cũng vậy thích kiểu mưa lãng mạn đúng không? Chứ không thích mưa kiểu ào ào."
+    },
+    {
+      "block_id": 6,
+      "start": 929.0,
+      "end": 931.5,
+      "speaker": "Tuy_t",
+      "text": "Không ai thích mưa ào ào."
+    },
+    {
+      "block_id": 6,
+      "start": 933.7,
+      "end": 935.1,
+      "speaker": "D_ng",
+      "text": "Nguội ào ào. Các bạn không được về nhà."
+    },
+    {
+      "block_id": 6,
+      "start": 935.6,
+      "end": 936.8,
+      "speaker": "Dustin",
+      "text": "Kẹt bên nhà ai đó."
+    },
+    {
+      "block_id": 6,
+      "start": 937.6,
+      "end": 940.0,
+      "speaker": "D_ng",
+      "text": "Đúng không đúng không. Mưa quá không về được, không bắt được taxi."
+    },
+    {
+      "block_id": 6,
+      "start": 941.0,
+      "end": 942.7,
+      "speaker": "Dustin",
+      "text": "Kẹt mưa đâu đó với ai chưa."
+    },
+    {
+      "block_id": 6,
+      "start": 942.8,
+      "end": 943.9,
+      "speaker": "Tuy_t",
+      "text": "Nó khò quá."
+    },
+    {
+      "block_id": 6,
+      "start": 947.3,
+      "end": 948.8,
+      "speaker": "D_ng",
+      "text": "Không có ra thực tế nào."
+    },
+    {
+      "block_id": 6,
+      "start": 948.8,
+      "end": 951.0,
+      "speaker": "Tuy_t",
+      "text": "Ngày ấy qua rồi. Ngày ấy qua rồi."
+    },
+    {
+      "block_id": 6,
+      "start": 951.1,
+      "end": 953.4,
+      "speaker": "Dustin",
+      "text": "Thì mới có bài đường xa ước mưa đúng không? Đó."
+    },
+    {
+      "block_id": 6,
+      "start": 953.9,
+      "end": 963.2,
+      "speaker": "Tuy_t",
+      "text": "Ước ác trời mưa nhỏ hai đứa che chung một chiếc giường. Linh lén nhìn nhau bằng ánh mắt. Học trò chưa biết cách hôn môi. Ủa hai người không biết cái thơ đó hả?"
+    },
+    {
+      "block_id": 6,
+      "start": 963.2,
+      "end": 963.8,
+      "speaker": "D_ng",
+      "text": "Không."
+    },
+    {
+      "block_id": 6,
+      "start": 963.9,
+      "end": 964.8,
+      "speaker": "Tuy_t",
+      "text": "Mimusa."
+    },
+    {
+      "block_id": 6,
+      "start": 965.6,
+      "end": 966.7,
+      "speaker": "Dustin",
+      "text": "Là lúc học trò."
+    },
+    {
+      "block_id": 7,
+      "start": 966.7,
+      "end": 972.1,
+      "speaker": "Tuy_t",
+      "text": "Chuyện Mimosa đấy. Trời ơi, hồi xưa là chị là. Trốn ở trong góc nhà để đọc truyện."
+    },
+    {
+      "block_id": 7,
+      "start": 972.1,
+      "end": 973.9,
+      "speaker": "D_ng",
+      "text": "À là mê tủy thuyết đúng không?"
+    },
+    {
+      "block_id": 7,
+      "start": 973.9,
+      "end": 974.4,
+      "speaker": "Tuy_t",
+      "text": "Tự thí."
+    },
+    {
+      "block_id": 7,
+      "start": 975.8,
+      "end": 979.0,
+      "speaker": "Tuy_t",
+      "text": "Tại sao tôi hát nhạc tình cảm là vậy đấy. Tôi rất là ước ác."
+    },
+    {
+      "block_id": 7,
+      "start": 981.2,
+      "end": 982.4,
+      "speaker": "D_ng",
+      "text": "Xếp hàng chờ thăm mấy."
+    },
+    {
+      "block_id": 7,
+      "start": 984.0,
+      "end": 986.0,
+      "speaker": "D_ng",
+      "text": "Cái này tùy lúc nè, bây giờ mình nói một ngữ cảnh."
+    },
+    {
+      "block_id": 7,
+      "start": 986.1,
+      "end": 987.4,
+      "speaker": "Tuy_t",
+      "text": "Nếu thân bộ 10 tầng em đi."
+    },
+    {
+      "block_id": 7,
+      "start": 987.5,
+      "end": 989.3,
+      "speaker": "Dustin",
+      "text": "Không, bây giờ mình nói trước đi rồi mình giải thích sao."
+    },
+    {
+      "block_id": 7,
+      "start": 989.4,
+      "end": 991.7,
+      "speaker": "Tuy_t",
+      "text": "Không phải tháng, nhưng mà tháng bộ là bao nhiêu tháng mới được."
+    },
+    {
+      "block_id": 7,
+      "start": 993.4,
+      "end": 994.5,
+      "speaker": "Dustin",
+      "text": "Chị đi được bao nhiêu."
+    },
+    {
+      "block_id": 7,
+      "start": 994.6,
+      "end": 996.2,
+      "speaker": "Tuy_t",
+      "text": "Cái này làm khó người ta quá à."
+    },
+    {
+      "block_id": 7,
+      "start": 996.5,
+      "end": 1002.6,
+      "speaker": "D_ng",
+      "text": "Biết thì sao không? Như thế này nè, nó khác nhau chỗ. Ví dụng với Dustin. Làm điểm đàn ông thì mình đi dây ngắn."
+    },
+    {
+      "block_id": 7,
+      "start": 1002.9,
+      "end": 1006.6,
+      "speaker": "Tuy_t",
+      "text": "Bây giờ tôi mang đôi này mà tôi bắt tôi đi thang máy thang bộ tôi chết rồi."
+    },
+    {
+      "block_id": 7,
+      "start": 1006.6,
+      "end": 1008.1,
+      "speaker": "Dustin",
+      "text": "Nhưng lúc em cũng mang giày cao luôn chị."
+    },
+    {
+      "block_id": 7,
+      "start": 1008.1,
+      "end": 1010.4,
+      "speaker": "Tuy_t",
+      "text": "Mà cái cao của em nó không có là nghĩa địa gì hết."
+    },
+    {
+      "block_id": 7,
+      "start": 1012.4,
+      "end": 1016.0,
+      "speaker": "Dustin",
+      "text": "Không có là nghĩa địa ha. Ba nhiêu phân mới là nghĩa địa gì kỷ."
+    },
+    {
+      "block_id": 7,
+      "start": 1016.1,
+      "end": 1021.1,
+      "speaker": "Tuy_t",
+      "text": "Trời ơi cái giày này mà em kêu chị đi 3 tầng là chị thở. Rồi cái độ tuổi, độ tuổi."
+    },
+    {
+      "block_id": 7,
+      "start": 1022.6,
+      "end": 1025.0,
+      "speaker": "Dustin",
+      "text": "2 tầng đã về chưa. Ba tận sợ chị bỏ cuộc."
+    },
+    {
+      "block_id": 7,
+      "start": 1025.0,
+      "end": 1026.4,
+      "speaker": "D_ng",
+      "text": "Không, ba tầng đường. Bao tầm được."
+    },
+    {
+      "block_id": 7,
+      "start": 1027.1,
+      "end": 1029.7,
+      "speaker": "Tuy_t",
+      "text": "Mà phải tùy lúc lúc nào."
+    },
+    {
+      "block_id": 7,
+      "start": 1029.9,
+      "end": 1032.6,
+      "speaker": "D_ng",
+      "text": "Thì nói chung là phải chờ hết, vô gặp thang máy là bị."
+    },
+    {
+      "block_id": 7,
+      "start": 1032.6,
+      "end": 1035.4,
+      "speaker": "Tuy_t",
+      "text": "Không, ví dụ như là em cần phải đi những cái chuyện rất là gấp."
+    },
+    {
+      "block_id": 7,
+      "start": 1036.2,
+      "end": 1039.0,
+      "speaker": "D_ng",
+      "text": "3, 2, 1. 1, 2."
+    },
+    {
+      "block_id": 7,
+      "start": 1038.2,
+      "end": 1038.9,
+      "speaker": "Dustin",
+      "text": "Bây!"
+    },
+    {
+      "block_id": 7,
+      "start": 1039.0,
+      "end": 1039.0,
+      "speaker": "Tuy_t",
+      "text": "Hẹn gặp lại."
+    },
+    {
+      "block_id": 7,
+      "start": 1043.3,
+      "end": 1047.5,
+      "speaker": "Tuy_t",
+      "text": "Cái câu này là rõ ràng xử ép chị. Tại chị là đàn bà thì chắc chắn chị phải đi thang máy."
+    },
+    {
+      "block_id": 7,
+      "start": 1047.5,
+      "end": 1049.2,
+      "speaker": "Dustin",
+      "text": "Thì em đi 3 tầng với chị mà."
+    },
+    {
+      "block_id": 7,
+      "start": 1049.9,
+      "end": 1053.3,
+      "speaker": "D_ng",
+      "text": "Chị đi thang bộ nhưng mà chồng chị có thể cõng chị mà hay bế chị đi được mà."
+    },
+    {
+      "block_id": 7,
+      "start": 1053.4,
+      "end": 1055.6,
+      "speaker": "Tuy_t",
+      "text": "Cái câu của em nó không có cái option là có chồng."
+    },
+    {
+      "block_id": 7,
+      "start": 1056.6,
+      "end": 1057.9,
+      "speaker": "D_ng",
+      "text": "Chị có thể tự vẽ ra."
+    },
+    {
+      "block_id": 7,
+      "start": 1059.5,
+      "end": 1060.5,
+      "speaker": "D_ng",
+      "text": "Thôi chị uống đi."
+    },
+    {
+      "block_id": 7,
+      "start": 1060.8,
+      "end": 1061.7,
+      "speaker": "Dustin",
+      "text": "Mời chị Tết!"
+    },
+    {
+      "block_id": 7,
+      "start": 1062.9,
+      "end": 1064.8,
+      "speaker": "Tuy_t",
+      "text": "Cứu này là công sử ép chị."
+    },
+    {
+      "block_id": 7,
+      "start": 1064.7,
+      "end": 1065.5,
+      "speaker": "Dustin",
+      "text": "Câu này là."
+    },
+    {
+      "block_id": 7,
+      "start": 1065.2,
+      "end": 1069.1,
+      "speaker": "Tuy_t",
+      "text": "Không, câu này là không đúng, mấy người sửa ép tôi thiệt luôn á nha."
+    },
+    {
+      "block_id": 7,
+      "start": 1070.7,
+      "end": 1075.8,
+      "speaker": "D_ng",
+      "text": "Đáng nha đáng lắm nha em nói thiệt nha. Đừng có nhấp uống luôn. Đừng có nhấp. Trời ơi chị giúp một chi vậy một hơi đi."
+    },
+    {
+      "block_id": 7,
+      "start": 1075.8,
+      "end": 1077.6,
+      "speaker": "Tuy_t",
+      "text": "Oh my God."
+    },
+    {
+      "block_id": 7,
+      "start": 1077.6,
+      "end": 1078.3,
+      "speaker": "D_ng",
+      "text": "Phải đọc đó."
+    },
+    {
+      "block_id": 7,
+      "start": 1079.5,
+      "end": 1083.1,
+      "speaker": "D_ng",
+      "text": "Chắc chắn chị phải uống một hớp kia rồi. Chị không hớp kia rồi chị chị đều phải hớp nhẹ cái."
+    },
+    {
+      "block_id": 7,
+      "start": 1083.3,
+      "end": 1083.9,
+      "speaker": "Tuy_t",
+      "text": "Đắng quá."
+    },
+    {
+      "block_id": 7,
+      "start": 1085.9,
+      "end": 1098.9,
+      "speaker": "Dustin",
+      "text": "Bạn đang nghe. Bật nến podcast. Của Dustin on the go. Khi nói về. Những cái cột móc trong sự nghiệp của mình đi. Chị Tuyết và Dũng sẽ nghĩ đâu là những cái cột mốc mà nó làm thay đổi sự nghiệp."
+    },
+    {
+      "block_id": 7,
+      "start": 1099.9,
+      "end": 1105.9,
+      "speaker": "Tuy_t",
+      "text": "Với chị là cái năm mà chị đi nước ngoài là nó thay đổi hoàn toàn sự nghiệp của chị."
+    },
+    {
+      "block_id": 8,
+      "start": 1107.3,
+      "end": 1113.8,
+      "speaker": "Tuy_t",
+      "text": "Tại mới đầu chị được công chúng biết đến nhiều ấy. Là một cặp song ca Minh Tú Cẩm Ly."
+    },
+    {
+      "block_id": 8,
+      "start": 1115.0,
+      "end": 1154.1,
+      "speaker": "Tuy_t",
+      "text": "Không phải là cái mục đích đầu tiên của chị là muốn có một cặp song cam bên trước cảm ly. Lúc đó là gặp Hà Bình họ đang tổ chức một cái chương trình thi những tiết mục. Mà thời điểm đó được công nhận thì mới được tuyển vào đạt hát và bình để hát thì lúc đó mình. Trời ơi mình mới chân ướt chân ráo mới lớn lên mới vừa thi thoát trường hành đạo có ai biết mình là ai đâu nè có rất là nhiều. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Tuyển vào để hát hàng đêm. Của Nhà Hát Hòa Bình."
+    },
+    {
+      "block_id": 9,
+      "start": 1270.3,
+      "end": 1292.4,
+      "speaker": "Tuy_t",
+      "text": "Kế hoạch ngày hôm nay mình sẽ đi từ đâu từ đâu. Hoặc là lịch trình sẽ như thế nào. Thì chị Ly lo còn ngoại giao là ví dụ như là. Ở với bầu show hay là với bất cứ một cái gì ở bên ngoài. Và idea phần lớn thì là chị lo. Thì cái thời điểm đó là như vậy. Nhưng mà chị vẫn cảm thấy là giống như là chị vẫn chưa tìm được chính bản thân mình. Xong nên cuối cùng mà chị quyết định là chị đi nước ngoài."
+    },
+    {
+      "block_id": 9,
+      "start": 1296.8,
+      "end": 1322.7,
+      "speaker": "Tuy_t",
+      "text": "Tại vì như vậy nếu mà chị ở Việt Nam mà đang là một cái cặp song ca nình đám như thế. Thật sự là đối với song ca như vậy là đã nổi tiếng rồi. Nó không thể nổi hơn được nữa. Thì nếu như mà mình nói với khán giả mình. Mới bài mình cho mình hát đơn ca. Thì khán giả chắc chắn sẽ không chấp nhận chị. Cũng như không chấp nhận chị Cẩm Ly luôn. Vì họ đã quen cái hình ảnh. Một cặp song ca rồi giống như anh Minh Thuận, Việt Hào cũng vậy. Lúc đó là hai người mấy tuổi. Lúc đó là chị nghĩ chị."
+    },
+    {
+      "block_id": 10,
+      "start": 1445.6,
+      "end": 1453.3,
+      "speaker": "Dustin",
+      "text": "Cái đó có phải là cột mốc của Mai Tiến Dũng trong sự nghiệp ca hát không? Châu Lyn show của Paris By Night. Nếu nói về cục móc, sẽ có rất là nhiều."
+    },
+    {
+      "block_id": 10,
+      "start": 1453.3,
+      "end": 1455.6,
+      "speaker": "Tuy_t",
+      "text": "Nhưng mà đó là cục móc đầu tiên. Nhưng mà nếu mà đầu tiên."
+    },
+    {
+      "block_id": 10,
+      "start": 1454.5,
+      "end": 1491.0,
+      "speaker": "D_ng",
+      "text": "Nếu mà đầu tiên thì đúng là talent show của Presby. Đó có phải là một cái cú bật. Cho sự nghiệp của Dũng. Để Dũng được đứng trên sân khấu. Và được. Thật là hồi xưa thích hát, về văn nghệ ở Việt Nam đi học mà thì vẫn cứ tham gia văn nghệ trong. Nhưng mà không nghĩ là mình sẽ tham gia ca hát đâu. Tại vì bản điều khoản từ năm lớp 9 đến lớp 12. Đang đi học xong rồi nhà hỏi thì giờ mốt muốn làm. Lúc đó thì mình thích thời trang, mình thích thẩm mỹ. Cái gia đình là thôi học bác sĩ thẩm mỹ đi. , chống đau thì à, gia đình hướng nhà mình đi. Còn không học nha."
+    },
+    {
+      "block_id": 10,
+      "start": 1492.3,
+      "end": 1498.0,
+      "speaker": "D_ng",
+      "text": "Có một người chị Úc thì ở Việt Nam á chị Úc thì đã đi học nhạc việt thành phố."
+    },
+    {
+      "block_id": 10,
+      "start": 1499.5,
+      "end": 1507.3,
+      "speaker": "D_ng",
+      "text": "Học cùng khóa với chị hiền thục nè, chị Mỹ Tâm là cùng khóa luôn, thế xong rồi là vì đi, thì đi lúc qua đó thì chị bỏ ngang."
+    },
+    {
+      "block_id": 10,
+      "start": 1507.5,
+      "end": 1509.2,
+      "speaker": "Dustin",
+      "text": "Lúc đó mấy tuổi bắt đầu đi Mỹ."
+    },
+    {
+      "block_id": 10,
+      "start": 1509.2,
+      "end": 1510.5,
+      "speaker": "D_ng",
+      "text": "Dũng đi Mỹ lúc nó 11 tuổi."
+    },
+    {
+      "block_id": 10,
+      "start": 1510.5,
+      "end": 1512.9,
+      "speaker": "Dustin",
+      "text": "Nhỏ hơn là lúc chị Tuyết đi rất là nhiều."
+    },
+    {
+      "block_id": 10,
+      "start": 1513.0,
+      "end": 1520.3,
+      "speaker": "D_ng",
+      "text": "Thì lúc đó là đi qua đó thấy. Cho nên là nguyên khoảng thời gian mà hoạt động ở bên Mỹ. Thì mê coi thuyết nghe."
+    },
+    {
+      "block_id": 10,
+      "start": 1522.0,
+      "end": 1534.2,
+      "speaker": "D_ng",
+      "text": "Học xong lớp 12 cái gia đình bảo ok, qua Mỹ 5 năm rồi, hứa cho về ngang chơi, nhớ gia đình. Cái đi về vừa về Việt Nam, mắc hai đọc báo ở bên kia bảo thí thúy Nga, Paris-Banai là đang tuyển cuộc thi."
+    },
+    {
+      "block_id": 10,
+      "start": 1534.2,
+      "end": 1536.2,
+      "speaker": "Tuy_t",
+      "text": "Đó là em đi thi rồi thi cho vui thôi á đúng không?"
+    },
+    {
+      "block_id": 10,
+      "start": 1536.2,
+      "end": 1551.5,
+      "speaker": "D_ng",
+      "text": "Em nói vui là tại vì em bảo lúc đó là kiểu như là chị Úc thì mình thấy là cái khát khao chị Mình làm nghề hồi xưa. Hồi xưa chị nghĩ là nếu mà mình là fashion designer. Là mình sẽ thiết kế đồ cho chị. Mình hạ lên sân khấu và mặc đồ."
+    },
+    {
+      "block_id": 10,
+      "start": 1551.5,
+      "end": 1553.9,
+      "speaker": "Tuy_t",
+      "text": "Từ hồi nhỏ em không có đam mê hay ước mơ là làm ca sĩ."
+    },
+    {
+      "block_id": 10,
+      "start": 1553.9,
+      "end": 1568.5,
+      "speaker": "D_ng",
+      "text": "Em thích hát, em biết hát và thích hát. Và khi mà mấy anh chị nghệ sĩ mà qua nhà chơi với chị đi cùng học hóa. Anh Đình Bảo xưa là cũng qua nhà em chơi. Thích đi cùng các anh chị là đi karaoke thích hát thôi nhưng mà cũng không có nghĩ là mình sẽ đứng trên sân khấu."
+    },
+    {
+      "block_id": 10,
+      "start": 1569.7,
+      "end": 1604.4,
+      "speaker": "D_ng",
+      "text": "Cho nên là khi mà thấy có cuộc thi cái bà ok đi thi đúng không bà. Cái bà kêu thôi thì chị nhé không phải bà đi đi tôi đi cũng bà. Thế là hai chị em vô với Thôi Đề Mô Việt Nam. Gửi qua bên cho bên trung tâm. Chị Tít có nhớ không nhưng mà cứ mỗi tuần là Thúy Nga đăng lên một cái list. Từng tuần, từng tuần một. Mình coi là cho mọi người nghe. Bình chọn, bình chọn, bình chọn á. Hồi hộp, hồi hộp. Thấy cái giọng tập chị mình lên rồi. Khi xong phim tới phim mình. Cũng nghe ồ, cũng được post lên bài. Cũng là một trong những người được đăng lên ha tuyển chọn sau còn 300 thí sinh mà chơi hoài thấy họ gọi mình mà không gọi chỉ mình."
+    },
+    {
+      "block_id": 11,
+      "start": 1607.9,
+      "end": 1620.0,
+      "speaker": "D_ng",
+      "text": "Thật sự đó là một trong những cái bước ngoặc đầu tiên luôn đó. Em nhớ hoài cuốn 86. Dũng hát quả này là hát thị thị Úc. Mà mình không có nghĩ mình đi hát, mà giờ tự nhiên chị đi thi, chị đi khác."
+    },
+    {
+      "block_id": 11,
+      "start": 1620.0,
+      "end": 1620.9,
+      "speaker": "Tuy_t",
+      "text": "Bài gì vậy?"
+    },
+    {
+      "block_id": 11,
+      "start": 1621.0,
+      "end": 1622.3,
+      "speaker": "D_ng",
+      "text": "Em hát chuyện chạy cô đơn."
+    },
+    {
+      "block_id": 11,
+      "start": 1624.5,
+      "end": 1631.5,
+      "speaker": "D_ng",
+      "text": "Xong cái mình bảo chí. Thôi em hát cho dành cho chị. Tại vì đâu có biết có được vô trong nữa hay không đâu. Thôi được lần đứng trên sân khấu to."
+    },
+    {
+      "block_id": 11,
+      "start": 1635.0,
+      "end": 1651.3,
+      "speaker": "D_ng",
+      "text": "Tôi hát được lần trên sân khấu cũng được đi. Cho chị mình hãnh diện đi. Tuy nhiên xong hôm đó. Thằng nhóc được vô chung kết là vô vòng sau. Trời ơi thằng nhóc stress. Em stress mà bị sốt mà xuống bao nhiêu pound luôn. Là tại vì mình chỉ nghĩ là mình tới đó thôi ngưng rồi."
+    },
+    {
+      "block_id": 11,
+      "start": 1651.8,
+      "end": 1655.3,
+      "speaker": "Tuy_t",
+      "text": "Cái đó là tổ ổng đại chứ ai là người đó."
+    },
+    {
+      "block_id": 11,
+      "start": 1655.3,
+      "end": 1671.0,
+      "speaker": "Dustin",
+      "text": "Đúng, có những người biết bao nhiêu năm kiểu theo nghề cũng trầy trật. Nhưng mà mình có cái may mắn là Tổ gọi tên mình đúng không. Vậy theo hai người khán giả thích và yêu mến hai người là vì điểm gì?"
+    },
+    {
+      "block_id": 11,
+      "start": 1675.3,
+      "end": 1684.4,
+      "speaker": "D_ng",
+      "text": "Ví dụ như nếu mà nói về đã là nghệ sĩ thì tất nhiên là cái bề ngoài sẽ luôn luôn là sẽ là những cái hút."
+    },
+    {
+      "block_id": 11,
+      "start": 1684.7,
+      "end": 1685.0,
+      "speaker": "Tuy_t",
+      "text": "Rồi em thấy cái câu chuyện đó rất là đúng rồi."
+    },
+    {
+      "block_id": 11,
+      "start": 1685.7,
+      "end": 1702.1,
+      "speaker": "D_ng",
+      "text": "Không hẳn là là nghệ sĩ đâu, mình đi ra ngoài đường mình bất cứ gặp bất cứ người nào mà đúng gu của mình cái ghép của mình. Chắc chắn là mình sẽ thích đáp. Mình sẽ có cảm tình hơn. That's why mình mới hiểu. Có mấy cái câu là. First impression. Nếu mà riêng em thì em nghĩ là chắc tại vì. Em hay hát nhạc."
+    },
+    {
+      "block_id": 11,
+      "start": 1702.3,
+      "end": 1703.4,
+      "speaker": "Dustin",
+      "text": "Nhạc buồn, nhạc suy."
+    },
+    {
+      "block_id": 11,
+      "start": 1704.0,
+      "end": 1719.2,
+      "speaker": "D_ng",
+      "text": "Em cảm thấy là như thế này, khoảng thời gian mà mới vào nghề em hát nhạc sôi đọc. Có thể là vì một phần là cái tuổi đời mình chưa nhiều, kinh nghiệm mình chưa nhiều. Khi mình hát, họ sẽ mang một cái sắc màu ở vui, dễ nghe, để thay đổi không khí."
+    },
+    {
+      "block_id": 11,
+      "start": 1722.4,
+      "end": 1734.3,
+      "speaker": "D_ng",
+      "text": "Để những bài hát nó đủ để nằm lòng trong lòng khán giả. Thường sẽ là những mẹ hát nó có mang một tính chất suy tư thường một tí xíu nó có một cái chiều sâu hơn."
+    },
+    {
+      "block_id": 11,
+      "start": 1735.9,
+      "end": 1750.4,
+      "speaker": "D_ng",
+      "text": "Từ khi mà em tìm đến những ca khúc mà nó có thể gọi là chính em, là thấy em đi chơi. Mọi người thấy Vũ này khùng hay là một kịch giỡn và tưng và tưng. Đó là vì với những người thân."
+    },
+    {
+      "block_id": 11,
+      "start": 1751.7,
+      "end": 1755.1,
+      "speaker": "D_ng",
+      "text": "Mình có thể vui. Thật sự Dũng không có vẻ vui như vậy."
+    },
+    {
+      "block_id": 11,
+      "start": 1755.4,
+      "end": 1756.2,
+      "speaker": "Dustin",
+      "text": "Vậy khóc không?"
+    },
+    {
+      "block_id": 11,
+      "start": 1756.5,
+      "end": 1767.6,
+      "speaker": "D_ng",
+      "text": "Rất dễ khóc, chị tôi biết là rất là dễ khóc. Cho nên là cục móc trong cuộc sống. Tình cảm, sự nghiệp. Mọi thứ nó đến một cái mức mà. Nó làm cho mình có một cái điểm trụng xuống."
+    },
+    {
+      "block_id": 11,
+      "start": 1767.6,
+      "end": 1770.0,
+      "speaker": "Tuy_t",
+      "text": "Chính mùi ấy, đến lúc mình chính mùi."
+    },
+    {
+      "block_id": 11,
+      "start": 1770.0,
+      "end": 1771.7,
+      "speaker": "D_ng",
+      "text": "Bắt đầu mình tìm lại chính mình."
+    },
+    {
+      "block_id": 11,
+      "start": 1773.2,
+      "end": 1784.4,
+      "speaker": "D_ng",
+      "text": "Và vô tình những ca khúc mình có thể thể hiện được cái nội tâm của mình thì lúc đó tự nhiên cái gọi là cái mạch của mình, mạch âm nhạc, mạch cảm xúc. Và mặt cảm xúc của khán giả nó không một cái điểm chạm."
+    },
+    {
+      "block_id": 12,
+      "start": 1784.4,
+      "end": 1842.4,
+      "speaker": "Dustin",
+      "text": "Các khán giả thích khi mình hát nhạc buồn, suy. Bởi vì bây giờ Dũng đã thể hiện được cái sự thật là mình đã trải qua những cái nỗi đau nào đó trong cuộc sống."
+    },
+    {
+      "block_id": 12,
+      "start": 1842.8,
+      "end": 1858.6,
+      "speaker": "Tuy_t",
+      "text": "Chị nghĩ chị giải thích cho Dũng. Tại sao mà em thấy là sau này em hát nhạc tình. Là em lại chạm đến khán giả nhiều hơn. Chị đã từng nghe một. Trong một cái chương trình. The Voice của Mỹ. Krishna Eklah hỏi cái người đang hát. Em mới hát xong em cảm thấy như thế nào?"
+    },
+    {
+      "block_id": 13,
+      "start": 1965.9,
+      "end": 1980.4,
+      "speaker": "Tuy_t",
+      "text": "Cũng giống như khi mà chị hát tình ca cũng vậy. Chị cũng đã từng trải qua hỉ nổ ái ố trong cái thời còn trẻ của mình chứ. Có người chị cũng phải có những cái tình cảm nhất định. Và chị hiểu được điều đó. Chị mới hát được như vậy. Mình cảm được nó thì khán giả sẽ cảm được mình."
+    },
+    {
+      "block_id": 13,
+      "start": 1981.0,
+      "end": 1987.8,
+      "speaker": "Dustin",
+      "text": "Thì em có những cái tấm hình này mọi người sẽ cùng nhìn và đầu tiên là cái tấm này của chị Tuyết."
+    },
+    {
+      "block_id": 13,
+      "start": 1989.0,
+      "end": 1992.9,
+      "speaker": "Dustin",
+      "text": "Đây là một tấm hình mà em thấy ở trên Facebook. Chị Post cũng gần đây."
+    },
+    {
+      "block_id": 13,
+      "start": 1993.1,
+      "end": 1994.9,
+      "speaker": "Tuy_t",
+      "text": "Tiếng hát truyền hình trong 92."
+    },
+    {
+      "block_id": 13,
+      "start": 1995.2,
+      "end": 1998.5,
+      "speaker": "Dustin",
+      "text": "Đạt giải nhì một cục móc một cú bật."
+    },
+    {
+      "block_id": 13,
+      "start": 1998.6,
+      "end": 1999.3,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi."
+    },
+    {
+      "block_id": 13,
+      "start": 2000.2,
+      "end": 2006.5,
+      "speaker": "Dustin",
+      "text": "Tiếp theo, cái này thì hồi nãy chị có nói là cặp đôi Cẩm Ly Minh Tuyết."
+    },
+    {
+      "block_id": 13,
+      "start": 2006.5,
+      "end": 2008.8,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi. Cắm tay đây. Minh Tiếp đây."
+    },
+    {
+      "block_id": 13,
+      "start": 2009.7,
+      "end": 2011.6,
+      "speaker": "D_ng",
+      "text": "Cầu trời khách hàng nó giống hả? Cầu trời khách hàng nó giống gì?"
+    },
+    {
+      "block_id": 13,
+      "start": 2012.0,
+      "end": 2015.4,
+      "speaker": "Dustin",
+      "text": "Cũng là một cái. Cú bật. Trong sự nghiệp âm nhạc luôn."
+    },
+    {
+      "block_id": 13,
+      "start": 2015.5,
+      "end": 2016.5,
+      "speaker": "Tuy_t",
+      "text": "Chắc chắn."
+    },
+    {
+      "block_id": 13,
+      "start": 2017.4,
+      "end": 2026.3,
+      "speaker": "Dustin",
+      "text": "Và nếu mà để nói với. Minh Tuyết của những năm 18, 19, 20 này. Chị sẽ nói điều gì. Một minh tuyết hiện tại sẽ nói gì với minh tuyết của 18, 19, 20."
+    },
+    {
+      "block_id": 13,
+      "start": 2027.6,
+      "end": 2032.3,
+      "speaker": "Tuy_t",
+      "text": "Nói là một. Cảm ơn những cái vấp ngã. Cảm ơn những cái sai lầm."
+    },
+    {
+      "block_id": 13,
+      "start": 2033.8,
+      "end": 2041.7,
+      "speaker": "Tuy_t",
+      "text": "Cảm ơn những cái. Vụng dại của thời ấy. Để có một Minh Tiết. Trưởng thành. Ấm áp."
+    },
+    {
+      "block_id": 13,
+      "start": 2043.2,
+      "end": 2044.6,
+      "speaker": "Tuy_t",
+      "text": "Thấu hiểu của ngày hôm nay."
+    },
+    {
+      "block_id": 13,
+      "start": 2049.3,
+      "end": 2050.9,
+      "speaker": "Dustin",
+      "text": "Đây là 10 máy 20."
+    },
+    {
+      "block_id": 13,
+      "start": 2051.0,
+      "end": 2054.2,
+      "speaker": "D_ng",
+      "text": "Cái này là hát bài Cứu Mủ Say với Hương Giang."
+    },
+    {
+      "block_id": 13,
+      "start": 2054.5,
+      "end": 2056.8,
+      "speaker": "Dustin",
+      "text": "Nào Paris By Night số 90."
+    },
+    {
+      "block_id": 13,
+      "start": 2063.2,
+      "end": 2066.3,
+      "speaker": "D_ng",
+      "text": "Thì thấy không, cái tấm hình này, cái tấm này với lại cái tấm hồi nãy là khác không?"
+    },
+    {
+      "block_id": 13,
+      "start": 2066.4,
+      "end": 2070.7,
+      "speaker": "Dustin",
+      "text": "Mỗi một tấm là một khác. Bởi vậy em nhìn có những tấm em không biết là ai là Dũng luôn."
+    },
+    {
+      "block_id": 13,
+      "start": 2070.7,
+      "end": 2071.6,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi đúng rồi."
+    },
+    {
+      "block_id": 13,
+      "start": 2071.7,
+      "end": 2075.8,
+      "speaker": "Dustin",
+      "text": "Nếu để được nói với Dũng của những năm nay, Dũng hiện tại sẽ nói điều gì?"
+    },
+    {
+      "block_id": 13,
+      "start": 2075.9,
+      "end": 2077.1,
+      "speaker": "D_ng",
+      "text": "Vậy thì thành công quá nha."
+    },
+    {
+      "block_id": 13,
+      "start": 2079.9,
+      "end": 2084.2,
+      "speaker": "Dustin",
+      "text": "Ok, để chúc mừng cho sự dậy thì thành công của cả hai."
+    },
+    {
+      "block_id": 13,
+      "start": 2085.8,
+      "end": 2103.8,
+      "speaker": "Dustin",
+      "text": "Thì chúng ta hãy cùng hấp nến để thổi bánh sinh nhật. Bởi vì Dustin biết là vừa qua là chúng ta có sinh nhật của Dũng 29 tháng 9. Sinh nhật của chị Tuyết là 15 tháng 10. Đã sinh cũng 1 tháng 10 luôn. Và xin mời bánh kem của nhà hàng Paris Garden tặng cho 2 chị em."
+    },
+    {
+      "block_id": 13,
+      "start": 2104.0,
+      "end": 2105.5,
+      "speaker": "D_ng",
+      "text": "Chắc nhau ha."
+    },
+    {
+      "block_id": 13,
+      "start": 2105.5,
+      "end": 2107.9,
+      "speaker": "Dustin",
+      "text": "3 con thiên bình Libra."
+    },
+    {
+      "block_id": 13,
+      "start": 2108.1,
+      "end": 2110.1,
+      "speaker": "D_ng",
+      "text": "Hảo nào mê đẹp nhịp cảm."
+    },
+    {
+      "block_id": 13,
+      "start": 2111.4,
+      "end": 2123.6,
+      "speaker": "Dustin",
+      "text": "Happy Birthday to you. Happy Birthday to you. Happy Birthday. Happy Birthday. Happy Birthday to you."
+    },
+    {
+      "block_id": 13,
+      "start": 2125.3,
+      "end": 2143.8,
+      "speaker": "Tuy_t",
+      "text": "Dạ, cảm ơn, thank you, thank you. Năm nay quá nhiều cái hạnh phúc đi mọi người ơi. Thôi để chị đại diện ba người chị nói luôn nha. Tại chị già nhất. Chúng tôi là những người nghệ sĩ. Nghệ sĩ thì chúng tôi không cầu mong gì hết. Chỉ cầu mong là luôn luôn được khán giả yêu thương."
+    },
+    {
+      "block_id": 14,
+      "start": 2145.3,
+      "end": 2156.5,
+      "speaker": "Tuy_t",
+      "text": "Luôn luôn được bận rộn chạy show. Để chúng tôi có thể cống hiến hết tuổi thanh xuân của mình. Lẫn kể cả khi chúng tôi về già. Khán giả vẫn yêu mến."
+    },
+    {
+      "block_id": 14,
+      "start": 2159.3,
+      "end": 2163.1,
+      "speaker": "Tuy_t",
+      "text": "Chúng tôi thì ở nơi đâu có khán giả là ở nơi đó. Đều có tính tôn hết."
+    },
+    {
+      "block_id": 14,
+      "start": 2168.3,
+      "end": 2184.1,
+      "speaker": "Dustin",
+      "text": "Thay mặt cho team Dustin On The Go. Chúc cho chị Minh Tuyết và Mai Tiến Dũng. Sẽ luôn ở trong team của khán giả. Phải hoạt động ở Việt Nam nhiều hơn. Tụi em được xem, được nghe những ca khúc mà mọi người trình diễn. Và sẽ được mời mọi người lại top show nhiều."
+    },
+    {
+      "block_id": 15,
+      "start": 2231.7,
+      "end": 2232.9,
+      "speaker": "Dustin",
+      "text": "Trò chơi thứ 2."
+    },
+    {
+      "block_id": 15,
+      "start": 2234.9,
+      "end": 2236.7,
+      "speaker": "Dustin",
+      "text": "Hà uống còn hơn."
+    },
+    {
+      "block_id": 15,
+      "start": 2240.6,
+      "end": 2242.6,
+      "speaker": "Dustin",
+      "text": "Nếu chị trả lời được thì chị thoát thôi."
+    },
+    {
+      "block_id": 15,
+      "start": 2243.8,
+      "end": 2245.8,
+      "speaker": "Dustin",
+      "text": "Đó xin đăng cầm câu hỏi của Dũng và Dũng."
+    },
+    {
+      "block_id": 15,
+      "start": 2248.3,
+      "end": 2249.8,
+      "speaker": "Dustin",
+      "text": "Vậy thì ai sẽ là người bắt đầu?"
+    },
+    {
+      "block_id": 15,
+      "start": 2250.2,
+      "end": 2251.6,
+      "speaker": "D_ng",
+      "text": "Thua bắt đầu, thua là người."
+    },
+    {
+      "block_id": 15,
+      "start": 2252.2,
+      "end": 2257.8,
+      "speaker": "Dustin",
+      "text": "Thu là người bắt đầu hỏi nha 1, 2, 3 1, 2, 3."
+    },
+    {
+      "block_id": 15,
+      "start": 2259.1,
+      "end": 2260.4,
+      "speaker": "Dustin",
+      "text": "Vậy là mình hỏi bạn."
+    },
+    {
+      "block_id": 15,
+      "start": 2267.1,
+      "end": 2281.9,
+      "speaker": "Dustin",
+      "text": "Lật chơi là nếu mình hỏi bạn phải trả lời thật, nếu bạn không trả lời thì bạn uống một ly. Nếu bạn trả lời thật, mình uống một ly. So easy đúng không? Nếu Mai Tiến Dũng trở thành khán giả bình chọn trực tiếp tại sân khấu Chị Đẹp."
+    },
+    {
+      "block_id": 15,
+      "start": 2283.6,
+      "end": 2291.6,
+      "speaker": "Dustin",
+      "text": "Hiện tại số vote của các thành viên bằng nhau. Thì Dũng sẽ vote cho ai bị loại. Giữa ca sĩ Minh Tuyết và ca sĩ Tóc Tiên."
+    },
+    {
+      "block_id": 15,
+      "start": 2293.5,
+      "end": 2294.6,
+      "speaker": "D_ng",
+      "text": "Biệt vời."
+    },
+    {
+      "block_id": 15,
+      "start": 2294.9,
+      "end": 2296.1,
+      "speaker": "Tuy_t",
+      "text": "Oh my God."
+    },
+    {
+      "block_id": 15,
+      "start": 2296.9,
+      "end": 2298.3,
+      "speaker": "Dustin",
+      "text": "Bạn uống hay bạn trả lời thật."
+    },
+    {
+      "block_id": 15,
+      "start": 2301.0,
+      "end": 2302.9,
+      "speaker": "D_ng",
+      "text": "Cái này khó tại vì."
+    },
+    {
+      "block_id": 15,
+      "start": 2305.0,
+      "end": 2306.2,
+      "speaker": "Tuy_t",
+      "text": "Bình chị, bình em."
+    },
+    {
+      "block_id": 15,
+      "start": 2311.2,
+      "end": 2312.1,
+      "speaker": "D_ng",
+      "text": "Hơi ổn định."
+    },
+    {
+      "block_id": 15,
+      "start": 2312.4,
+      "end": 2315.8,
+      "speaker": "Dustin",
+      "text": "Thà uống đi, thà uống còn hơn đi. Mời Dũng."
+    },
+    {
+      "block_id": 15,
+      "start": 2316.3,
+      "end": 2317.3,
+      "speaker": "D_ng",
+      "text": "Tài hiểu rồi đó."
+    },
+    {
+      "block_id": 15,
+      "start": 2317.6,
+      "end": 2318.4,
+      "speaker": "Tuy_t",
+      "text": "Ơi."
+    },
+    {
+      "block_id": 15,
+      "start": 2319.4,
+      "end": 2320.8,
+      "speaker": "D_ng",
+      "text": "Là ai em cũng thương."
+    },
+    {
+      "block_id": 15,
+      "start": 2321.3,
+      "end": 2323.0,
+      "speaker": "Tuy_t",
+      "text": "Thì đó bên chị bên em."
+    },
+    {
+      "block_id": 15,
+      "start": 2323.3,
+      "end": 2324.0,
+      "speaker": "D_ng",
+      "text": "Nhìn nó đậm quá."
+    },
+    {
+      "block_id": 15,
+      "start": 2326.2,
+      "end": 2328.3,
+      "speaker": "Dustin",
+      "text": "Chương trình mà bác phải chọn thì sao ra."
+    },
+    {
+      "block_id": 15,
+      "start": 2329.8,
+      "end": 2331.9,
+      "speaker": "Dustin",
+      "text": "Không lẽ đứng đó ngồi cho em xin ly nước đắng."
+    },
+    {
+      "block_id": 15,
+      "start": 2332.1,
+      "end": 2337.0,
+      "speaker": "Tuy_t",
+      "text": "Không đến lúc đó chị nghĩ nè, chị trả lời cho Dũng đúng không, Dũng sẽ bê trên cái tiết mục."
+    },
+    {
+      "block_id": 15,
+      "start": 2337.0,
+      "end": 2339.2,
+      "speaker": "D_ng",
+      "text": "Đúng đó em đang nói, tại vì bây giờ mình chưa."
+    },
+    {
+      "block_id": 15,
+      "start": 2339.3,
+      "end": 2346.6,
+      "speaker": "Tuy_t",
+      "text": "Tại vì khi mà Dũng bê xin tiết mục đó. Thì không có chị hay đứa em nào chắc được hết. Ai good hơn cũng sẽ chọn cái tiết mục đó."
+    },
+    {
+      "block_id": 15,
+      "start": 2346.7,
+      "end": 2350.3,
+      "speaker": "Dustin",
+      "text": "Đúng rồi. Có sợ bị ném đá không?"
+    },
+    {
+      "block_id": 15,
+      "start": 2351.7,
+      "end": 2353.3,
+      "speaker": "Dustin",
+      "text": "Chọn đường nào cũng nếm mới đúng không?"
+    },
+    {
+      "block_id": 15,
+      "start": 2353.4,
+      "end": 2356.7,
+      "speaker": "D_ng",
+      "text": "Đúng, đường của bì ném mà. Thôi thì thôi mình cứ thật lòng."
+    },
+    {
+      "block_id": 15,
+      "start": 2356.7,
+      "end": 2358.5,
+      "speaker": "Tuy_t",
+      "text": "Rỡ hơn về hai chị nếm em."
+    },
+    {
+      "block_id": 15,
+      "start": 2361.3,
+      "end": 2367.9,
+      "speaker": "D_ng",
+      "text": "Cái này cũng khá hay. Em thấy cái này coi hay nè. Một hiểu lầm với đồng nghiệp. Trong quá khứ. Nhưng chưa từng được lên tiếng tiếng chính."
+    },
+    {
+      "block_id": 15,
+      "start": 2369.2,
+      "end": 2370.7,
+      "speaker": "Tuy_t",
+      "text": "Tức là người ta hiểu lầm mình á à."
+    },
+    {
+      "block_id": 15,
+      "start": 2371.3,
+      "end": 2375.3,
+      "speaker": "Dustin",
+      "text": "Không, ngược lại cũng được. Hiểu lầm nó chung giữa mình với đồng nghiệp mà chưa bao giờ đính chính."
+    },
+    {
+      "block_id": 15,
+      "start": 2375.3,
+      "end": 2378.8,
+      "speaker": "Tuy_t",
+      "text": "Cho tới ngày hôm nay thì mình không biết rằng là mình có cái điều đó."
+    },
+    {
+      "block_id": 15,
+      "start": 2379.1,
+      "end": 2380.8,
+      "speaker": "D_ng",
+      "text": "Được lòng mọi người đó."
+    },
+    {
+      "block_id": 15,
+      "start": 2380.8,
+      "end": 2387.2,
+      "speaker": "Tuy_t",
+      "text": "Không phải được lòng. Nhiều khi người ta giận mình mà mình không biết á. Sao mình biết được? Người ta không nói là gì mình biết?"
+    },
+    {
+      "block_id": 15,
+      "start": 2387.4,
+      "end": 2388.0,
+      "speaker": "D_ng",
+      "text": "Chắc không?"
+    },
+    {
+      "block_id": 15,
+      "start": 2388.4,
+      "end": 2390.6,
+      "speaker": "Tuy_t",
+      "text": "Ví dụ người ta giận chị là."
+    },
+    {
+      "block_id": 15,
+      "start": 2390.5,
+      "end": 2391.1,
+      "speaker": "D_ng",
+      "text": "Không?"
+    },
+    {
+      "block_id": 15,
+      "start": 2391.3,
+      "end": 2391.8,
+      "speaker": "Tuy_t",
+      "text": "Chị chắc."
+    },
+    {
+      "block_id": 15,
+      "start": 2391.9,
+      "end": 2395.4,
+      "speaker": "D_ng",
+      "text": "Em nghĩ là ai cũng có ích ích với chị."
+    },
+    {
+      "block_id": 15,
+      "start": 2395.8,
+      "end": 2397.5,
+      "speaker": "Tuy_t",
+      "text": "Nhưng mà vấn đề là chị không biết ai."
+    },
+    {
+      "block_id": 15,
+      "start": 2397.8,
+      "end": 2398.7,
+      "speaker": "D_ng",
+      "text": "Tất cả mọi người."
+    },
+    {
+      "block_id": 16,
+      "start": 2398.9,
+      "end": 2402.1,
+      "speaker": "Tuy_t",
+      "text": "Vậy sao? Vậy chị nghe không? Ai nói 1, 2, 3."
+    },
+    {
+      "block_id": 16,
+      "start": 2400.0,
+      "end": 2400.8,
+      "speaker": "D_ng",
+      "text": "Ngon ngon không?"
+    },
+    {
+      "block_id": 16,
+      "start": 2402.4,
+      "end": 2403.6,
+      "speaker": "D_ng",
+      "text": "Vẫn mãi là người đến sau."
+    },
+    {
+      "block_id": 16,
+      "start": 2406.9,
+      "end": 2412.5,
+      "speaker": "D_ng",
+      "text": "Thấy sao, nói đùa là sao. Phải cho các sao ca nhạc, đi lưu diễn với mọi người á. Xe mới xuống rồi mà."
+    },
+    {
+      "block_id": 16,
+      "start": 2419.2,
+      "end": 2420.2,
+      "speaker": "Dustin",
+      "text": "Đang giậm."
+    },
+    {
+      "block_id": 16,
+      "start": 2428.6,
+      "end": 2429.8,
+      "speaker": "D_ng",
+      "text": "Nhưng mà rất là vui."
+    },
+    {
+      "block_id": 16,
+      "start": 2429.8,
+      "end": 2434.9,
+      "speaker": "Dustin",
+      "text": "Nghĩa là mọi người cũng chờ đợi chị, cũng mệt không? Cũng mệt chứ."
+    },
+    {
+      "block_id": 16,
+      "start": 2435.0,
+      "end": 2438.5,
+      "speaker": "Tuy_t",
+      "text": "Cái đó nó không là một cái hiểu lầm."
+    },
+    {
+      "block_id": 16,
+      "start": 2438.8,
+      "end": 2439.5,
+      "speaker": "D_ng",
+      "text": "Nhưng mà nó vui."
+    },
+    {
+      "block_id": 16,
+      "start": 2440.4,
+      "end": 2448.3,
+      "speaker": "Tuy_t",
+      "text": "Bản thân của chị thì không có thích xích mích với người khác. Và không thích có sự gúc mắt với người khác."
+    },
+    {
+      "block_id": 16,
+      "start": 2448.3,
+      "end": 2453.4,
+      "speaker": "Dustin",
+      "text": "Nếu mà lỡ có nghe đâu đó thì chị có làm rõi luôn vấn đề luôn hay là chị cho qua nếu mà có ai."
+    },
+    {
+      "block_id": 16,
+      "start": 2453.4,
+      "end": 2454.9,
+      "speaker": "Tuy_t",
+      "text": "Ví dụ như là."
+    },
+    {
+      "block_id": 16,
+      "start": 2456.2,
+      "end": 2496.8,
+      "speaker": "Tuy_t",
+      "text": "Ngày xưa đi, chị với tâm đoan có một chút xíu hiểu lầm. Tới một ngày thì chị nói chuyện thẳng với tâm đoan luôn. Với lại tâm đoan cũng nói chuyện thẳng. Chị nói là bà đang giận tôi. Hoặc là vậy đó. Nhưng mà mình phải cảm nhận được là người ta có cái lòng thành muốn làm bạn với mình hay không. Còn ví dụ cái người đối phương. Không có muốn một chút gì đó thì mình có giải thích cũng bằng thừa tính cách của chị đi, ví dụ giờ người đó đang làm có một cái điều không hay. Một thời gian chị gặp lại người ấy. Thì người ấy cho chị một cái cảm nhận. Rằng người ấy muốn làm lành. Thì chị rất sẵn lòng để làm lành với người ấy. Nguyên tâm bỏ lời chị trước thì chị sẽ."
+    },
+    {
+      "block_id": 16,
+      "start": 2498.1,
+      "end": 2510.1,
+      "speaker": "Tuy_t",
+      "text": "Bởi vì chị bản tính của chị. Chị không thích có nhiều kẻ thù. Chị không thích có cái stress ở trong đầu. Bởi vì đối với chị là tìm một người. Nó rất là khó hơn tìm một kẻ thù."
+    },
+    {
+      "block_id": 16,
+      "start": 2511.8,
+      "end": 2519.8,
+      "speaker": "Dustin",
+      "text": "Đúng. Chúng ta phải lấy cái tình bao dung, tình yêu. Để hóa giải những cái hận thù. Vậy thì bây giờ mình lấy nước đắng."
+    },
+    {
+      "block_id": 16,
+      "start": 2520.4,
+      "end": 2522.0,
+      "speaker": "Tuy_t",
+      "text": "Ủa chị trả lời rồi."
+    },
+    {
+      "block_id": 16,
+      "start": 2523.9,
+      "end": 2526.2,
+      "speaker": "Dustin",
+      "text": "Vậy thì ai uống? Vậy thì ai uống?"
+    },
+    {
+      "block_id": 16,
+      "start": 2528.4,
+      "end": 2529.6,
+      "speaker": "Tuy_t",
+      "text": "Đặt ra câu hỏi."
+    },
+    {
+      "block_id": 16,
+      "start": 2529.7,
+      "end": 2532.0,
+      "speaker": "D_ng",
+      "text": "Cái này là biên tập đưa tôi không có biết."
+    },
+    {
+      "block_id": 16,
+      "start": 2534.1,
+      "end": 2536.6,
+      "speaker": "Dustin",
+      "text": "Vậy là không có câu trả lời thì là người hỏi phải uống."
+    },
+    {
+      "block_id": 16,
+      "start": 2536.6,
+      "end": 2537.6,
+      "speaker": "Tuy_t",
+      "text": "Đúng rồi."
+    },
+    {
+      "block_id": 16,
+      "start": 2540.9,
+      "end": 2542.2,
+      "speaker": "D_ng",
+      "text": "Biên tập nào uống thế tôi coi."
+    },
+    {
+      "block_id": 16,
+      "start": 2543.0,
+      "end": 2545.5,
+      "speaker": "Dustin",
+      "text": "Đắng nó đẹp da. Uống đi Dũng."
+    },
+    {
+      "block_id": 16,
+      "start": 2546.8,
+      "end": 2548.0,
+      "speaker": "Dustin",
+      "text": "Bé Dũng mà."
+    },
+    {
+      "block_id": 16,
+      "start": 2548.4,
+      "end": 2550.9,
+      "speaker": "Tuy_t",
+      "text": "Ngày mai da bé sẽ như da em bé."
+    },
+    {
+      "block_id": 16,
+      "start": 2552.7,
+      "end": 2553.4,
+      "speaker": "D_ng",
+      "text": "Nói tới."
+    },
+    {
+      "block_id": 16,
+      "start": 2558.3,
+      "end": 2559.0,
+      "speaker": "Tuy_t",
+      "text": "Hẹn gặp lại."
+    },
+    {
+      "block_id": 16,
+      "start": 2559.5,
+      "end": 2569.1,
+      "speaker": "Dustin",
+      "text": "Trời ơi, em uống trước, em lấy tinh thần. Nếu được hack Facebook một người nổi tiếng Dustin muốn hack Facebook của ai?"
+    },
+    {
+      "block_id": 17,
+      "start": 2570.7,
+      "end": 2582.7,
+      "speaker": "Dustin",
+      "text": "Và làm gì sau khi chiếm được tài khoản đó. Ủa hát Facebook để làm cái gì ta? Tất nhiên là Dustin là một con thiên bình rất là ngoại giao. Không bao giờ mình làm những chuyện sau lưng."
+    },
+    {
+      "block_id": 17,
+      "start": 2582.8,
+      "end": 2594.4,
+      "speaker": "D_ng",
+      "text": "Nói chung là Thiên Bình là bạn tính, em thấy là cũng hơi giống giống, chị em này giống giống nhau là Thiên Bình ở chỗ là không thích xích nước với ai. Và lỡ có xích mích á, một là thôi mình tự tắt luôn để mình không bị dứt đầu. Đúng rồi."
+    },
+    {
+      "block_id": 17,
+      "start": 2593.6,
+      "end": 2594.3,
+      "speaker": "Tuy_t",
+      "text": "Bước đầu."
+    },
+    {
+      "block_id": 17,
+      "start": 2595.1,
+      "end": 2598.6,
+      "speaker": "D_ng",
+      "text": "Mình nghĩ là ít nhiều gì sau này trong tương lai mình gặp lại nhau, mình vẫn chào nhau được."
+    },
+    {
+      "block_id": 17,
+      "start": 2599.8,
+      "end": 2612.5,
+      "speaker": "D_ng",
+      "text": "Nhưng cái bạn tính chung nữa là nếu gặp lại người đó và mình thấy tình cảm là đúng thật sự là. Mước ra mình giải quyết vấn đề luôn là. Ê tôi nghe vậy nè. Tôi muốn làm rõ cho tôi không có ý vậy đâu. Để sao? Để mình cùng nhau tìm sự thanh thản."
+    },
+    {
+      "block_id": 17,
+      "start": 2614.5,
+      "end": 2623.1,
+      "speaker": "Dustin",
+      "text": "Cho nên em sẽ uống. Để em nói là nếu mà bạn mà có tư tưởng đi hack Facebook người khác. Facebook bạn cũng sẽ bị hack đầu tiên. Thôi đừng dữ vậy."
+    },
+    {
+      "block_id": 17,
+      "start": 2626.8,
+      "end": 2633.9,
+      "speaker": "Dustin",
+      "text": "Câu này cho Mai Tiến Dũng. Một điều mà Mai Tiến Dũng thấy mình rất xịn, rất giỏi. Mà chưa có dịp show ra cho mọi người biết bao giờ."
+    },
+    {
+      "block_id": 17,
+      "start": 2633.9,
+      "end": 2634.7,
+      "speaker": "D_ng",
+      "text": "Trời đất ơi."
+    },
+    {
+      "block_id": 17,
+      "start": 2636.0,
+      "end": 2638.4,
+      "speaker": "D_ng",
+      "text": "Có khi nào em vô tình em show ra mẹ không biết không ta?"
+    },
+    {
+      "block_id": 17,
+      "start": 2638.7,
+      "end": 2640.4,
+      "speaker": "Dustin",
+      "text": "Cái gì đó rất là."
+    },
+    {
+      "block_id": 17,
+      "start": 2647.0,
+      "end": 2647.9,
+      "speaker": "Dustin",
+      "text": "Hầm kính."
+    },
+    {
+      "block_id": 17,
+      "start": 2650.1,
+      "end": 2653.7,
+      "speaker": "D_ng",
+      "text": "Thầm kính mà mọi người không bao giờ biết đó hả? Mà em rất giỏi."
+    },
+    {
+      "block_id": 17,
+      "start": 2665.6,
+      "end": 2669.5,
+      "speaker": "Tuy_t",
+      "text": "Chuyện chỉ em trong nhà. Tại sao em không có nói."
+    },
+    {
+      "block_id": 17,
+      "start": 2678.3,
+      "end": 2682.5,
+      "speaker": "D_ng",
+      "text": "Có một chi tiết thậm kính thôi. Rất xịn, rất giỏi hả?"
+    },
+    {
+      "block_id": 17,
+      "start": 2682.5,
+      "end": 2684.6,
+      "speaker": "Dustin",
+      "text": "Chưa có dịp show ra vậy thôi."
+    },
+    {
+      "block_id": 17,
+      "start": 2684.7,
+      "end": 2687.3,
+      "speaker": "D_ng",
+      "text": "Cũng có vài cái tài lẻ đấy ví dụ như là."
+    },
+    {
+      "block_id": 17,
+      "start": 2687.3,
+      "end": 2692.0,
+      "speaker": "Tuy_t",
+      "text": "Dũng rất khéo tay nha make up rất đẹp làm tóc rất đẹp làm nail."
+    },
+    {
+      "block_id": 17,
+      "start": 2693.1,
+      "end": 2708.6,
+      "speaker": "D_ng",
+      "text": "Rất là nghề giống nhà rồi. Ví dụ như xây nhà sửa chữa. Coding là Dũng biết. Tại vì từ nhỏ thì bố em mất sớm cho nên là những cái mà trong nhà thường thường mọi người sẽ làm. Bình Mỹ nó sẽ mắc bình mưu muốn bất cứ ai."
+    },
+    {
+      "block_id": 17,
+      "start": 2708.8,
+      "end": 2709.8,
+      "speaker": "Dustin",
+      "text": "Đúng rồi, phải tự làm."
+    },
+    {
+      "block_id": 17,
+      "start": 2710.2,
+      "end": 2711.7,
+      "speaker": "D_ng",
+      "text": "Thì có những cái là em tầm phải."
+    },
+    {
+      "block_id": 17,
+      "start": 2713.5,
+      "end": 2733.3,
+      "speaker": "D_ng",
+      "text": "Thật sự chị thấy luôn là từ make up hay làm tóc là em phải tự. Mà không ai chỉ hết, như là mình đọc sách báo. Mình tìm lại, những cái trick người ta chỉ á, là phải nhớ. Ví dụ ống nước sữa hư sao, sả ống nước sữa sao là phải sửa sữa. Xinh bồn nó bị hư, bếp ga là tất cả những cái đó mình phải nhớ. Ngoài trừ là xe thì em chỉ đụng chạm bao nhiêu thôi nhưng mà nói chung là trong cuộc sống hàng ngày."
+    },
+    {
+      "block_id": 17,
+      "start": 2733.4,
+      "end": 2735.5,
+      "speaker": "Tuy_t",
+      "text": "Nhưng mà em phải khéo tay cơ. Thì mới được."
+    },
+    {
+      "block_id": 18,
+      "start": 2735.6,
+      "end": 2751.8,
+      "speaker": "D_ng",
+      "text": "Hôm mà em đi đặt mua cái nhà bên Mỹ. Thật sự nha, kinh phí nó quá cao. Mình buộc phải làm. Em nâng sàn đó chị Tuyết là cái một bên nhà nó bị thấp hơn khoảng thì cái em nâng sàn đó là em với chị gái là tự tìm tòi, mua gỗ về, tự nâng sàn, tự lót sàn."
+    },
+    {
+      "block_id": 18,
+      "start": 2753.1,
+      "end": 2766.2,
+      "speaker": "D_ng",
+      "text": "Nói chung là những cái đó là nhiều khi mọi người không đấy. Tại vì bà chị thì thấy. Chị muốn ở bên Mỹ. Chị muốn thèm tránh dây lắm. Trồng tránh dây cho nó mát vườn. Rồi ai đóng cái vườn cho bạn, ai đóng cái giàn leo."
+    },
+    {
+      "block_id": 18,
+      "start": 2766.3,
+      "end": 2767.6,
+      "speaker": "Dustin",
+      "text": "Trời ơi, dụng đấm luôn."
+    },
+    {
+      "block_id": 18,
+      "start": 2767.7,
+      "end": 2768.4,
+      "speaker": "D_ng",
+      "text": "Đóng luôn."
+    },
+    {
+      "block_id": 18,
+      "start": 2769.0,
+      "end": 2771.0,
+      "speaker": "Tuy_t",
+      "text": "Vợ quá, dũng vợ."
+    },
+    {
+      "block_id": 18,
+      "start": 2772.3,
+      "end": 2777.1,
+      "speaker": "Tuy_t",
+      "text": "Chị cũng thích chồng thăng long với Dũng. Chị cũng thích chồng thăng long với Dũng. Bữa nào ở nhà chị cũng nói chuyện với dũng."
+    },
+    {
+      "block_id": 18,
+      "start": 2779.3,
+      "end": 2781.6,
+      "speaker": "Dustin",
+      "text": "Anh cũng cần thông nước ống nước nhà anh đó vô."
+    },
+    {
+      "block_id": 18,
+      "start": 2789.5,
+      "end": 2792.0,
+      "speaker": "Dustin",
+      "text": "Bốt phải dọn kế bên nhà Dũng. Thì có gì nhờ Dũng mà thông."
+    },
+    {
+      "block_id": 18,
+      "start": 2793.9,
+      "end": 2796.7,
+      "speaker": "Dustin",
+      "text": "Dễ thương, ok chịu. Vậy là anh uống hả?"
+    },
+    {
+      "block_id": 18,
+      "start": 2797.8,
+      "end": 2801.7,
+      "speaker": "D_ng",
+      "text": "Nên giản thôi, mình trà bày ra cái trò này mà có gì đâu ba anh này. Đáng nha đáng thiệt."
+    },
+    {
+      "block_id": 18,
+      "start": 2803.1,
+      "end": 2805.8,
+      "speaker": "D_ng",
+      "text": "Thật sự nếu mà đốt tiệt thì mỗi ngày nên uống 1 ly để đào thải."
+    },
+    {
+      "block_id": 18,
+      "start": 2806.1,
+      "end": 2808.9,
+      "speaker": "Dustin",
+      "text": "Rồi mình đọc câu hỏi cho tỷ tiết đi để coi ai."
+    },
+    {
+      "block_id": 18,
+      "start": 2809.4,
+      "end": 2814.8,
+      "speaker": "Tuy_t",
+      "text": "Nãy giờ chị uống uống nha. Sao? Chị hứa chị trả lời thật câu này nha. Ủa mắc gì? Cứ hỏi đi."
+    },
+    {
+      "block_id": 18,
+      "start": 2815.2,
+      "end": 2816.9,
+      "speaker": "D_ng",
+      "text": "Câu này sẽ bù trừ cho câu trước nè."
+    },
+    {
+      "block_id": 18,
+      "start": 2819.8,
+      "end": 2821.6,
+      "speaker": "Dustin",
+      "text": "Là câu chữ là chị thoát đúng không?"
+    },
+    {
+      "block_id": 18,
+      "start": 2821.7,
+      "end": 2823.5,
+      "speaker": "D_ng",
+      "text": "À nhưng mà cô này sẽ bù trữ trước nè."
+    },
+    {
+      "block_id": 18,
+      "start": 2823.6,
+      "end": 2826.0,
+      "speaker": "Tuy_t",
+      "text": "Rồi, nói đi. Nói! Cầm trước."
+    },
+    {
+      "block_id": 18,
+      "start": 2827.5,
+      "end": 2831.0,
+      "speaker": "D_ng",
+      "text": "Từng ngồi giám khảo chung với nghệ sĩ Trấn Thành."
+    },
+    {
+      "block_id": 18,
+      "start": 2850.5,
+      "end": 2852.0,
+      "speaker": "Tuy_t",
+      "text": "Tự nhiên chị cảm thấy trong người nóng."
+    },
+    {
+      "block_id": 18,
+      "start": 2852.0,
+      "end": 2854.1,
+      "speaker": "D_ng",
+      "text": "Uống nước đậm cho nó mát."
+    },
+    {
+      "block_id": 18,
+      "start": 2864.5,
+      "end": 2866.9,
+      "speaker": "Dustin",
+      "text": "Câu hỏi A. À, trời."
+    },
+    {
+      "block_id": 18,
+      "start": 2868.2,
+      "end": 2870.1,
+      "speaker": "Tuy_t",
+      "text": "À đẳng rồi à."
+    },
+    {
+      "block_id": 18,
+      "start": 2890.3,
+      "end": 2895.0,
+      "speaker": "D_ng",
+      "text": "Chị Tuyết có nhìn xuống như vậy đi. Thấy sao không? Thức đẹp quá, hôm nay thức đẹp quá, make up."
+    },
+    {
+      "block_id": 18,
+      "start": 2899.7,
+      "end": 2908.0,
+      "speaker": "Tuy_t",
+      "text": "Một cổng tươi trong showdisc mà Dustin thấy đẹp và phát sáng khiến tất cả trong Dustin phải dừng lại."
+    },
+    {
+      "block_id": 18,
+      "start": 2909.1,
+      "end": 2912.5,
+      "speaker": "Dustin",
+      "text": "Và Dustin chỉ muốn đắm chìm trong cái cộng tư đó, đó là ai?"
+    },
+    {
+      "block_id": 19,
+      "start": 2914.3,
+      "end": 2917.7,
+      "speaker": "Dustin",
+      "text": "Một cọng tươi phát sáng khiến mình phải dừng lại."
+    },
+    {
+      "block_id": 19,
+      "start": 2921.3,
+      "end": 2923.0,
+      "speaker": "Tuy_t",
+      "text": "Và mình muốn ở bên người đó."
+    },
+    {
+      "block_id": 19,
+      "start": 2924.4,
+      "end": 2926.6,
+      "speaker": "Tuy_t",
+      "text": "Chị là người hỏi chị có quyền."
+    },
+    {
+      "block_id": 19,
+      "start": 2927.0,
+      "end": 2929.6,
+      "speaker": "D_ng",
+      "text": "Chị cộng thêm nhiều vế sau á."
+    },
+    {
+      "block_id": 19,
+      "start": 2930.8,
+      "end": 2931.7,
+      "speaker": "Dustin",
+      "text": "Nhiều năm trước."
+    },
+    {
+      "block_id": 19,
+      "start": 2931.7,
+      "end": 2932.4,
+      "speaker": "D_ng",
+      "text": "Nhiều năm trước hả?"
+    },
+    {
+      "block_id": 19,
+      "start": 2935.3,
+      "end": 2936.6,
+      "speaker": "Dustin",
+      "text": "Vài năm trước, vài năm trước là em mới thấy cái thứ này. Vài năm trước, vài năm trước là em mới thấy cái thứ này. Cảm ơn các bạn."
+    },
+    {
+      "block_id": 19,
+      "start": 2939.2,
+      "end": 2940.2,
+      "speaker": "Dustin",
+      "text": "Dễ hả?"
+    },
+    {
+      "block_id": 19,
+      "start": 2942.2,
+      "end": 2943.6,
+      "speaker": "Dustin",
+      "text": "Em đã."
+    },
+    {
+      "block_id": 19,
+      "start": 2943.6,
+      "end": 2944.6,
+      "speaker": "D_ng",
+      "text": "Đừng có đã, hiện tại."
+    },
+    {
+      "block_id": 19,
+      "start": 2946.1,
+      "end": 2949.1,
+      "speaker": "D_ng",
+      "text": "Không có thời điểm quá khứ. Thì hiện tại dù tôi đi thì hiện tại."
+    },
+    {
+      "block_id": 19,
+      "start": 2949.2,
+      "end": 2951.3,
+      "speaker": "Dustin",
+      "text": "Mai Tiến Dũng. Mai Tiến Dũng."
+    },
+    {
+      "block_id": 19,
+      "start": 2955.8,
+      "end": 2957.1,
+      "speaker": "Dustin",
+      "text": "Chú thấy dại vô."
+    },
+    {
+      "block_id": 19,
+      "start": 2963.1,
+      "end": 2966.6,
+      "speaker": "Tuy_t",
+      "text": "Giả dối. Giả dối là phải uống gấp bồ."
+    },
+    {
+      "block_id": 19,
+      "start": 2972.7,
+      "end": 2984.5,
+      "speaker": "Dustin",
+      "text": "Cho giải thích. Đã từng mời Mai Tiến Dũng lên show rất lâu rồi. Vì gặp ở event. Nhưng mà Mai Tiến Dũng chưa có trả lời. Cho nên là mãi tới bây giờ luôn. Cho nên mới nói là vài năm trước là vậy. Dũng có thể mở tin nhắn ra coi."
+    },
+    {
+      "block_id": 19,
+      "start": 2984.9,
+      "end": 2988.4,
+      "speaker": "Tuy_t",
+      "text": "Không, mời talk show là bình thường. Em có cảm giác đó không?"
+    },
+    {
+      "block_id": 19,
+      "start": 2990.4,
+      "end": 2991.9,
+      "speaker": "Dustin",
+      "text": "Không nhưng mà mắt chết chết kìa."
+    },
+    {
+      "block_id": 19,
+      "start": 2991.9,
+      "end": 2995.5,
+      "speaker": "D_ng",
+      "text": "Chớp đâu, thì chị là, tại vì cái câu cái vế sau là gì, cái vế."
+    },
+    {
+      "block_id": 19,
+      "start": 2995.9,
+      "end": 2996.9,
+      "speaker": "Tuy_t",
+      "text": "Hiện tại."
+    },
+    {
+      "block_id": 19,
+      "start": 2996.9,
+      "end": 3000.2,
+      "speaker": "D_ng",
+      "text": "Nguyên cải nè. Rồi còn phải đắm chìm trong đó."
+    },
+    {
+      "block_id": 19,
+      "start": 3000.2,
+      "end": 3001.0,
+      "speaker": "Dustin",
+      "text": "Biết hả?"
+    },
+    {
+      "block_id": 19,
+      "start": 3001.0,
+      "end": 3010.6,
+      "speaker": "Tuy_t",
+      "text": "Tại vì cái người mà người ta cảm nhận được cái năng lượng đó là người ta dễ biết lắm. Người đối diện người ta nếu mà có cái năng lượng nó hội cảm nhận được liền. Thấy chưa uống, 1, 2, 3."
+    },
+    {
+      "block_id": 19,
+      "start": 3012.3,
+      "end": 3016.0,
+      "speaker": "Dustin",
+      "text": "Mình một lòng một giả thôi, mình chỉ nói là có mật mình mà tới bên uống nè."
+    },
+    {
+      "block_id": 19,
+      "start": 3020.1,
+      "end": 3022.9,
+      "speaker": "Dustin",
+      "text": "Công bố những tin nhắn. Tôi đã nhắn rút rất là lâu."
+    },
+    {
+      "block_id": 19,
+      "start": 3026.3,
+      "end": 3029.1,
+      "speaker": "D_ng",
+      "text": "Mà tại Vũng ở hơi xa, chị lúc đó là Vũng chú Việt."
+    },
+    {
+      "block_id": 19,
+      "start": 3030.5,
+      "end": 3033.0,
+      "speaker": "Dustin",
+      "text": "Nhưng mà xin lỗi, đã lỡ chuyến đò rồi."
+    },
+    {
+      "block_id": 20,
+      "start": 3036.0,
+      "end": 3065.7,
+      "speaker": "Dustin",
+      "text": "Thôi không sao, mình đã uống rồi. Trò chơi cũng đã xong rồi. Mình rất là vui. Thì mình qua đến một cái chủ đề. Mà Dustin nghĩ là tất cả mọi người chúng ta. Thì nhiều người quan tâm. Mà mình không biết là hai anh chị. Có từng quan tâm không. Đó là content. Dạo gần đây thì nghệ sĩ ai cũng cần. Phải có một cái social life. Nó khác với lại. Việc mình đi diễn, mình tiếp xúc khán giả ở ngoài. Mà mình phải có mạng xã hội. Mình phải có những cái. Mọi người có bị bối rối khi nghe tới cái chữ content này không?"
+    },
+    {
+      "block_id": 20,
+      "start": 3065.7,
+      "end": 3105.5,
+      "speaker": "Tuy_t",
+      "text": "Nếu như mà trước sâu chị đẹp. Mới hỏi chị câu đó thì chị có thể bối rối đấy. Bởi vì nghệ sĩ sống ở hải ngoại. Họ khá là đơn thuần. Không có trong showbiz mà làm nhiều thứ. Tức là họ chỉ cứ đi quay video khi nào mà có chương trình. Xong rồi họ lại đi hát cuối tuần. Xong rồi họ về với gia đình, với bạn bè. Chứ họ không có TikTok, không có real, không có là không có nhiều. Thì huống hồ chỉ có chữ cần sang trong đó. Từ khi chị về, chị tham gia chương trình chị đẹp. Thì bắt đầu mình mới hiểu được cái điều đó. Cho nên nếu mà em hỏi cách đây trước khi xô chỉ đề thì chắc là chị bỡ ngỡ."
+    },
+    {
+      "block_id": 20,
+      "start": 3105.5,
+      "end": 3109.7,
+      "speaker": "Dustin",
+      "text": "Còn Dũng. Có bối rối khi nghe đến chữ content không?"
+    },
+    {
+      "block_id": 20,
+      "start": 3109.9,
+      "end": 3149.9,
+      "speaker": "D_ng",
+      "text": "Mặc dù về Việt Nam bao nhiêu lâu. Chứ em vẫn bối rối. Tại vì. Dũng chia sẻ thật sự là Dũng là người rất là hướng nội. Thì đối với Dũng là mọi người thích là sẽ show ra những cái để sống riêng tư. Nhưng mà mình thì lại nghĩ là những cái gì riêng tư, những gì quý giá nhất của cuộc sống của mình thì mình dành riêng cho gia đình và ấy thôi, mình không có nên show. Tại vì đó là một cái gì đó chân quý lắm. Có thể mình là một người của công chúng. Mình sẽ cho công chúng hết cảm xúc của mình. Tại vì khi đứng lên sân khấu. Đó là cảm xúc của mình mà. Mình hát bài hát đó là của mình, mình đã trao cái đó ra. Nhưng mà riêng cái daily life thì em nghĩ là nó nên là một cái gì đó."
+    },
+    {
+      "block_id": 20,
+      "start": 3145.4,
+      "end": 3146.1,
+      "speaker": "Dustin",
+      "text": "Để lại."
+    },
+    {
+      "block_id": 20,
+      "start": 3150.1,
+      "end": 3151.3,
+      "speaker": "D_ng",
+      "text": "Nó của riêng mình thôi."
+    },
+    {
+      "block_id": 20,
+      "start": 3151.4,
+      "end": 3154.0,
+      "speaker": "Tuy_t",
+      "text": "Contain không có nghĩa là mình show ra mấy cái đó."
+    },
+    {
+      "block_id": 20,
+      "start": 3154.5,
+      "end": 3171.4,
+      "speaker": "D_ng",
+      "text": "Không, nhưng mà ít như gì đa phần nó sẽ cũng phải, nó có sớm có sự liên đới nhất định cũng có thể là tại vì mình chưa gặp được. Một cái người mà thật sự. Họ hiểu mình. Để họ giúp đưa những cái gì nên đưa ra. Và cái gì không nên đưa ra. Cho nên là khi mà mỗi lần mở."
+    },
+    {
+      "block_id": 20,
+      "start": 3172.3,
+      "end": 3173.8,
+      "speaker": "Tuy_t",
+      "text": "Không, chị cũng ngại mấy cái đó lắm á."
+    },
+    {
+      "block_id": 20,
+      "start": 3173.9,
+      "end": 3175.0,
+      "speaker": "D_ng",
+      "text": "Còn khen đi."
+    },
+    {
+      "block_id": 20,
+      "start": 3175.0,
+      "end": 3182.4,
+      "speaker": "Tuy_t",
+      "text": "Rất là sợ, đó là lý do mà tại sao là khi mà chị tham gia chương trình chị đẹp á em thấy rất là nhiều. Bây hấp phớ trên thích xót mình đều không phải từ."
+    },
+    {
+      "block_id": 20,
+      "start": 3182.9,
+      "end": 3186.0,
+      "speaker": "Dustin",
+      "text": ", từ những kênh của các bạn thí sinh khác."
+    },
+    {
+      "block_id": 20,
+      "start": 3185.9,
+      "end": 3194.5,
+      "speaker": "Tuy_t",
+      "text": "Khi chị vui thì chị sẽ rất là thoải mái, chị sẽ làm. Còn nếu mà sắp xếp cho chị phải làm cái điều đó thì chị lại bị gượng đó, vì chị lại không thích."
+    },
+    {
+      "block_id": 20,
+      "start": 3194.5,
+      "end": 3197.0,
+      "speaker": "Dustin",
+      "text": "Nhưng mà nếu mà cho chị 3 tiếng làm tóc make up thì chị ok."
+    },
+    {
+      "block_id": 20,
+      "start": 3198.2,
+      "end": 3200.8,
+      "speaker": "D_ng",
+      "text": "Không, chị làm tắt 1 tiếng thôi mà chị dậm phấn là 3 tiếng."
+    },
+    {
+      "block_id": 20,
+      "start": 3202.4,
+      "end": 3204.7,
+      "speaker": "Tuy_t",
+      "text": "Dạo này chị make up lẹ hơn làm tóc."
+    },
+    {
+      "block_id": 21,
+      "start": 3204.7,
+      "end": 3211.7,
+      "speaker": "Dustin",
+      "text": "Vậy đó hả? Vậy nếu mà để tự chấm điểm social của mình trên thang 10, mọi người chấm mình bấy nhiêu điểm?"
+    },
+    {
+      "block_id": 21,
+      "start": 3212.9,
+      "end": 3233.2,
+      "speaker": "Tuy_t",
+      "text": "Hồi đó giờ chị không có làm xuống sâu. Chị mới vừa về chương trình chị đạt. Mới bắt đầu thử thôi đó. Nhưng mà chị cũng bị mấy em. Giúp chị nó la. Sao mà em kêu chị làm, chị không bao giờ chị làm hết trơn hết á. Mỗi lần nó kêu trời ơi tao đang bận mày kêu tao làm cái gì. Kiểu dạng vậy á. Mà chị đang vui chị làm cái gì. Mấy đứa nó kêu chị nó quên quay. Thì chị quay."
+    },
+    {
+      "block_id": 21,
+      "start": 3233.3,
+      "end": 3239.8,
+      "speaker": "D_ng",
+      "text": "Nói chung là Dùng và chị Tuyết cũng có một cái giống giống nhau đó là mình cứ tự nhiên từ con người đó của mình và mọi người bắt gặp được."
+    },
+    {
+      "block_id": 21,
+      "start": 3239.8,
+      "end": 3241.6,
+      "speaker": "Tuy_t",
+      "text": "Bắt cái moment đó thì ok."
+    },
+    {
+      "block_id": 21,
+      "start": 3241.5,
+      "end": 3242.2,
+      "speaker": "D_ng",
+      "text": "Ok."
+    },
+    {
+      "block_id": 21,
+      "start": 3246.3,
+      "end": 3247.2,
+      "speaker": "Tuy_t",
+      "text": "Bởi nó không phải mình."
+    },
+    {
+      "block_id": 21,
+      "start": 3249.0,
+      "end": 3260.8,
+      "speaker": "D_ng",
+      "text": "Cũng đã từng thử nhưng mà có thể là một là chưa kịp được cái ekip mà họ thật sự hiểu vô. Thật sự hiểu vô. Của con người của mình. Mà họ đưa ra là. À cái này ông Dũng ông làm được. Mà đây là con người của ông Dũng. Hay là đây là con người của chị Tuyết."
+    },
+    {
+      "block_id": 21,
+      "start": 3262.4,
+      "end": 3280.6,
+      "speaker": "D_ng",
+      "text": "Nó phù hợp với mình thì mình sẽ làm rất là nhanh còn cái mà nó không phù hợp với mình thì nó sẽ bị một cái sự gượng gạo và đó là tính chất là sao mà mình càng cứ đi tìm. Không phải không khát khao làm content đâu. Mình cũng muốn có một cái gì đó mang cho đời nó vui. Và họ sẽ thấy, khán giả sẽ thấy những cái mặt khác của mình, có người bình thường của mình."
+    },
+    {
+      "block_id": 21,
+      "start": 3281.1,
+      "end": 3299.5,
+      "speaker": "Tuy_t",
+      "text": "Chị nghĩ là tốt nhất là họ phải hiểu mình và họ cast những cái moment mà mình dễ thương nhất có thể. Cũng có thể là cái lúc mà mình buồn nhất có thể cũng có, vui nhất có thể. Hài hước nhất có thể không có. Nếu mà họ cast được những cái moment đó. Và từ đó họ khai thác ra. Thì nó sẽ rất là tuyệt vời. Hơn là mình phải giả đóng một cái gì đó."
+    },
+    {
+      "block_id": 21,
+      "start": 3299.5,
+      "end": 3348.4,
+      "speaker": "Dustin",
+      "text": "Dạ đúng, content nó phải chân thật. Ở đây em không phải nói content là mình phải theo trend đâu. Mà là mình tạo ra cái trend. Biết đâu họ sẽ là những người theo những cái trend mà mọi người tạo ra thì sao. Tuy nhiên khi mà mình nói đến content, social media thì hiện nay nó có một cái xu hướng. Là mọi người thích ném đá vào quá khứ ở trên mạng xã hội. Bởi vì mạng xã hội phát triển mọi người đều tự do nông luận ai cũng có rất là nhiều tài khoản khác nhau. Ai cũng có thể là một người lên tiếng đào bới. Người nổi tiếng thường khi mà họ có một cái cú bật mới trong nghệ thuật. Họ sẽ bị đào lại. Những cái status cũ. Hay là những hoa hậu mới vừa đăng quang. Là phải lập tức khóa trang cá nhân. Mình thấy cái đó rất là độc hại. Nhưng mà điều đó diễn ra hàng ngày. Và có những người họ xem đó là trò tiêu khiển."
+    },
+    {
+      "block_id": 21,
+      "start": 3349.8,
+      "end": 3360.3,
+      "speaker": "Dustin",
+      "text": "Vậy thì mọi người có cảm thấy sợ không khi mà chúng ta đang đi đến một cái giai đoạn là content, không cần tạo. Mà Content sẽ tự tới với mình."
+    },
+    {
+      "block_id": 21,
+      "start": 3363.4,
+      "end": 3370.0,
+      "speaker": "Tuy_t",
+      "text": "Chị nghĩ đó là cái điều mà. Một trong những cái điều mà chị lo ngại. Khi mà chị đi về Việt Nam."
+    },
+    {
+      "block_id": 22,
+      "start": 3371.7,
+      "end": 3483.8,
+      "speaker": "Tuy_t",
+      "text": "Tại vì giống như chị nói như hồi nãy là bên Mỹ nó không có nhiều cái social, cái sinh hoạt văn nghệ tại hải ngoại nó khá là bình lặng. Cho nên tụi chị không có va chạm nhiều. Rất là ít va chạm luôn á. Giống như một cái family với nhau thôi á. Tại vì ca sĩ cũng không có quá đông á. Cho nên tụi chị không hề va. Về đây thì nó có quá nhiều cái social đi. Thì mình sẽ lại. Tụi chị bị choáng ngợp á. Không biết mình đi cái nào mới là đúng. Và cái nào mới là không đúng. Thì chị mình sợ. Thì cái đó là một trong những điều. Mà chị cũng rất là lo ngại. Khi mà chị về Việt Nam sinh hoạt. Đôi lúc nhiều khi mình muốn. Thoải mái, rất là thật với khán giả. Nhưng mà đôi lúc. Vì những cái điều này khiến mình bị khép kính lại. Mình không dám mở lòng hết tất cả mọi thứ. Mình chỉ cần mình nói sai một câu hay là mình làm sai một điều. Mình có thể là sai một bước mà đi sang hàng dặm. Thì cái đó là một cái rất là. Chị nghĩ không phải riêng chị đâu. Mà nghệ sĩ ai cũng vậy. Ai cũng rất là sợ điều đó. Và chị cũng mong rằng là. Mọi người hãy nhìn vào những cái gì. Người xí hò cống hiến trong nệ thuật ấy. Giống như có một cái điều chị thấy nó rất là hay. Hầu như tuần nào chị cũng bay á. Chị thấy là một cái điều mà chị thích vô cùng. Chị hay quan sát xung quanh ví dụ như đứa bé nó làm một cái điều gì đó vỡ ở dưới vỡ một cái món đồ gì đó thì họ không nói. Thì sao không vậy? Mà họ lại họ nói it's ok, it's ok con pick up cái này lên đi chẳng hạn thì em bé vừa pick up lên là good job, giỏi quá, giỏi quá. Tức là họ luôn luôn xây dựng. Thì hãy luôn luôn xây dựng cho nhau. Để cho người nghệ sĩ. Nhất là người nghệ sĩ họ có thể thoải mái cái đầu óc. Thì họ có thể phát triển nhiều cái. Tốt đẹp hay no hơn. Để mà cống hiến cho đời. Hay là cống hiến cho nghệ thuật. Thì chỉ mong rằng là. Khán giả họ nhìn vào cái điều đó nhiều hơn."
+    },
+    {
+      "block_id": 22,
+      "start": 3485.5,
+      "end": 3490.3,
+      "speaker": "Dustin",
+      "text": "Dũng đã từng bao giờ cảm thấy tổn thương vì lỡ đọc một cái comment của ai đó chỉ trích mình không?"
+    },
+    {
+      "block_id": 22,
+      "start": 3492.3,
+      "end": 3492.9,
+      "speaker": "Tuy_t",
+      "text": "Là."
+    },
+    {
+      "block_id": 22,
+      "start": 3493.3,
+      "end": 3510.8,
+      "speaker": "D_ng",
+      "text": "Bản tính của Dũng. Nó rất là nhạy cảm. Hơi tí là khóc, hơi tí là buồn. Chính vì vậy cho nên là những thời gian mà dập trưởng về Việt Nam, người tham gia chương trình này. Là đầu tiên va chạm với social xong ta chạm với những cái comment."
+    },
+    {
+      "block_id": 22,
+      "start": 3513.1,
+      "end": 3522.9,
+      "speaker": "D_ng",
+      "text": "Cái khoảng thời gian phần thật sự là 20 2017 đến 2018 18, 19 2 năm đó là Dũng nghĩ là Dũng bị trầm cảm."
+    },
+    {
+      "block_id": 23,
+      "start": 3527.7,
+      "end": 3577.0,
+      "speaker": "D_ng",
+      "text": "Dũng không có social. Bản thân nếu có thể hỏi. Cấp tiên là dũng cũng không nói chuyện nhiều với tiên. Và cũng ít liên lạc với tiên luôn là tại vì. Sự nghiệp của mình, mọi thứ trong trong mình nó không có được như mình muốn. Xong đó rồi mình cứ mỗi lần mình làm một cái gì đó. Mọi người bảo chí ơi sao em không vui vẻ đi, em không sống thật. Mình không tự nhiên được tại vì những cái gì mình làm ra mình cũng sợ, mình sẽ đón nhận những cái comment tiêu cực họ nhắm vào. Mình sống quen trong một môi trường luôn luôn muốn tạo ra một cái gì đó lúc mang tràng trề yêu thương và chia sẻ và lúc đó thì tự cô lập. Rải giá xã giao vì lỡ đi như chị Tiết nói đi lỡ đi ra là gì không hay cái đâm ra lại nghĩ chỉ. Hay là bị nói cái gì, cái làm mình bị tụt hút trong âm nhạc, đôi khi cũng muốn từ bỏ."
+    },
+    {
+      "block_id": 23,
+      "start": 3580.9,
+      "end": 3638.5,
+      "speaker": "D_ng",
+      "text": "Chọn mình làm cái này làm cái gì có đáng không ta. Tự nhiên khi mình cũng chỉ muốn. ABCD. Hát hay hơn. Phát triển hơn mỗi ngày. Để mình làm gì để mình tốt hơn và mình sẽ cống hiến thêm nhiều hơn. Đọc những comment tư cực nó làm mình muốn đi thụt lùi, thụt lùi. Nhưng mà cũng may mắn. Cũng may mắn là sẽ có những đồng nghiệp chia sẻ được. Cứ những người bạn đồng hành cho cuộc sống. Biết mình như vậy. Một trong những người đó là tóc tiên. Lúc nào? Thôi anh hãy tập như em đi, đừng đọc gì hết. Mình là việc mình. Tất nhiên mình sẽ vẫn phải đọc hoặc là mình sẽ nhờ bộ quyền. Chắc đọc lại. Để kiểu giống như là. À có những ý kiến này nè. Mình để cố gắng hơn nè. Và họ sẽ thấy đúng tại vì họ hiểu mình. Họ hiểu mình thì họ sẽ là. Đây là những comment đúng này. Đọc đi. Rồi mình thấy mình phù hợp không để mình thay đổi không. Còn những đây là những câu mình tích cực nè. Mình đọc đi để mình thấy. Một cái động lực để mình tiếp tục."
+    },
+    {
+      "block_id": 23,
+      "start": 3639.6,
+      "end": 3648.1,
+      "speaker": "Dustin",
+      "text": "Dustin cũng không ngoại lệ. Em cũng đã gặp rất là nhiều những cái căng thẳng. Em đọc comment, người khác chỉ trích những nghệ sĩ khác thôi. Em cũng bị down mood."
+    },
+    {
+      "block_id": 23,
+      "start": 3649.4,
+      "end": 3671.2,
+      "speaker": "Dustin",
+      "text": "Và đó là lý do mà em làm bật nến để được gặp gỡ những người nghệ sĩ như chị Tuyết, như Dũng và nói được những điều. Thì Dustin cũng mong là thông qua cái bật nến. Mình được chữa lành. Cho em hỏi cách nào để mà mọi người chọn. Một cái sự an yên. Khi mà rời cái ánh hào quang của showbiz làm sao để mình cân bằng cuộc sống khi mình trở về đời thường."
+    },
+    {
+      "block_id": 23,
+      "start": 3671.5,
+      "end": 3679.6,
+      "speaker": "Tuy_t",
+      "text": "Cũng 30 năm trong nghề rồi. Hơn rồi, hơn 30 năm trong nghề. Ngày xưa thì buồn thiệt. Nhiều khi chị cũng xây qua chị hỏi ông xã. Bộ em tệ vậy sao."
+    },
+    {
+      "block_id": 23,
+      "start": 3684.7,
+      "end": 3700.0,
+      "speaker": "Tuy_t",
+      "text": "Tức là chị luôn luôn muốn biết được là mình có tệ như vậy thì để mình thay đổi. Cho tới ngày hôm nay mình phải nói là nó trở thành một sự trai liền. Tức là bây giờ mình sẽ đọc comment, mình cảm nhận được là những người comment giúp cho mình."
+    },
+    {
+      "block_id": 24,
+      "start": 3701.3,
+      "end": 3770.9,
+      "speaker": "Tuy_t",
+      "text": "Tốt hơn thì mình lắng nghe những người đó còn những người mà họ thật sự họ không phải là comment cho mình tốt hơn mà họ chỉ là không thích. Họ comment những cái câu nói rất là nặng nè. Ví dụ như là. Nhỏ này xấu quắc hoặc là lùng tịt hoặc là mập tù lù hoặc đập nát cái mặt khác nghe phát mệt hoặc là nói chung là nhiều. Rất là nhiều. Thì mình không thể nào làm đẹp lòng tất cả mọi người được. Mình cảm nhận là. Đó không phải là một cái comment xây dựng. Thì kiểu mà mình chỉ mỉm cười thôi, mình lướt qua thôi. Chứ bây giờ mình làm gì được. Một cách duy nhất cho những người đó thấy được rằng là mình. Mình better hơn những gì họ nói. Để một ngày nào đó. Họ thay đổi cái tư tưởng đó trong đầu họ. Hoặc là hãy gặp mình một lần đi. Rồi lúc đó bạn hãy muốn nói gì thì nói. Thì mình chỉ nghĩ trong đầu mình là như thế thôi. Chứ còn bây giờ mình làm được gì. Mình không làm được gì cả. Nhưng mà chỉ tiếc là một điều. Mọi người nói là. Ca sĩ tại sao không lắng nghe khán giả. Muốn chứ. Nhưng mà có những cái comment như thế. Đôi lúc đọc đau lòng lắm."
+    },
+    {
+      "block_id": 24,
+      "start": 3772.4,
+      "end": 3786.9,
+      "speaker": "Tuy_t",
+      "text": "Rồi nhiều khi muốn trả lời lại nữa chứ. Nhưng mà nghĩ trời ơi mình trả lời lại thì. Không biết nó sẽ đi về đâu. Nó cũng khủng khiếp hơn nữa. Thôi lại phải im lặng. Đứng trước một cộng đồng như thế, một cái public như thế. Từ lời ăn tiếng nói của mình nó vô cùng cẩn trọng."
+    },
+    {
+      "block_id": 24,
+      "start": 3792.4,
+      "end": 3827.3,
+      "speaker": "Tuy_t",
+      "text": "Giống như nhiều người nói. Mắc gì cô phải mang giày cao gót. Chứ gì mà cô than. Ví dụ vậy không phải. Nếu khán giả thích tôi lùn thì tôi không mang giày cao gót đâu. Nếu khán giả thích tôi tròn. Tôi sẽ không bao giờ tôi muốn đai ạc. Bởi vì tôi rất là muốn ăn. Tôi thích ăn ngon lắm. Có thời điểm ấy. Chị nói với ông xã. Anh ơi nếu mà anh thấy em ăn tới chén thứ 2 là anh đánh em liền nha. Tại vì mình mê ăn mà. Rồi cho tới một ngày á. Anh mới nói là. Thôi đừng ăn. Ăn chén thứ 2 rồi đó. Ví dụ vậy. Mà lúc đó mình đang thèm ăn. Tại mình nhìn lâu quá rồi. Sao em ăn mà anh cũng cho vậy."
+    },
+    {
+      "block_id": 24,
+      "start": 3829.5,
+      "end": 3855.6,
+      "speaker": "Tuy_t",
+      "text": "Tức là họ không hiểu có những cái giây phút mà mình mình phải cố gắng đấu tranh để vì khán giả của mình và cũng có những người ca sĩ. Họ phải nhịn đói tới mức mà họ xỉu. Bởi vì thật sự nha. Tập nó cũng nó chỉ thôn chắc người. Và nó xuống rất chậm. Nó phải kết hợp ăn uống nữa. Thì mình mới có thể xuống cân được một cách rất là lẹ. Và nhiều ca sĩ họ bắt buộc phải. Có thể là một ngày chỉ uống. Một ly nước juice."
+    },
+    {
+      "block_id": 24,
+      "start": 3855.7,
+      "end": 3857.1,
+      "speaker": "D_ng",
+      "text": "Như vậy nó không qua học tí nào."
+    },
+    {
+      "block_id": 24,
+      "start": 3858.0,
+      "end": 3866.3,
+      "speaker": "Tuy_t",
+      "text": "Bởi vì họ muốn xuống liền để cho đẹp lòng khán giả của họ có nhiều khi họ đọc comment riết ấy họ bị."
+    },
+    {
+      "block_id": 24,
+      "start": 3867.8,
+      "end": 3880.9,
+      "speaker": "Tuy_t",
+      "text": "Bị ám ảnh trong đầu. Chắc nói là em hiểu rồi. Ốm khủng khiếp nhưng mà họ bị một cái bệnh. Là sợ khán giả chê. Không dám ăn gì hết. Ăn xong mất ra. Và họ riết rồi họ trở thành một cái bệnh của họ luôn."
+    },
+    {
+      "block_id": 25,
+      "start": 3910.7,
+      "end": 3936.3,
+      "speaker": "D_ng",
+      "text": "Cỡ ở chân dài nè. Thì khi họ nói như vậy. Thì họ đang so sánh chút cho mình là. Nếu như bạn làm mặc cái này. Thì mình lại thích. Thì mình rất là thoải mái. Và mình đã là. Cái đó là mình nên ghi nhận khán giả ơ hôm nay tại sao hát khúc này nó không được. À bê cê đê thì tự mình. Tại vì lúc này đang hát cái tùm sặc hay là đang hát cái mình quên an hay là hát cái lấy hơi vội. Lấy hơi."
+    },
+    {
+      "block_id": 25,
+      "start": 3936.3,
+      "end": 3938.8,
+      "speaker": "Tuy_t",
+      "text": "Đó là những cái comment góp ý. Là mình phải lắng nghe."
+    },
+    {
+      "block_id": 25,
+      "start": 3939.3,
+      "end": 3943.3,
+      "speaker": "Dustin",
+      "text": "Và phải có giải pháp cho mình nếu như họ không thích A có thể có cái giải pháp B."
+    },
+    {
+      "block_id": 25,
+      "start": 3943.3,
+      "end": 3962.5,
+      "speaker": "Tuy_t",
+      "text": "Có nhiều người dễ thương lắm nha. Comment xong nói là. Ô đây chỉ là một cái góp ý của mình thôi. Chứ mình không có ý là kê bạn. Hay là. Mình nghĩ rằng là bạn sẽ. Thấy cái này nó sẽ tốt hơn. Ví dụ vậy. Những cái đó mà mình đọc mình cảm thấy rất vui. Bởi vì người ta thương mình, người ta muốn góp ý cho mình."
+    },
+    {
+      "block_id": 25,
+      "start": 3962.5,
+      "end": 4004.5,
+      "speaker": "Dustin",
+      "text": "Dustin cũng không đọc comment hoặc là đọc sẽ chọn là im lặng không bao giờ mình come back không bao giờ come back với khán giả cách mà Dustin có thể làm được là. Để chúng ta được nói những điều này, gửi đến khán giả bằng những talk show. Và Dustin cũng rất cảm ơn chị Minh Túy và Mai Tiến Dụng. Đã đến đây cho dù chỉ có một vài tiếng ít ỏi. Dustin cũng xin được nhân cơ hội này. Chúc cho chị Minh Tuyết, Mai Tiến Dũng. Sẽ có thêm nhiều những cái cơ hội để mà. Đến gần với khán giả Việt Nam hơn nữa. Bằng chứng là mọi người cũng đã. Tham gia talk show, tham gia các chương trình trường thực tế. Và chúc cho chị đẹp sẽ thành công."
+    },
+    {
+      "block_id": 25,
+      "start": 4004.5,
+      "end": 4048.3,
+      "speaker": "Tuy_t",
+      "text": "Thank you. Cảm ơn Dustin rất nhiều. Chị cũng cảm ơn Dustin đã mời chị với Mai Tiến Dụng tới đây. Mà mình có cái cơ hội. Thứ nhất là tìm hiểu lẫn nhau. Trò chuyện với nhau. Và đưa chị với Mai Tiến Dũng. Đến gần với khán giả nhiều hơn. Cho khán giả hiểu hơn về Minh Triết và Mãi Tiến Dũng. Cũng có rất là nhiều fan tại Việt Nam mong muốn Minh Triết về Việt Nam nhiều hơn. Để mà phục vụ khán giả Việt Nam. Chỉ mong rằng là các bạn hãy đón nhận Minh Tuyết. Thương yêu Minh Tuyết bằng những cái lời động viên. Để mà Minh Tuyết có thể mỗi ngày mỗi tiến bộ nhiều hơn. Để mà mình có thể phục vụ khán giả nhiều hơn nữa. Bởi vì Minh Tuyết còn có nhiều thứ muốn phục vụ khán giả. Mà chỉ cần khán giả cho Minh Tuyết cái động lực. Để Minh Tiếp có thể làm được điều đó mà thôi."
+    },
+    {
+      "block_id": 25,
+      "start": 4049.1,
+      "end": 4049.9,
+      "speaker": "Dustin",
+      "text": "Tạo content."
+    },
+    {
+      "block_id": 25,
+      "start": 4052.7,
+      "end": 4056.3,
+      "speaker": "D_ng",
+      "text": "Wao thì cũng cảm ơn Dustin. Mời thêm một lần."
+    },
+    {
+      "block_id": 25,
+      "start": 4057.8,
+      "end": 4072.5,
+      "speaker": "D_ng",
+      "text": "À là lần thứ 2 rồi hả? Không là tại vì Dustin hồi nãy có nói với em là đã từng mời em rồi. Mà em lại không có nhớ. Cho nên là vẫn mời lại một lần nữa để có cơ hội ngồi đây mà đã vậy là ngồi cùng với người chị của mình."
+    },
+    {
+      "block_id": 25,
+      "start": 4073.8,
+      "end": 4074.5,
+      "speaker": "Tuy_t",
+      "text": "Ân tình."
+    },
+    {
+      "block_id": 25,
+      "start": 4075.1,
+      "end": 4077.5,
+      "speaker": "D_ng",
+      "text": "Nói chung là không gặp nhau thì không gặp nhau là."
+    },
+    {
+      "block_id": 25,
+      "start": 4077.5,
+      "end": 4078.9,
+      "speaker": "Dustin",
+      "text": "Nợ một cái ân tình với chị."
+    },
+    {
+      "block_id": 25,
+      "start": 4079.1,
+      "end": 4087.1,
+      "speaker": "D_ng",
+      "text": "Là nói rất là nhiều chuyện để tâm sự. Và hôm nay lại không nghĩ là bạn mình cũng deep như thế."
+    },
+    {
+      "block_id": 26,
+      "start": 4087.2,
+      "end": 4091.2,
+      "speaker": "Tuy_t",
+      "text": "Hả? Oh no no no. Because you không có coi show của Dustin."
+    },
+    {
+      "block_id": 26,
+      "start": 4091.4,
+      "end": 4095.0,
+      "speaker": "D_ng",
+      "text": "Sâu lắm á. Sâu lắm. Sâu lắm. Sâu lắm hả."
+    },
+    {
+      "block_id": 26,
+      "start": 4100.2,
+      "end": 4107.3,
+      "speaker": "Tuy_t",
+      "text": "Xong rồi đó là kiểu làm cho mình cảm giác là. Mình thêm một người để mình có thể cùng là Thiên Bình, cùng cùng Thiên Bình. Cùng chia sẻ."
+    },
+    {
+      "block_id": 26,
+      "start": 4108.1,
+      "end": 4156.2,
+      "speaker": "D_ng",
+      "text": "Cũng cảm ơn Dustin là cơ hội để có những câu chuyện vui buồn trong cuộc talk show này để khán giả hiểu. Và mình cũng thật sự cũng như chị Minh Tuyết nói là mình vẫn mong là khán giả sẽ luôn luôn đón nhận, luôn luôn tạo cơ hội, luôn luôn góp ý một cách chân thành. Và đầy yêu thương. Thật sự là trước đây yêu thương là tại vì sao. Những cái lời góp ý trên thành. Yêu thương nó sẽ. Để cho mình cảm thấy là. Mình được yêu thương. Như một đứa. Em, một người bạn để mỗi ngày đảm lực, thuộc cái động lực đó rất là quan trọng tại vì thật sự là luôn luôn muốn đẹp trong lòng. Luôn luôn muốn mỗi ngày tốt hơn trong lòng khán giả. Và là những gì đó mà khán giả yêu mến và làm có ý nghĩa. Chỉ được mong là những chương trình như thế này sẽ được mọi người ủng hộ thật là."
+    },
+    {
+      "block_id": 26,
+      "start": 4157.8,
+      "end": 4158.7,
+      "speaker": "D_ng",
+      "text": "Sẽ luôn luôn được khác."
+    },
+    {
+      "block_id": 26,
+      "start": 4159.0,
+      "end": 4161.3,
+      "speaker": "Dustin",
+      "text": "Mình có quà sinh nhật cho cả hai người."
+    },
+    {
+      "block_id": 26,
+      "start": 4163.2,
+      "end": 4165.1,
+      "speaker": "Dustin",
+      "text": "Tất nhiên là tới chương trình là phải có quà."
+    },
+    {
+      "block_id": 26,
+      "start": 4165.5,
+      "end": 4167.9,
+      "speaker": "D_ng",
+      "text": "Nguôi vậy Surprise vậy."
+    },
+    {
+      "block_id": 26,
+      "start": 4168.1,
+      "end": 4171.2,
+      "speaker": "Tuy_t",
+      "text": "Coi một lần là được với lại."
+    },
+    {
+      "block_id": 26,
+      "start": 4173.2,
+      "end": 4174.0,
+      "speaker": "Dustin",
+      "text": "Ngoi."
+    },
+    {
+      "block_id": 26,
+      "start": 4174.0,
+      "end": 4178.3,
+      "speaker": "Tuy_t",
+      "text": "Cái đó hay. Chị cũng bất ngờ, Linh nói chuyện cũng điếp lắm, vinh giản lắm."
+    },
+    {
+      "block_id": 26,
+      "start": 4178.4,
+      "end": 4193.4,
+      "speaker": "Dustin",
+      "text": "Và đây từ từ nha, từng món quạt hơi nhiều. Cái này là tinh dầu phích táng cho phòng á. Với lại nước hoa đến từ AS Antique. Thương hiệu này là Smell That Makes Sense."
+    },
+    {
+      "block_id": 26,
+      "start": 4198.0,
+      "end": 4199.3,
+      "speaker": "Dustin",
+      "text": "Riêng tư tôi đã nhắn tin rồi."
+    },
+    {
+      "block_id": 26,
+      "start": 4199.4,
+      "end": 4200.4,
+      "speaker": "D_ng",
+      "text": "Hả tao đâu có biết đâu."
+    },
+    {
+      "block_id": 26,
+      "start": 4202.0,
+      "end": 4211.9,
+      "speaker": "Dustin",
+      "text": "Và cảm ơn AS Antique đã gửi những món quà và nến. Hôm nay thì cũng là đến từ AS Antique. Thì mọi người có thể về đốt nến hoặc là mọi người thắp tinh dầu lên."
+    },
+    {
+      "block_id": 26,
+      "start": 4217.1,
+      "end": 4225.4,
+      "speaker": "Dustin",
+      "text": "Còn đây là 2 món quà đến từ Nuxe. Thương hiệu này là dầu dưỡng khô có nhũ. Mình thấy rất là phù hợp cho những con thiên bình điệu đà."
+    },
+    {
+      "block_id": 26,
+      "start": 4228.7,
+      "end": 4231.6,
+      "speaker": "D_ng",
+      "text": "Là body oil, dry oil."
+    },
+    {
+      "block_id": 26,
+      "start": 4231.7,
+      "end": 4241.0,
+      "speaker": "Dustin",
+      "text": "Nó là Yuin For These Years. Thì nó có một cái là nhũ vàng, một cái là nhũ hồng thì hai chị em lựa đi cái nào ai hồng ai vàng. Cái này là dùng cho tóc, da, mặt được."
+    }
+  ],
+  "debug": {
+    "blocks": [
+      {
+        "block_id": 0,
+        "start": 37.6,
+        "end": 157.1,
+        "duration": 119.5,
+        "is_transition_heavy": false,
+        "num_segments": 20
+      },
+      {
+        "block_id": 1,
+        "start": 159.5,
+        "end": 334.9,
+        "duration": 175.39999999999998,
+        "is_transition_heavy": true,
+        "num_segments": 28
+      },
+      {
+        "block_id": 2,
+        "start": 335.3,
+        "end": 448.2,
+        "duration": 112.89999999999998,
+        "is_transition_heavy": false,
+        "num_segments": 27
+      },
+      {
+        "block_id": 3,
+        "start": 452.9,
+        "end": 482.7,
+        "duration": 29.80000000000001,
+        "is_transition_heavy": true,
+        "num_segments": 4
+      },
+      {
+        "block_id": 4,
+        "start": 483.2,
+        "end": 661.4,
+        "duration": 178.2,
+        "is_transition_heavy": true,
+        "num_segments": 33
+      },
+      {
+        "block_id": 5,
+        "start": 661.7,
+        "end": 828.9,
+        "duration": 167.19999999999993,
+        "is_transition_heavy": false,
+        "num_segments": 37
+      },
+      {
+        "block_id": 6,
+        "start": 829.5,
+        "end": 966.7,
+        "duration": 137.20000000000005,
+        "is_transition_heavy": false,
+        "num_segments": 43
+      },
+      {
+        "block_id": 7,
+        "start": 966.7,
+        "end": 1105.9,
+        "duration": 139.20000000000005,
+        "is_transition_heavy": false,
+        "num_segments": 42
+      },
+      {
+        "block_id": 8,
+        "start": 1107.3,
+        "end": 1269.7,
+        "duration": 162.4000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 8
+      },
+      {
+        "block_id": 9,
+        "start": 1270.3,
+        "end": 1444.2,
+        "duration": 173.9000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 12
+      },
+      {
+        "block_id": 10,
+        "start": 1445.6,
+        "end": 1604.4,
+        "duration": 158.80000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 15
+      },
+      {
+        "block_id": 11,
+        "start": 1607.9,
+        "end": 1784.4,
+        "duration": 176.5,
+        "is_transition_heavy": false,
+        "num_segments": 20
+      },
+      {
+        "block_id": 12,
+        "start": 1784.4,
+        "end": 1963.7,
+        "duration": 179.29999999999995,
+        "is_transition_heavy": false,
+        "num_segments": 16
+      },
+      {
+        "block_id": 13,
+        "start": 1965.9,
+        "end": 2143.8,
+        "duration": 177.9000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 30
+      },
+      {
+        "block_id": 14,
+        "start": 2145.3,
+        "end": 2184.1,
+        "duration": 38.79999999999973,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 15,
+        "start": 2231.7,
+        "end": 2398.7,
+        "duration": 167.0,
+        "is_transition_heavy": true,
+        "num_segments": 44
+      },
+      {
+        "block_id": 16,
+        "start": 2398.9,
+        "end": 2569.1,
+        "duration": 170.19999999999982,
+        "is_transition_heavy": false,
+        "num_segments": 28
+      },
+      {
+        "block_id": 17,
+        "start": 2570.7,
+        "end": 2735.5,
+        "duration": 164.80000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 22
+      },
+      {
+        "block_id": 18,
+        "start": 2735.6,
+        "end": 2912.5,
+        "duration": 176.9000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 25
+      },
+      {
+        "block_id": 19,
+        "start": 2914.3,
+        "end": 3033.0,
+        "duration": 118.69999999999982,
+        "is_transition_heavy": false,
+        "num_segments": 26
+      },
+      {
+        "block_id": 20,
+        "start": 3036.0,
+        "end": 3204.7,
+        "duration": 168.69999999999982,
+        "is_transition_heavy": true,
+        "num_segments": 16
+      },
+      {
+        "block_id": 21,
+        "start": 3204.7,
+        "end": 3370.0,
+        "duration": 165.30000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 12
+      },
+      {
+        "block_id": 22,
+        "start": 3371.7,
+        "end": 3522.9,
+        "duration": 151.20000000000027,
+        "is_transition_heavy": false,
+        "num_segments": 5
+      },
+      {
+        "block_id": 23,
+        "start": 3527.7,
+        "end": 3700.0,
+        "duration": 172.30000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 6
+      },
+      {
+        "block_id": 24,
+        "start": 3701.3,
+        "end": 3880.9,
+        "duration": 179.5999999999999,
+        "is_transition_heavy": false,
+        "num_segments": 7
+      },
+      {
+        "block_id": 25,
+        "start": 3910.7,
+        "end": 4087.1,
+        "duration": 176.4000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 13
+      },
+      {
+        "block_id": 26,
+        "start": 4087.2,
+        "end": 4241.0,
+        "duration": 153.80000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 18
+      }
+    ],
+    "block_summaries": [
+      {
+        "block_id": 0,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Cuối cùng thì cũng đã gặp được chị Minh Tuyết. Hello. Và Mai Tiến Dũng. Hello. Chào mừng cả hai chị em đã đến với bật nến của Dustin on the go."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                37.6,
+                157.1
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                40.5,
+                143.6
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                42.3,
+                147.0
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                37.6,
+                157.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 1,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Bật nến sẽ có những trò chơi rất là hấp dẫn. Mọi người đã sẵn sàng chưa ạ? Sẵn sàng chưa?"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                159.5,
+                319.1
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                179.2,
+                325.8
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                182.7,
+                334.9
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                159.5,
+                334.9
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 2,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Nếu đến Ba Ghi thì Mai Tiến Dũng sẽ đến."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                335.3,
+                434.6
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                337.6,
+                434.6
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                356.4,
+                448.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                335.3,
+                448.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 3,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Trò chơi đầu tiên mang tên là Thần Giao Cách Cảm. Luật chơi như sau. Chương trình sẽ có những câu hỏi. Thì Dustin đọc một câu hỏi. Ba chị em mình sẽ trả lời cùng một lúc. Nếu đáp á"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                452.9,
+                475.6
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                476.4,
+                482.7
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                477.6,
+                480.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                452.9,
+                482.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 4,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Cái này là thấm giọng. Còn cái kia là hình phạt. Mọi người có thường hay chơi game không?"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                483.2,
+                649.4
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                490.4,
+                658.2
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                494.8,
+                661.4
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                483.2,
+                661.4
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 5,
+        "segment_type": "dialogue",
+        "overview": "Dùng ví dụ để giải thích cách hiểu và ứng xử đối với tình yêu và gia đình.",
+        "key_points": [
+          "Mỗi người có một cách hiểu khác về tình yêu và gia đình.",
+          "Người đàn ông thường tìm kiếm người tình hoặc chồng, trong khi người phụ nữ thường tìm kiếm người vợ."
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "D_ng": "Đánh giá về cách hiểu và ứng xử đối với tình yêu và gia đình.",
+          "Tuy_t": "Giải thích cách hiểu và ứng xử đối với tình yêu và gia đình."
+        },
+        "facts": []
+      },
+      {
+        "block_id": 6,
+        "segment_type": "dialogue",
+        "overview": "D_ng và Dustin thảo luận về cảm giác của họ đối với thời tiết.",
+        "key_points": [
+          "D_ng và Dustin thảo luận về cảm giác của họ đối với thời tiết.",
+          "D_ng thích cảm giác mưa lãng mạn, còn Dustin thích cảm giác mưa dầm.",
+          "D_ng cho rằng ở Việt Nam thường xuyên có mưa, trong khi ở Mỹ thường xuyên có nắng."
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "D_ng": {
+            "insight": "D_ng thích cảm giác mưa lãng mạn và thường xuyên có mưa ở Việt Nam."
+          },
+          "Dustin": {
+            "insight": "Dustin thích cảm giác mưa dầm và thường xuyên có nắng ở Mỹ."
+          }
+        },
+        "facts": []
+      },
+      {
+        "block_id": 7,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Chuyện Mimosa đấy. Trời ơi, hồi xưa là chị là. Trốn ở trong góc nhà để đọc truyện."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                966.7,
+                1105.9
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                972.1,
+                1083.1
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                987.5,
+                1098.9
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                966.7,
+                1105.9
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 8,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Tại mới đầu chị được công chúng biết đến nhiều ấy. Là một cặp song ca Minh Tú Cẩm Ly."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1107.3,
+                1154.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1107.3,
+                1154.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 9,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Kế hoạch ngày hôm nay mình sẽ đi từ đâu từ đâu. Hoặc là lịch trình sẽ như thế nào. Thì chị Ly lo còn ngoại giao là ví dụ như là. Ở với bầu show hay là với bất cứ một cái gì ở bên n"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1270.3,
+                1322.7
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1270.3,
+                1322.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 10,
+        "segment_type": "family_story",
+        "overview": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+        "key_points": [
+          "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+          "Cái đó có phải là cột mốc của Mai Tiến Dũng trong sự nghiệp ca hát không? Châu Lyn show của Paris By Night. Nếu nói về cục móc, sẽ có rất là nhiều."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1445.6,
+                1512.9
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1453.3,
+                1553.9
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1454.5,
+                1604.4
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.",
+            "evidence_spans": [
+              [
+                1445.6,
+                1604.4
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 11,
+        "segment_type": "dialogue",
+        "overview": "Dương và Dustin đang trò chuyện về việc Dương tham gia một cuộc thi âm nhạc.",
+        "key_points": [
+          "Dương hát bài 'Chạy Cô Đơn'",
+          "Dương kể về trải nghiệm tham dự cuộc thi",
+          "Dustin giải thích về sự quan trọng của nghệ thuật"
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "Dương": "Đạo diễn Dương, đang tham gia một cuộc thi âm nhạc và muốn chia sẻ cảm nhận của mình",
+          "Dustin": "Người dẫn chương trình, giúp Dương hiểu về nghệ thuật và cảm xúc"
+        },
+        "facts": []
+      },
+      {
+        "block_id": 12,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Các khán giả thích khi mình hát nhạc buồn, suy. Bởi vì bây giờ Dũng đã thể hiện được cái sự thật là mình đã trải qua những cái nỗi đau nào đó trong cuộc sống."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1784.4,
+                1842.4
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1842.8,
+                1858.6
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1784.4,
+                1858.6
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 13,
+        "segment_type": "guest_intro",
+        "overview": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+        "key_points": [
+          "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+          "Cũng giống như khi mà chị hát tình ca cũng vậy. Chị cũng đã từng trải qua hỉ nổ ái ố trong cái thời còn trẻ của mình chứ. Có người chị cũng phải có những cái tình cảm nhất định. Và"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1965.9,
+                2143.8
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1981.0,
+                2123.6
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2009.7,
+                2110.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+            "evidence_spans": [
+              [
+                1965.9,
+                2143.8
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 14,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Luôn luôn được bận rộn chạy show. Để chúng tôi có thể cống hiến hết tuổi thanh xuân của mình. Lẫn kể cả khi chúng tôi về già. Khán giả vẫn yêu mến."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2145.3,
+                2163.1
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2168.3,
+                2184.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                2145.3,
+                2184.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 15,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Nếu chị trả lời được thì chị thoát thôi."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2231.7,
+                2375.3
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2250.2,
+                2398.7
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2294.9,
+                2397.5
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                2231.7,
+                2398.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 16,
+        "segment_type": "health_story",
+        "overview": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+        "key_points": [
+          "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+          "Vậy sao? Vậy chị nghe không? Ai nói 1, 2, 3."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2398.9,
+                2559.0
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2400.0,
+                2553.4
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2419.2,
+                2569.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.",
+            "evidence_spans": [
+              [
+                2398.9,
+                2569.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 17,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Và làm gì sau khi chiếm được tài khoản đó. Ủa hát Facebook để làm cái gì ta? Tất nhiên là Dustin là một con thiên bình rất là ngoại giao. Không bao giờ mình làm những chuyện sau lư"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2570.7,
+                2709.8
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2582.8,
+                2733.3
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2593.6,
+                2735.5
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                2570.7,
+                2735.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 18,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Hôm mà em đi đặt mua cái nhà bên Mỹ. Thật sự nha, kinh phí nó quá cao. Mình buộc phải làm. Em nâng sàn đó chị Tuyết là cái một bên nhà nó bị thấp hơn khoảng thì cái em nâng sàn đó "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2735.6,
+                2895.0
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2766.3,
+                2912.5
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2769.0,
+                2908.0
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                2735.6,
+                2912.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 19,
+        "segment_type": "dialogue",
+        "overview": "Dustin và Tuy_T đang thảo luận về Dustin và Mai Tiến Dũng.",
+        "key_points": [
+          {
+            "speaker": "Dustin",
+            "utterance": "Một cọng tươi phát sáng khiến mình phải dừng lại."
+          },
+          {
+            "speaker": "Tuy_T",
+            "utterance": "Và mình muốn ở bên người đó."
+          }
+        ],
+        "action_items": [],
+        "speaker_insights": {},
+        "facts": {}
+      },
+      {
+        "block_id": 20,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Thôi không sao, mình đã uống rồi. Trò chơi cũng đã xong rồi. Mình rất là vui. Thì mình qua đến một cái chủ đề. Mà Dustin nghĩ là tất cả mọi người chúng ta. Thì nhiều người quan tâm"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3036.0,
+                3197.0
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3065.7,
+                3204.7
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3109.9,
+                3200.8
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                3036.0,
+                3204.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 21,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Vậy đó hả? Vậy nếu mà để tự chấm điểm social của mình trên thang 10, mọi người chấm mình bấy nhiêu điểm?"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3204.7,
+                3360.3
+              ]
+            ]
+          },
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3212.9,
+                3370.0
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3233.3,
+                3280.6
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                3204.7,
+                3370.0
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 22,
+        "segment_type": "dialogue",
+        "overview": "Tác giả và Dustin thảo luận về xã hội và nghệ thuật.",
+        "key_points": [
+          "Tác giả và Dustin thảo luận về xã hội và nghệ thuật.",
+          "Dustin kể về trải nghiệm của mình về cảm xúc và trầm cảm."
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "Tác giả": "Đọc sách và tìm hiểu về xã hội và nghệ thuật.",
+          "Dustin": "Thể hiện cảm xúc và trải nghiệm của mình."
+        },
+        "facts": []
+      },
+      {
+        "block_id": 23,
+        "segment_type": "dialogue",
+        "overview": "Dung và Dustin discuss their struggles and the importance of self-reflection in a professional setting.",
+        "key_points": [
+          "Dung expresses frustration with his career and feeling trapped by societal expectations.",
+          "Dustin shares similar experiences and discusses the impact of criticism on his mental health.",
+          "They both emphasize the need for self-awareness and reflection to navigate through challenges."
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "Dung": "Feeling overwhelmed by career goals and societal pressures.",
+          "Dustin": "Struggling with personal growth and feedback from others."
+        },
+        "facts": []
+      },
+      {
+        "block_id": 24,
+        "segment_type": "dialogue",
+        "overview": "Tác giả đề cập đến khó khăn trong việc lắng nghe và phản ứng với các bình luận từ khán giả.",
+        "key_points": [
+          "Lắng nghe và phản ứng với các bình luận từ khán giả là khó khăn",
+          "Khán giả thường phê phán các nghệ sĩ về ngoại hình và thói quen ăn uống"
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "Tuy_t": {
+            "insight": "Đánh giá và phản hồi khách quan về các bình luận từ khán giả",
+            "comment": "Nghệ sĩ cần tìm kiếm cách để lắng nghe và phản hồi với khán giả một cách phù hợp."
+          }
+        },
+        "facts": []
+      },
+      {
+        "block_id": 25,
+        "segment_type": "dialogue",
+        "overview": "Dương và Dustin thảo luận về phản ứng của khán giả đối với bài hát và đề xuất giải pháp.",
+        "key_points": [
+          "Khán giả phản ứng không thỏa đáng với bài hát",
+          "Dustin đề xuất giải pháp để cải thiện phản ứng của khán giả",
+          "Dương và Dustin thảo luận về cách tiếp cận với khán giả"
+        ],
+        "action_items": [],
+        "speaker_insights": {
+          "Dương": "Đồng cảm với khán giả và sẵn lòng lắng nghe góp ý",
+          "Dustin": "Xây dựng mối quan hệ với khán giả và tìm kiếm cơ hội tiếp xúc"
+        },
+        "facts": []
+      },
+      {
+        "block_id": 26,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Hả? Oh no no no. Because you không có coi show của Dustin."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "Tuy_t",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                4087.2,
+                4178.3
+              ]
+            ]
+          },
+          {
+            "speaker": "D_ng",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                4091.4,
+                4231.6
+              ]
+            ]
+          },
+          {
+            "speaker": "Dustin",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                4159.0,
+                4241.0
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                4087.2,
+                4241.0
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,786 @@
+sample_id,data_name,start,end,predicted_text,target_text
+data52_0,data52,37.65,46.81,Cuối cùng thì cũng đã gặp được chị Minh Tuyết. Hello. Và Mai Tiến Dũng. Hello. Chào mừng cả hai chị em đã đến với bật nến của Dustin on the go.,Cuối cùng thì cũng đã gặp được chị Minh Tuyết và Mai Tiến Dũng. Chào mừng cả hai chị em đã đến với bậc nến của Dustin On The Go.
+data52_1,data52,40.55,41.18,Hello.,Hello
+data52_2,data52,42.33,43.57,Hello.,Hello
+data52_3,data52,49.55,57.65,Thì bật nến là nơi mà bạn được sống thật là chính mình. Thông qua cái ánh nến thì mình hy vọng là ở đây mọi người sẽ được sưởi ấm.,Thì bậc nến là nơi mà bạn được sống thật là chính mình. Thông qua cái ánh nến thì mình hy vọng là ở đây mọi người sẽ được sủi ấm.
+data52_4,data52,58.15,61.89,Mình sẽ tề tụ với nhau. Và đặc biệt bây giờ cũng là. Dịp cuối năm nữa.,Mình sẽ tệ tụ với nhau và đặc biệt bây giờ cũng là dịp cuối năm nữa.
+data52_5,data52,63.16,66.88,Và Dustin cũng xin được. Gửi lời chúc mừng. Chị Minh Phước và Mai Tiến Dũng.,Và Dustin cũng xin được gửi lời chúc mừng chị Minh Tuyết và Mai Tiến Dũng.
+data52_6,data52,66.88,78.34,Đã có những chương trình truyền hình thực tế rất là hot và mọi người cũng đã kịp nhảy lên cái chuyến tàu để cùng tham gia với lại các nghệ sĩ của Việt Nam mình thì rất là.,Bởi vì đã có những chương trình truyền hình thực tế rất là hot và mọi người cũng đã kịp nhảy lên cái chuyến tàu để cùng tham gia với lại các nghệ sĩ của Việt Nam mình thì rất là vui.
+data52_7,data52,78.46,80.0,Trộn bí đi ạ.,"Trộm vía đi à, trộm vía."
+data52_8,data52,79.72,81.71,Trộn vía đi ạ. Trộn viếng.,"Trộm vía đi ạ, trộm vía."
+data52_9,data52,82.34,86.28,Truyền thống là mình sẽ thắp lên ngọn nến này để mình bắt đầu câu chuyện.,Truyền thống là mình sẽ thắp lên ngọn nến này để mình bắt đầu câu chuyện.
+data52_10,data52,90.55,91.97,Mọi người ở nhà có hay bật,Mọi người ở nhà có hay bật nến không?
+data52_11,data52,93.22,94.26,Mê nến luôn là khác.,Mê nến luôn là khác.
+data52_12,data52,94.96,98.56,"Chị là chị hay bật nến, ông xã cũng vậy.",Chị là chị hay bật nến. Ông xã chị cũng vậy thích lắm.
+data52_13,data52,98.56,104.14,Thích nến. Mình có mùi thơm. Xong rồi mình. Mình có thể thư giãn hơn.,Thích nến. Mình có mùi thơm. Xong rồi mình có thể thư giãn hơn.
+data52_14,data52,100.8,101.7,Cảm ơn các bạn.,Đúng rồi
+data52_15,data52,105.74,113.16,Bạn đang nghe. Bật nến podcast của Dustin On The Go. Cái lịch trình của hai người là bay đi bay về rất là nhiều.,Bạn đang nghe bật nến podcast của Dustin On The Go. Cái lịch trình của hai người là bay đi bay về rất là nhiều.
+data52_16,data52,113.52,117.88,Vậy một năm là mọi người phải về Việt Nam mấy lần rồi phải quay lại Mỹ bao nhiêu lần.,Vậy một năm là mọi người phải về Việt Nam mấy lần. Rồi phải quay lại Mỹ bao nhiêu lần.
+data52_17,data52,118.12,119.08,Cái này không đếm được đâu chị.,Cái này chắc không đếm được đâu chị.
+data52_18,data52,119.18,128.62,Rất là không tùy thuộc vào cái schedule hoặc là cái show mình nó tới như thế nào ấy. Nếu mà show tới liên tục thì bay như Jim.,Đó cũng tùy thuộc vào cái schedule. Hoặc là cái show mình nó tới như thế nào. Nếu mà show tới liên tục. Thì bay như chim.
+data52_19,data52,129.52,131.5,Còn nếu không có sôi thì ngủ.,Còn nếu không có show thì ngủ.
+data52_20,data52,131.72,133.56,Có chim đổ trên cành thôi.,Có chim đổ trên cành thôi.
+data52_21,data52,135.1,139.76,Vậy hai người đã từng. Talk. Trò chuyện với nhau trong một cái. Talk show nào chung chưa.,Vậy hai người đã từng talk. Trò chuyện với nhau trong một cái talk show nào chung chưa.
+data52_22,data52,142.7,143.58,Hình như chưa nha.,Hình như chưa nha.
+data52_23,data52,145.3,147.0,Đi sâu cùng nhau và nói xấu.,Đi show cùng nhau và nói xấu nhau.
+data52_24,data52,147.0,151.64,Không hẹn gặp lại. Chứ chưa có ngồi mà đối mặt với nhau 3 mặt.,Chứ chưa có ngồi đối mặt với nhau. Ba mặt một lời.
+data52_25,data52,154.04,157.1,Vậy hôm nay sẽ là cơ hội để chúng ta ba mặt một lời.,Vậy hôm nay sẽ là cơ hội để chúng ta ba mặt một lời.
+data52_26,data52,159.5,163.06,Bật nến sẽ có những trò chơi rất là hấp dẫn.,Bật nến. Sẽ có những trò chơi rất là hấp dẫn.
+data52_27,data52,164.08,166.88,Mọi người đã sẵn sàng chưa ạ? Sẵn sàng chưa?,Mọi người đã sẵn sàng chưa ạ? Sẵn sàng chưa ạ?
+data52_28,data52,169.88,171.68,Tình chị em sẽ tan vỡ.,Tình chị em sẽ tan dở từ đây.
+data52_29,data52,174.21,178.09,Bình thường tình chị em mình có kháng thích không? Nếu mình gặp nhau thì mình sẽ nói.,Bình thường thì tình chị em mình có kháng khích không? Nếu mình gặp nhau thì mình sẽ nói như sao?
+data52_30,data52,179.15,179.79,2 bé Dũng.,Hai bé Dũng.
+data52_31,data52,179.59,180.51,Hai ví dụ.,Hai bé Dũng.
+data52_32,data52,182.71,187.53,"Bé Mai còn không rồi, còn không. Vào chi tiết lại. Ê, là Thúy, là Thúy, là Thúy. Là bà Thúy không à.","Bé Mai, còn không gọi bà chị Tuyết là bà Tuyết không mà."
+data52_33,data52,187.53,189.57,Bây giờ chị lý còn có nghe là mẹ tuyết.,Bây giờ chị Tuyết còn có nghĩa là mẹ Tuyết.
+data52_34,data52,192.2,193.66,Tôi đã già rồi.,Tôi đã già rồi.
+data52_35,data52,194.0,195.94,Chị có hài lòng với cái danh xưng mẹ tuyết không?,Chị có hài lòng với cái danh sân mẹ Tuyết không?
+data52_36,data52,196.48,201.44,À chị vui. Tại vì chị nghĩ cái danh sân đó nó chứng minh một cái cảnh khác. Chị vui.,"A, chị vui. Tại vì chị nghĩ cái danh sân đó nó chứng minh là một cái khía cạnh khác."
+data52_37,data52,197.75,198.37,Tại vì em có một cái thứ khác. Chị vui.,Chị vui.
+data52_38,data52,202.28,207.42,Là một cái khía cạnh là mình được yêu thương ấy. Cho nên chị vui với cái danh xưng đó. Dạ hả?,Là một cái khía cạnh là mình được yêu thương. Cho nên chị vui với cái danh sân đó.
+data52_39,data52,205.3,205.88,Dạ.,Dạ
+data52_40,data52,209.89,212.73,"Còn Dũng, Dũng thích gọi là anh Dũng hay bé Dũng.",Còn Dũng cũng thích gọi là anh Dũng hay bé Dũng.
+data52_41,data52,212.83,214.37,Thật sự em thích gọi là bé hơn.,Thật sự thích gọi là bé hơn.
+data52_42,data52,216.09,222.11,Sắp đầu bốn rồi chị Tuyết. Nhưng mà em vẫn thích kiểu như trong mắt các anh chị. Mình lúc nào cũng bé bỏng nhất.,Sắp đầu bốn rồi chị Tuyết. Nhưng mà em vẫn thích kiểu như trong mắt. Các anh chị mình lúc nào cũng bé bỏng nhất.
+data52_43,data52,223.27,232.95,Chính vì sự bé bỏng đó cho nên là đi show đi đâu. Là cũng được kiểu như take care. Mà nhất là chị Tuyết nữa nè. Là một trong những người mà. Hay nhỏng nhẽo thì mình chăm sóc chị. Nhưng mà khi mà mình cần cái gì.,Chính vì sự bé bỏng đó. Cho nên là đi show đi đâu. Là cũng được kiểu như take care. Nhất là chị Tuyết là một trong những người. Hay nhõng nhẻo thì mình chăm sóc chị. Nhưng mà khi mà mình cần cái gì.
+data52_44,data52,233.15,234.71,Là chị Tuyết đứng ra.,Là chị Tuyết đứng ra chăm sóc.
+data52_45,data52,236.47,237.67,Vẫn là vai bé bỏng.,Vẫn là vai bé bỏng.
+data52_46,data52,238.87,243.37,Lúc nào cũng vẫn thích gọi là bé Mai bé Mai hoặc là bé Dũng chứ không có thích gọi là mai tiến.,Lúc nào cũng thích gọi là bé Mai. Hoặc là bé Dũng. Chứ không thích gọi là Mai Tiến Dũng.
+data52_47,data52,244.99,248.33,Bé Dũng nha. Mẹ tuyết và bé Dũng.,Bé Dũng nha. Mẹ Tuyết và bé Dũng.
+data52_48,data52,251.49,260.21,Lý do mà Dustin rất là muốn có được sự xuất hiện của chị Tuyết với lại Dũng. Là bởi vì trong thời gian qua nếu mà mình so sánh quá trình làm nghề.,Lý do mà Dustin rất là muốn. Có được sự xuất hiện của chị Tuyết. Với lại Dũng. Là bởi vì trong thời gian qua. Nếu mà mình so sánh quá trình làm nghề.
+data52_49,data52,260.61,267.41,Thì nếu mà mình ví nó như một chuyến tàu. Thì cả hai đã qua những cái trạm như là sân khấu của hải ngoại.,Thì nếu mà mình ví nó như một chuyến tàu. Thì cả hai đã qua những cái trạm. Như là sân khấu của hải ngoại.
+data52_50,data52,270.14,276.52,Sau đó là trở về với thị trường âm nhạc trong nước nè. Rồi tiếp đến là truyền hình thực tế ở Việt Nam.,Sau đó là trở về với thị trường âm nhạc trong nước. Rồi tiếp đến là truyền hình thực tế ở Việt Nam.
+data52_51,data52,276.88,286.88,Và đó là lý do mà hai người đã có những hoạt động sôi nổi. Nhưng có một cái lý do chính nữa là hoạt động social của hai người gần đây cũng rất là sôi nổi nữa. Rất là hài hước.,Và đó là lý do mà hai người đã có những hoạt động sôi nổi. Nhưng có một cái lý do chính nữa là. Hoạt động social của hai người gần đây cũng rất là sôi nổi nữa. Rất là hài hước.
+data52_52,data52,286.88,293.12,Đó là lý do mà khán giả rất yêu và yêu cầu chị Minh Tuyết và Mai Tiến Dũng sẽ phải có mặt ở Bật Nến thì đó là cái lý do.,Đó là lý do mà khán giả rất yêu. Và yêu cầu chị Minh Tuyết và Mai Tiến Dũng. Sẽ phải có mặt ở bậc nến. Thì đó là cái lý do.
+data52_53,data52,293.22,294.04,Vô cái nửa pháo.,Mình vô cái nữa phải không?
+data52_54,data52,294.04,296.22,Mình vô một cái để mình chúc mừng cho.,Mình vô một cái để mình chúc mừng.
+data52_55,data52,296.32,297.98,Cảm ơn các bạn. Cảm ơn cho cái chuyến tàu của chúng ta.,Chúc mừng cho cái chuyến tàu của chúng ta.
+data52_56,data52,299.08,301.42,Nhờ vậy mình mới gặp nhau ở Việt Nam.,Nhờ vậy mình mới gặp nhau ở Việt Nam.
+data52_57,data52,304.71,313.41,Trời đất xin giới thiệu về không gian mà mình đang ngồi ở đây là Paris Garden ở số 2Bit Nguyễn Thị Minh Khai đa cao quận 1.,Cho đó xin giới thiệu về. Không gian mà mình đang ngồi ở đây. Là Paris Garden. Ở số 2B Nguyễn Thị Minh Khai. Đa cao quận 1.
+data52_58,data52,313.41,319.09,"Thì nơi đây là một cái cà phê, nhà hàng tái hiện lại thành phố Paris.",Thì nơi đây là một cái cà phê. Nhà hàng tái hiện lại. Thành phố Paris.
+data52_59,data52,322.72,325.82,Một trong những thành phố mà chị rất là thích. Minh Tú rất là thích.,Một trong những thành phố mà chị rất là thích. Minh Tuyết rất là thích.
+data52_60,data52,325.82,327.46,Em rất là muốn đi nhưng em chưa được đi.,Em rất là muốn đi nhưng em chưa được đi.
+data52_61,data52,328.8,334.92,"Thì em mình đi điêu luyện rất là nhiều. Nhưng em chỉ được dừng chân tại mặt xe thôi. Chứ chưa, em chưa được đi Farry bao giờ cả.","Thì em mình đi đi rất là nhiều. Nhưng em chỉ được dừng chân tại Marseille thôi. Chưa, em chưa được đi Paris bao giờ cả."
+data52_62,data52,335.32,337.32,Nếu đến Ba Ghi thì Mai Tiến Dũng sẽ đến.,Nếu đến Paris thì Mai Tiến Dũng sẽ đến đâu?
+data52_63,data52,337.64,340.72,Chắc sẽ là type excel.,Chắc sẽ là Paris Eiffel.
+data52_64,data52,341.5,344.28,"Đây, ngồi đây.","Đây, ngồi đây. Đây, ngồi đây."
+data52_65,data52,346.87,349.79,"Ồ quý vị ơi, đây cũng có đôi quý vị à, già mô phỏng rất giống.","Ồ quý vị ơi, đây cũng có, mô phỏng rất giống nè."
+data52_66,data52,350.31,352.69,"Ủa, hồi nãy chụp hình là sống ảo là y chang luôn nha.",Ủa hồi nãy chụp hình là sóng ảo là y chang luôn nha.
+data52_67,data52,353.29,356.45,"Rồi nghe nói là phải, đi đến Paris là phải ngồi.",Rồi nghe nói là đi đến Paris là phải ngồi cà phê.
+data52_68,data52,356.45,357.45,Đúng rồi.,Đúng rồi.
+data52_69,data52,357.77,360.25,Là đường y trang trưởng Việt Nam chắc là lãng mạn lắm.,Ngoài là đường y chang kiểu Việt Nam chắc là lãng mạn lắm chị.
+data52_70,data52,360.25,365.83,"Thông khí, rồi cái fashion, mọi thứ nó làm cho mình cảm giác nó lãng mạn.","Không khí, fashion, mọi thứ nó làm cho mình cảm giác lãng mạn lắm."
+data52_71,data52,365.85,367.41,Nó phù hợp với những người điệu.,Nó phù hợp với những người điệu đúng không?
+data52_72,data52,367.72,368.42,Đúng rồi.,Đúng rồi
+data52_73,data52,369.77,374.11,Và nhất là mình xem đã có một cái show của emily in paris đó.,Nhất là mình xem đang có một cái show Emily in Paris đó.
+data52_74,data52,374.09,375.43,Emily in Paris.,Emily in Paris?
+data52_75,data52,375.49,380.03,Tự nhiên mình thấy. Trời ơi sao mình cũng muốn. Thời trang nó thời thường.,"Tự nhiên mình thấy, trời ơi sao mình cũng muốn có thời trang, thời thường lắm."
+data52_76,data52,380.59,387.75,Nhưng mà mình cảm thấy thời thượng nó lại không bị quá nhanh. Có cảm giác là bên châu Âu và Paris nó chậm hơn một chút.,Nhưng mà mình cảm thấy thời thường nhưng nó lại không bị quá nhanh. Cảm giác bên châu Âu và Paris nó chậm hơn một tí xíu.
+data52_77,data52,387.75,397.75,Thích nhất là đi ngang mấy cái công viên á. Xong rồi mấy anh chàng ngồi á. Rồi bận áo măng tô rồi. Vấn khăn này nọ rồi. Xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích x,Thích nhất là đi ngang mấy cái công viên á xong rồi mấy anh chàng ngồi á rồi bận áo mang tô rồi quấn khăn này nọ rồi xích xích xích xích xích.
+data52_78,data52,402.43,404.45,Thấy nó lãng mạn làm sao.,Thì thấy nó lãng mạn làm sao á.
+data52_79,data52,404.45,407.71,Cái giọng Pháp là nghe nó đã là rất là tình rồi.,Cái giọng pháp là nghe nó đã là rất là tình rồi.
+data52_80,data52,407.81,408.39,Đúng rồi.,Đúng rồi.
+data52_81,data52,408.39,415.81,"Vậy thì mọi người nếu đói. Mình có đồ ăn đến từ nhà Paris Garden. Có steak, mình có tôm hùm. Mời chị nha.","Vậy thì mọi người nếu đói mình có đồ ăn đến từ nhà hàng Paris Garden có steak, mình có tôm hùm mời chị nha."
+data52_82,data52,420.72,421.8,Mời Mai Tiến Dũng.,Mời Mai Tiến Dũng.
+data52_83,data52,422.2,424.28,Bây giờ mình ngồi đây mình ăn luôn vậy đó hả?,Bây giờ mình ngồi đây mình ăn luôn vậy đó hả.
+data52_84,data52,424.28,429.5,"Mình vừa ăn, mình vừa uống. Tại vì chuyến tàu này nó sẽ đi qua rất là nhiều trạm.",Mình vừa ăn mình vừa uống. Tại vì chuyến tàu này nó sẽ đi qua rất là nhiều trạm.
+data52_85,data52,430.3,432.4,Bây giờ nạp năng lượng.,Nghĩa là bây giờ nạp năng lượng đi.
+data52_86,data52,432.4,434.56,Cứ nạp năng lượng nha mọi người.,Cứ nạp năng lượng nha mọi người.
+data52_87,data52,433.95,434.57,Cứu em em ơi.,Đúng rồi
+data52_88,data52,440.84,441.56,Ngon nha.,Ngon nha.
+data52_89,data52,445.74,448.16,Beautiful.,Beautiful.
+data52_90,data52,452.86,456.28,Trò chơi đầu tiên mang tên là Thần Giao Cách Cảm.,Trò chơi đầu tiên. Mang tên là thần dao cách cảm.
+data52_91,data52,457.46,465.5,Luật chơi như sau. Chương trình sẽ có những câu hỏi. Thì Dustin đọc một câu hỏi. Ba chị em mình sẽ trả lời cùng một lúc.,Luật chơi như sau. Chương trình sẽ có những câu hỏi. Thì Dustin đọc một câu hỏi. Ba chị em mình sẽ trả lời cùng một lúc.
+data52_92,data52,465.4,473.37,"Nếu đáp án ba chị em giống nhau thì ok, nếu mà ai có đáp án khác với hai người còn lại.",Nếu đáp án ba chị em giống nhau thì. Ok. Nếu mà ai có đáp án khác. Với hai người còn lại.
+data52_93,data52,473.77,475.59,Thì người đó phải uống một ly nước.,Thì người đó phải uống một ly nước đắng.
+data52_94,data52,476.36,477.05,Thiệt luôn hả?,Ủa thiệt luôn hả.
+data52_95,data52,477.59,480.09,Trời ơi là chơi hết.,Trời ơi là chơi hơi.
+data52_96,data52,481.31,482.71,Tôi tưởng là uống.,Ủa tôi tưởng là uống cái này.
+data52_97,data52,483.21,487.51,Cái này là thấm giọng. Còn cái kia là hình phạt.,Cái này là thấm giọng. Còn cái kia là hình phạt.
+data52_98,data52,488.59,490.45,Mọi người có thường hay chơi game không?,Mọi người có thường hay chơi game không.
+data52_99,data52,490.45,493.19,"Không, nhưng mà chơi đi, chứ bao giờ chơi game bà Tuyết hết.","Không, nhưng mà chơi đi. Chưa bao giờ chơi game ba tuyết hết á."
+data52_100,data52,494.75,498.13,Tôi đã coi chương trình của Dustin rồi. Tôi cũng hoảng sợ lắm.,Tôi đã coi chương trình của Dustin rồi. Tôi cũng khoảng sợ lắm.
+data52_101,data52,498.13,500.01,Ủa chị có rô là chị cũng hiểu.,"Ủa, chị coi rồi là chị cũng hiểu là."
+data52_102,data52,500.01,502.23,Chị cũng đã từng xem rồi.,Chị cũng đã từng xem rồi.
+data52_103,data52,503.41,508.77,Bạn đang nghe. Bật nến podcast của Dustin on the go. Đây là.,Bạn đang nghe. Bật nến podcast của Dustin on the go. Đây là.
+data52_104,data52,509.96,515.36,"Chín ly nước đắng. Yes or no thôi. 1, 2, 3 mới trả lời nha. Mình cùng trả lời.","9 ly nước đắng. Yes or no thôi 1, 2, 3 mới trả lời nha. Mình cùng trả lời một lúc."
+data52_105,data52,517.14,518.0,Anh sẵn?,You ready?
+data52_106,data52,521.18,524.7,6 packs hay là slim fit. Mình có thể suy nghĩ.,6 Packs hay Slim Fit? Mình có thể suy nghĩ.
+data52_107,data52,528.92,532.34,"1, 2, 3. Slim Fit.","1, 2, 3. Slim Fit."
+data52_108,data52,531.67,532.51,Plimp it.,Slim Fit.
+data52_109,data52,531.67,532.51,Plimp it.,Slim Fit.
+data52_110,data52,535.26,538.38,Vậy là khỏi uống. Ok. Rồi tới mời chị.,Vậy là khỏi uống. Rồi tớ mời chị.
+data52_111,data52,536.58,537.36,Ok.,Ok
+data52_112,data52,538.46,541.58,Trời ơi câu này căng rồi nha. Câu này căng rồi nha.,Trời ơi câu này căng à nha. Câu này căng à nha.
+data52_113,data52,542.47,546.11,"Căn không? Căn, chị đọc luôn đi.",Căng không? Căng chị đọc luôn đi.
+data52_114,data52,544.38,544.85,Hẹn gặp lại.,Căng
+data52_115,data52,546.21,548.91,Tại vì bản thân chị chỉ có suy nghĩ.,"Tại vì bản thân chị, chị còn suy nghĩ."
+data52_116,data52,550.81,553.47,Nhưng mà nó chỉ có A với B à chị suy nghĩ 50.,Nhưng mà nó chỉ có A với B. Rồi chị suy nghĩ 50.
+data52_117,data52,553.57,556.53,Lên chọn cái nào muốn hồi cho người khác.,Nên chọn cái nào. Huống hồ chứ người khác.
+data52_118,data52,556.93,558.47,Chị đọc xong rồi đếm 123.,"Chị đọc xong rồi đếm 1, 2, 3 ha."
+data52_119,data52,558.77,564.71,"Nhiều fan hay nhiều tiền? 1, 2, 3, 4. Nhiều fan hay nhiều tiền?","Nhiều fan hay nhiều tiền 1, 2, 3 fan."
+data52_120,data52,563.41,564.39,"3, 2, 1.",Nhiều fan.
+data52_121,data52,563.8,564.75,Nhiều phần.,Nhiều fan.
+data52_122,data52,563.8,564.75,Nhiều phần.,Nhiều fan.
+data52_123,data52,566.03,568.51,Là đúng rồi. Là đúng rồi. Nhiều xét.,Là đúng rồi. Nhiều fan.
+data52_124,data52,571.05,571.77,Hạt tiền.,Thoát tiếp.
+data52_125,data52,572.85,575.69,Khoan để hỏi là tại sao chưởng lại chọn nhiều fan hơn nhiều.,Khoan để hỏi nè. Tại sao Dũng lại chọn nhiều fan hơn nhiều tiền.
+data52_126,data52,575.79,584.52,Tại vì em là thích kiểu tính người tình cảm. Cho nên là khi mà em được nhiều người yêu mến và có nhiều fan thì em nghĩ là từ những cái đó.,Tại vì em là thích kiểu. Tính người tình cảm. Cho nên là khi mà em được. Nhiều người yêu mến và có nhiều fan. Thì em nghĩ là từ những cái đó.
+data52_127,data52,584.52,594.5,Thì mình sẽ có nhiều cơ hội khác hơn. Cái tinh thần đối với em nó quan trọng lắm. Phê em không hiện tại không quá nhiều. Thế nhưng fan của em là những người rất là trung thành. Mà rất yêu quý em và chăm sóc em thật sự.,Mình sẽ có nhiều cơ hội khác hơn. Cái tinh thần đối với em nó quan trọng lắm. Fan em hiện tại không quá nhiều. Thế nhưng fan của em là những người rất là trung thành. Và rất yêu quý em và chăm sóc em thật sự.
+data52_128,data52,594.5,602.78,Có những chị chăm sóc em như là em trong nhà đó. Thế nên rất là trân quý bao nhiêu năm trời. Họ lớn lên cùng mình các bạn nhỏ. Lớn lên cùng mình.,"Có những chị chăm sóc em như là. Em trong nhà. Cho nên rất là trân quý bao nhiêu năm trời. Họ lớn lên cùng mình, các bạn nhỏ lớn lên cùng mình."
+data52_129,data52,602.78,606.96,Chị gà đi cùng mình thì cái đó em thấy nó thú vị.,Và các chị già đi cùng mình. Thì cái đó em thấy nó thú vị lắm.
+data52_130,data52,608.1,612.58,Ngành nghiệp của mình đôi khi có những cái bấp minh. Mình vẫn có thể tâm sự với những người đó. Rồi họ chia sẻ với mình.,Nghề nghiệp của mình đôi khi có những cái bấp binh. Mình vẫn có thể tâm sự với những người đó được. Và họ chia sẻ được với mình.
+data52_131,data52,613.82,618.8,Nhiều tiền nhưng mà đâu có chia sẻ được với ai nếu không mình không có thật sự có những người chia sẻ cùng với mình những cái tinh.,Nhiều tiền nhưng mà đâu có mình chia sẻ được với ai. Nếu không mình không có thật sự là có những người chia sẻ cùng với mình. Những cái tinh thần.
+data52_132,data52,619.84,620.64,Còn chị?,Còn chị?
+data52_133,data52,621.0,628.18,"Cái đó là vì Dũng nói hoa mỹ. Mình nói sự thật luôn. Mình là nghệ sĩ, mình cần fan. Mà có nhiều fan thì có nhiều.","Cái đó là Dũng nói hoa Mỹ nha. Mình nói sự thật luôn. Mình là nghệ sĩ, mình cần fan. Mà có nhiều fan thì có nhiều tiền."
+data52_134,data52,628.48,629.12,Dạ đúng.,Dạ đúng.
+data52_135,data52,632.26,642.4,"Chính xác, em cũng vậy thôi. Em làm nghề tới bây giờ em nghĩ là tiền thì không có. Nhưng fan là những người mà sẽ đi cùng với mình qua từng năm từng tháng.",Chính xác. Em cũng vậy thôi. Em làm nghề tới bây giờ em nghĩ là tiền thì không có. Nhưng fan là những người. Mà sẽ đi cùng với mình. Qua từng năm từng tháng.
+data52_136,data52,642.96,646.62,Mình là nghệ sĩ cho nên chọn giữa hai thứ mình vẫn phải chọn fan.,Mình là nghệ sĩ cho nên. Chọn giữa hai thứ mình vẫn phải chọn fan nhiều hơn.
+data52_137,data52,648.18,649.42,Câu tiếp theo ai đọc nè.,Câu tiếp theo ai đọc nè.
+data52_138,data52,651.28,658.24,Cái này em giống chị Tuyết nè. Em cũng đáng đó phải suy nghĩ nè. Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình.,Cái này em giống chị Tuyết nè. Em cũng đắn đó và suy nghĩ nè. Thích người giỏi ngoại giao. Hay giỏi chăm sóc gia đình.
+data52_139,data52,659.22,661.38,"Quay, quay, quay, khoan, khoan đếm nha.",Quay quay quay khoan đếm nha.
+data52_140,data52,661.68,663.12,"Văn đếm nha, thật sự những cái này khó đó.",Khoan đếm nha thật sự cái này khó đó.
+data52_141,data52,663.8,665.56,"Ờ, nhưng mà em có chỗ trả lời nha.",Ờ nhưng mà em có cho trả lời nha.
+data52_142,data52,665.76,675.06,Ví dụ như là nếu mà mình nói là nó nằm trong cái situation là mình chỉ nghĩ một người nào đó. Bạn bè với mình nó khác. Và khi mình nghĩ về một người.,Ví dụ như là nếu mà mình nói là nó nằm trong cái situation là. Mình chỉ nghĩ một người nào đó. Bạn bè với mình nó khác. Và khi mình nghĩ về một người.
+data52_143,data52,675.06,677.88,Là gia đình của mình tức là chồng vợ.,Mình là gia đình của mình tức là chồng vợ.
+data52_144,data52,677.98,679.6,Mỗi người có hệ quy chiếu khác.,Mỗi người có hệ quy chiếu khác nhau.
+data52_145,data52,679.6,680.24,Không có gì đánh giá nữa.,Căng ạ.
+data52_146,data52,681.16,684.86,Phải nói là người tình của mình hoặc là chồng của mình. Hoặc là vợ.,Phải nói là người tình của mình hoặc là chồng của mình. Hoặc là vợ.
+data52_147,data52,684.96,687.16,À mỗi người có một tố chất khác.,À mỗi người có một tố chất khác nhau.
+data52_148,data52,687.26,695.28,Giống như bây giờ đơn giản nha. Khi mà một người đàn ông họ quen một người đàn bà. Chỉ là người tình thôi. Thì họ muốn người tình của họ sẽ là như vậy.,Giống như bây giờ đơn giản nha. Khi mà một người đàn ông họ quen một người đàn bà. Chỉ là người tình thôi. Thì họ muốn người tình của họ sẽ là như vậy.
+data52_149,data52,695.68,700.12,Nhưng mà khi đã nghĩ tới lấy cái người đã làm vợ thì họ sẽ nghĩ một cái kiểu khác.,Nhưng mà khi đã nghĩ tới lấy cái người đó làm vợ. Thì họ sẽ nghĩ một cái kiểu khác.
+data52_150,data52,700.52,701.56,Thấy thấu chưa?,Thấy sâu chưa.
+data52_151,data52,701.88,704.5,Cái người đàn bà già rồi nó suy nghĩ khác em à.,Cái người đàn bà già rồi nó suy nghĩ khác em à.
+data52_152,data52,705.5,707.38,Vậy là người nào khác là người đã uống đó.,Vậy là người nào khác là người đó uống đó.
+data52_153,data52,708.96,711.48,Thì mình cứ trả lời đi ạ. Ok đọc lại câu hỏi nha.,Thì mình cứ trả lời đi ạ. Ok đọc lại câu hỏi nha.
+data52_154,data52,712.08,720.22,"Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình? 2, 3. Giỏi chăm sóc gia đình.","Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình 2, 3. Giỏi chăm sóc gia đình."
+data52_155,data52,718.93,720.25,Giỏi chăm sóc gia đình.,Giỏi chắm sóc gia đình.
+data52_156,data52,718.93,720.25,Giỏi chăm sóc gia đình.,Giỏi chắm sóc gia đình.
+data52_157,data52,721.72,722.74,Ok em thoát.,Ok em thoát.
+data52_158,data52,724.46,731.84,Thì đúng rồi đúng rồi. Tại vì ở thời điểm này. Cả em với Dũng thì cũng. Mong muốn là chỉ có một cái mái ấm gia đình thật sự.,"Thì đúng rồi, tại vì ở thời điểm này. Cả em với Dũng thì cũng mong muốn là chỉ có một cái máy ấm gia đình thật sự."
+data52_159,data52,732.04,740.64,Chị nghĩ là có lẽ là tại vì chúng ta đều là những người đi ra ngoài làm việc á. Và nói chung là chúng ta cũng đã có một cái thành tựu khá là nhất định.,Chị nghĩ là có lẽ là tại vì chúng ta đều là những người đi ra ngoài làm việc. Và nói chung là chúng ta cũng đã có một cái thành tựu khá là nhất định.
+data52_160,data52,737.06,737.54,Dạ.,Dạ
+data52_161,data52,740.84,743.6,Thì chúng ta lại khao khát cái tình cảm nhiều.,Vì thế thì chúng ta lại khao khát cái tình cảm nhiều hơn.
+data52_162,data52,745.2,747.34,Khao khát cái sự ấm êm.,Khao khát cái sự ấm êm nhiều hơn.
+data52_163,data52,747.74,749.44,Chúng ta có thể tự đi ngoại giao.,Chúng ta có thể tự đi ngoại giao được.
+data52_164,data52,749.44,753.28,Thì mình đâu dám nói bạch tạc ra như thế. Mình phải nói như vậy.,Thì mình đâu có dám nói bạch tẹt ra như thế. Mình phải nói như vậy.
+data52_165,data52,754.68,757.24,Mình chỉ cần một người là chỗ dựa cho mình thôi.,Mình chỉ cần một người là chỗ dựa cho mình thôi.
+data52_166,data52,757.24,760.18,Để cho mình có thể bay nhảy bên ngoài đúng không?,Để cho mình có thể bay nhảy bên ngoài đúng không?
+data52_167,data52,761.94,767.84,Câu nào mà nó khác khác đi. Để có người phải thua chứ. Phở hay bún bò.,Câu nào mà nó khác khác đi. Để có người phải thua chứ. Phở hay bún bò?
+data52_168,data52,768.5,770.84,"1, 2, 3. Bún bò.","Một, hai, ba. Bún bò."
+data52_169,data52,770.03,770.84,Đúng à.,Bún bò.
+data52_170,data52,772.84,777.1,Uống thôi uống bò. Uống thôi uống bò chết chưa. Xin mời phở uống nha.,"Bún bò, bún bò. Chết chưa. Xin mời phở uống nha."
+data52_171,data52,777.4,780.18,Hai chị em hẹn thêm bún bò hả? Chị là fan bún bò.,Hai chị em cũng hay bún bò hả? Chị là fan bún bò.
+data52_172,data52,780.28,781.04,Thì là Phan.,Chị là fan bún bò.
+data52_173,data52,786.18,787.04,Nhiều.,Nhiều nước béo.
+data52_174,data52,789.5,790.32,Sao đắng dữ vậy?,Sao đắng dữ vậy.
+data52_175,data52,791.22,799.42,Em ăn thử như vậy đi em sẽ thấy rất ngon. Đó là mình đừng húp nước thôi. Nhưng mà khi nước béo nó nhiều thì cái mùi bún bò mùi xả nó sẽ dậy lên nhiều hơn. Ủa mà uống gì vậy?,Em ăn thử như vậy đi em sẽ thấy rất ngon. Đó là mình đừng hấp nước thôi. Nhưng mà khi nước béo nó nhiều. Thì cái mùi bún bò mùi xả nó sẽ dậy lên nhiều hơn. Ủa mà uống gì vậy cưng.
+data52_176,data52,799.42,801.24,"Nước đắng, đắng lắm.","Nước đắng, đắng lắm."
+data52_177,data52,801.42,802.54,Bạn nước đó là cái gì?,Mà nước đó là cái gì vậy.
+data52_178,data52,802.54,811.18,"Là nước đắng đó cho nó mát da, đẹp da. Mà đắng, đắng xong bây giờ uống xong rồi ha. Xong bây giờ nước bọt không biết tiết ra, nó còn đắng từ từ từ từ.","Là nước đắng đó, cho nó mát da, đẹp da. Mà đắng, đắng là sao bây giờ uống xong rồi ha. Sao bây giờ nước bọc mới tiết ra. Rất là đắng, từ từ từ. Từ từ tư tư."
+data52_179,data52,818.08,819.5,Nhưng mà cái này tôi cũng không biết trả lời.,Ê mà cái này tui cũng không biết trả lời.
+data52_180,data52,820.98,823.34,Mưa tháng 6 hay nắng tháng 10.,Mưa tháng 6 hay nắng tháng 10?
+data52_181,data52,824.08,825.18,Này nó thơ quá vậy.,Mình nói thơ quá vậy.
+data52_182,data52,825.18,826.62,10 tháng 6.,Mưa tháng 6.
+data52_183,data52,827.34,828.9,Suy nghĩ xong chưa đếm nha.,Suy nghĩ xong chưa đếm nha?
+data52_184,data52,829.48,829.87,Khó quá.,Khó quá à
+data52_185,data52,829.9,830.54,Không rồi nè.,Xong rồi nè.
+data52_186,data52,831.26,834.52,Thì chị nói là cái này đơn giản nhưng mà lại khó.,"Thì chị nói là cái này đơn giản, nhưng mà lại khó... khó ấy."
+data52_187,data52,836.34,841.34,Đi đây em sẽ thích mùa nắng hay mùa mưa. Em sẽ thích cái cảm giác đầu hơn.,Thì em sẽ thích mùa nắng hay mùa mưa. Em sẽ thích cái cảm giác nào hơn.
+data52_188,data52,841.34,848.54,Giờ chị nói cảm giác về thực tế là tooling. Hay chị thích kiểu là. Thực tế là trong cuộc sống. Tại vì nếu trong cuộc sống đi kiếm cơm.,Giờ chị nói cảm giác và thực tế là feeling. Hay chị thích kiểu là. Thực tế là trong cuộc sống. Tại vì nếu trong cuộc sống thì kiếm cơm á.
+data52_189,data52,848.54,849.54,Filling đi Filling.,I think feeling đi.
+data52_190,data52,849.54,851.04,Bọc phải bọc phi linh nha.,"Feeling nha, bọc bọc feeling nha."
+data52_191,data52,852.34,855.94,"2, 3, muôn tháng 6, nắng tháng 10.","1, 2, 3. Mưa tháng 6. Nắng tháng 10."
+data52_192,data52,854.84,855.99,Nắng tháng mười.,Nắng tháng 10
+data52_193,data52,858.64,859.56,Đã đó là kiêu linh.,Đã nói về feeling.
+data52_194,data52,860.65,861.62,Cho chị thích được không?,Cho chị thích được không?
+data52_195,data52,861.63,862.43,Được rồi.,Được rồi
+data52_196,data52,863.0,864.01,Của mình tháng 10.,Sinh nhật của mình tháng 10.
+data52_197,data52,863.96,869.66,Ê nè sinh nhật tháng 10 nè. Nhưng mà tại vì mưa nó lãng mạn hơn.,Đây nè sinh nhật tháng 10 nè. Nhưng mà tại vì. Mưa nó lãng mạn hơn.
+data52_198,data52,869.9,872.74,Nhưng mà tháng 10 nào mưa nó cũng ngập tới đầu gối hết đó chị.,Nhưng mà tháng 10 nào mưa. Nó cũng ngập tới đầu gối đó chị.
+data52_199,data52,873.02,874.36,Nắng tháng mười mà.,Nắng tháng 10 mà.
+data52_200,data52,874.42,877.64,Mong là có ngày nắng tháng mùi để cái sinh nhật em nó bớt ảm đạm.,Mong là có ngày nắng tháng 10. Để cái sinh nhật em nó bớt ảm đạm.
+data52_201,data52,877.34,878.18,Tại tụi chị không ấy?,Không tại tụi chị ở Mỹ.
+data52_202,data52,880.76,888.3,Nói chung là mưa nắng đều có cái heavy nguồn độ. Nhưng mà tại vì nếu mà đi show thì chỉ mong là ngày nắng. Tại vì ngày mưa thì nguy hiểm.,Nói chung là mưa nắng đều có cái heavy work. Nhưng mà nếu mà đi show. Thì chỉ mong là ngày nắng. Tại vì ngày mưa thì nguy hiểm lắm.
+data52_203,data52,888.36,889.9,Thôi 15g thôi.,Mưa lâm râm thôi.
+data52_204,data52,889.9,894.04,Mình đang nói về khí cạnh nào. Piêu Linh thì tất nhiên là mưa.,Mình đang nói về khía cạnh nào feeling á tất nhiên là mưa.
+data52_205,data52,894.05,895.28,Tại vì thật sự ở Mỹ.,Tại vì thật sự ở Mỹ.
+data52_206,data52,895.34,897.18,Nó ít khi nào mà mưa dầm mưa về.,Ít khi nào mà mưa dầm mưa dề lắm.
+data52_207,data52,898.54,900.06,Không có nhiều.,"Ít, không có nhiều."
+data52_208,data52,900.06,908.62,Em thấy ở Việt Nam như thế nào. Mưa người ta hay gọi là mưa rào Việt Nam. Rào nó ngưng. Còn bên Mỹ á. Mưa là từ sáng đến tối.,"Em thấy ở Việt Nam như thế này nè. Mưa người ta hay gọi là mưa rào Việt Nam. Nó rào quá, nó ngưng. Còn bên Mỹ á. Mưa là từ sáng tới tối."
+data52_209,data52,908.62,912.62,Nhưng mà nó không có nhiều. Không nhiều ngày thôi. Không tức là nó không có nhiều ngày. Không nhiều ngày thôi. Không tức là nó không có.,Nhưng mà nó không có nhiều. Tức là nó không có.
+data52_210,data52,910.39,911.62,Không nhiều ngày thôi.,Không nhiều ngày thôi
+data52_211,data52,914.44,915.63,"Lấp phớt, lấp phớt.",Lấc phất lấc phất.
+data52_212,data52,915.64,916.7,Nhưng mà nó ra nguyên.,Nhưng mà nó dai nguyên ngày.
+data52_213,data52,916.72,920.44,Nó dai nhưng mà nó rĩ rã chứ nó không kiểu à mà mà mà mà mà.,Nó dai nhưng mà nó nhiễu nhả. Chứ nó không kiểu âm âm âm âm âm âm như vậy.
+data52_214,data52,920.64,928.88,Ở đây là xong rồi nắng hết. Xong rồi đang nắng là mưa mưa mưa. Vậy là tính mọi người cũng vậy thích kiểu mưa lãng mạn đúng không? Chứ không thích mưa kiểu ào ào.,Ở đây là âm âm âm xong rồi nắng hết. Xong rồi đang nắng là mưa mưa mưa. Vậy là tính mọi người cũng vậy. Thì thích kiểu mưa lãng mạn đúng không? Chứ không thích kiểu mưa ào ào đúng không?
+data52_215,data52,929.0,931.52,Không ai thích mưa ào ào.,"Of course, không ai mà thích mưa ào ào hết á."
+data52_216,data52,933.74,935.13,Nguội ào ào. Các bạn không được về nhà.,Mưa ào ào các em không được về nhà.
+data52_217,data52,935.59,936.75,Kẹt bên nhà ai đó.,Kẹt bên nhà ai đó.
+data52_218,data52,937.63,940.01,"Đúng không đúng không. Mưa quá không về được, không bắt được taxi.",Đúng không? Đúng không? Mưa quá không về được không bắt được taxi
+data52_219,data52,941.02,942.72,Kẹt mưa đâu đó với ai chưa.,Kẹt mưa ở đâu đó với ai chưa.
+data52_220,data52,942.82,943.92,Nó khò quá.,Mắc ho quá.
+data52_221,data52,947.32,948.82,Không có ra thực tế nào.,Không cái đó thực tế mà.
+data52_222,data52,948.84,951.05,Ngày ấy qua rồi. Ngày ấy qua rồi.,"Ngày ấy qua rồi, ngày ấy qua rồi."
+data52_223,data52,951.08,953.43,Thì mới có bài đường xa ước mưa đúng không? Đó.,"Thì mới có bài đường xá ướt mưa phải không, thì đó"
+data52_224,data52,953.92,963.22,Ước ác trời mưa nhỏ hai đứa che chung một chiếc giường. Linh lén nhìn nhau bằng ánh mắt. Học trò chưa biết cách hôn môi. Ủa hai người không biết cái thơ đó hả?,"Ướt trời mưa nhỏ, hai đứa che chung một chiếc dù. Len lén nhìn nhau bằng ánh mắt, học trò chưa biết cách hôn môi. Ủa hai người không biết cái thơ đó hả?"
+data52_225,data52,963.21,963.83,Không.,Không
+data52_226,data52,963.94,964.79,Mimusa.,Mimosa!
+data52_227,data52,965.63,966.68,Là lúc học trò.,Là lớp học trò là đã
+data52_228,data52,966.69,972.06,"Chuyện Mimosa đấy. Trời ơi, hồi xưa là chị là. Trốn ở trong góc nhà để đọc truyện.",Chuyện Mimosa đấy Trời ơi hồi xưa là chị là Trốn ở trong góc nhà để đọc chuyện đó.
+data52_229,data52,972.12,973.92,À là mê tủy thuyết đúng không?,À là mê tuyển thuyết phải không.
+data52_230,data52,973.85,974.41,Tự thí.,Mê tiểu thuyết.
+data52_231,data52,975.81,979.0,Tại sao tôi hát nhạc tình cảm là vậy đấy. Tôi rất là ước ác.,Tại sao tôi hát nhạc tình cảm là vậy đấy tôi rất là ướt át.
+data52_232,data52,981.25,982.37,Xếp hàng chờ thăm mấy.,Xếp hàng chờ thang máy.
+data52_233,data52,983.98,985.96,"Cái này tùy lúc nè, bây giờ mình nói một ngữ cảnh.","Cái này tùy lúc nè, bây giờ mình nói một ngữ cảnh đi."
+data52_234,data52,986.14,987.44,Nếu thân bộ 10 tầng em đi.,Nếu thang bộ 10 tầng em đi không?
+data52_235,data52,987.46,989.32,"Không, bây giờ mình nói trước đi rồi mình giải thích sao.","Không, Thì mình nói trước đi rồi mình giải thích sau."
+data52_236,data52,989.42,991.68,"Không phải tháng, nhưng mà tháng bộ là bao nhiêu tháng mới được.","Khoan, nhưng mà thang bộ là bao nhiêu thang mới được?"
+data52_237,data52,993.38,994.46,Chị đi được bao nhiêu...,Chị đi được bao nhiêu thang?
+data52_238,data52,994.56,996.2,Cái này làm khó người ta quá à.,Cái này làm khó người ta quá à.
+data52_239,data52,996.5,1002.6,"Biết thì sao không? Như thế này nè, nó khác nhau chỗ. Ví dụng với Dustin. Làm điểm đàn ông thì mình đi dây ngắn.","Biết tại sao không? Như thế này nè, nó khác nhau chỗ. Dũng với Dustin. Là đàn ông thì mình đi dây ngắn."
+data52_240,data52,1002.9,1006.58,Bây giờ tôi mang đôi này mà tôi bắt tôi đi thang máy thang bộ tôi chết rồi.,Bây giờ tui mang đôi này mà tui bắt tui đi thang mấy? Thang bộ thì chết à.
+data52_241,data52,1006.58,1008.12,Nhưng lúc em cũng mang giày cao luôn chị.,Nhưng lúc em cũng mang giày cao luôn chị.
+data52_242,data52,1008.12,1010.38,Mà cái cao của em nó không có là nghĩa địa gì hết.,Mà cái cao của em nó không có là nghĩa địa gì hết kìa.
+data52_243,data52,1012.4,1016.02,Không có là nghĩa địa ha. Ba nhiêu phân mới là nghĩa địa gì kỷ.,Không phải là nghĩa địa hả? Bao nhiêu phân mới là nghĩa địa vậy chị?
+data52_244,data52,1016.12,1021.08,"Trời ơi cái giày này mà em kêu chị đi 3 tầng là chị thở. Rồi cái độ tuổi, độ tuổi.",Trời ơi cái giày này mà em kêu chị đi 3 tầng là chị thở. Rồi cái độ tuổi của chị.
+data52_245,data52,1022.6,1023.72,2 tầng đã về chưa.,2 tầng đó giờ chưa.
+data52_246,data52,1023.8,1025.02,Ba tận sợ chị bỏ cuộc.,3 tầng sợ chị bỏ cuộc á.
+data52_247,data52,1025.0,1025.62,"Không, ba tầng đường.",Không 3 tầng được.
+data52_248,data52,1025.72,1026.38,Bao tầm được.,3 tầng được
+data52_249,data52,1027.12,1029.68,Mà phải tùy lúc lúc nào.,3 tầng mà phải đi tùy lúc lúc nào.
+data52_250,data52,1029.88,1032.56,"Thì nói chung là phải chờ hết, vô gặp thang máy là bị.",Thì nói chung là phải chờ hết. Là vô là gặp thang máy là bị chờ.
+data52_251,data52,1032.56,1035.42,"Không, ví dụ như là em cần phải đi những cái chuyện rất là gấp.",Không ví dụ như là em cần phải đi những cái chuyện rất là gấp gấp.
+data52_252,data52,1036.22,1039.04,"3, 2, 1. 1, 2.",3 2 1 đi bộ.
+data52_253,data52,1038.22,1038.92,Bây!,Bế
+data52_254,data52,1038.95,1039.0,Hẹn gặp lại.,Thang máy.
+data52_255,data52,1043.3,1047.48,Cái câu này là rõ ràng xử ép chị. Tại chị là đàn bà thì chắc chắn chị phải đi thang máy.,Cái câu này là rõ ràng sự ép chị. Tại chị là đàn bà thì chắc chắn chị phải đi thang máy.
+data52_256,data52,1047.48,1049.16,Thì em đi 3 tầng với chị mà.,Thì em đi 3 tầng với chị mà.
+data52_257,data52,1049.9,1053.28,Chị đi thang bộ nhưng mà chồng chị có thể cõng chị mà hay bế chị đi được mà.,Chị đi thang bộ nhưng mà chồng chị có thể cổng chị mà. Hay bế chị đi được mà.
+data52_258,data52,1053.36,1055.6,Cái câu của em nó không có cái option là có chồng.,Cái câu của em nó không có cái option là có chồng ở trong.
+data52_259,data52,1056.62,1057.88,Chị có thể tự vẽ ra.,Chị có thể tự vẽ ra.
+data52_260,data52,1059.54,1060.48,Thôi chị uống đi.,Thôi chị uống đi.
+data52_261,data52,1060.8,1061.68,Mời chị Tết!,Mời chị tuyết.
+data52_262,data52,1062.86,1064.84,Cứu này là công sử ép chị.,Câu này là câu sử ép chị.
+data52_263,data52,1064.74,1065.52,Câu này là.,Không câu này là.
+data52_264,data52,1065.22,1069.08,"Không, câu này là không đúng, mấy người sửa ép tôi thiệt luôn á nha.",Không câu này là không đúng nè. Trời mấy người sử ép tui thiệt luôn á nha.
+data52_265,data52,1070.73,1075.79,Đáng nha đáng lắm nha em nói thiệt nha. Đừng có nhấp uống luôn. Đừng có nhấp. Trời ơi chị giúp một chi vậy một hơi đi.,"Đắng nha đáng lắm nha em nói thiệt nha. Đừng có nhấp uống luôn. Đừng có nhớ, trời ơi chị giúp chị dậy một hơi đi."
+data52_266,data52,1075.83,1077.59,Oh my God.,"Oh my god, oh my god."
+data52_267,data52,1077.63,1078.29,Phải đọc đó.,Thải độc đó.
+data52_268,data52,1079.48,1083.14,Chắc chắn chị phải uống một hớp kia rồi. Chị không hớp kia rồi chị chị đều phải hớp nhẹ cái.,Chắc chắn chị phải uống một hớp kia rồi. Chị không hớp kia là chị không chịu được đau. Phải hớp nhẹ cái kia.
+data52_269,data52,1083.34,1083.92,Đắng quá.,Đắng quá.
+data52_270,data52,1085.92,1093.81,Bạn đang nghe. Bật nến podcast. Của Dustin on the go. Khi nói về. Những cái cột móc trong sự nghiệp của mình đi.,Bạn đang nghe. Bật nến podcast. Của Dustin on the go. Khi nói về những cái cột mốc. Trong sự nghiệp của mình đi.
+data52_271,data52,1093.81,1098.87,Chị Tuyết và Dũng sẽ nghĩ đâu là những cái cột mốc mà nó làm thay đổi sự nghiệp.,Chị Tuyết và Dũng sẽ nghĩ đâu là những cái cột mốc. Mà nó làm thay đổi sự nghiệp của mình.
+data52_272,data52,1099.94,1105.88,Với chị là cái năm mà chị đi nước ngoài là nó thay đổi hoàn toàn sự nghiệp của chị.,Đối với chị là cái năm. Mà chị đi nước ngoài. Là nó thay đổi hoàn toàn sự nghiệp của chị.
+data52_273,data52,1107.3,1113.76,Tại mới đầu chị được công chúng biết đến nhiều ấy. Là một cặp song ca Minh Tú Cẩm Ly.,Tại mới đầu chị được công chúng biết đến nhiều là một cặp song ca Minh Tuyết Cẩm Ly.
+data52_274,data52,1114.96,1119.0,Không phải là cái mục đích đầu tiên của chị là muốn có một cặp song cam bên trước cảm ly.,Không phải là cái mục đích đầu tiên của chị là muốn có một cặp song ca Minh Tuyết Cẩm Ly.
+data52_275,data52,1119.0,1124.88,Lúc đó là gặp Hà Bình họ đang tổ chức một cái chương trình thi những tiết mục.,Mà tại lúc đó là rạp hát Hòa Bình họ đang tổ chức một chương trình thi những tiết mục đặc biệt.
+data52_276,data52,1125.48,1133.24,Mà thời điểm đó được công nhận thì mới được tuyển vào đạt hát và bình để hát thì lúc đó mình.,Hay là thời điểm đó được công nhận thì mới được tuyển vào rạp hát Hòa Bình để hát. Thì lúc đó mình nghĩ.
+data52_277,data52,1133.24,1142.09,Trời ơi mình mới chân ướt chân ráo mới lớn lên mới vừa thi thoát trường hành đạo có ai biết mình là ai đâu nè có rất là nhiều.,Ôi trời ơi mình mới chân ướt chân ráo. Mới lớn lên mới vừa thi tiếng hát trường hình đậu. Có ai biết mình là ai đâu nè. Có rất là nhiều anh chị.
+data52_278,data52,1142.19,1150.69,Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là.,Hát bao nhiêu năm trời ở ngoài. Rất là hay rất là giỏi. Chứ chắc mình đấu lại người ta. Mà cái tên của nó là những tiết mục đặc biệt hay.
+data52_279,data52,1150.81,1154.07,Tuyển vào để hát hàng đêm. Của Nhà Hát Hòa Bình.,Tuyển vào để hát hàng đêm. Của nhà hát Hoa Bình.
+data52_280,data52,1154.07,1157.05,Có thể đơn hoặc là song ca hoặc là nhóm cũng được.,Có thể đơn hoặc là song ca hoặc nhóm cũng được.
+data52_281,data52,1157.15,1166.03,"Cũng được khác, chị mới bắt đầu nảy ra một ý định. Cái thời điểm đó tự nhiên không biết sao vô tình. Chị Cẩm Ly với Minh Tuýt rất là giống nhau. Nếu mà mẹ mà đứng.",Cái gì cũng được hết. Chị mới bắt đầu nảy ra một ý định. Cái thời điểm đó tự nhiên không biết sao vô tình. Chị Cẩm Ly với Minh Tuyết rất là giống nhau. Nếu mà mẹ mà đứng sau lưng.
+data52_282,data52,1166.03,1176.33,Thì mẹ sẽ không nhận ra được đứa nào. Đó là cái số đo hai chị em chiều cao gần hầu như là giống nhau. Thì lúc đó Minh Tuyết mới nghĩ là à. Thế thì tại sao mình không là một cái cặp song ca.,Thì mẹ sẽ không nhận ra được đứa nào. Đó là cái số đo hai chị em. Chiều cao gần hầu như là giống nhau. Thì lúc đó Minh Tuyết mới nghĩ là. Thế thì tại sao mình không làm một cái cặp song ca.
+data52_283,data52,1176.59,1179.45,"Giống như song sinh ấy, thì nó sẽ lạ hơn rất là nhiều.",Giống như song sinh. Thì nó sẽ lạ hơn rất là nhiều.
+data52_284,data52,1179.65,1180.59,Là ý tưởng của chị.,Lấy ý tưởng của chị.
+data52_285,data52,1181.37,1190.05,Xong rồi chị mới hỏi chị Cẩm Ly. Nhưng mà chị Cẩm Ly thì chị rất mê hát. Nhưng mà chị rất nhát. Mà chị giấu đi cái niềm đam mê đó. Bây giờ chị đã dặn đi rất nhiều. Nhưng mà ngày xưa chị nhút nhát lắm.,Xong rồi chị mới hỏi chị Cẩm Ly. Nhưng mà chị Cẩm Ly thì chị rất mê hát. Nhưng mà chị rất nhát. Mà chị giấu đi cái niềm đam mê đó. Bây giờ chị đã dạng đi rất nhiều nhưng mà ngày xưa chị nhút nhát lắm.
+data52_286,data52,1191.56,1197.4,Chị không bao giờ dám nghĩ là chị sẽ một ngày nào đó chị bước ra chị đi hát được. Thì lúc mà Minh Tuyết đề nghị với chị là chị đồng ý.,Cho nên chị không bao giờ dám nghĩ là chị sẽ một ngày nào đó chị bước ra chị đi khác được. Thì lúc mà Minh Tuyết đề nghị với chị là chị đồng ý liền.
+data52_287,data52,1197.94,1203.78,Và thế là hai chị em lên kế hoạch. Đi ra chợ mua một khúc giải về cho mẹ. Màu xanh kim tuyến.,"Và thế là hai chị em lên kế hoạch đi ra chợ mua một khúc giải về cho mẹ màu xanh, kim tuyến."
+data52_288,data52,1204.18,1210.72,Xong rồi một cái khúc dải khăn bon. Để choàng qua vai cái thời thích bị trưng ấy. Xong rồi mẹ mới may hai cái áo đầm. Và hai cái.,Xong rồi một cái khúc giải khăn gôn để tràn qua vai cái thời thích Mỹ Trân ấy. Xong rồi mẹ mới mây hai cái áo đầm và hai cái khăn.
+data52_289,data52,1210.78,1216.98,Bắt đầu hai chị em ở nhà mới bắt đầu tập hát với nhau. Rồi tập đưa tay đưa chân cho nó giống.,Bắt đầu hai chị em ở nhà mới bắt đầu tập hát với nhau. Rồi tập đưa tay đưa chân cho nó giống nhau.
+data52_290,data52,1217.08,1226.26,"Đôi bông cũng phải giống nhau, tóc cũng phải cắt giống nhau. Thì đúng y như rằng là khi mà hai chị em đi thi đậu tiết mục đặc biệt. Thì mới được tuyển vào nhà hát.",Even đôi bông cũng phải giống nhau. Tóc cũng phải cắt giống nhau. Thì đúng y như rằng là khi mà hai chị em đi thi. Đạo thiết mục đặc biệt. Thì mới được tuyển vào nhà hát hòa bình.
+data52_291,data52,1226.26,1234.12,Và bắt đầu sự nghiệp của cặp song ca bên tới Cẩm Ly bắt đầu từ đó. Mọi người biết đến nhiều rồi sau đó ký hợp đồng trong kim lợi.,Và bắt đầu sự nhịp của cặp song ca Minh Tuyết Cẩm Ly. Bắt đầu từ đó. Mọi người biết đến nhiều. Rồi sau đó ký hợp đồng trong Kim Lợi.
+data52_292,data52,1234.22,1243.22,"Nhưng mà cái mục đích của chị, cái mục tiêu của chị làm nghề là trở thành một người ca sĩ. Hát những dòng nhạc mình yêu thích và làm những điều mà mình.",Nhưng mà cái mục đích của chị. Cái mục tiêu của chị làm nghề. Là trở thành một người ca sĩ. Hát những dòng nhạc mình yêu thích. Và làm những điều mà mình mong muốn.
+data52_293,data52,1243.42,1251.54,"Tại vì khi mình hát song ca thì mình sẽ bị gói gọn trong một khuôn khổ mà mình không thể thoát ra được nó. Ví dụ, giờ mà chị thích cái này.",Tại vì khi mình hát song ca thì mình sẽ bị gói gọn. Trong một khuôn khổ mà mình không thể thoát ra được nó. Ví dụ. Giờ chị thích cái này quá.
+data52_294,data52,1251.54,1260.64,Mà không hợp với chị Ly thì chị cũng không làm được. Mà chị Ly thích cái đó quá. Mà chị không hợp với chị cũng không làm được. Tức là phải dung hòa. Cho nên lúc đó là phân ra luôn. Tức là chị là ngoại giao.,Mà không hạp với chị Ly thì chị cũng không làm được. Mà chị Ly thích cái đó quá. Mà chị không hạp với chị cũng không làm được. Thế là phải dung hòa. Cho nên lúc đó là phân ra luôn. Tức là chị là ngoại giao.
+data52_295,data52,1260.74,1267.44,Chị Ly là nội giáo. Tức là chị Ly là tài chính hay là sắp xếp quần áo.,Còn chị Ly là nội giao. Tức là chị Ly là tài chính. Hay là sắp xếp quần áo.
+data52_296,data52,1267.84,1269.68,Tài chính là làm kế toán đồ luôn.,Tài chính là làm kế toán đồ luôn.
+data52_297,data52,1270.3,1279.36,Kế hoạch ngày hôm nay mình sẽ đi từ đâu từ đâu. Hoặc là lịch trình sẽ như thế nào. Thì chị Ly lo còn ngoại giao là ví dụ như là. Ở với bầu show hay là với bất cứ một cái gì ở bên ngoài.,Lên kế hoạch. Ngày hôm nay mình sẽ đi từ đâu tới đâu. Hay là lịch trình sẽ như thế nào. Thì chị Ly lo. Còn ngoại giao là ví dụ đi gì nọ với bầu show hay là với bất cứ một cái gì đó ở bên ngoài.
+data52_298,data52,1279.56,1288.02,Và idea phần lớn thì là chị lo. Thì cái thời điểm đó là như vậy. Nhưng mà chị vẫn cảm thấy là giống như là chị vẫn chưa tìm được chính bản thân mình.,Hoặc là idea phần lớn thì là chị lo. Thì cái thời điểm đó là như vậy. Nhưng mà chị vẫn cảm thấy là chị vẫn chưa tìm được chính bản thân mình ấy.
+data52_299,data52,1288.62,1292.44,Xong nên cuối cùng mà chị quyết định là chị đi nước ngoài.,Xong nên cuối cùng chị quyết định là chị đi nước ngoài.
+data52_300,data52,1296.83,1306.43,Tại vì như vậy nếu mà chị ở Việt Nam mà đang là một cái cặp song ca nình đám như thế. Thật sự là đối với song ca như vậy là đã nổi tiếng rồi. Nó không thể nổi hơn được nữa.,Tại vì như vậy nếu mà chị ở Việt Nam mà đang là một cặp song ca đình đám như thế. Thật sự là đối với song ca như vậy là đã nổi tiếng rồi. Nó không thể nổi hơn được nữa.
+data52_301,data52,1306.93,1316.65,Thì nếu như mà mình nói với khán giả mình. Mới bài mình cho mình hát đơn ca. Thì khán giả chắc chắn sẽ không chấp nhận chị. Cũng như không chấp nhận chị Cẩm Ly luôn. Vì họ đã quen cái hình ảnh.,Thì nếu như mà mình nói với khán giả. Mình bay bay mình ra mình hát đơn ca. Thì khán giả chắc chắn sẽ không chấp nhận chị. Cũng như không chấp nhận chị Cẩm Ly luôn. Vì họ đã quen cái hình ảnh.
+data52_302,data52,1316.75,1319.51,"Một cặp song ca rồi giống như anh Minh Thuận, Việt Hào cũng vậy.","Một cặp song ca rồi giống như anh Minh Thuận, Nhật Hào cũng vậy."
+data52_303,data52,1319.85,1320.93,Lúc đó là hai người mấy tuổi.,Lúc đó là hai người mấy tuổi chị?
+data52_304,data52,1320.93,1322.73,Lúc đó là chị nghĩ chị.,Lúc đó là chị nghĩ chị cỡ.
+data52_305,data52,1324.09,1333.11,"20 tuổi, 19, 20 tuổi. Chị mới suy nghĩ mãi. Chị mới quyết định là đi nước ngoài. Tại vì chị nghĩ là chỉ có khi mình đi.","20 tuổi, 19-20 tuổi. Chị mới suy nghĩ mãi. Chị mới. Quyết định là đi nước ngoài. Tại vì chị nghĩ là chỉ có khi mình đi."
+data52_306,data52,1333.39,1341.17,Thì người ta mới quên hẳn cặp song ca bên tuyết Cẩm Ly. Thì lúc đó thì chị mới có thể bắt đầu lại từ đầu cái con đường sự nghiệp mà chị.,Thì người ta mới quên hẳn cặp song ca Minh Thuận Cẩm Ly. Thì lúc đó thì chị mới có thể bắt đầu lại. Từ đầu. Cái con đường sự nghiệp mà chị mong muốn.
+data52_307,data52,1341.27,1348.65,Và chị Ly thì cũng có thể bắt đầu lại là một Cẩm Ly và có thể đứng vững trên cái challenge.,Và chị Ly thì cũng có thể bắt đầu lại. Là một cẩm ly. Và có thể đứng vững trên. Cái talent của chị.
+data52_308,data52,1349.86,1353.56,Vậy khi chị ra đi thì đúng y như rằng là cái bức hoặc nó bắt đầu từ đó.,Và khi chị ra đi thì đúng như rằng. Là cái bước ngoặt nó bắt đầu từ đó.
+data52_309,data52,1355.38,1363.46,Và từ đó là chị may mắn hay trộm vía chị thành công bên Mỹ. Và chị ly thành công tại Việt Nam. Vì ngày hôm nay mới có một minh tuyết và một cảm ly.,Và từ đó là chị. May mắn hay trộm ví. Chị thành công bên Mỹ và chị Ly thành công tại Việt Nam. Thì ngày hôm nay mới có một Minh Tuyết và một cẩm ly.
+data52_310,data52,1364.66,1374.6,Một Minh Tuyết rất là quyết đoán. Và chị đã quyết định điều đó. Để có được ngày hôm nay. Em nghĩ khi nhìn lại. Nó hợp lý và chúng ta có được hai cái hình ảnh hoàn toàn khác nhau.,Một Minh Tuyết rất là quyết đoán. Và chị đã quyết định điều đó để có được ngày hôm nay. Em nghĩ khi nhìn lại nó hợp lý. Và chúng ta có được hai cái hình ảnh hoàn toàn khác nhau.
+data52_311,data52,1374.6,1376.9,Thời điểm đầu tại Mỹ chị cũng có vụ ngã đó.,Thời điểm đầu tại Mỹ chị cũng có gục ngã đó chứ.
+data52_312,data52,1381.24,1389.54,Tại vì lúc đó thì bắt đầu Việt Nam mình bắt đầu có làng sống xanh. Có những cái cuộc thi âm nhạc Việt Nam mình bắt đầu nó phát triển mạnh ra.,Tại vì lúc đó thì bắt đầu Việt Nam mình bắt đầu có làng sống xanh. Có những cái cuộc thi âm nhạc. Nhạc Việt Nam mình bắt đầu nó phát triển mạnh ra.
+data52_313,data52,1389.64,1391.92,Chị nghĩ về lúc đó ở Việt Nam chị tiếc không?,Chị nghĩ về lúc đó Việt Nam chị tiếc không?
+data52_314,data52,1391.98,1399.82,Chị nói là chị lung lay đó. Lúc đó thì chị mới qua bên Mỹ. Thì sự nghiệp mới bắt đầu. Chưa có được cái gì hết.,Tiếc chứ. Thì chị nói là chị lung lay đó. Lúc đó thì chị mới qua bên Mỹ. Thì sự nghiệp mới bắt đầu chưa có được cái gì hết.
+data52_315,data52,1401.33,1410.83,"Thì những người bạn cùng thời với mình như là Phương Thanh nè, Lam Trường nè. Thì lúc đó lại được chị Cẩm Ly nữa. Rừng rừng rừng rừng ở trên làn sóng xanh. Thì mình mới nói.","Thì những người bạn cùng thời với mình như là Phương Thanh nè, Lam Trường nè thì lúc đó lại chị Cẩm Ly nữa rừng rừng rừng rừng trên làng Sống Xanh thì mình mới nói là."
+data52_316,data52,1410.83,1418.68,"Chết cha rồi mình đi có đúng hay không vậy. Lúc đó cũng buồn, chạnh lòng và cũng tự hỏi là mình.","Chết cha rồi mình đi có đúng hay không nè thì lúc đó cũng buồn hết, chạm lòng và cũng tự hỏi là mình có nên."
+data52_317,data52,1418.78,1421.12,Quay ngược về lại Việt Nam.,Quay ngược về lại Việt Nam không.
+data52_318,data52,1422.32,1429.48,Và tới lúc đó. Thì ở hải ngoại. Ở Mỹ là có một cái tên. Mai Tiến Dũng tham gia một cuộc thi.,Và tới lúc đó thì ở hải ngoại ở Mỹ là có một cái tên. Mai Tiến Dũng tham gia một cuộc thi.
+data52_319,data52,1429.38,1436.76,Thalent Show của Paris By Night vào năm 2006. Paris By Night 87.,Thì talent show của Paris by Night vào năm... 2006. Paris by Night 87 86.
+data52_320,data52,1436.93,1437.79,86 luôn.,86 luôn.
+data52_321,data52,1437.96,1441.2,Không 826. Hồi đó được hát chung với idol của tôi.,86 hồi đó được hát chung với idol của tui nè.
+data52_322,data52,1442.32,1444.2,Hồi đó cái đầu như cái chơi chùm chùm.,Cái đầu như cái trái chùm chùm á.
+data52_323,data52,1445.56,1449.76,Cái đó có phải là cột mốc của Mai Tiến Dũng trong sự nghiệp ca hát không?,Cái đó có phải là cục mốc của Mai Tiến Dũng trong sự nghiệp ca hát không?
+data52_324,data52,1449.98,1453.32,"Châu Lyn show của Paris By Night. Nếu nói về cục móc, sẽ có rất là nhiều.","Talent show của Paris by Night. Nếu nói về cột mốc, sẽ có rất là nhiều cột mốc."
+data52_325,data52,1453.32,1455.62,Nhưng mà đó là cục móc đầu tiên. Nhưng mà nếu mà đầu tiên.,Nhưng mà đó là cục mốc đầu tiên.
+data52_326,data52,1454.52,1459.18,Nếu mà đầu tiên thì đúng là talent show của Presby.,Nếu là đầu tiên thì đúng là talent show của Paris By Night.
+data52_327,data52,1459.28,1464.68,Đó có phải là một cái cú bật. Cho sự nghiệp của Dũng. Để Dũng được đứng trên sân khấu. Và được.,Đó có phải là một cái cú bậc cho sự nghiệp của Dũng. Để Dũng được đứng trên sân khấu và được hát.
+data52_328,data52,1464.78,1471.12,"Thật là hồi xưa thích hát, về văn nghệ ở Việt Nam đi học mà thì vẫn cứ tham gia văn nghệ trong.",Nói thiệt là hồi xưa thích hát. Rồi văn nghệ ở Việt Nam đi học mà thì vẫn tham gia văn nghệ trong trường.
+data52_329,data52,1471.88,1481.48,Nhưng mà không nghĩ là mình sẽ tham gia ca hát đâu. Tại vì bản điều khoản từ năm lớp 9 đến lớp 12. Đang đi học xong rồi nhà hỏi thì giờ mốt muốn làm.,Nhưng mà cũng nghĩ là mình sẽ tham gia ca hát đâu. Tại vì bẳng đi khoảng từ năm lớp 9 đến lớp 12. Đang đi học xong rồi nhà hỏi giờ mốt muốn làm cái gì.
+data52_330,data52,1481.58,1491.04,"Lúc đó thì mình thích thời trang, mình thích thẩm mỹ. Cái gia đình là thôi học bác sĩ thẩm mỹ đi. Ờ, chống đau thì à, gia đình hướng nhà mình đi. Còn không học nha.","Lúc đó thì mình thích thời trang, mình thích thẩm mỹ. Cái gia đình nói thôi đi học bác sĩ thẩm mỹ đi. Thế ơ trong đâu thì mà. À gia đình hướng nhà mình đi. Còn không học nhà."
+data52_331,data52,1492.3,1498.02,Có một người chị Úc thì ở Việt Nam á chị Úc thì đã đi học nhạc việt thành phố.,Dũng có một người chị Úc. Thì ở Việt Nam á. Chị Úc thì đã đi học nhạc viện thành phố.
+data52_332,data52,1499.47,1507.33,"Học cùng khóa với chị hiền thục nè, chị Mỹ Tâm là cùng khóa luôn, thế xong rồi là vì đi, thì đi lúc qua đó thì chị bỏ ngang.",Học cùng khóa với chị Hiện Thục nè. Chị Mỹ Tâm. Là cùng khóa luôn. Thế xong rồi là vì đi. Thì đi lúc qua đó thì chị bỏ ngang mất.
+data52_333,data52,1507.53,1509.17,Lúc đó mấy tuổi bắt đầu đi Mỹ.,Lúc đó mấy tuổi bắt đầu đi Mỹ.
+data52_334,data52,1509.23,1510.47,Dũng đi Mỹ lúc nó 11 tuổi.,Dũng đi Mỹ lúc đó 11 tuổi.
+data52_335,data52,1510.53,1512.87,Nhỏ hơn là lúc chị Tuyết đi rất là nhiều.,Ờ nhỏ hơn là lúc chị Tuyết đi rất là nhiều.
+data52_336,data52,1512.97,1520.29,Thì lúc đó là đi qua đó thấy. Cho nên là nguyên khoảng thời gian mà hoạt động ở bên Mỹ. Thì mê coi thuyết nghe.,Thì lúc đó là đi qua đó thí. Cho nên là nguyên cái khoảng thời gian mà hoạt động ở bên Mỹ thì mê coi Thúy Nga.
+data52_337,data52,1522.04,1527.48,"Học xong lớp 12 cái gia đình bảo ok, qua Mỹ 5 năm rồi, hứa cho về ngang chơi, nhớ gia đình.","Học xong lớp 12 cái gia đình bảo ok, qua Mỹ 5 năm rồi, hứa chơi về Việt Nam chơi, nhớ gia đình nhớ."
+data52_338,data52,1527.74,1534.24,"Cái đi về vừa về Việt Nam, mắc hai đọc báo ở bên kia bảo thí thúy Nga, Paris-Banai là đang tuyển cuộc thi.","Cái đi về, vừa về Việt Nam, bác hay đọc báo ở bên kia bảo thấy Thúy Nga, Paris by nights là đang tuyển cuộc thi."
+data52_339,data52,1534.24,1536.24,Đó là em đi thi rồi thi cho vui thôi á đúng không?,Tức là em đi thi là thi cho vui thôi đó đúng không ạ?
+data52_340,data52,1536.22,1544.7,Em nói vui là tại vì em bảo lúc đó là kiểu như là chị Úc thì mình thấy là cái khát khao chị Mình làm nghề hồi xưa.,Em đi thi cho vui là tại vì em bảo lúc đó kiểu như là chị Úc thì mình thấy là cái khát khao chị mình làm nghề hồi xưa có.
+data52_341,data52,1545.3,1551.5,Hồi xưa chị nghĩ là nếu mà mình là fashion designer. Là mình sẽ thiết kế đồ cho chị. Mình hạ lên sân khấu và mặc đồ.,Hồi xưa chị nghĩ là nếu mà mình là fashion designer là mình sẽ thiết kế đồ cho chị mình ha lên sân khấu hoặc mặc đồ làm sao sao sao.
+data52_342,data52,1551.5,1553.94,Từ hồi nhỏ em không có đam mê hay ước mơ là làm ca sĩ.,Tức là từ hồi nhỏ em không có đam mê hay ước mơ là làm ca sĩ.
+data52_343,data52,1553.94,1562.28,"Em thích hát, em biết hát và thích hát. Và khi mà mấy anh chị nghệ sĩ mà qua nhà chơi với chị đi cùng học hóa. Anh Đình Bảo xưa là cũng qua nhà em chơi.","Em thích hát, nghĩa là em thích hát, nghĩa là biết hát và thích hát. Và khi mà mấy anh chị em nghệ sĩ mà qua nhà chơi với chị đi cùng học khóa, anh Đình Bảo hồi xưa là cũng qua nhà em chơi vậy đó."
+data52_344,data52,1562.54,1568.48,Thích đi cùng các anh chị là đi karaoke thích hát thôi nhưng mà cũng không có nghĩ là mình sẽ đứng trên sân khấu.,"Thì là thích đi cùng các anh chị là đi karaoke, thích hát thôi. Nhưng mà cũng không có nghĩa là mình sẽ đi lên sân khấu."
+data52_345,data52,1569.74,1577.82,Cho nên là khi mà thấy có cuộc thi cái bà ok đi thi đúng không bà. Cái bà kêu thôi thì chị nhé không phải bà đi đi tôi đi cũng bà. Thế là hai chị em vô với Thôi Đề Mô Việt Nam.,"Cho nên là khi mà thấy có cuộc thi thì bà ok, đi thi đi không bà. Cái bà kêu thôi chị nghe không. Mà đi đi tôi đi cũng bà. Thế là hai chị em vô mới thâu demo Việt Nam."
+data52_346,data52,1578.6,1587.58,"Gửi qua bên cho bên trung tâm. Chị Tít có nhớ không nhưng mà cứ mỗi tuần là Thúy Nga đăng lên một cái list. Từng tuần, từng tuần một. Mình coi là cho mọi người nghe.",Gửi qua bên trung tâm. Chị Tuyết có nhớ không. Nhưng mà cứ mỗi tuần là Thúy Nga đăng lên một cái list. Tuần tuần tuần tuần một. Mình coi là cho mọi người nghe.
+data52_347,data52,1587.58,1597.03,"Bình chọn, bình chọn, bình chọn á. Hồi hộp, hồi hộp. Thấy cái giọng tập chị mình lên rồi. Khi xong phim tới phim mình. Cũng nghe ồ, cũng được post lên bài.",Xong rồi bình chọn bình chọn bình chọn á. Hồi hộp hồi hộp. Thấy giọng tập trị mình lên rồi. Xong rồi tới phim mình. Cũng được post lên bài rồi.
+data52_348,data52,1597.43,1604.43,Cũng là một trong những người được đăng lên ha tuyển chọn sau còn 300 thí sinh mà chơi hoài thấy họ gọi mình mà không gọi chỉ mình.,Chắc là cũng là một trong những người được đăng lên. Tuyển chọn sau còn 300 thí sinh mà. Chơi hoài. Thấy họ gọi mình. Mà không gọi chị mình.
+data52_349,data52,1604.82,1605.31,Ờ.,Ô
+data52_350,data52,1607.89,1616.19,Thật sự đó là một trong những cái bước ngoặc đầu tiên luôn đó. Em nhớ hoài cuốn 86. Dũng hát quả này là hát thị thị Úc.,"Thật sự đó đó. Là một trong những bức mật đầu tiên luôn đó. Em nhớ hoài cuốn 86. Là Dũng hỏi lời, Dũng hát bài này là. Hát cho chị Út."
+data52_351,data52,1616.65,1619.95,"Mà mình không có nghĩ mình đi hát, mà giờ tự nhiên chị đi thi, chị đi khác.","Mình không nghĩ mình đi đi hát, mà giờ tự nhiên chị đi thi. Chị đi tập hát."
+data52_352,data52,1620.0,1620.91,Bài gì vậy?,Lúc đó em hát bài gì vậy?
+data52_353,data52,1621.05,1622.33,Em hát chuyện chạy cô đơn.,Chuyện chàng cô đơn.
+data52_354,data52,1624.51,1631.46,Xong cái mình bảo chí. Thôi em hát cho dành cho chị. Tại vì đâu có biết có được vô trong nữa hay không đâu. Thôi được lần đứng trên sân khấu to.,Xong cái mình bảo chứ. Thôi em hát gì dành cho chị. Tại vì đâu có biết có được vô trong nữa hay không đâu. Có được lòng đứng trên sân khấu to như thế này.
+data52_355,data52,1634.96,1645.04,Tôi hát được lần trên sân khấu cũng được đi. Cho chị mình hãnh diện đi. Tuy nhiên xong hôm đó. Thằng nhóc được vô chung kết là vô vòng sau. Trời ơi thằng nhóc stress.,Tôi hát được 1 lần trên sân khấu thì cũng được đi. Cho chị mình thảnh diện đi. Tuy nhiên xong hôm đó thằng nhóc được vô chung kết là vô vòng sau. Trời ơi thằng nhóc stress.
+data52_356,data52,1645.56,1651.26,Em stress mà bị sốt mà xuống bao nhiêu pound luôn. Là tại vì mình chỉ nghĩ là mình tới đó thôi ngưng rồi.,Em stress mà bị sốt mà xuống bao nhiêu pound luôn á. Là tại vì mình chỉ nghĩ là mình tới đó thôi ngừng rồi.
+data52_357,data52,1651.8,1655.32,Cái đó là tổ ổng đại chứ ai là người đó.,Cái đó là ông Tổ ông đãi cho ai là người đó hưởng.
+data52_358,data52,1655.32,1664.38,"Đúng, có những người biết bao nhiêu năm kiểu theo nghề cũng trầy trật. Nhưng mà mình có cái may mắn là Tổ gọi tên mình đúng không.","Đúng, có những người có biết bao nhiêu năm kiểu theo nghề cũng trầy trật. Nhưng mà mình có cái may mắn là Tổ gọi tên mình đúng không?"
+data52_359,data52,1664.88,1671.04,Vậy theo hai người khán giả thích và yêu mến hai người là vì điểm gì?,Vậy theo hai người khán giả thích và yêu mến hai người là vì điểm gì?
+data52_360,data52,1675.34,1684.44,Ví dụ như nếu mà nói về đã là nghệ sĩ thì tất nhiên là cái bề ngoài sẽ luôn luôn là sẽ là những cái hút.,Ví dụ như nếu mà nói về đã là nghệ sĩ. Thì tất nhiên là cái bề ngoài sẽ luôn luôn là những cái hút.
+data52_361,data52,1684.74,1685.02,Rồi em thấy cái câu chuyện đó rất là đúng rồi.,Đúng rồi.
+data52_362,data52,1685.74,1692.62,"Không hẳn là là nghệ sĩ đâu, mình đi ra ngoài đường mình bất cứ gặp bất cứ người nào mà đúng gu của mình cái ghép của mình.","Cũng không hẳn là phải là nghệ sĩ đâu, mình đi ra ngoài đường. Mình bất cứ gặp bất cứ người nào mà đúng gu của mình, cái đẹp của mình."
+data52_363,data52,1693.49,1702.07,Chắc chắn là mình sẽ thích đáp. Mình sẽ có cảm tình hơn. That's why mình mới hiểu. Có mấy cái câu là. First impression. Nếu mà riêng em thì em nghĩ là chắc tại vì. Em hay hát nhạc.,"Thì chắc chắn là mình sẽ thích đã, mình sẽ có cảm tình hơn. That's why mình mới hiểu, mới có mấy cái câu là first impression. Nếu mà riêng em thì em nghĩ là chắc tại vì em hay hát nhạc suy."
+data52_364,data52,1702.27,1703.39,"Nhạc buồn, nhạc suy.","Nhạc buồn, nhạc suy."
+data52_365,data52,1704.03,1713.6,"Em cảm thấy là như thế này, khoảng thời gian mà mới vào nghề em hát nhạc sôi đọc. Có thể là vì một phần là cái tuổi đời mình chưa nhiều, kinh nghiệm mình chưa nhiều.","Em cảm thấy là như thế này, khoảng thời gian mà mới vào nghề em hát nhạc suy đọc. Có thể là vì một phần là cái tuổi đời mình chưa nhiều, kinh nghiệm mình chưa nhiều."
+data52_366,data52,1713.6,1719.2,"Khi mình hát, họ sẽ mang một cái sắc màu ở vui, dễ nghe, để thay đổi không khí.","Khi mình hát họ sẽ mang một cái sắc màu ợt, vui, dễ nghe để thay đổi không khí."
+data52_367,data52,1722.44,1725.54,Để những bài hát nó đủ để nằm lòng trong lòng khán giả.,Để những bài hát nó đủ để nằm lòng trong lòng khán giả.
+data52_368,data52,1725.92,1734.34,Thường sẽ là những mẹ hát nó có mang một tính chất suy tư thường một tí xíu nó có một cái chiều sâu hơn.,Thường sẽ là những bài hát nó có màn chất suy tư thường một tí xíu đó là một cái chiều sâu hơn.
+data52_369,data52,1735.87,1745.87,"Từ khi mà em tìm đến những ca khúc mà nó có thể gọi là chính em, là thấy em đi chơi.",Thì từ khi mà em em tìm được những ca khúc mà nó có thể gọi là là chính em đấy là thấy em đi chơi với chị.
+data52_370,data52,1745.87,1750.43,Mọi người thấy Vũ này khùng hay là một kịch giỡn và tưng và tưng. Đó là vì với những người thân.,Tuyết hay mọi người thấy ở Dũng này khùng hay là một cực giỡn từ từ đó là vì với những người thân.
+data52_371,data52,1751.73,1755.07,Mình có thể vui. Thật sự Dũng không có vẻ vui như vậy.,Mình có thể vui. Thế thật sự Dũng không có dễ vui như vậy.
+data52_372,data52,1755.41,1756.23,Vậy khóc không?,Dễ khóc không?
+data52_373,data52,1756.51,1764.87,"Rất dễ khóc, chị tôi biết là rất là dễ khóc. Cho nên là cục móc trong cuộc sống. Tình cảm, sự nghiệp. Mọi thứ nó đến một cái mức mà.","Rất dễ khóc chị Tuyết biết nè. Rất là dễ khóc. Cho nên là cục mắt trong cuộc sống. Tình cảm, sự nghiệp. Mọi thứ nó đến một cái mức mà."
+data52_374,data52,1764.87,1767.59,Nó làm cho mình có một cái điểm trụng xuống.,Nó làm cho mình có một cái điểm trụng xuống.
+data52_375,data52,1767.59,1770.03,"Chính mùi ấy, đến lúc mình chính mùi.",Đó là chính mùi. Đến lúc mình chính mùi.
+data52_376,data52,1770.03,1771.67,Bắt đầu mình tìm lại chính mình.,Mình bắt đầu mình tìm lại chính mình.
+data52_377,data52,1773.24,1781.4,"Và vô tình những ca khúc mình có thể thể hiện được cái nội tâm của mình thì lúc đó tự nhiên cái gọi là cái mạch của mình, mạch âm nhạc, mạch cảm xúc.","Thì vô tình những ca khúc. Mình có thể thể hiện được cái nồi tâm của mình. Thì lúc đó tự nhiên cái gọi là cái mạch của mình. Mạch âm nhạc, mạch cảm xúc của mình."
+data52_378,data52,1781.6,1784.42,Và mặt cảm xúc của khán giả nó không một cái điểm chạm.,Và mạch cảm xúc của khán giả nó có một cái điểm chạm nhau.
+data52_379,data52,1784.42,1794.44,"Các khán giả thích khi mình hát nhạc buồn, suy. Bởi vì bây giờ Dũng đã thể hiện được cái sự thật là mình đã trải qua những cái nỗi đau nào đó trong cuộc sống.","Tức là khán giả thích khi mình hát nhạc buồn, suy bởi vì bây giờ Dũng đã thể hiện được cái sự thật là mình đã trải qua những cái nỗi đau nào đó trong cuộc sống."
+data52_380,data52,1795.58,1805.06,Đau cũng không hẳn gọi là đau không. Tất nhiên là mình cũng sẽ có những lúc vui. Và mình thể hiện cái niềm vui đó như thế nào. Nhưng mà đó là một cái quá trình trải nghiệm.,"Đau cũng không hẳn, cũng không hẳn gọi là đau không tất nhiên là mình cũng sẽ có những lúc vui và mình thể hiện cái niềm vui đó như thế nào nhưng mà đó là một cái quá trình trải nghiệm."
+data52_381,data52,1805.5,1811.04,Thì Dũng nghĩ là như thế. Sông xong với những cái việc mà. Khi họ tiếp xúc với mình. Họ thấy mình thật sự là.,Thì Dũng nghĩ là như thế song song với những cái việc mà khi họ tiếp xúc với mình họ thấy mình thật sự là.
+data52_382,data52,1811.42,1814.86,"Gần gũi, vui vẻ vui.","Gần gũi, vui vẻ, vui."
+data52_383,data52,1814.92,1819.76,"Còn chị Tuyết, chị nghĩ khán giả yêu mến mình, thích mình vì điều gì?","Còn chị Tuyết, chị nghĩ khán giả yêu mến mình, thích mình vì điều gì?"
+data52_384,data52,1819.8,1821.34,Cho một fan.,Cho một fan nói nha.
+data52_385,data52,1821.88,1823.12,Ờ khán giả nói.,"Ừ, khán giả nói nè."
+data52_386,data52,1822.92,1824.22,Đây là khán giả đó nè.,"Đây là khán giả, khán giả đó nè."
+data52_387,data52,1824.6,1827.32,Là chị tiết đẹp. Chị tiết sexy.,Chị Tuyết đẹp. Chị Tuyết sexy.
+data52_388,data52,1827.42,1832.38,Chị Tuyết hát rất hay và coi như là ngọt nó như cách tiền tiền tài.,Chị Tuyết hát rất hay và coi như là ngọt lắm như cách tìm.
+data52_389,data52,1832.58,1842.44,"Cái sexy nó không chỉ là ngoại hình mà là cái giọng hát, cái cách hát nó sexy. Đó là một cái signature của chị Tuyết. Như em thì em thấy là trời ơi.","Cái sexy nó không chỉ là ngoại hình mà là cái giọng hát, cái cách hát nó sexy. Đó là một cái signature của chị Tuyết. Mà như em này là em thấy là trời ơi."
+data52_390,data52,1842.8,1852.4,Chị nghĩ chị giải thích cho Dũng. Tại sao mà em thấy là sau này em hát nhạc tình. Là em lại chạm đến khán giả nhiều hơn. Chị đã từng nghe một.,Chị nghĩ chị giải thích cho Dũng. Tại sao mà em thấy là sau này em hát nhạc tình. Là em lại chạm tới khán giả nhiều hơn. Chị đã từng nghe một cái câu.
+data52_391,data52,1852.4,1858.6,Trong một cái chương trình. The Voice của Mỹ. Krishna Eklah hỏi cái người đang hát. Em mới hát xong em cảm thấy như thế nào?,Ở trong một cái chương trình The Voice của Mỹ. Krishna Ekala hỏi cái người đang hát. Em mới hát xong em cảm thấy như thế nào.
+data52_392,data52,1861.07,1870.24,Cái cô đó mới bảo là hôm nay em hát chưa có. Kêu như là được lắm ấy. Thì cô ấy mới nói là nếu như em feel được là em hát chưa có.,Thì cái cô đó mới bảo là. Hôm nay em hát chưa có. Coi như là được lắm. Thì cô mới nói là nếu như em. Feel được là em hát chưa có được lắm.
+data52_393,data52,1870.24,1877.28,"Làm sao khán giả feel được là em hát được. Tức là bây giờ mình làm, nhất là làm nghệ thuật.","Thì làm sao khán giả feel được là em hát được. Tức là bây giờ. Mình làm, nhất là làm nghệ thuật."
+data52_394,data52,1879.2,1887.26,Nếu mà mình là chính mình trong âm nhạc của mình luôn. Chắc chắn là mình cũng sẽ phải có một cái chút gì đó.,Nếu mà mình là chính mình. Trong âm nhạc của mình luôn. Chắc chắn là mình cũng sẽ phải. Có một chút gì đó thị trường.
+data52_395,data52,1887.26,1894.84,"Để cho mình dễ đi ra public hơn. Nhưng nó vẫn phải là chính mình cái đã. Khi mình hát, khi mình biểu diễn.","Để cho mình dễ đi ra public hơn. Nhưng nó vẫn phải làm chính mình cái đã. Khi mình hát, khi mình biểu diễn."
+data52_396,data52,1895.3,1902.44,Mình đừng copy 100% của những người khác. Mà mình phải bỏ cái thật là của mình vô trong đó.,Mình đừng copy 100% của những người khác. Mà mình phải bỏ cái thật là của mình vô trong đó.
+data52_397,data52,1903.14,1912.58,Một cái signature nào của chính bản thân mình vô trong đó. Thì mình sẽ là cái phiên bản đẹp nhất của mình. Thì như vậy thì người ta mới cảm nhận được cái phiên bản thật sự của mình.,Một cái signature nào của chính bản thân mình vô trong đó. Thì mình sẽ là cái phiên bản đẹp nhất của mình. Thì như vậy thì người ta mới cảm nhận được cái phiên bản thật sự của mình.
+data52_398,data52,1913.58,1923.1,Thì chị nghĩ có thể là Dũng đã tìm được cái điều đó. Và khán giả người ta cảm nhận được cái phiên bản đẹp nhất của Dũng. Nên người ta đã thấy được cái đẹp nhất.,Thì chị nghĩ có thể là Dũng đã tìm được cái điều đó. Và khán giả người ta cảm nhận được cái phiên bản đẹp nhất của Dũng. Nên người ta đã thấy được cái đẹp nhất của Dũng.
+data52_399,data52,1923.1,1925.74,Người ta accept cái đó và người ta yêu mến cái điều đó.,Và người ta accept cái đó và người ta yêu mến cái điều đó.
+data52_400,data52,1925.74,1926.58,Vì còn chị.,Vậy còn chị?
+data52_401,data52,1926.64,1933.48,Thì chị cũng thế thôi. Giống như em nói là chị có cái sexy mà giống như là từ trong giọng hát cho tới phong cách.,Thì chị cũng thế thôi. Giống như em nói là chị có cái sexy mà. Giống như là từ trong giọng hát cho đến phong cách.
+data52_402,data52,1934.73,1938.91,"Thật sự chỉ không phải cố tình muốn mình làm cái điều đó, nó là một cái gì.",Thực sự chị không phải cố tình muốn mình làm cái điều đó. Nó là một cái gì đó.
+data52_403,data52,1940.53,1943.67,Somehow cái body mình nó đẻ ra nó cũng đã là cái kiểu.,Somehow cái body mình nó đẻ ra nó cũng đã là cái kiểu dạng.
+data52_404,data52,1943.67,1944.69,Curvy.,Curvy.
+data52_405,data52,1944.49,1953.97,Nó curvy như vậy rồi. Thì mình không thể nào mình. Thoát khỏi ra cái điều đó được. Sanh ra nó đã là như thế. Và chị cứ từ đó chị phát huy nó.,Nó curvy như vậy rồi. Thì mình không thể nào mình thoát khỏi ra cái điều đó được. Xem ra nó đã là như thế. Và chị cứ từ đó chị phát huy nó ra thôi.
+data52_406,data52,1954.57,1963.73,Chị nghĩ là chính vì cái điều đó nên chị đã làm được cái phiên bản của chị tốt nhất có thể. Nên khán giả họ đã chấp nhận chị và họ yêu mến.,Thì chị nghĩ là chính vì cái điều đó. Nên chị đã làm được phiên bản của chị tốt nhất có thể. Nên khán giả họ đã chấp nhận chị và họ yêu mến chị.
+data52_407,data52,1965.87,1975.53,Cũng giống như khi mà chị hát tình ca cũng vậy. Chị cũng đã từng trải qua hỉ nổ ái ố trong cái thời còn trẻ của mình chứ. Có người chị cũng phải có những cái tình cảm nhất định.,Cũng giống như khi chị hát tình ca cũng vậy. Chị cũng đã từng trải qua hỷ nộ ái ố trong thời còn trẻ của mình. Có người chị cũng phải có những tình cảm nhất định.
+data52_408,data52,1975.53,1980.39,Và chị hiểu được điều đó. Chị mới hát được như vậy. Mình cảm được nó thì khán giả sẽ cảm được mình.,"Và chị hiểu được điều đó, chị mới hát được như vậy. Mình cảm được nó thì khán giả sẽ cảm được mình."
+data52_409,data52,1980.95,1987.85,Thì em có những cái tấm hình này mọi người sẽ cùng nhìn và đầu tiên là cái tấm này của chị Tuyết.,Thì em có những tấm hình này. Mọi người sẽ cùng nhìn. Và đầu tiên là cái tấm này của chị Tuyết.
+data52_410,data52,1989.05,1992.91,Đây là một tấm hình mà em thấy ở trên Facebook. Chị Post cũng gần đây.,Đây là một tấm hình mà em thấy ở trên Facebook. Chị post cũng gần đây.
+data52_411,data52,1993.07,1994.91,Tiếng hát truyền hình trong 92.,Tiếng hát truyền hình năm 92.
+data52_412,data52,1995.25,1998.53,Đạt giải nhì một cục móc một cú bật.,"Đạt giải nhì. Một cột mốc, một cú bật cho mình."
+data52_413,data52,1998.63,1999.31,Đúng rồi.,Đúng rồi.
+data52_414,data52,2000.22,2006.5,"Tiếp theo, cái này thì hồi nãy chị có nói là cặp đôi Cẩm Ly Minh Tuyết.",Tiếp theo. Cái này thì hồi nãy chị có nói là. Cặp đôi. Cẩm ly Minh Tuyết.
+data52_415,data52,2006.5,2008.84,Đúng rồi. Cắm tay đây. Minh Tiếp đây.,"Đúng rồi. Cẩm ly đây, Minh Tuyết đây."
+data52_416,data52,2009.66,2011.56,Cầu trời khách hàng nó giống hả? Cầu trời khách hàng nó giống gì?,"Giống hà, công nhận là nó giống ghê."
+data52_417,data52,2011.96,2015.36,Cũng là một cái. Cú bật. Trong sự nghiệp âm nhạc luôn.,Cũng là một cái cú bật. Trong sự nghiệp âm nhạc luôn.
+data52_418,data52,2015.46,2016.46,Chắc chắn.,"Chắc chắn, chắc chắn."
+data52_419,data52,2017.36,2018.76,Và nếu mà để nói với.,Và nếu mà để nói với.
+data52_420,data52,2018.96,2022.82,"Minh Tuyết của những năm 18, 19, 20 này. Chị sẽ nói điều gì.","Minh Tuyết của những năm 18, 19, 20 này. Chị sẽ nói điều gì?"
+data52_421,data52,2022.9,2026.28,"Một minh tuyết hiện tại sẽ nói gì với minh tuyết của 18, 19, 20.","Một Minh Tuyết hiện tại sẽ nói gì với Minh Tuyết của 18, 19, 20?"
+data52_422,data52,2027.62,2032.34,Nói là một. Cảm ơn những cái vấp ngã. Cảm ơn những cái sai lầm.,Nói là. Cảm ơn những cái vấp ngã. Cảm ơn những cái sai lầm.
+data52_423,data52,2033.75,2038.57,Cảm ơn những cái. Vụng dại của thời ấy. Để có một Minh Tiết.,Cảm ơn những cái vụn dại. Của thời ấy. Để có một Minh Tuyết.
+data52_424,data52,2039.66,2041.7,Trưởng thành. Ấm áp.,"Trưởng thành, ấm áp."
+data52_425,data52,2043.21,2044.61,Thấu hiểu của ngày hôm nay.,Thấu hiểu của ngày hôm nay.
+data52_426,data52,2049.31,2050.89,Đây là 10 máy 20.,Đây là mười mấy hai mươi.
+data52_427,data52,2051.01,2054.19,Cái này là hát bài Cứu Mủ Say với Hương Giang.,Cái này là hát bài Cứ ngủ say với Hương Giang.
+data52_428,data52,2054.49,2056.75,Nào Paris By Night số 90.,Paris by night số 90.
+data52_429,data52,2063.15,2066.29,"Thì thấy không, cái tấm hình này, cái tấm này với lại cái tấm hồi nãy là khác không?","Thấy không? Cái tấm hình này, cái tấm này với cái tấm hồi nãy là khác không?"
+data52_430,data52,2066.43,2070.67,Mỗi một tấm là một khác. Bởi vậy em nhìn có những tấm em không biết là ai là Dũng luôn.,Mỗi một tấm là một khác. Bởi vậy em nhìn có những tấm em không biết là ai là Dũng luôn á chị.
+data52_431,data52,2070.69,2071.61,Đúng rồi đúng rồi.,"Đúng rồi, đúng rồi."
+data52_432,data52,2071.69,2075.85,"Nếu để được nói với Dũng của những năm nay, Dũng hiện tại sẽ nói điều gì?","Nếu để được nói với Dũng của những năm nay, Dũng hiện tại sẽ nói điều gì?"
+data52_433,data52,2075.89,2077.05,Vậy thì thành công quá nha.,Vậy thì thành công quá nha.
+data52_434,data52,2079.95,2084.21,"Ok, để chúc mừng cho sự dậy thì thành công của cả hai.","Ok. Ok, để chúc mừng cho sự giải thị thành công của cả hai."
+data52_435,data52,2085.75,2094.07,Thì chúng ta hãy cùng hấp nến để thổi bánh sinh nhật. Bởi vì Dustin biết là vừa qua là chúng ta có sinh nhật của Dũng 29 tháng 9.,Thì chúng ta hãy cùng hấp nến để thổi bánh sinh nhật. Bởi vì Dustin biết là vừa qua chúng ta có sinh nhật của Dũng 29 tháng 9 nè.
+data52_436,data52,2094.27,2103.81,Sinh nhật của chị Tuyết là 15 tháng 10. Đã sinh cũng 1 tháng 10 luôn. Và xin mời bánh kem của nhà hàng Paris Garden tặng cho 2 chị em.,"Sinh nhật của chị Tuyết là 15 tháng 10, Đớt xin cũng 1 tháng 10 luôn. Và xin mời bánh kem của nhà hàng Paris Garden tặng cho 2 chị em."
+data52_437,data52,2104.01,2105.53,Chắc nhau ha.,"Khác nhau ha, khác nhau ha."
+data52_438,data52,2105.53,2107.87,3 con thiên bình Libra.,"Thiên bình ba, ba con thiên bình Libra."
+data52_439,data52,2108.05,2110.09,Hảo nào mê đẹp nhịp cảm.,"Thảo nào mê đẹp, nhạy cảm."
+data52_440,data52,2111.43,2120.71,Happy Birthday to you. Happy Birthday to you. Happy Birthday. Happy Birthday.,"Happy birthday to you. Happy birthday to you. Happy birthday, happy birthday."
+data52_441,data52,2120.95,2123.59,Happy Birthday to you.,Happy birthday to you.
+data52_442,data52,2125.35,2134.37,"Dạ, cảm ơn, thank you, thank you. Năm nay quá nhiều cái hạnh phúc đi mọi người ơi. Thôi để chị đại diện ba người chị nói luôn nha. Tại chị già nhất.","Dạ cảm ơn, thank you, thank you. Năm nay quá nhiều cái hạnh phúc đi mọi người ơi. Thôi để chị đại diện ba người chị nói luôn nha. Tại chị già nhất."
+data52_443,data52,2135.55,2143.77,Chúng tôi là những người nghệ sĩ. Nghệ sĩ thì chúng tôi không cầu mong gì hết. Chỉ cầu mong là luôn luôn được khán giả yêu thương.,Thật sự chúng tôi là những người nghệ sĩ. Nghệ sĩ thì chúng tôi không cầu mong gì hết. Chỉ cầu mong là. Luôn luôn được khán giả yêu thương.
+data52_444,data52,2145.35,2154.77,Luôn luôn được bận rộn chạy show. Để chúng tôi có thể cống hiến hết tuổi thanh xuân của mình. Lẫn kể cả khi chúng tôi về già.,Luôn luôn được. Bận rộn chạy show. Để chúng tôi có thể. Cống hiến hết tuổi thanh xuân của mình. Lẫn kể cả khi chúng tôi về già.
+data52_445,data52,2154.77,2156.53,Khán giả vẫn yêu mến.,Khán giả vẫn yêu mến.
+data52_446,data52,2159.27,2163.09,Chúng tôi thì ở nơi đâu có khán giả là ở nơi đó. Đều có tính tôn hết.,Chúng tôi thì. Ở nơi đâu có khán giả là ở nơi đó. Đều có chúng tôi hết.
+data52_447,data52,2168.32,2177.92,Thay mặt cho team Dustin On The Go. Chúc cho chị Minh Tuyết và Mai Tiến Dũng. Sẽ luôn ở trong team của khán giả. Phải hoạt động ở Việt Nam nhiều hơn.,Thay mặt cho team Dustin On The Go. Chúc cho chị Minh Tuyết. Và Mai Tiến Dũng. Sẽ luôn ở trong tim của khán giả. Phải hoạt động ở Việt Nam nhiều hơn nữa.
+data52_448,data52,2177.92,2184.14,"Tụi em được xem, được nghe những ca khúc mà mọi người trình diễn. Và sẽ được mời mọi người lại top show nhiều.","Để tụi em được xem, được nghe. Những ca khúc mà mọi người trình diễn. Và sẽ được mời mọi người lại talk show nhiều hơn."
+data52_449,data52,2231.7,2232.9,Trò chơi thứ 2.,Trò chơi thứ 2
+data52_450,data52,2234.93,2236.67,Hà uống còn hơn.,Hà uống còn hơn.
+data52_451,data52,2240.62,2242.59,Nếu chị trả lời được thì chị thoát thôi.,Nếu chị trả lời được thì chị thoát thôi
+data52_452,data52,2243.82,2245.79,Đó xin đăng cầm câu hỏi của Dũng và Dũng.,Dustin đang cầm câu hỏi của Dũng và Dũng
+data52_453,data52,2248.32,2249.78,Vậy thì ai sẽ là người bắt đầu?,Vậy thì ai sẽ là người bắt đầu?
+data52_454,data52,2250.24,2251.62,"Thua bắt đầu, thua là người.","Thua bắt đầu, thua là người bắt đầu."
+data52_455,data52,2252.21,2257.84,"Thu là người bắt đầu hỏi nha 1, 2, 3 1, 2, 3.","Thua là người bắt đầu hỏi nha 1, 2, 3 1, 2, 3."
+data52_456,data52,2259.12,2260.38,Vậy là mình hỏi bạn.,Vậy là mình hỏi bạn.
+data52_457,data52,2267.09,2277.04,"Lật chơi là nếu mình hỏi bạn phải trả lời thật, nếu bạn không trả lời thì bạn uống một ly. Nếu bạn trả lời thật, mình uống một ly. So easy đúng không?",Luật chơi là nếu mình hỏi bạn phải trả lời thật. Nếu bạn không trả lời. Thì bạn uống 1 ly. Nếu bạn trả lời thật. Mình uống 1 ly. So easy đúng không.
+data52_458,data52,2277.14,2281.9,Nếu Mai Tiến Dũng trở thành khán giả bình chọn trực tiếp tại sân khấu Chị Đẹp.,Nếu Mai Tiến Dũng trở thành khán giả bình chọn trực tiếp. Tại sân khấu chị đẹp.
+data52_459,data52,2283.61,2291.63,Hiện tại số vote của các thành viên bằng nhau. Thì Dũng sẽ vote cho ai bị loại. Giữa ca sĩ Minh Tuyết và ca sĩ Tóc Tiên.,Hiện tại số vote của các thành viên. Bằng nhau. Thì Dũng sẽ vote cho ai bị loại. Giữa ca sĩ Minh Tuyết. Và ca sĩ Tóc Tiên.
+data52_460,data52,2293.53,2294.63,Biệt vời.,Biết ngay
+data52_461,data52,2294.91,2296.06,Oh my God.,Oh my god!
+data52_462,data52,2296.91,2298.35,Bạn uống hay bạn trả lời thật.,Bạn uống hay bạn trả lời thật.
+data52_463,data52,2301.03,2302.89,Cái này khó tại vì.,Khó. Cái này khó tại vì.
+data52_464,data52,2304.96,2306.16,"Bình chị, bình em.",Bên chị bên em.
+data52_465,data52,2311.25,2312.07,Hơi ổn định.,Thôi uống đi.
+data52_466,data52,2312.37,2315.83,"Thà uống đi, thà uống còn hơn đi. Mời Dũng.","Thôi uống đi, Thôi uống còn hơn đi. Mời Dũng."
+data52_467,data52,2316.27,2317.33,Tài hiểu rồi đó.,Ta hiểu rồi đó.
+data52_468,data52,2317.63,2318.39,Ơi.,Hiểu rồi.
+data52_469,data52,2319.39,2320.75,Là ai em cũng thương.,Là ai em cũng thương.
+data52_470,data52,2321.35,2323.03,Thì đó bên chị bên em.,Thì đó bên chị bên em.
+data52_471,data52,2323.33,2324.01,Nhìn nó đậm quá.,Nhìn nó đắng.
+data52_472,data52,2326.22,2328.3,Chương trình mà bác phải chọn thì sao ra.,Chương trình mà bắt phải chọn thì sao ta.
+data52_473,data52,2329.79,2331.95,Không lẽ đứng đó ngồi cho em xin ly nước đắng.,Không lẽ đứng đó ngồi cho em xin ly nước đắng.
+data52_474,data52,2332.05,2337.01,"Không đến lúc đó chị nghĩ nè, chị trả lời cho Dũng đúng không, Dũng sẽ bê trên cái tiết mục.",Không đến lúc đó chị nghĩ nha. Chị trả lời cho Dũng đúng không. Dũng chỉ bây trên cái tiết mục đó.
+data52_475,data52,2337.01,2339.19,"Đúng đó em đang nói, tại vì bây giờ mình chưa.",Đúng đó em đang nói. Tại vì bây giờ mình chưa nói được.
+data52_476,data52,2339.29,2346.57,Tại vì khi mà Dũng bê xin tiết mục đó. Thì không có chị hay đứa em nào chắc được hết. Ai good hơn cũng sẽ chọn cái tiết mục đó.,Tại vì khi mà Dũng bây trên tiết mục đó. Thì không có chị hay đứa em nào chắc được hết. Ai good hơn. Dũng sẽ chọn tiết mục đó.
+data52_477,data52,2346.67,2350.27,Đúng rồi. Có sợ bị ném đá không?,Đúng rồi. Có sợ bị nếp đá. Có sợ bị ném đá không.
+data52_478,data52,2351.69,2353.27,Chọn đường nào cũng nếm mới đúng không?,Chọn đường nào cũng ném đó đúng không.
+data52_479,data52,2353.37,2356.65,"Đúng, đường của bì ném mà. Thôi thì thôi mình cứ thật lòng.",Đúng đường cũng bị ném mà. Thôi thôi mình có thật lòng.
+data52_480,data52,2356.65,2358.53,Rỡ hơn về hai chị nếm em.,Còn rỡ hơn về hai chị ném em.
+data52_481,data52,2361.35,2367.87,Cái này cũng khá hay. Em thấy cái này coi hay nè. Một hiểu lầm với đồng nghiệp. Trong quá khứ. Nhưng chưa từng được lên tiếng tiếng chính.,Cái này cũng khá hay. Một hiểu lầm với đồng nghiệp. Trong quá khứ nhưng chưa từng được lên tiếng đính chính.
+data52_482,data52,2369.2,2370.74,Tức là người ta hiểu lầm mình á à.,Tức là người ta hiểu lầm mình á.
+data52_483,data52,2371.26,2375.32,"Không, ngược lại cũng được. Hiểu lầm nó chung giữa mình với đồng nghiệp mà chưa bao giờ đính chính.",Không ngược lại cũng được. Hiểu lầm nói chung giữa mình với đồng nghiệp. Mà chưa bao giờ đính chính.
+data52_484,data52,2375.32,2378.82,Cho tới ngày hôm nay thì mình không biết rằng là mình có cái điều đó.,Cho tới ngày hôm nay thì mình không biết. Mình có cái điều đó hay không.
+data52_485,data52,2379.06,2380.8,Được lòng mọi người đó.,Nó là được lòng mọi người đó.
+data52_486,data52,2380.8,2387.18,Không phải được lòng. Nhiều khi người ta giận mình mà mình không biết á. Sao mình biết được? Người ta không nói là gì mình biết?,"Không, không phải được lòng. Nhiều khi người ta giận mình mà mình không biết. Sao mình biết được, người ta không nói là gì mình biết."
+data52_487,data52,2387.38,2388.04,Chắc không?,Chị chắc không?
+data52_488,data52,2388.44,2390.6,Ví dụ người ta giận chị là.,Thiệt. Ví dụ người ta giận chị.
+data52_489,data52,2390.54,2391.1,Không?,Chị chắc không?
+data52_490,data52,2391.32,2391.78,Chị chắc.,Chị chắc.
+data52_491,data52,2391.92,2395.38,Em nghĩ là ai cũng có ích ích với chị.,Em nghĩ là ai cũng có ít ích với chị đó.
+data52_492,data52,2395.76,2397.46,Nhưng mà vấn đề là chị không biết ai.,Nhưng mà vấn đề là chị không biết ai.
+data52_493,data52,2397.76,2398.68,Tất cả mọi người.,Tất cả mọi người.
+data52_494,data52,2398.88,2402.14,"Vậy sao? Vậy chị nghe không? Ai nói 1, 2, 3.","Vậy sao?  Vậy thì ai nói 1, 2, 3."
+data52_495,data52,2400.04,2400.75,Ngon ngon không?,Có nghe không?
+data52_496,data52,2402.44,2403.58,Vẫn mãi là người đến sau.,Vì tuyết vẫn mãi là người đến sau.
+data52_497,data52,2406.88,2412.46,"Thấy sao, nói đùa là sao. Phải cho các sao ca nhạc, đi lưu diễn với mọi người á. Xe mới xuống rồi mà.","Thế sao ông nói đùa là sao? Tại vì trong có cái show qua nhà, đi lưu diễn với mọi người á, xe bus xuống rồi mà."
+data52_498,data52,2419.15,2420.23,Đang giậm.,Đang dặm phấn.
+data52_499,data52,2428.63,2429.83,Nhưng mà rất là vui.,Nhưng mà nó là vui.
+data52_500,data52,2429.83,2434.93,"Nghĩa là mọi người cũng chờ đợi chị, cũng mệt không? Cũng mệt chứ.","Nghĩa là mọi người cũng chờ đợi chị, cũng mệt chứ phải không Dũng."
+data52_501,data52,2435.03,2438.49,Cái đó nó không là một cái hiểu lầm.,"Không, cái đó nó không là một cái hiểu lầm."
+data52_502,data52,2438.79,2439.47,Nhưng mà nó vui.,Nhưng mà nó vui.
+data52_503,data52,2440.41,2444.67,Bản thân của chị thì không có thích xích mích với người khác.,Bản thân của chị. Thì không có thích. Xích mít với người khác.
+data52_504,data52,2445.61,2448.35,Và không thích có sự gúc mắt với người khác.,Và không thích có sự rút mắt với người khác.
+data52_505,data52,2448.35,2453.39,Nếu mà lỡ có nghe đâu đó thì chị có làm rõi luôn vấn đề luôn hay là chị cho qua nếu mà có ai.,Nếu mà lỡ đó có nghe đâu đó. Thì chị có làm rõ luôn vấn đề luôn. Hay là chị cho qua nếu mà có ai đó nói.
+data52_506,data52,2453.39,2454.89,Ví dụ như là.,For example là.
+data52_507,data52,2456.22,2465.26,"Ngày xưa đi, chị với tâm đoan có một chút xíu hiểu lầm. Tới một ngày thì chị nói chuyện thẳng với tâm đoan luôn. Với lại tâm đoan cũng nói chuyện thẳng. Chị nói là bà đang giận tôi.",Ngày xưa đi chị với Tâm Đoan có một chút xíu hiểu lầm. Tới một ngày. Thì chị nói chuyện thẳng với Tâm Đoan luôn. Với là Tâm Đoan cũng nói chuyện thẳng. Chị nói là bà đang giận tôi phải không.
+data52_508,data52,2465.36,2473.2,Hoặc là vậy đó. Nhưng mà mình phải cảm nhận được là người ta có cái lòng thành muốn làm bạn với mình hay không. Còn ví dụ cái người đối phương.,Hoặc là vậy đó. Nhưng mà mình phải cảm nhận được là người ta có cái lòng thành. Mình vẫn muốn làm bạn với mình hay không. Còn ví dụ cái người đối phương.
+data52_509,data52,2473.2,2482.98,"Không có muốn một chút gì đó thì mình có giải thích cũng bằng thừa tính cách của chị đi, ví dụ giờ người đó đang làm có một cái điều không hay.",Người ta không có muốn một chút gì đó. Thì mình có giải thích cũng bằng thừa. Tính cách của chị đi. Ví dụ giờ người đó đang làm. Có một cái điều không hay với chị.
+data52_510,data52,2483.08,2490.8,Một thời gian chị gặp lại người ấy. Thì người ấy cho chị một cái cảm nhận. Rằng người ấy muốn làm lành.,Khoảng một thời gian chị gặp lại người ấy. Thì người ấy cho chị một cái cảm nhận. Rằng người ấy muốn làm lành với chị.
+data52_511,data52,2491.77,2496.75,Thì chị rất sẵn lòng để làm lành với người ấy. Nguyên tâm bỏ lời chị trước thì chị sẽ.,Thì chị rất sẵn lòng. Để làm lành với người ấy. Người ta mở lời chị trước. Thì chị sẽ mở lòng.
+data52_512,data52,2498.11,2507.59,Bởi vì chị bản tính của chị. Chị không thích có nhiều kẻ thù. Chị không thích có cái stress ở trong đầu. Bởi vì đối với chị là tìm một người.,Bởi vì bản tính của chị. Chị không thích có nhiều kẻ thù. Chị không thích có cái stress. Ở trong đầu. Bởi vì đối với chị là tìm một người bạn.
+data52_513,data52,2507.99,2510.05,Nó rất là khó hơn tìm một kẻ thù.,Nó rất là khó hơn tìm một kẻ thù.
+data52_514,data52,2511.79,2519.85,"Đúng. Chúng ta phải lấy cái tình bao dung, tình yêu. Để hóa giải những cái hận thù. Vậy thì bây giờ mình lấy nước đắng.",Đúng. Chúng ta phải lấy cái tình bao dung. Tình yêu để hóa giải những hận thù. Vậy thì bây giờ mình lấy. Nước đắng.
+data52_515,data52,2520.37,2521.99,Ủa chị trả lời rồi.,Ủa chị trả lời rồi mà.
+data52_516,data52,2523.93,2524.97,Vậy thì ai uống?,Vậy thì ai uống.
+data52_517,data52,2525.17,2526.23,Vậy thì ai uống?,Vậy thì ai uống.
+data52_518,data52,2528.43,2529.63,Đặt ra câu hỏi.,Người đặt ra câu hỏi.
+data52_519,data52,2529.69,2531.99,Cái này là biên tập đưa tôi không có biết.,Cái này là biên tập đưa. Tôi có biết.
+data52_520,data52,2534.05,2536.59,Vậy là không có câu trả lời thì là người hỏi phải uống.,Vậy là không có câu trả lời. Thì là người hỏi phải uống.
+data52_521,data52,2536.59,2537.63,Đúng rồi.,Đúng rồi.
+data52_522,data52,2540.9,2542.24,Biên tập nào uống thế tôi coi.,Biên tập đâu uống thế tôi coi.
+data52_523,data52,2543.02,2545.48,Đắng nó đẹp da. Uống đi Dũng.,Nước đắng đó đẹp da. Uống đi Dũng.
+data52_524,data52,2546.84,2547.98,Bé Dũng mà.,Bé Dũng mà.
+data52_525,data52,2548.38,2550.94,Ngày mai da bé sẽ như da em bé.,Uống đi ngày mai da bé sẽ như da em bé luôn.
+data52_526,data52,2552.74,2553.44,Nói tới.,Đắng thiệt.
+data52_527,data52,2558.29,2558.97,Hẹn gặp lại.,Chị hỏi em.
+data52_528,data52,2559.47,2561.21,"Trời ơi, em uống trước, em lấy tinh thần.",Chờ em uống trước em lấy tinh thần.
+data52_529,data52,2562.18,2569.05,Nếu được hack Facebook một người nổi tiếng Dustin muốn hack Facebook của ai?,"Nếu được hack Facebook một người nổi tiếng, Dustin muốn hack Facebook của ai?"
+data52_530,data52,2570.74,2573.94,Và làm gì sau khi chiếm được tài khoản đó.,Và làm gì sau khi chiếm được tài khoản đó?
+data52_531,data52,2574.62,2582.72,Ủa hát Facebook để làm cái gì ta? Tất nhiên là Dustin là một con thiên bình rất là ngoại giao. Không bao giờ mình làm những chuyện sau lưng.,"Ủa hack Facebook để làm cái gì ta? Tất nhiên là Dustin là một con thiên bình rất là ngoại giao, không bao giờ mình làm những chuyện sau lưng."
+data52_532,data52,2582.82,2588.2,"Nói chung là Thiên Bình là bạn tính, em thấy là cũng hơi giống giống, chị em này giống giống nhau là Thiên Bình ở chỗ là không thích xích nước với ai.","Nói chung là thiên bình là bản tính hồi nãy em thấy là cũng hơi giống giống, chị em mình giống giống nhau. Thiên bình ở chỗ là không thích xích mít với ai."
+data52_533,data52,2588.6,2594.42,"Và lỡ có xích mích á, một là thôi mình tự tắt luôn để mình không bị dứt đầu. Đúng rồi.","Lỡ có xích mích á, một là thôi mình tự tách luôn để mình không bị giết đầu."
+data52_534,data52,2593.64,2594.29,Bước đầu.,"Đúng rồi, đúng rồi"
+data52_535,data52,2595.12,2598.6,"Mình nghĩ là ít nhiều gì sau này trong tương lai mình gặp lại nhau, mình vẫn chào nhau được.",Để mình nghĩ là ít nhiều gì sau này trong tương lai mình gặp lại nhau mình vẫn chào nhau được.
+data52_536,data52,2599.84,2608.98,Nhưng cái bạn tính chung nữa là nếu gặp lại người đó và mình thấy tình cảm là đúng thật sự là. Mước ra mình giải quyết vấn đề luôn là. Ê tôi nghe vậy nè. Tôi muốn làm rõ cho tôi không có ý vậy đâu.,"Nhưng cái bản tính chung nữa là nếu mình gặp lại người đó và mình thấy thiền cảm là đúng hoặc sự là. Mình bước ra mình giải quyết vấn đề luôn là tôi nghe vậy nè, tôi muốn làm rõ nhưng tôi không có ý vậy đâu."
+data52_537,data52,2609.12,2612.48,Để sao? Để mình cùng nhau tìm sự thanh thản.,Để sao? Để mình cùng nhau tìm sự thanh thản.
+data52_538,data52,2614.5,2623.14,Cho nên em sẽ uống. Để em nói là nếu mà bạn mà có tư tưởng đi hack Facebook người khác. Facebook bạn cũng sẽ bị hack đầu tiên. Thôi đừng dữ vậy.,Cho nên em sẽ uống. Để em nói là nếu mà bạn có tư tưởng đi hack Facebook người khác. Thì mấy mốt Facebook bạn cũng sẽ bị hack đầu tiên. Thôi đừng như vậy.
+data52_539,data52,2626.76,2633.94,"Câu này cho Mai Tiến Dũng. Một điều mà Mai Tiến Dũng thấy mình rất xịn, rất giỏi. Mà chưa có dịp show ra cho mọi người biết bao giờ.","Câu này cho Mai Tiến Dũng. Một điều mà Mai Tiến Dũng thấy mình rất xịn, rất giỏi. Mà chưa có dịp show ra cho mọi người biết bao giờ."
+data52_540,data52,2633.94,2634.74,Trời đất ơi.,Trời đất ơi.
+data52_541,data52,2636.04,2638.38,Có khi nào em vô tình em show ra mẹ không biết không ta?,Có khi nào em vô tình em show ra mẹ không biết không ta?
+data52_542,data52,2638.7,2640.42,Cái gì đó rất là.,Em có cái gì đó rất là.
+data52_543,data52,2647.02,2647.88,Hầm kính.,Thầm kính.
+data52_544,data52,2650.12,2653.7,Thầm kính mà mọi người không bao giờ biết đó hả? Mà em rất giỏi.,Thầm kính mà mọi người không bao giờ biết đó hả? Mà em rất giỏi hả.
+data52_545,data52,2665.56,2669.46,Chuyện chỉ em trong nhà. Tại sao em không có nói.,Chuyện gì. Chuyện chị em trong nhà. Tôi không muốn nói.
+data52_546,data52,2678.32,2682.46,"Có một chi tiết thậm kính thôi. Rất xịn, rất giỏi hả?",Thôi. Có một chi tiết. Thầm kính thôi. Rất xịn rất giỏi hả.
+data52_547,data52,2682.52,2684.56,Chưa có dịp show ra vậy thôi.,Chưa có dịp show ra vậy thôi.
+data52_548,data52,2684.72,2687.26,Cũng có vài cái tài lẻ đấy ví dụ như là.,Cũng có vài cái tài lẽ đó. Ví dụ như là.
+data52_549,data52,2687.26,2692.0,Dũng rất khéo tay nha make up rất đẹp làm tóc rất đẹp làm nail.,"Dũng là rất khéo tay nha, make up rất đẹp, làm tóc rất đẹp, làm nail rất đẹp."
+data52_550,data52,2693.1,2698.04,Rất là nghề giống nhà rồi. Ví dụ như xây nhà sửa chữa. Coding là Dũng biết.,"Có đó là nghề trong nhà rồi, ví dụ như xây nhà sửa chữa, coding là Dũng biết."
+data52_551,data52,2698.24,2704.5,Tại vì từ nhỏ thì bố em mất sớm cho nên là những cái mà trong nhà thường thường mọi người sẽ làm.,Tại vì từ nhỏ thì bố em mất sớm cho nên là những cái mà trong nhà thường thường mọi người sẽ là.
+data52_552,data52,2704.6,2708.56,Bình Mỹ nó sẽ mắc bình mưu muốn bất cứ ai.,Bên mỹ nó sẽ mắc khi mình mượn bất cứ ai.
+data52_553,data52,2708.84,2709.8,"Đúng rồi, phải tự làm.","Đúng, mình phải tự làm."
+data52_554,data52,2710.2,2711.74,Thì có những cái là em tầm phải.,Thì có những cái là em toàn phải tự học.
+data52_555,data52,2713.46,2716.0,Thật sự chị thấy luôn là từ make up hay làm tóc là em phải tự.,Thật sự chị biết luôn là từ make up hay làm tóc là em phải tự học.
+data52_556,data52,2717.06,2729.68,"Mà không ai chỉ hết, như là mình đọc sách báo. Mình tìm lại, những cái trick người ta chỉ á, là phải nhớ. Ví dụ ống nước sữa hư sao, sả ống nước sữa sao là phải sửa sữa. Xinh bồn nó bị hư, bếp ga là tất cả những cái đó mình phải nhớ.","Mà không ai chỉ hết, nghĩa là mình đọc sách báo, mình tìm ra những cái trick người ta chỉ là phải nhớ, như giờ ống nước sửa hư sao, xả ống nước sao là phải sửa, sinh bồn nó bị hư, bếp ra là tất cả những cái đó mình phải nhớ."
+data52_557,data52,2729.88,2733.32,Ngoài trừ là xe thì em chỉ đụng chạm bao nhiêu thôi nhưng mà nói chung là trong cuộc sống hàng ngày.,"Ngoài trừ là xe thì em chỉ đụng chạm vào nhiều thôi, nhưng mà nói chung là trong cuộc sống hằng ngày."
+data52_558,data52,2733.38,2735.5,Nhưng mà em phải khéo tay cơ. Thì mới được.,Nhưng mà em phải khéo tay cơ thì mới được.
+data52_559,data52,2735.56,2741.52,"Hôm mà em đi đặt mua cái nhà bên Mỹ. Thật sự nha, kinh phí nó quá cao. Mình buộc phải làm.","Hôm hôm mà em đi mua cái nhà bên Mỹ, thật sự nha, kinh phí nó quá cao, mình buộc phải làm."
+data52_560,data52,2741.72,2751.8,"Em nâng sàn đó chị Tuyết là cái một bên nhà nó bị thấp hơn khoảng thì cái em nâng sàn đó là em với chị gái là tự tìm tòi, mua gỗ về, tự nâng sàn, tự lót sàn.",Em nâng sàn đó chị Tuyết là cái một bên nhà nó bị thấp hơn khoảng thì em nâng sàn đó là em với chị gái là tự tìm tòi mua gỗ về tự nâng sàn tự lót sàn làm hết.
+data52_561,data52,2753.1,2762.24,Nói chung là những cái đó là nhiều khi mọi người không đấy. Tại vì bà chị thì thấy. Chị muốn ở bên Mỹ. Chị muốn thèm tránh dây lắm. Trồng tránh dây cho nó mát vườn.,Đó nói chung là những cái đó là nhiều khi mọi người không thấy sau đó bà chị chị Tuyết chị muốn ở bên Mỹ á chị muốn thèm chanh dây á trồng chanh dây cho nó mát vườn.
+data52_562,data52,2762.87,2766.25,"Rồi ai đóng cái vườn cho bạn, ai đóng cái giàn leo.",Rồi ai đóng cái vườn cho bạn ngoài ai đóng cái vàng leo.
+data52_563,data52,2766.27,2767.55,"Trời ơi, dụng đấm luôn.",Trời ơi Dũng đóng luôn.
+data52_564,data52,2767.67,2768.45,Đóng luôn.,Đóng luôn đóng luôn.
+data52_565,data52,2769.03,2771.01,"Vợ quá, dũng vợ.",Wow giỏi quá Dũng giỏi.
+data52_566,data52,2772.27,2777.07,Chị cũng thích chồng thăng long với Dũng. Chị cũng thích chồng thăng long với Dũng. Bữa nào ở nhà chị cũng nói chuyện với dũng.,Chị cũng thích trồng thăng long á Dũng. Chị cũng thích trồng thăng long á Dũng. Bữa nào quay nhà chị.
+data52_567,data52,2779.27,2781.59,Anh cũng cần thông nước ống nước nhà anh đó vô.,Anh cũng cần thông nước ống nước nhà anh á Dũng.
+data52_568,data52,2789.53,2792.03,Bốt phải dọn kế bên nhà Dũng. Thì có gì nhờ Dũng mà thông.,Mốt phải dọn kéo bên nhà Dũng. Để có gì nhờ Dũng qua thông nước.
+data52_569,data52,2793.93,2796.65,"Dễ thương, ok chịu. Vậy là anh uống hả?",Dễ thương. Ok chịu. Vậy là anh uống hả.
+data52_570,data52,2797.83,2801.65,"Nên giản thôi, mình trà bày ra cái trò này mà có gì đâu ba anh này. Đáng nha đáng thiệt.",Đơn giản thôi. Mình trò bày ra cái trò này. Mà có gì đâu ba. Đắng nha đắng thiệt.
+data52_571,data52,2803.11,2805.81,Thật sự nếu mà đốt tiệt thì mỗi ngày nên uống 1 ly để đào thải.,Thật sự nếu mà nói thiệt thì mỗi ngày nên uống 1 ly để đào thải.
+data52_572,data52,2806.11,2808.89,Rồi mình đọc câu hỏi cho tỷ tiết đi để coi ai.,Rồi mình đọc câu hỏi cho Tỷ Tuyết đi để coi ai uống.
+data52_573,data52,2809.39,2812.53,Nãy giờ chị uống uống nha. Sao? Chị hứa chị trả lời thật câu này nha.,Nãy giờ chị chưa uống nha. Chị hứa chị trả lời thật câu này nha.
+data52_574,data52,2812.53,2814.85,Ủa mắc gì? Cứ hỏi đi.,Ui mắc gì cứ hỏi đi.
+data52_575,data52,2815.17,2816.91,Câu này sẽ bù trừ cho câu trước nè.,Câu này sẽ bù trừ cho câu trước nè.
+data52_576,data52,2819.81,2821.58,Là câu chữ là chị thoát đúng không?,Là câu trước là chị thoát đúng không.
+data52_577,data52,2821.68,2823.46,À nhưng mà cô này sẽ bù trữ trước nè.,À nhưng mà câu này sẽ bù trừ cho câu trước nè.
+data52_578,data52,2823.59,2825.96,"Rồi, nói đi. Nói! Cầm trước.",Rồi nói đi. Nói. Đọc trước.
+data52_579,data52,2827.46,2831.02,Từng ngồi giám khảo chung với nghệ sĩ Trấn Thành.,Từng ngồi giám khảo. Chung với nghệ sĩ Trấn Thành.
+data52_580,data52,2850.54,2851.98,Tự nhiên chị cảm thấy trong người nóng.,Tự nhiên chị cảm thấy trong người nóng quá.
+data52_581,data52,2851.98,2854.1,Uống nước đậm cho nó mát.,Uống nước đậm cho nó mát.
+data52_582,data52,2864.46,2865.28,Câu hỏi A.,Câu hỏi ác quá vậy ta.
+data52_583,data52,2865.88,2866.92,"À, trời.",Trời ơi.
+data52_584,data52,2868.22,2870.14,À đẳng rồi à.,A. Đắng quá à.
+data52_585,data52,2890.28,2892.6,Chị Tuyết có nhìn xuống như vậy đi. Thấy sao không?,"Chị Tuyết cứ nhìn xuống vậy đi, biết là sao không?"
+data52_586,data52,2892.84,2894.96,"Thức đẹp quá, hôm nay thức đẹp quá, make up.","Tuyết đẹp quá, hôm nay Tuyết đẹp quá, make up đẹp quá."
+data52_587,data52,2899.73,2908.01,Một cổng tươi trong showdisc mà Dustin thấy đẹp và phát sáng khiến tất cả trong Dustin phải dừng lại.,"Ok, một cọng tươi trong showbiz mà Dustin thấy đẹp và phát sáng khiến tất cả trong Dustin phải dừng lại."
+data52_588,data52,2909.11,2912.51,"Và Dustin chỉ muốn đắm chìm trong cái cộng tư đó, đó là ai?","Và Dustin chỉ muốn đắm chìm được cái cọng tươi đó, đó là ai?"
+data52_589,data52,2914.35,2917.69,Một cọng tươi phát sáng khiến mình phải dừng lại.,Một cọng tươi phát sáng khiến mình phải dừng lại.
+data52_590,data52,2921.29,2922.99,Và mình muốn ở bên người đó.,Và mình muốn ở bên người đó.
+data52_591,data52,2924.39,2926.59,Chị là người hỏi chị có quyền.,Chị là người hổ chị có quyền chứ bộ.
+data52_592,data52,2926.99,2929.63,Chị cộng thêm nhiều vế sau á.,Chị cộng thêm nhiều vế sau á.
+data52_593,data52,2930.79,2931.71,Nhiều năm trước.,Nhiều năm trước
+data52_594,data52,2931.69,2932.41,Nhiều năm trước hả?,Nhiều năm trước hả?
+data52_595,data52,2935.27,2936.57,"Vài năm trước, vài năm trước là em mới thấy cái thứ này. Vài năm trước, vài năm trước là em mới thấy cái thứ này. Cảm ơn các bạn.",Vài năm trước vài năm trước.
+data52_596,data52,2939.25,2940.25,Dễ hả?,À vậy hả?
+data52_597,data52,2942.15,2943.55,Em đã.,Vài năm trước em đã
+data52_598,data52,2943.59,2944.64,"Đừng có đã, hiện tại.","Đừng có đã, hiện tại"
+data52_599,data52,2946.07,2947.35,Không có thời điểm quá khứ.,Không có thì quá khứ.
+data52_600,data52,2947.35,2949.13,Thì hiện tại dù tôi đi thì hiện tại.,"Thì hiện tại dùng tôi đi, thì hiện tại."
+data52_601,data52,2949.23,2951.31,Mai Tiến Dũng. Mai Tiến Dũng.,Mai Tiến Dũng. Mai Tiến Dũng.
+data52_602,data52,2955.8,2957.12,Chú thấy dại vô.,Chú chó giả dối.
+data52_603,data52,2963.12,2964.2,Giả dối.,Giả dối uống.
+data52_604,data52,2964.94,2966.64,Giả dối là phải uống gấp bồ.,Giả dối là phải uống double.
+data52_605,data52,2972.7,2979.68,Cho giải thích. Đã từng mời Mai Tiến Dũng lên show rất lâu rồi. Vì gặp ở event. Nhưng mà Mai Tiến Dũng chưa có trả lời.,"Cho giải thích, đã từng mời Mai Tiến Dũng lên show rất lâu rồi vì gặp ở cái event nhưng mà Mai Tiến Dũng chưa có trả lời."
+data52_606,data52,2979.88,2984.5,Cho nên là mãi tới bây giờ luôn. Cho nên mới nói là vài năm trước là vậy. Dũng có thể mở tin nhắn ra coi.,Cho nên là mãi tới bây giờ luôn. Cho nên mới nói là vài năm trước rồi vậy. Dũng có thể mở cái tin nhắn ra coi.
+data52_607,data52,2984.88,2988.4,"Không, mời talk show là bình thường. Em có cảm giác đó không?",Không mời talk show là bình thường. Em có cảm giác đó không?
+data52_608,data52,2990.45,2991.87,Không nhưng mà mắt chết chết kìa.,Thôi nhưng mà mắt chớp chớp kìa
+data52_609,data52,2991.88,2995.54,"Chớp đâu, thì chị là, tại vì cái câu cái vế sau là gì, cái vế.",Đâu có chớp đâu. Chỉ là tại vì cái vế sau là gì? Cái vế sau là?
+data52_610,data52,2995.9,2996.88,Hiện tại.,Hiện tại.
+data52_611,data52,2996.9,3000.18,Nguyên cải nè. Rồi còn phải đắm chìm trong đó.,Hiện tại nè. Rồi còn phải đắm chìm trong đó.
+data52_612,data52,3000.2,3000.98,Biết hả?,Showbiz đó hả?
+data52_613,data52,3001.02,3005.42,Tại vì cái người mà người ta cảm nhận được cái năng lượng đó là người ta dễ biết lắm.,Tại vì cái người mà người ta cảm nhận được cái năng lượng đó là người ta dễ biết lắm.
+data52_614,data52,3005.42,3010.6,"Người đối diện người ta nếu mà có cái năng lượng nó hội cảm nhận được liền. Thấy chưa uống, 1, 2, 3.","Người đối diện người ta nếu mà có cái năng lượng đó họ cảm nhận được liền. Thấy chưa uống, 1,2,3 uống."
+data52_615,data52,3012.34,3016.0,"Mình một lòng một giả thôi, mình chỉ nói là có mật mình mà tới bên uống nè.",Mình một lòng một giả. Mình chỉ nói là có mực mình. Mà mình mới uống nè.
+data52_616,data52,3020.12,3022.92,Công bố những tin nhắn. Tôi đã nhắn rút rất là lâu.,Tôi sẽ công bố những tin nhắn. Tôi đã nhắn rất là lâu.
+data52_617,data52,3026.35,3029.11,"Mà tại Vũng ở hơi xa, chị lúc đó là Vũng chú Việt.",Mà tại Dũng ở hơi xa. Lúc đó Dũng chưa về Việt Nam.
+data52_618,data52,3030.53,3032.99,"Nhưng mà xin lỗi, đã lỡ chuyến đò rồi.",Nhưng mà xin lỗi. Đã lỡ chuyến đò rồi.
+data52_619,data52,3035.99,3045.39,"Thôi không sao, mình đã uống rồi. Trò chơi cũng đã xong rồi. Mình rất là vui. Thì mình qua đến một cái chủ đề. Mà Dustin nghĩ là tất cả mọi người chúng ta.",Thôi không sao mình đã uống rồi. Trò chơi cũng đã xong rồi. Mình rất là vui. Thì mình qua đến một cái chủ đề. Mà Dustin nghĩ là. Tất cả mọi người chúng ta ở đây.
+data52_620,data52,3045.39,3053.11,Thì nhiều người quan tâm. Mà mình không biết là hai anh chị. Có từng quan tâm không. Đó là content. Dạo gần đây thì nghệ sĩ ai cũng cần.,Thì nhiều người quan tâm. Mà mình không biết là. Hai chị có từng quan tâm không. Đó là content. Dạo gần đây thì nghệ sĩ ai cũng cần.
+data52_621,data52,3053.35,3062.95,"Phải có một cái social life. Nó khác với lại. Việc mình đi diễn, mình tiếp xúc khán giả ở ngoài. Mà mình phải có mạng xã hội. Mình phải có những cái.",Phải có một cái social life. Nó khác với lại. Việc mình đi diễn. Mình tiếp xúc khán giả ở ngoài. Mà mình phải có mạng xã hội. Mình phải có những cái content.
+data52_622,data52,3062.95,3065.65,Mọi người có bị bối rối khi nghe tới cái chữ content này không?,Mọi người có bị bối rối. Khi nghe tới cái chữ content này không?
+data52_623,data52,3065.65,3074.83,Nếu như mà trước sâu chị đẹp. Mới hỏi chị câu đó thì chị có thể bối rối đấy. Bởi vì nghệ sĩ sống ở hải ngoại. Họ khá là đơn thuần.,"Nếu như mà trước show Chị Đẹp mới hỏi chị câu đó thì chị có thể bối rối đấy. Bởi vì nghệ sĩ sống ở hai ngoại ấy, họ khá là đơn thuần ấy."
+data52_624,data52,3074.83,3083.8,Không có trong showbiz mà làm nhiều thứ. Tức là họ chỉ cứ đi quay video khi nào mà có chương trình.,Họ không có trong showbiz mà làm nhiều thứ. Nó là họ chỉ cứ đi quay video khi nào mà có chương trình quay.
+data52_625,data52,3084.04,3092.86,"Xong rồi họ lại đi hát cuối tuần. Xong rồi họ về với gia đình, với bạn bè. Chứ họ không có TikTok, không có real, không có là không có nhiều.","Xong rồi họ lại đi hát cuối tuần, xong họ về với gia đình, với bạn bè. Chứ họ không có tiktok, không có reel, không có nhiều ấy."
+data52_626,data52,3093.06,3102.34,"Thì huống hồ chỉ có chữ cần sang trong đó. Từ khi chị về, chị tham gia chương trình chị đẹp. Thì bắt đầu mình mới hiểu được cái điều đó.",Thì hú hồ chỉ có chữ content trong đó. Thì từ khi chị về chị tham gia chương trình chị đẹp. Thì bắt đầu mình mới hiểu được cái điều đó.
+data52_627,data52,3102.34,3105.52,Cho nên nếu mà em hỏi cách đây trước khi xô chỉ đề thì chắc là chị bỡ ngỡ.,Cho nên nếu mà em hỏi cách đây trước khi show chị đẹp. Thì chắc là chị bỡ ngỡ thì.
+data52_628,data52,3105.52,3109.68,Còn Dũng. Có bối rối khi nghe đến chữ content không?,Còn Dũng. Có bối rối khi nghe đến chữ content không?
+data52_629,data52,3109.9,3116.74,Mặc dù về Việt Nam bao nhiêu lâu. Chứ em vẫn bối rối. Tại vì. Dũng chia sẻ thật sự là Dũng là người rất là hướng nội.,Mặc dù về Việt Nam bao nhiêu lâu vậy chứ em vẫn bối rối. Tại vì Dũng chia sẻ thật sự là Dũng là người rất là hướng nội.
+data52_630,data52,3117.36,3121.32,Thì đối với Dũng là mọi người thích là sẽ show ra những cái để sống riêng tư.,Thì đối với Dũng là mọi người thích là sẽ show ra những cái đời sống riêng tư.
+data52_631,data52,3122.5,3132.26,"Nhưng mà mình thì lại nghĩ là những cái gì riêng tư, những gì quý giá nhất của cuộc sống của mình thì mình dành riêng cho gia đình và ấy thôi, mình không có nên show.","Nhưng mà mình thì lại nghĩ là. Những gì tuyên tư, những gì quý giá nhất. Của cuộc sống của mình. Thì mình dành riêng cho gia đình và ấy thôi. Mình không có nên show nó ra."
+data52_632,data52,3132.26,3140.94,Tại vì đó là một cái gì đó chân quý lắm. Có thể mình là một người của công chúng. Mình sẽ cho công chúng hết cảm xúc của mình. Tại vì khi đứng lên sân khấu. Đó là cảm xúc của mình mà.,Tại vì đó là một cái gì đó chân quý lắm. Có thể mình là một người của công chúng. Mình sẽ cho công chúng hết cảm xúc của mình. Tại vì khi đứng lên sân khấu. Đó là cảm xúc của mình mà.
+data52_633,data52,3141.04,3149.9,"Mình hát bài hát đó là của mình, mình đã trao cái đó ra. Nhưng mà riêng cái daily life thì em nghĩ là nó nên là một cái gì đó.",Mình hát một bài hát đó là của mình. Mình đã trao cái đó ra. Nhưng mà riêng cái daily life. Thì em nghĩ là. Nó nên là một cái gì đó.
+data52_634,data52,3145.36,3146.08,Để lại.,Daily life.
+data52_635,data52,3150.08,3151.34,Nó của riêng mình thôi.,Nó của riêng mình thôi.
+data52_636,data52,3151.44,3154.02,Contain không có nghĩa là mình show ra mấy cái đó.,Content không có nghĩa là mình dành show ra mấy cái đó.
+data52_637,data52,3154.46,3162.06,"Không, nhưng mà ít như gì đa phần nó sẽ cũng phải, nó có sớm có sự liên đới nhất định cũng có thể là tại vì mình chưa gặp được.",Không nhưng mà ít như gì đa phần nó sẽ cũng phải. Nó có sự liên đối nhất định. Cũng có thể là tại vì mình chưa gặp được.
+data52_638,data52,3162.56,3171.36,Một cái người mà thật sự. Họ hiểu mình. Để họ giúp đưa những cái gì nên đưa ra. Và cái gì không nên đưa ra. Cho nên là khi mà mỗi lần mở.,Một cái người mà thật sự họ hiểu mình. Để họ giúp đưa những cái gì nên đưa ra và những gì không nên đưa ra. Cho nên là khi mà mỗi lần bảo là.
+data52_639,data52,3172.26,3173.82,"Không, chị cũng ngại mấy cái đó lắm á.",Không chị cũng ngại mấy cái đó lắm á.
+data52_640,data52,3173.92,3175.02,Còn khen đi.,Hãy tạo content đi.
+data52_641,data52,3175.02,3180.02,"Rất là sợ, đó là lý do mà tại sao là khi mà chị tham gia chương trình chị đẹp á em thấy rất là nhiều.",Rất là sợ đó là lý do mà tại sao là. Khi mà chị tham gia chương trình Chị đẹp á em thấy rất là nhiều content.
+data52_642,data52,3180.02,3182.45,Bây hấp phớ trên thích xót mình đều không phải từ.,Bay phấp phớt trên TikTok mà đều không phải từ kênh chị
+data52_643,data52,3182.91,3186.03,"Ừm, từ những kênh của các bạn thí sinh khác.",Từ những kênh của các bạn thí sinh khác.
+data52_644,data52,3185.87,3194.47,"Khi chị vui thì chị sẽ rất là thoải mái, chị sẽ làm. Còn nếu mà sắp xếp cho chị phải làm cái điều đó thì chị lại bị gượng đó, vì chị lại không thích.","Nó là chị, khi chị vui thì chị sẽ rất là thoải mái chị sẽ làm còn nếu mà sắp xếp cho chị phải làm cái điều đó thì chị lại bị gượng á thì chị lại không thích."
+data52_645,data52,3194.54,3197.04,Nhưng mà nếu mà cho chị 3 tiếng làm tóc make up thì chị ok.,Nhưng mà nếu mà cho chị 3 tiếng làm tóc make up thì chị ok.
+data52_646,data52,3198.2,3200.82,"Không, chị làm tắt 1 tiếng thôi mà chị dậm phấn là 3 tiếng.",TKhông chị làm tóc 1 tiếng thôi mà chị dậm phấn là 3 tiếng.
+data52_647,data52,3202.42,3204.74,Dạo này chị make up lẹ hơn làm tóc.,Không dạo này chị make up lẹ hơn làm tóc.
+data52_648,data52,3204.74,3211.74,"Vậy đó hả? Vậy nếu mà để tự chấm điểm social của mình trên thang 10, mọi người chấm mình bấy nhiêu điểm?",Vậy đó hả vậy nếu mà để tự chấm điểm social của mình trên thang 10. Mọi người chấm mình bao nhiêu điểm?
+data52_649,data52,3212.86,3222.72,Hồi đó giờ chị không có làm xuống sâu. Chị mới vừa về chương trình chị đạt. Mới bắt đầu thử thôi đó. Nhưng mà chị cũng bị mấy em. Giúp chị nó la.,Hồi đó giờ chị không có làm social. Chị mới vừa về chương trình Chị Đẹp mới bắt đầu thử thôi đó. Nhưng mà chị cũng bị mấy em giúp chị nó la chị hoài.
+data52_650,data52,3222.82,3229.5,"Sao mà em kêu chị làm, chị không bao giờ chị làm hết trơn hết á. Mỗi lần nó kêu trời ơi tao đang bận mày kêu tao làm cái gì. Kiểu dạng vậy á.",Chị ơi sao mà em kêu chị làm chị không bao giờ chị làm hết hết đó. Mỗi lần nó kêu trời ơi tao đang bận mày kêu tao làm cái gì. Kiểu dạng vậy á.
+data52_651,data52,3229.5,3233.22,Mà chị đang vui chị làm cái gì. Mấy đứa nó kêu chị nó quên quay. Thì chị quay.,Mà chị đang vui chị làm cái gì thì mấy đứa nó kêu chị nó quên quay thì chị quay.
+data52_652,data52,3233.32,3239.78,Nói chung là Dùng và chị Tuyết cũng có một cái giống giống nhau đó là mình cứ tự nhiên từ con người đó của mình và mọi người bắt gặp được.,Vậy là nói chung là Dũng và chị Tuyết cũng có một cái giống nhau đó là. Mình cứ tự nhiên từ con người đó của mình và bọn người bắt cặp được.
+data52_653,data52,3239.82,3241.58,Bắt cái moment đó thì ok.,Bắt cặp được bắt cái moment đó thì ok.
+data52_654,data52,3241.52,3242.18,Ok.,Thì ok thì mình ok.
+data52_655,data52,3246.34,3247.18,Bởi nó không phải mình.,Vì nó không phải mình.
+data52_656,data52,3249.04,3254.26,Cũng đã từng thử nhưng mà có thể là một là chưa kịp được cái ekip mà họ thật sự hiểu vô. Thật sự hiểu vô.,Cũng đã từng thử nhưng mà có thể là một là chưa kiếp được cái ekip mà họ thật sự hiểu.
+data52_657,data52,3254.26,3255.36,Của con người của mình.,Con người của mình.
+data52_658,data52,3255.36,3260.8,Mà họ đưa ra là. À cái này ông Dũng ông làm được. Mà đây là con người của ông Dũng. Hay là đây là con người của chị Tuyết.,Mà họ đưa ra là cái này ông Dũng làm được đây là con người của ông Dũng đây là con người của chị Tuyết nè.
+data52_659,data52,3262.4,3271.26,Nó phù hợp với mình thì mình sẽ làm rất là nhanh còn cái mà nó không phù hợp với mình thì nó sẽ bị một cái sự gượng gạo và đó là tính chất là sao mà mình càng cứ đi tìm.,Nghĩa là nó phù hợp với mình thì mình sẽ làm rất là nhanh. Còn cái mà nó không phù hợp với mình. Thì nó sẽ bị một cái sự gần gào. Và đó là lý do tại sao mà. Mình càng cứ đi tìm.
+data52_660,data52,3271.36,3280.58,"Không phải không khát khao làm content đâu. Mình cũng muốn có một cái gì đó mang cho đời nó vui. Và họ sẽ thấy, khán giả sẽ thấy những cái mặt khác của mình, có người bình thường của mình.",Không phải không khát khao làm content đâu. Mình cũng muốn có một cái gì. Nó mang cho đời nó vui. Và họ sẽ thấy. Khán giả sẽ thấy những cái mặt khác của mình. Có người bình thường của mình.
+data52_661,data52,3281.12,3290.0,"Chị nghĩ là tốt nhất là họ phải hiểu mình và họ cast những cái moment mà mình dễ thương nhất có thể. Cũng có thể là cái lúc mà mình buồn nhất có thể cũng có, vui nhất có thể.",Chị nghĩ là tốt nhất là. Họ phải hiểu mình. Và họ cast những cái moment mà. Mình dễ thương nhất có thể. Cũng có thể là cái lúc mà. Mình buồn nhất có thể cũng có. Vui nhất có thể cũng có.
+data52_662,data52,3290.0,3299.5,Hài hước nhất có thể không có. Nếu mà họ cast được những cái moment đó. Và từ đó họ khai thác ra. Thì nó sẽ rất là tuyệt vời. Hơn là mình phải giả đóng một cái gì đó.,Hài hước nhất có thể cũng có. Nhưng mà họ cast được những cái moment đó. Và từ đó họ khai thác ra. Thì nó sẽ rất là tuyệt vời. Hơn là mình phải giả đóng một cái gì đó.
+data52_663,data52,3299.5,3306.1,"Dạ đúng, content nó phải chân thật. Ở đây em không phải nói content là mình phải theo trend đâu. Mà là mình tạo ra cái trend.","Dạ đúng, content nó phải chân thật. Ở đây em không phải nói content là mình phải theo trend đâu. Mà là mình tạo ra cái trend của chính mình."
+data52_664,data52,3306.1,3316.06,"Biết đâu họ sẽ là những người theo những cái trend mà mọi người tạo ra thì sao. Tuy nhiên khi mà mình nói đến content, social media thì hiện nay nó có một cái xu hướng.","Biết đâu họ sẽ là những người theo những cái trend mà mọi người tạo ra thì sao. Tuy nhiên khi mà mình nói đến content, social media. Thì hiện nay nó có một cái xu hướng."
+data52_665,data52,3316.16,3325.68,Là mọi người thích ném đá vào quá khứ ở trên mạng xã hội. Bởi vì mạng xã hội phát triển mọi người đều tự do nông luận ai cũng có rất là nhiều tài khoản khác nhau.,Là mọi người thích ném đá vào quá khứ. Ở trên mạng xã hội. Bởi vì mạng xã hội phát triển mọi người đều tự do ngôn luận. Ai cũng có rất là nhiều tài khoản khác nhau.
+data52_666,data52,3325.78,3335.66,Ai cũng có thể là một người lên tiếng đào bới. Người nổi tiếng thường khi mà họ có một cái cú bật mới trong nghệ thuật. Họ sẽ bị đào lại.,"Ai cũng có thể là một người lên tiếng, đào bới. Người nổi tiếng thường khi mà họ có một cái cú bật mới trong nghệ thuật. Họ sẽ bị đào lại."
+data52_667,data52,3336.28,3345.78,Những cái status cũ. Hay là những hoa hậu mới vừa đăng quang. Là phải lập tức khóa trang cá nhân. Mình thấy cái đó rất là độc hại. Nhưng mà điều đó diễn ra hàng ngày.,Những cái status cũ hay là những hoa hậu mới vừa đăng quan. Là phải lập tức khóa trang cá nhân. Mình thấy cái đó rất là độc hại. Nhưng mà điều đó diễn ra hằng ngày ở đây.
+data52_668,data52,3345.78,3348.38,Và có những người họ xem đó là trò tiêu khiển.,Và có những người họ xem đó là trò tiêu khiển.
+data52_669,data52,3349.78,3358.22,"Vậy thì mọi người có cảm thấy sợ không khi mà chúng ta đang đi đến một cái giai đoạn là content, không cần tạo.",Vậy thì mọi người có cảm thấy sợ không? Khi mà chúng ta đang đi đến một cái giai đoạn là. Content không cần tạo.
+data52_670,data52,3358.22,3360.26,Mà Content sẽ tự tới với mình.,Mà content sẽ tự tới với mình.
+data52_671,data52,3363.42,3369.96,Chị nghĩ đó là cái điều mà. Một trong những cái điều mà chị lo ngại. Khi mà chị đi về Việt Nam.,Chị nghĩ đó là cái điều mà. Một trong những cái điều mà chị lo ngại. Khi mà chị đi về Việt Nam.
+data52_672,data52,3371.72,3381.44,"Tại vì giống như chị nói như hồi nãy là bên Mỹ nó không có nhiều cái social, cái sinh hoạt văn nghệ tại hải ngoại nó khá là bình lặng. Cho nên tụi chị không có va chạm nhiều.",Tại vì giống như chị nói như hồi nãy. Là bên Mỹ nó không có nhiều cái social. Cái sinh hoạt văn nghệ tại hãng ngoại nó khá là bình lặng. Cho nên tụi chị không có va chạm nhiều.
+data52_673,data52,3381.6,3389.86,Rất là ít va chạm luôn á. Giống như một cái family với nhau thôi á. Tại vì ca sĩ cũng không có quá đông á. Cho nên tụi chị không hề va.,Rất là ít va chạm luôn. Giống như một cái family với nhau thôi. Tại vì ca sĩ cũng không có quá đông. Cho nên tụi chị không hề va chạm.
+data52_674,data52,3389.96,3399.5,Về đây thì nó có quá nhiều cái social đi. Thì mình sẽ lại. Tụi chị bị choáng ngợp á. Không biết mình đi cái nào mới là đúng. Và cái nào mới là không đúng.,Mà về đây thì nó có quá nhiều cái social đi. Thì mình sẽ lại. Tụi chị bị chóng ngợp. Không biết mình đi cái nào mới là đúng. Và cái nào mới là không đúng.
+data52_675,data52,3399.7,3408.14,Thì chị mình sợ. Thì cái đó là một trong những điều. Mà chị cũng rất là lo ngại. Khi mà chị về Việt Nam sinh hoạt. Đôi lúc nhiều khi mình muốn.,Thì mình sợ. Thì cái đó là một trong những điều mà chị cũng rất là lo ngại. Khi mà chị về Việt Nam xin hoài. Đôi lúc nhiều khi mình muốn sống.
+data52_676,data52,3408.24,3417.36,"Thoải mái, rất là thật với khán giả. Nhưng mà đôi lúc. Vì những cái điều này khiến mình bị khép kính lại. Mình không dám mở lòng hết tất cả mọi thứ.","Rất là thoải mái, rất là thật. Với khán giả nhưng mà đôi lúc. Vì những cái điều này khiến mình bị khép kính lại. Mình không dám mở lòng. Hết tất cả mọi thứ."
+data52_677,data52,3417.72,3426.44,Mình chỉ cần mình nói sai một câu hay là mình làm sai một điều. Mình có thể là sai một bước mà đi sang hàng dặm. Thì cái đó là một cái rất là.,Mình chỉ cần mình nói sai một câu. Hay là mình làm sai một điều. Mình có thể là sai một bước mà đi sang hàng dặm. Thì cái đó là cũng một cái là rất là.
+data52_678,data52,3426.84,3434.98,Chị nghĩ không phải riêng chị đâu. Mà nghệ sĩ ai cũng vậy. Ai cũng rất là sợ điều đó. Và chị cũng mong rằng là. Mọi người hãy nhìn vào những cái gì.,Chị nghĩ không phải riêng chị đâu. Mà nghệ sĩ ai cũng vậy. Ai cũng rất là sợ điều đó. Và chị cũng mong rằng là. Mọi người hãy nhìn vào những cái gì mà.
+data52_679,data52,3435.56,3445.03,Người xí hò cống hiến trong nệ thuật ấy. Giống như có một cái điều chị thấy nó rất là hay. Hầu như tuần nào chị cũng bay á. Chị thấy là một cái điều mà chị thích vô cùng.,Nghệ sĩ họ cống hiến trong nghệ thuật. Giống như có một cái điều chị thấy. Nó rất là hay. Hầu như tuần nào chị cũng bay. Chị thấy một cái điều mà chị thích vô cùng.
+data52_680,data52,3445.59,3454.87,Chị hay quan sát xung quanh ví dụ như đứa bé nó làm một cái điều gì đó vỡ ở dưới vỡ một cái món đồ gì đó thì họ không nói. Thì sao không vậy?,"Tại chị hay quan sát xung quanh. Ví dụ như đứa bé nó làm một cái điều gì đó. Vỡ ở dưới. Vỡ một cái món đồ gì đó. Thì họ không có. Thế sao con vậy, con vậy."
+data52_681,data52,3454.97,3464.61,"Mà họ lại họ nói it's ok, it's ok con pick up cái này lên đi chẳng hạn thì em bé vừa pick up lên là good job, giỏi quá, giỏi quá.","Mà họ lại nói. It's ok, it's ok. Con pick up này lên đi. Chẳng hạn. Thì bé vừa pick up lên là. Good job. Giỏi quá, giỏi quá."
+data52_682,data52,3464.81,3472.93,Tức là họ luôn luôn xây dựng. Thì hãy luôn luôn xây dựng cho nhau. Để cho người nghệ sĩ. Nhất là người nghệ sĩ họ có thể thoải mái cái đầu óc.,Tức là họ luôn luôn xây dựng. Thì hãy luôn luôn xây dựng cho nhau. Để cho người nghệ sĩ. Nhất là người nghệ sĩ họ có thể thoải mái cái đầu óc.
+data52_683,data52,3473.03,3481.28,Thì họ có thể phát triển nhiều cái. Tốt đẹp hay no hơn. Để mà cống hiến cho đời. Hay là cống hiến cho nghệ thuật. Thì chỉ mong rằng là.,Thì họ có thể phát triển nhiều cái. Tốt đẹp hay ho hơn. Để mà cống hiến cho đời. Hay là cống hiến trong nghệ thuật. Chị chỉ mong rằng là.
+data52_684,data52,3481.74,3483.76,Khán giả họ nhìn vào cái điều đó nhiều hơn.,Khán giả họ nhìn vào cái điều đó nhiều hơn.
+data52_685,data52,3485.5,3490.32,Dũng đã từng bao giờ cảm thấy tổn thương vì lỡ đọc một cái comment của ai đó chỉ trích mình không?,Dũng đã từng bao giờ cảm thấy tổn thương. Vì lỡ đọc cái comment nào của ai đó. Chỉ trích mình không?
+data52_686,data52,3492.3,3492.9,Là.,A lot.
+data52_687,data52,3493.28,3498.48,"Bản tính của Dũng. Nó rất là nhạy cảm. Hơi tí là khóc, hơi tí là buồn.","Bản tính của Dũng. Rất là nghệ cảm, hơi tí là khóc. Hơi tí là buồn."
+data52_688,data52,3498.48,3506.68,"Chính vì vậy cho nên là những thời gian mà dập trưởng về Việt Nam, người tham gia chương trình này.","Chính vì vậy cho nên là những thời gian mà chập trưởng về Việt Nam, tham gia chương trình này nọ."
+data52_689,data52,3506.68,3510.84,Là đầu tiên va chạm với social xong ta chạm với những cái comment.,"Xong lần đầu tiên va chạm với social, xong va chạm với những cái comment á."
+data52_690,data52,3513.06,3522.94,"Cái khoảng thời gian phần thật sự là 20 2017 đến 2018 18, 19 2 năm đó là Dũng nghĩ là Dũng bị trầm cảm.","Cái khoảng thời gian phần thật sự là 2017 đến 2018, 2018-2019 đó. Hai năm đó là Dũng nghĩ là Dũng bị trầm cảm á."
+data52_691,data52,3527.73,3534.71,Dũng không có social. Bản thân nếu có thể hỏi. Cấp tiên là dũng cũng không nói chuyện nhiều với tiên. Và cũng ít liên lạc với tiên luôn là tại vì.,Là Dũng không có social. Bản thân nó có thể hỏi tóc tiên là dù cũng không nói chuyện nhiều với tiên. Và cũng ít liên lạc với tiên luôn là tại vì.
+data52_692,data52,3534.71,3543.93,"Sự nghiệp của mình, mọi thứ trong trong mình nó không có được như mình muốn. Xong đó rồi mình cứ mỗi lần mình làm một cái gì đó. Mọi người bảo chí ơi sao em không vui vẻ đi, em không sống thật.",Sự nghiệp của mình rồi mọi thứ trong mình nó không có được như mình muốn. Xong đó rồi mình cứ mỗi lần mình làm một cái gì đó. Mọi người bảo chứ ơi sao em không vui vẻ đi. Em không sống thật.
+data52_693,data52,3543.93,3553.13,"Mình không tự nhiên được tại vì những cái gì mình làm ra mình cũng sợ, mình sẽ đón nhận những cái comment tiêu cực họ nhắm vào.",Nhưng mình không tự nhiên được. Tại vì những cái gì mình làm ra mình cũng sợ. Mình sẽ đón nhận những cái comment tiêu cực. Họ nhắm vào mình.
+data52_694,data52,3553.13,3562.01,Mình sống quen trong một môi trường luôn luôn muốn tạo ra một cái gì đó lúc mang tràng trề yêu thương và chia sẻ và lúc đó thì tự cô lập.,Mình sống quen trong một môi trường. Mình luôn luôn muốn tạo ra một cái gì đó. Lúc mang tràn trề yêu thương. Và chia sẻ. Và lúc đó thì tự cô lập mình.
+data52_695,data52,3562.01,3571.03,Rải giá xã giao vì lỡ đi như chị Tiết nói đi lỡ đi ra là gì không hay cái đâm ra lại nghĩ chỉ.,Ngại chạm xã giao. Như chị Tiết nói. Đi lỡ đi ra. Rồi làm gì không hay. Rồi đâm ra lại bị chỉ trích.
+data52_696,data52,3571.23,3577.01,"Hay là bị nói cái gì, cái làm mình bị tụt hút trong âm nhạc, đôi khi cũng muốn từ bỏ.",Hay là bị nói cái gì. Cái làm mình bị tụt hút mút trong âm nhạc. Đôi khi cũng muốn từ bỏ chứ.
+data52_697,data52,3580.91,3589.49,Chọn mình làm cái này làm cái gì có đáng không ta. Tự nhiên khi mình cũng chỉ muốn. ABCD. Hát hay hơn. Phát triển hơn mỗi ngày.,Trời ơi mình làm cái này làm cái gì có đáng không ta. Xong rồi tự nhiên mình cũng chỉ. Muốn ABCD. Hát hay hơn. Phát triển hơn mỗi ngày.
+data52_698,data52,3589.49,3597.97,"Để mình làm gì để mình tốt hơn và mình sẽ cống hiến thêm nhiều hơn. Đọc những comment tư cực nó làm mình muốn đi thụt lùi, thụt lùi.","Để mình làm gì để mình tốt hơn và mình sẽ cống hiến hơn nhiều hơn những người khác. Đọc những comment tương cực nó làm mình thụt lùi, thụt lùi, thụt lùi."
+data52_699,data52,3598.07,3607.29,Nhưng mà cũng may mắn. Cũng may mắn là sẽ có những đồng nghiệp chia sẻ được. Cứ những người bạn đồng hành cho cuộc sống. Biết mình như vậy. Một trong những người đó là tóc tiên.,"Nhưng mà cũng may mắn, cũng may mắn là sẽ có những đồng nghiệp chia sẻ được. Có những người bạn đồng hành trong cuộc sống. Biết mình như vậy, một trong những người đó là Tóc Tiên."
+data52_700,data52,3608.37,3611.99,"Lúc nào? Thôi anh hãy tập như em đi, đừng đọc gì hết.","Lúc nào nói thôi anh hãy tập như em đi, đừng đọc gì hết."
+data52_701,data52,3613.11,3618.25,Mình là việc mình. Tất nhiên mình sẽ vẫn phải đọc hoặc là mình sẽ nhờ bộ quyền.,Nghĩa là mình làm việc mình tất nhiên mình sẽ vẫn phải đọc hoặc là mình sẽ nhờ một người nào đó.
+data52_702,data52,3618.25,3638.47,Chắc đọc lại. Để kiểu giống như là. À có những ý kiến này nè. Mình để cố gắng hơn nè. Và họ sẽ thấy đúng tại vì họ hiểu mình. Họ hiểu mình thì họ sẽ là. Đây là những comment đúng này. Đọc đi. Rồi mình thấy mình phù hợp không để mình thay đổi không. Còn những đây là những câu mình tích cực nè. Mình đọc đi để mình thấy. Một cái động lực để mình tiếp tục.,"Chắc lọc lại, để kiểu giống như là có những ý kiến này nè, mình để cố gắng hơn nè, và họ sẽ thấy đúng tại vì họ hiểu mình, họ hiểu mình thì họ sẽ là những comment đúng nè, đọc đi, rồi mình thấy mình phù hợp không thì mình thay đổi không, còn đây là những câu mình tích cực nè, mình đọc đi để mình thấy mình có một cái động lực để mình tiếp tục."
+data52_703,data52,3639.56,3648.06,"Dustin cũng không ngoại lệ. Em cũng đã gặp rất là nhiều những cái căng thẳng. Em đọc comment, người khác chỉ trích những nghệ sĩ khác thôi. Em cũng bị down mood.",Dustin cũng không ngoại lệ. Em cũng đã gặp rất là nhiều. Những cái căng thẳng. Em đọc comment người khác chỉ trích những nghệ sĩ khác thôi. Em cũng bị đau mút luôn.
+data52_704,data52,3649.4,3656.53,"Và đó là lý do mà em làm bật nến để được gặp gỡ những người nghệ sĩ như chị Tuyết, như Dũng và nói được những điều.","Và đó là lý do mà em làm bật nến. Để được gặp gỡ những người nghệ sĩ. Như chị Tuyết, như Dũng. Và nói được những điều này."
+data52_705,data52,3656.53,3664.75,Thì Dustin cũng mong là thông qua cái bật nến. Mình được chữa lành. Cho em hỏi cách nào để mà mọi người chọn. Một cái sự an yên.,Thì Dustin cũng mong là thông qua cái bật nến. Mình được chữa lành. Cho em hỏi cách nào để mà mọi người. Chọn một cái sự an yên.
+data52_706,data52,3665.05,3671.23,Khi mà rời cái ánh hào quang của showbiz làm sao để mình cân bằng cuộc sống khi mình trở về đời thường.,Khi mà rời cái ánh hào quang. Của showbiz. Làm sao để mình cân bằng cuộc sống khi mình trở về đời thường.
+data52_707,data52,3671.53,3679.61,"Cũng 30 năm trong nghề rồi. Hơn rồi, hơn 30 năm trong nghề. Ngày xưa thì buồn thiệt. Nhiều khi chị cũng xây qua chị hỏi ông xã. Bộ em tệ vậy sao.","Cũng 30 năm trong nghề rồi. Hơn rồi, hơn 30 năm trong nghề. Ngày xưa thì buồn thiệt. Nhiều khi chị cũng xây qua chị hỏi ông xã. Ủa bộ em tệ vậy sao."
+data52_708,data52,3684.73,3693.97,Tức là chị luôn luôn muốn biết được là mình có tệ như vậy thì để mình thay đổi. Cho tới ngày hôm nay mình phải nói là nó trở thành một sự trai liền.,Thế là chị luôn luôn muốn biết được là. Mình có tệ như vậy thì để mình thay đổi. Cho tới ngày hôm nay. Mình phải nói là nó trở thành một cái sự chay liền.
+data52_709,data52,3694.39,3699.99,"Tức là bây giờ mình sẽ đọc comment, mình cảm nhận được là những người comment giúp cho mình.",Tức là bây giờ mình sẽ đọc comment. Mình cảm nhận được là. Những người comment giúp cho mình.
+data52_710,data52,3701.33,3710.09,Tốt hơn thì mình lắng nghe những người đó còn những người mà họ thật sự họ không phải là comment cho mình tốt hơn mà họ chỉ là không thích.,Tốt hơn. Thì mình lắng nghe những người đó. Còn những người mà họ thật sự. Họ không phải là comment cho mình tốt hơn. Mà họ chỉ là không thích mình thôi.
+data52_711,data52,3710.29,3715.57,Họ comment những cái câu nói rất là nặng nè. Ví dụ như là.,Họ comment những cái câu nói rất là nặng nề. Ví dụ. Nhà ví dụ như là.
+data52_712,data52,3716.29,3725.99,Nhỏ này xấu quắc hoặc là lùng tịt hoặc là mập tù lù hoặc đập nát cái mặt khác nghe phát mệt hoặc là nói chung là nhiều.,Nhỏ này xấu quắc. Hoặc là lùng tịt. Hoặc là mập tù lù. Hoặc là đập nát cái mặt. Hát nghe phát mệt. Nói chung là nhiều lắm.
+data52_713,data52,3726.19,3733.81,Rất là nhiều. Thì mình không thể nào làm đẹp lòng tất cả mọi người được. Mình cảm nhận là. Đó không phải là một cái comment xây dựng.,Rất là nhiều. Thì mình không thể nào làm đẹp lòng tất cả mọi người được. Mình cảm nhận là đó không phải là một cái comment xây dựng.
+data52_714,data52,3734.45,3743.01,"Thì kiểu mà mình chỉ mỉm cười thôi, mình lướt qua thôi. Chứ bây giờ mình làm gì được. Một cách duy nhất cho những người đó thấy được rằng là mình.",Thì kiểu mà mình chỉ mỉm cười thôi. Mình lướt qua thôi. Chứ bây giờ mình làm gì được. Một cách duy nhất cho những người đó thấy được rằng là.
+data52_715,data52,3743.59,3751.53,Mình better hơn những gì họ nói. Để một ngày nào đó. Họ thay đổi cái tư tưởng đó trong đầu họ. Hoặc là hãy gặp mình một lần đi.,Mình better hơn những gì họ nói. Để một ngày nào đó. Họ thay đổi cái tư tưởng đó trong đầu họ. Hoặc là hãy gặp mình một lần đi.
+data52_716,data52,3752.37,3762.09,Rồi lúc đó bạn hãy muốn nói gì thì nói. Thì mình chỉ nghĩ trong đầu mình là như thế thôi. Chứ còn bây giờ mình làm được gì. Mình không làm được gì cả. Nhưng mà chỉ tiếc là một điều.,Rồi lúc đó bạn hãy muốn nói gì thì nói. Thì mình chỉ nghĩ trong đầu mình là như thế thôi. Chứ còn bây giờ mình làm được gì. Mình không làm được gì cả. Nhưng mà chỉ tiếc ra một điều.
+data52_717,data52,3762.19,3770.89,Mọi người nói là. Ca sĩ tại sao không lắng nghe khán giả. Muốn chứ. Nhưng mà có những cái comment như thế. Đôi lúc đọc đau lòng lắm.,Mọi người nói là. Ca sĩ tại sao không lắng nghe khán giả. Muốn chứ. Nhưng mà có những cái comment như thế. Đôi lúc đọc đau lòng lắm.
+data52_718,data52,3772.37,3781.19,Rồi nhiều khi muốn trả lời lại nữa chứ. Nhưng mà nghĩ trời ơi mình trả lời lại thì. Không biết nó sẽ đi về đâu. Nó cũng khủng khiếp hơn nữa. Thôi lại phải im lặng.,Rồi nhiều khi muốn trả lời lại nữa chứ. Nhưng mà nghĩ trời ơi mình trả lời lại. Thì không biết nó sẽ đi về đâu. Nó cũng khủng khiếp hơn nữa. Rồi thôi lại phải im lặng.
+data52_719,data52,3781.09,3786.93,"Đứng trước một cộng đồng như thế, một cái public như thế. Từ lời ăn tiếng nói của mình nó vô cùng cẩn trọng.",Đứng trước một cộng đồng như thế. Một cái public như thế. Từ lời ăn tiếng nói của mình nó vô cùng cẩn trọng.
+data52_720,data52,3792.37,3800.47,Giống như nhiều người nói. Mắc gì cô phải mang giày cao gót. Chứ gì mà cô than. Ví dụ vậy không phải. Nếu khán giả thích tôi lùn thì tôi không mang giày cao gót đâu.,Giống như nhiều người nói. Mắc gì cô phải mang giày cao gót. Mà cô than. Ví dụ vậy. Nếu khán giả thích tôi lùng. Thì tôi không mang giày cao gót đâu.
+data52_721,data52,3801.25,3810.81,Nếu khán giả thích tôi tròn. Tôi sẽ không bao giờ tôi muốn đai ạc. Bởi vì tôi rất là muốn ăn. Tôi thích ăn ngon lắm. Có thời điểm ấy. Chị nói với ông xã.,Nếu khán giả thích tôi tròn. Tôi sẽ không bao giờ tôi muốn đai ạt. Bởi vì tôi rất là muốn ăn. Tôi thích ăn ngon lắm. Có thời điểm. Chị nói với ông xã chị.
+data52_722,data52,3810.81,3820.27,Anh ơi nếu mà anh thấy em ăn tới chén thứ 2 là anh đánh em liền nha. Tại vì mình mê ăn mà. Rồi cho tới một ngày á. Anh mới nói là. Thôi đừng ăn.,Anh ơi. Nếu mà anh thấy em ăn tới chén thứ 2. Là anh đánh em liền nha. Tại vì mình mới ăn mà. Rồi cho tới một ngày. Anh mới nói là. Thôi đừng ăn nữa.
+data52_723,data52,3820.27,3827.27,Ăn chén thứ 2 rồi đó. Ví dụ vậy. Mà lúc đó mình đang thèm ăn. Tại mình nhìn lâu quá rồi. Sao em ăn mà anh cũng cho vậy.,Ăn chén thứ 2 rồi đó. Ví dụ vậy. Mà lúc đó mình đang thèm ăn quá. Tại mình nhìn lâu quá rồi. Sao em ăn mà anh cũng không cho vậy.
+data52_724,data52,3829.52,3837.4,Tức là họ không hiểu có những cái giây phút mà mình mình phải cố gắng đấu tranh để vì khán giả của mình và cũng có những người ca sĩ.,Thế là họ không hiểu có những cái giây phút. Mà mình phải cố gắng đấu tranh. Để vì khán giả của mình. Và cũng có những người ca sĩ.
+data52_725,data52,3837.4,3847.26,Họ phải nhịn đói tới mức mà họ xỉu. Bởi vì thật sự nha. Tập nó cũng nó chỉ thôn chắc người. Và nó xuống rất chậm. Nó phải kết hợp ăn uống nữa.,Họ phải nhịn đói tới mức mà họ xỉu. Bởi vì thật sự nha. Tập nó cũng chỉ thôn chắc người. Và nó xuống rất chậm. Nó phải kết hợp ăn uống nữa.
+data52_726,data52,3847.26,3855.62,Thì mình mới có thể xuống cân được một cách rất là lẹ. Và nhiều ca sĩ họ bắt buộc phải. Có thể là một ngày chỉ uống. Một ly nước juice.,Thì mình mới có thể xuống cân được một cách rất là lẹ. Và nhiều ca sĩ họ bắt buộc phải. Có thể là một ngày chỉ uống. Một ly nước juice thôi.
+data52_727,data52,3855.72,3857.14,Như vậy nó không qua học tí nào.,Như vậy nó không hoa học tí nào.
+data52_728,data52,3858.02,3866.26,Bởi vì họ muốn xuống liền để cho đẹp lòng khán giả của họ có nhiều khi họ đọc comment riết ấy họ bị.,Bởi vì họ muốn xuống liền. Để cho đẹp lòng khán giả của họ. Có nhiều khi họ đọc comment. Họ bị.
+data52_729,data52,3867.76,3877.04,Bị ám ảnh trong đầu. Chắc nói là em hiểu rồi. Ốm khủng khiếp nhưng mà họ bị một cái bệnh. Là sợ khán giả chê. Không dám ăn gì hết. Ăn xong mất ra.,Bị ám ảnh. Trong đầu chắc nói là em hiểu rồi. Ốm khủng khiếp nhưng mà họ bị. Một cái bệnh là sợ khán giả chê. Không dám ăn gì ăn xong móc ra ói.
+data52_730,data52,3877.77,3880.87,Và họ riết rồi họ trở thành một cái bệnh của họ luôn.,Và họ. Riết trở thành một cái bệnh của họ.
+data52_731,data52,3910.67,3920.79,Cỡ ở chân dài nè. Thì khi họ nói như vậy. Thì họ đang so sánh chút cho mình là. Nếu như bạn làm mặc cái này. Thì mình lại thích. Thì mình rất là thoải mái. Và mình đã là.,Không được chân dài nè thì những khi họ nói như vậy nghĩa là họ đang so sánh chút cho mình là ồ nếu như bạn làm mặt cái này thì mình lại thích thì mình rất là thoải mái và mình đã là.
+data52_732,data52,3920.89,3928.6,Cái đó là mình nên ghi nhận khán giả ơ hôm nay tại sao hát khúc này nó không được. À bê cê đê thì tự mình.,Ồ cái đó là mình nên ghi nhận khán giả nói ồ hôm nay tại sao hát khúc này nó không được ABCD thì tự mình hiểu.
+data52_733,data52,3928.8,3936.34,Tại vì lúc này đang hát cái tùm sặc hay là đang hát cái mình quên an hay là hát cái lấy hơi vội. Lấy hơi.,Tự mình hiểu là ồ đúng rồi thật sự là không nói đúng tại vì lúc này đang hát thì mình sặc hay là đang hát thì mình quên ăn hay là đang hát thì mình lấy hơi vội.
+data52_734,data52,3936.34,3938.82,Đó là những cái comment góp ý. Là mình phải lắng nghe.,Đó là những cái comment góp ý là mình phải lắng nghe.
+data52_735,data52,3939.32,3943.28,Và phải có giải pháp cho mình nếu như họ không thích A có thể có cái giải pháp B.,Và phải có giải pháp cho mình nếu như mà họ không thích A. Có thể có cái giải pháp B.
+data52_736,data52,3943.28,3952.02,Có nhiều người dễ thương lắm nha. Comment xong nói là. Ô đây chỉ là một cái góp ý của mình thôi. Chứ mình không có ý là kê bạn. Hay là.,Có nhiều vùng dễ thương lắm nha. Comment xong nói là. Đây chỉ là một cái góp ý của mình thôi. Chứ mình không có ý là chê bạn. Hay là cái gì.
+data52_737,data52,3952.02,3953.46,Mình nghĩ rằng là bạn sẽ.,Nhưng mà mình nghĩ rằng là bạn sẽ.
+data52_738,data52,3954.54,3962.5,"Thấy cái này nó sẽ tốt hơn. Ví dụ vậy. Những cái đó mà mình đọc mình cảm thấy rất vui. Bởi vì người ta thương mình, người ta muốn góp ý cho mình.","Hát cái này nó sẽ tốt hơn. Ví dụ như vậy. Những cái đó mà mình đọc mình cảm thấy rất vui. Bởi vì người ta thương mình, người ta muốn góp ý cho mình."
+data52_739,data52,3962.5,3971.36,Dustin cũng không đọc comment hoặc là đọc sẽ chọn là im lặng không bao giờ mình come back không bao giờ come back với khán giả cách mà Dustin có thể làm được là.,Đất Sinh cũng không đọc comment. Hoặc là đọc chọn là im lặng. Không bao giờ mình combat. Không bao giờ combat với khán giả. Cách mà Dustin có thể làm được là.
+data52_740,data52,3971.74,3981.4,"Để chúng ta được nói những điều này, gửi đến khán giả bằng những talk show. Và Dustin cũng rất cảm ơn chị Minh Túy và Mai Tiến Dụng.",Ngồi đây trò chuyện để chúng ta. Được nói những điều này. Để gửi đến khán giả bằng những talk show. Và Dustin cũng rất cảm ơn. Chị Minh Tuyết và Mai Tiến Dũng.
+data52_741,data52,3981.4,3984.62,Đã đến đây cho dù chỉ có một vài tiếng ít ỏi.,Vì đã đến đây cho dù chỉ có. Một vài tiếng ít ỏi.
+data52_742,data52,3985.28,3995.14,"Dustin cũng xin được nhân cơ hội này. Chúc cho chị Minh Tuyết, Mai Tiến Dũng. Sẽ có thêm nhiều những cái cơ hội để mà.","Dustin cũng xin được. Nhân cơ hội này. Chúc cho chị Minh Tuyết, Mai Tiến Dũng. Sẽ có thêm nhiều những cái. Cơ hội để mà."
+data52_743,data52,3995.14,4004.54,"Đến gần với khán giả Việt Nam hơn nữa. Bằng chứng là mọi người cũng đã. Tham gia talk show, tham gia các chương trình trường thực tế. Và chúc cho chị đẹp sẽ thành công.","Đến gần với khán giả Việt Nam hơn nữa. Bằng chứng là mọi người cũng đã tham gia talk show, tham gia các chương trình truyền thực tế. Và chúc cho chị đẹp, sẽ thành công."
+data52_744,data52,4004.54,4011.36,Thank you. Cảm ơn Dustin rất nhiều. Chị cũng cảm ơn Dustin đã mời chị với Mai Tiến Dụng tới đây.,"Thank you, cảm ơn Dustin rất nhiều. Chị cũng cảm ơn Dustin đã mời chị với Mai Tiến Dũng tới đây."
+data52_745,data52,4011.82,4019.14,Mà mình có cái cơ hội. Thứ nhất là tìm hiểu lẫn nhau. Trò chuyện với nhau. Và đưa chị với Mai Tiến Dũng. Đến gần với khán giả nhiều hơn.,"Để mà mình có cái cơ hội, thứ nhất là tìm hiểu lẫn nhau, trò chuyện với nhau. Và đưa chị với Mai Tiến Dũng đến gần với khán giả nhiều hơn."
+data52_746,data52,4019.14,4027.38,Cho khán giả hiểu hơn về Minh Triết và Mãi Tiến Dũng. Cũng có rất là nhiều fan tại Việt Nam mong muốn Minh Triết về Việt Nam nhiều hơn. Để mà phục vụ khán giả Việt Nam.,Cho khán giả hiểu hơn về Minh Tuyết và Mai Tiến Dũng. Cũng có rất là nhiều fan tại Việt Nam mong muốn Minh Tuyết về Việt Nam nhiều hơn. Để mà phục vụ khán giả Việt Nam.
+data52_747,data52,4027.38,4036.16,Chỉ mong rằng là các bạn hãy đón nhận Minh Tuyết. Thương yêu Minh Tuyết bằng những cái lời động viên. Để mà Minh Tuyết có thể mỗi ngày mỗi tiến bộ nhiều hơn.,Thì chỉ mong rằng là các bạn hãy đón nhận Minh Tuyết. Thương yêu Minh Tuyết bằng những cái. Lời động viên. Để mà Minh Tuyết có thể mỗi ngày mỗi tiến bộ nhiều hơn.
+data52_748,data52,4036.82,4045.96,Để mà mình có thể phục vụ khán giả nhiều hơn nữa. Bởi vì Minh Tuyết còn có nhiều thứ muốn phục vụ khán giả. Mà chỉ cần khán giả cho Minh Tuyết cái động lực.,Để mà mình. Có thể phục vụ khán giả nhiều hơn nữa. Bởi vì Minh Tuyết. Còn có nhiều thứ muốn phục vụ khán giả. Mà chỉ cần khán giả cho Minh Tuyết cái động lực.
+data52_749,data52,4045.96,4048.26,Để Minh Tiếp có thể làm được điều đó mà thôi.,Để Minh Tuyết có thể làm được điều đó. Mà thôi.
+data52_750,data52,4049.14,4049.94,Tạo content.,Tạo content.
+data52_751,data52,4052.72,4056.32,Wao thì cũng cảm ơn Dustin. Mời thêm một lần.,Wow thì cũng cảm ơn Dustin mà Dustin mời thêm một lần nữa.
+data52_752,data52,4057.8,4059.74,À là lần thứ 2 rồi hả?,"À, là lần thứ hai rồi hả?"
+data52_753,data52,4059.76,4064.9,Không là tại vì Dustin hồi nãy có nói với em là đã từng mời em rồi. Mà em lại không có nhớ.,"Không, tại vì Dustin hồi nãy có nói với em là đã từng mời em rồi mà em lại không có nhớ."
+data52_754,data52,4064.86,4072.54,Cho nên là vẫn mời lại một lần nữa để có cơ hội ngồi đây mà đã vậy là ngồi cùng với người chị của mình.,Cho nên là vẫn mời lại một lần nữa để có cơ hội ngồi đây. Và đã vậy là ngồi cùng với người chị của mình.
+data52_755,data52,4073.84,4074.46,Ân tình.,Ân tình
+data52_756,data52,4075.1,4077.5,Nói chung là không gặp nhau thì không gặp nhau là.,Nói chung là là không gặp nhau thôi mà gặp nhau là...
+data52_757,data52,4077.5,4078.86,Nợ một cái ân tình với chị.,Nợ một cái ân tình với chị đó.
+data52_758,data52,4079.1,4087.06,Là nói rất là nhiều chuyện để tâm sự. Và hôm nay lại không nghĩ là bạn mình cũng deep như thế.,Là nói rất là nhiều chuyện để tâm sự. Và hôm nay lại không nghĩ là bạn mình cũng deep như thế.
+data52_759,data52,4087.18,4091.2,Hả? Oh no no no. Because you không có coi show của Dustin.,"Oh no no no, because you không có coi show của Dustin."
+data52_760,data52,4091.36,4095.0,Sâu lắm á. Sâu lắm. Sâu lắm. Sâu lắm hả.,"Sâu lắm á, sâu lắm. Sâu lắm hả? Sâu lắm. Sâu lắm hả?"
+data52_761,data52,4100.2,4107.34,"Xong rồi đó là kiểu làm cho mình cảm giác là. Mình thêm một người để mình có thể cùng là Thiên Bình, cùng cùng Thiên Bình. Cùng chia sẻ.","Xong rồi đó là kiểu làm cho mình cảm nhận là ơ. Mình theo một người để mình có thể cùng là thiên bình, cùng cung thiên bình. Cùng chia sẻ."
+data52_762,data52,4108.12,4117.12,Cũng cảm ơn Dustin là cơ hội để có những câu chuyện vui buồn trong cuộc talk show này để khán giả hiểu.,Cũng cảm ơn Dustin là đạt cơ hội. Để có những câu chuyện vui. Buồn trong cuộc talk show này. Để khán giả hiểu hơn.
+data52_763,data52,4117.12,4126.94,"Và mình cũng thật sự cũng như chị Minh Tuyết nói là mình vẫn mong là khán giả sẽ luôn luôn đón nhận, luôn luôn tạo cơ hội, luôn luôn góp ý một cách chân thành.",Và mình cũng thật sự như chị Minh Tuyết nói. Mình vẫn mong là. Khán giả sẽ luôn luôn đón nhận. Luôn luôn tạo cơ hội. Luôn luôn góp ý một cách chân thành.
+data52_764,data52,4127.54,4137.44,Và đầy yêu thương. Thật sự là trước đây yêu thương là tại vì sao. Những cái lời góp ý trên thành. Yêu thương nó sẽ. Để cho mình cảm thấy là. Mình được yêu thương. Như một đứa.,Và đầy yêu thương. Học dụng là chuyện đầy yêu thương là tại vì sao. Những cái lời góp ý chân thành và yêu thương. Nó sẽ để cho mình cảm thấy là. Mình được yêu thương như một đứa con.
+data52_765,data52,4137.44,4146.14,"Em, một người bạn để mỗi ngày đảm lực, thuộc cái động lực đó rất là quan trọng tại vì thật sự là luôn luôn muốn đẹp trong lòng.","Một đứa em, một người bạn. Để mỗi ngày đảm lực, một cái động lực đó rất là quan trọng. Tại vì thật sự là luôn luôn muốn đẹp trong lòng khán giả."
+data52_766,data52,4146.14,4156.2,Luôn luôn muốn mỗi ngày tốt hơn trong lòng khán giả. Và là những gì đó mà khán giả yêu mến và làm có ý nghĩa. Chỉ được mong là những chương trình như thế này sẽ được mọi người ủng hộ thật là.,Luôn luôn muốn mỗi ngày tốt hơn trong lòng khán giả. Và làm được những gì đó mà khán giả yêu mến và làm có ý nghĩa. Chị được mong là những chương trình như thế này sẽ được mọi người ủng hộ thật là nhiều.
+data52_767,data52,4157.76,4158.7,Sẽ luôn luôn được khác.,Rồi sẽ luôn luôn được hát.
+data52_768,data52,4159.0,4161.26,Mình có quà sinh nhật cho cả hai người.,Mình có quà sinh nhật cho cả hai người.
+data52_769,data52,4163.24,4165.1,Tất nhiên là tới chương trình là phải có quà.,Tất nhiên là tới chương trình là phải có quà.
+data52_770,data52,4165.48,4167.94,Nguôi vậy Surprise vậy.,"Vui vậy, surprise vậy."
+data52_771,data52,4168.14,4171.2,Coi một lần là được với lại.,Chị coi Một Lần Là Đợt với lại.
+data52_772,data52,4173.24,4173.96,Ngoi.,Vui.
+data52_773,data52,4173.96,4178.26,"Cái đó hay. Chị cũng bất ngờ, Linh nói chuyện cũng điếp lắm, vinh giản lắm.","Cái đó hay. Chị cũng bất ngờ, Linh nói chuyện cũng deep lắm, vinh vãn lắm."
+data52_774,data52,4178.36,4181.62,"Và đây từ từ nha, từng món quạt hơi nhiều.","Và đây từ từ nha, từng món quạt hơi nhiều nha."
+data52_775,data52,4181.72,4182.42,Dạ.,Sao nhiều dạ?
+data52_776,data52,4182.78,4190.42,Cái này là tinh dầu phích táng cho phòng á. Với lại nước hoa đến từ AS Antique.,Cái này là tinh dầu khuếch tán cho phòng á. Với lại nước hoa đến từ Aesthetic.
+data52_777,data52,4191.04,4193.36,Thương hiệu này là Smell That Makes Sense.,Thương hiệu này là Smell That Makes Sense.
+data52_778,data52,4197.96,4199.34,Riêng tư tôi đã nhắn tin rồi.,Riêng tư tui đã nhắn tin rồi.
+data52_779,data52,4199.36,4200.44,Hả tao đâu có biết đâu.,Ủa vậy hả tui đâu có biết đâu.
+data52_780,data52,4201.96,4208.08,Và cảm ơn AS Antique đã gửi những món quà và nến. Hôm nay thì cũng là đến từ AS Antique.,Và cảm ơn AS Antiques đã gửi những món quà và nến. Hôm nay cũng là đến từ AS Antiques.
+data52_781,data52,4208.18,4211.9,Thì mọi người có thể về đốt nến hoặc là mọi người thắp tinh dầu lên.,Thì mọi người có thể về đốt nến hoặc là mọi người thắp tinh dầu lên.
+data52_782,data52,4217.12,4225.44,Còn đây là 2 món quà đến từ Nuxe. Thương hiệu này là dầu dưỡng khô có nhũ. Mình thấy rất là phù hợp cho những con thiên bình điệu đà.,Còn đây là 2 món quà đến từ Nuxt. Thương hiệu này là dầu dưỡng khô có nhũ. Mình thấy rất là phù hợp cho những con thiên bình điệu đà.
+data52_783,data52,4228.72,4231.6,"Là body oil, dry oil.",Có nhũ. Là body oil. Dry oil.
+data52_784,data52,4231.66,4241.04,"Nó là Yuin For These Years. Thì nó có một cái là nhũ vàng, một cái là nhũ hồng thì hai chị em lựa đi cái nào ai hồng ai vàng. Cái này là dùng cho tóc, da, mặt được.","Nó là Winfrey Dior thì nó có 1 cái là nhũ vàng 1 cái là nhũ hồng thì 2 chị em lựa đi cái nào ai hồng ai vàng thế này là dùng cho tóc, da, mặt được hết."

@@ -1,0 +1,60 @@
+{
+  "model_name": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "summary_json": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/code/qwen/kq/data52/summary.json",
+  "transcript": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/data/test_labeled/data52/labeled/transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 1,
+      "faithfulness_score": 3,
+      "conciseness_score": 2,
+      "total_score": 8,
+      "verdict": "review"
+    },
+    "issues": [
+      "Main summary is inaccurate. The summary mentions 'cách phân chia trách nhiệm trong gia đình' which is not the main focus of the conversation. The conversation mainly discusses the introduction of guests and the use of candles and gifts.",
+      "Speaker summaries are inaccurate. The speakers are not discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.",
+      "Faithfulness is lacking. The summary incorrectly includes insights about health, career goals, and family responsibilities which are not present in the transcript."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "D_ng",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts."
+      },
+      {
+        "speaker": "Dung",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts."
+      },
+      {
+        "speaker": "Dustin",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing health, career goals, or family responsibilities. The conversation is about the introduction of guests and the use of candles and gifts."
+      },
+      {
+        "speaker": "Dương",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts."
+      },
+      {
+        "speaker": "Tuy_t",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts."
+      },
+      {
+        "speaker": "Tác giả",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts."
+      }
+    ],
+    "final_comment": "The summary and speaker summaries are inaccurate and lack faithfulness to the transcript. The conversation mainly focuses on the introduction of guests and the use of candles and gifts. The summary should be revised to reflect this."
+  },
+  "raw_text": "```json\n{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 1,\n    \"faithfulness_score\": 3,\n    \"conciseness_score\": 2,\n    \"total_score\": 8,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Main summary is inaccurate. The summary mentions 'cách phân chia trách nhiệm trong gia đình' which is not the main focus of the conversation. The conversation mainly discusses the introduction of guests and the use of candles and gifts.\",\n    \"Speaker summaries are inaccurate. The speakers are not discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\",\n    \"Faithfulness is lacking. The summary incorrectly includes insights about health, career goals, and family responsibilities which are not present in the transcript.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"D_ng\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    },\n    {\n      \"speaker\": \"Dung\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    },\n    {\n      \"speaker\": \"Dustin\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing health, career goals, or family responsibilities. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    },\n    {\n      \"speaker\": \"Dương\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    },\n    {\n      \"speaker\": \"Tuy_t\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    },\n    {\n      \"speaker\": \"Tác giả\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of discussing family responsibilities or career goals. The conversation is about the introduction of guests and the use of candles and gifts.\"\n    }\n  ],\n  \"final_comment\": \"The summary and speaker summaries are inaccurate and lack faithfulness to the transcript. The conversation mainly focuses on the introduction of guests and the use of candles and gifts. The summary should be revised to reflect this.\"\n}\n```"
+}

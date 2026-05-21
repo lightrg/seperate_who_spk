@@ -1,0 +1,581 @@
+sample_id,data_name,start,end,predicted_text,target_text
+data2_0,data2,15.92,24.66,"Khá như, chào quý vị khán giả đang tham chương trình Chuyện Họ Chuyện Mình. Quý vị thân mến, chương trình do Đài Truyền hình TP.HCM phối hợp cùng với Madison Media Group thực hiện.",Khánh Như chào quý vị khán giả đang xem chương trình Chuyện Họ Chuyện Mình. Chương trình cho đài truyền hình TP.HCM phối hợp cùng với Madison Media Group thực hiện.
+data2_1,data2,24.66,31.32,"Được phát sóng vào lúc 20h thứ 7 hàng tuần trên kênh HTV7. Như thông lệ, chuyện họ, chuyện mình sẽ tan đến mỗi tuần.",Điều phát sóng vào lúc 20h thứ 7 hằng tuần trên kênh HTV7. Như thường lệ Chuyện Họ Chuyện Mình sẽ sang đến mỗi tuần.
+data2_2,data2,31.32,37.38,Hai nhân vật đặc biệt. Nhưng câu chuyện của họ luôn là vấn đề. Không riêng ở đây mà tất cả chúng ta ai cũng có thể gặp phải.,"Hai nhân vật đặc biệt, những câu chuyện của họ luôn là vấn đề. Không riêng ở đây mà tất cả chúng ta ai cũng có thể gặp phải."
+data2_3,data2,37.38,45.48,Cho đó như rất là mong muốn là quý vị khán giả hãy luôn dành thời gian đến với chương trình. Bởi vì qua câu chuyện của những nhân vật ở đây chia sẻ.,Do đó như rất là mong muốn quý vị khán giả hãy luôn dành thời gian đến với chương trình. Bởi vì qua câu chuyện của những nhân vật ở đây chia sẻ.
+data2_4,data2,45.48,54.2,Sẽ tìm ra được cái sự đồng điệu cũng như là những giải pháp hay là những kinh nghiệm để chúng ta có thể có thêm được nhiều cái sự thú vị trong cuộc sống và như thường lệ.,Chúng ta sẽ tìm ra được cái sự đồng điệu. Cũng như là những giải pháp. Hay là những kinh nghiệm để chúng ta có thể. Có thêm được nhiều cái sự thú vị trong cuộc sống. Và như thường lệ.
+data2_5,data2,54.2,63.68,"Người bạn đồng hành của Như sẽ là một người bạn rất nhiều kinh nghiệm. Sự quyên bác về ngôn từ, sự thông minh về tất cả những tình.",Người bạn đồng hành của Như sẽ là một người bạn. Rất nhiều kinh nghiệm. Sự khuyên bác về ngôn từ. Sự thông minh về tất cả những tình huống.
+data2_6,data2,63.68,66.58,Còn sống không ai khác đó chính là diễn viên Vy Cánh Thư.,Trong cuộc sống không ai khác. Đó chính là diễn viên Duy Khánh.
+data2_7,data2,83.54,85.98,Em chưa bao giờ xuất hiện một cách đàn hoàng luôn. Khánh em sao vậy?,Em chưa bao giờ xuất hiện một cách đàng hoàng luôn Khánh. Em sao vậy?
+data2_8,data2,85.98,88.32,Không giấu gì chị. Vào toàn thể tất cả mọi người.,"Không giấu gì chị, vào toàn thể tất cả mọi người ở đây."
+data2_9,data2,88.32,90.62,"Không, giấu luôn dùm chị, giấu luôn dùm chị không cần chỉ.","Không giấu luôn dùm chị, giấu luôn dùm chị, không cần chia sẻ."
+data2_10,data2,91.2,93.1,Thật sự tôi muốn nói với mọi người.,Thật sự tôi muốn nói với mọi người rằng.
+data2_11,data2,93.1,94.04,Vẫn muốn nói chuyện với bạn. Cảm ơn các bạn.,Tôi là vẫn muốn nói.
+data2_12,data2,94.54,97.54,Hôm nay em mới vừa tiếp nạp cho mình một loại kỹ.,Ngày hôm nay em mới vừa tiếp nạp theo cho mình một loại kỹ năng.
+data2_13,data2,98.18,100.7,Có thể nói là một loại tài năng.,Hay có thể nói là một loại tài năng.
+data2_14,data2,100.88,101.9,Một loại.,Một loại tài năng.
+data2_15,data2,101.9,102.62,Đâu?,Đúng.
+data2_16,data2,102.7,103.22,Đó là cái gì?,Đó là.
+data2_17,data2,103.3,104.12,Ngôn ngữ hình thể.,Ngôn ngữ hình thể.
+data2_18,data2,104.02,107.68,"Ngôn ngữ hình thể hay, bộ môn này có vẻ rất là thú vị luôn.","Ngôn ngữ hình thể hay, bộ môn này có vẻ rất là thú vị luôn."
+data2_19,data2,108.18,109.14,Những giai điệu âm.,Trên những giai điệu âm thanh.
+data2_20,data2,109.14,111.22,Trên những giai điệu âm thanh.,"Ừ, trên những giai điệu âm thanh."
+data2_21,data2,111.22,115.44,Nhưng đó chưa phải là tất cả. Tôi còn có thể học được những cái kỹ năng cao siêu hơn.,Nhưng đó chứ không phải là tất cả. Tôi có thể học được những kỹ năng cao siêu hơn nữa.
+data2_22,data2,119.64,126.38,Mọi người nhìn vào. Mọi người nghĩ rằng em đã mất rất nhiều năm để khổ luyện. Cho những động tác nhảy điêu luyện này. Nhưng không.,"Mọi người nhìn vào, mọi người nghĩ rằng em đã mất rất nhiều năm để khổ luyện cho những động tác nhảy điêu luyện này, nhưng không."
+data2_23,data2,127.16,131.28,Đây là những động tác mà em đã học trong quá trình bi bới. Trong quá trình bi bới.,"Đây là những động tác mà em đã học trong quá trình đi bơi, trong quá trình đi bơi."
+data2_24,data2,133.52,136.14,Hắn ơi em có thật sự biết là em đang làm gì không?,"Khánh ơi, em có thực sự biết là em đang làm gì không Khánh?"
+data2_25,data2,136.56,137.76,"Ê, chắc đẹp muốn thể hiện một chút. Cảm ơn các bạn.",Em chỉ muốn thể hiện một chút.
+data2_26,data2,138.0,139.78,Hay là em đi ra đi chị mời khách mời.,Hay là em đi ra đi chị mời khách mời khác?
+data2_27,data2,139.86,143.42,Em là người nắm giữ trong tay khách mời của ngày hôm nay.,Em là người nắm giữ trong tay khách mời của ngày hôm nay nè.
+data2_28,data2,145.18,146.36,Bởi vì em đã đi cửa sau với chương trình.,Bởi vì em phải đi cửa sau với chương trình.
+data2_29,data2,146.36,150.32,Em đi cửa sau ở chương trình là. Chương trình là phim trường mà em đi cửa sau là.,Em đi cửa sau hả? Chương trình là phim trường mà em đi cửa sau là...
+data2_30,data2,150.52,155.26,Tại vì cái cửa đầu nãy xe quẹo cho không được. Em phải đi cửa sau. Thì em kêu chương trình ra rút.,"Tại vì cái cửa đầu nãy xe quẹo vô không được, em phải đi cửa sau. Thì em kêu chương trình ra rước em."
+data2_31,data2,155.26,156.08,Ờ rồi.,Ờ rồi.
+data2_32,data2,156.7,162.48,"Em canh, trong một phút chốc mà chương trình không có kiểu để ý em á. Em nắm danh sách khách đồ. Em ăn đắp đồ. Đúng, nắm danh sách khách.",Em canh trong một phút chốc mà chương trình không có kiểu để em á. Em nắm danh sách khách mời.
+data2_33,data2,160.3,161.03,Dần tất cả đều.,Em ăn cắp đồ.
+data2_34,data2,162.48,165.55,À hay quá vậy thì em biết cách mời tiếp theo là ai.,"À hay quá, vậy thì em biết khách mời tiếp theo là ai."
+data2_35,data2,167.38,171.55,Thánh ơi đừng bắt chị đó ăn vì chị mệt quá Thánh ơi. Thánh ơi mệt quá.,"Thánh ơi đừng bắt chị đó anh, chị mệt quá Thánh ơi. Thánh ơi mệt quá."
+data2_36,data2,169.64,170.23,Cảm ơn các bạn.,Không phải.
+data2_37,data2,172.35,173.65,Em có khách mời nè.,"Vậy thì em có khách mời nè, hiểu không?"
+data2_38,data2,173.67,174.87,Mời ở đây nè.,Khách mời ở đây nè!
+data2_39,data2,175.99,176.95,Cái gì vậy chị Mèo?,Gì vậy chị Mèo?
+data2_40,data2,177.09,178.03,Chứ không phải đâu.,Chứ khách mời ở đâu?
+data2_41,data2,179.49,182.73,Hồi nãy em nhớ khách mời to lắm. Sao bây giờ chỉ có hối hận chứ?,Hồi nãy em nhớ khách mời to lắm. Sao bây giờ chỉ gói gọn chút...
+data2_42,data2,184.01,185.49,Nhưng mà bây giờ chẳng...,Nhưng mà bây giờ sao hả chị?
+data2_43,data2,185.51,187.43,Vợ em vợ em cứu khách mời ra đi.,Giờ em dỡ em cứu khách mời ra đi.
+data2_44,data2,187.51,188.33,Em phải giỡn đúng không?,Em phải vỡ thôi đúng không?
+data2_45,data2,188.31,189.43,"Rồi, một mình bây giờ.","Đúng rồi, một mình đem dỡ."
+data2_46,data2,192.74,196.3,"Đánh hơi khách, khách. Một lần nữa là chị lấy cái này chị chấn.",Khách ơi khách. Một lần nữa là chị lấy cái này chị trấn vô.
+data2_47,data2,193.88,194.62,Tạm biệt.,Hả.
+data2_48,data2,198.5,200.28,"Ừ, làm cho chuyện kịch tính hơn.","Chị, làm chương trình kịch tính hơn đi."
+data2_49,data2,200.28,200.92,Không cần.,Không cần.
+data2_50,data2,200.98,201.52,Hẹn gặp lại video này.,Không được hả?
+data2_51,data2,203.12,203.89,Dễ chị.,Cái gì vậy chị?
+data2_52,data2,204.89,208.67,"Coi nè chị, rất là hấp dẫn mà các bạn cũng thấy trên tay dư thánh.","Wow, coi nè chị. Rất là hấp dẫn và như các bạn cũng thấy trên tay Duy Khánh thì."
+data2_53,data2,207.96,208.79,Không ai thấy gì đâu.,Không ai thấy gì đâu.
+data2_54,data2,212.32,213.84,Khánh ơi. Hả?,Khánh ơi. Ngược.
+data2_55,data2,218.79,219.61,Đây là.,Đây là.
+data2_56,data2,220.53,222.01,"Sở khóa biểu, ổn định trị thương thì nó sẽ có những cái thứ khác. Hẹn gặp lại!",Thời khóa biểu của gì chị.
+data2_57,data2,223.37,225.89,Thôi khóa biểu cái này là cái gợi ý cho khách mời.,Thời khóa biểu. Cái này là cái gợi ý cho khách mời.
+data2_58,data2,226.19,227.75,Rồi chị là khách mời của cô giáo.,"Em biết rồi, vậy là khách mời là cô giáo."
+data2_59,data2,228.63,237.25,"Ê khách mời là cô giáo nha. Có thời khoái biểu nè. Thời khoái biểu nè, bữa nay buồn toán lý quá nè. Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy.","Ê, khách mời là cô giáo nha. Có thời khóa biểu nè. Thời khóa biểu nè, bữa nay bù toán lý quá nè. Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy."
+data2_60,data2,237.63,239.33,"Ê, có lẽ mình sẽ sắp xếp lịch trình.",À có lẽ mình phải sắp xếp cái lịch trình.
+data2_61,data2,239.33,241.03,Nhưng mà cái này là đưa đón con.,Nhưng mà cái này là đưa đón con.
+data2_62,data2,241.03,242.39,Có một nam và một nữ.,Trong đây có một nam và một nữ.
+data2_63,data2,242.39,242.91,Đúng rồi.,Đúng rồi.
+data2_64,data2,243.71,245.53,Em nghĩ hai người này là chị Em nè.,Em nghĩ hai người này là chị em nè.
+data2_65,data2,245.81,249.51,Một nam một nữ mà người ta đi chợ đưa đón con là vợ chồng ách chính ơi.,Một nam một nữ mà người ta đi chợ đưa đón con là vợ chồng anh Chín ơi.
+data2_66,data2,250.15,251.43,"Ơi, tự chơi không?",Ê chơi trò chơi không?
+data2_67,data2,252.43,254.97,Rồi bây giờ chị đóng vai mẹ nha.,Rồi bây giờ chị đóng vai mẹ nha.
+data2_68,data2,254.97,255.99,Rồi chị đóng cho em mẹ.,Rồi chị đóng vai mẹ.
+data2_69,data2,255.99,258.71,Rồi bây giờ chia ra đi chia 2 đội.,"Đóng vai ba. Bây giờ chia ra đi, chia hai đội ra đi."
+data2_70,data2,256.82,257.08,"Rồi, tại sao em?",Rồi.
+data2_71,data2,258.91,259.29,Ờ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em thấy mẹ em,Rồi.
+data2_72,data2,259.29,260.47,Rồi bây giờ mình xắt lá cà nha.,Rồi bây giờ mình xách lá cà nha.
+data2_73,data2,261.69,262.63,Bắt đầu từ thứ 2 đi.,Bắt đầu từ thứ 2 đi.
+data2_74,data2,262.63,266.51,"Thứ hai, thứ hai chị muốn đưa đón con đi học. Thứ hai là ngày đầu tuần.",Thứ 2 chị muốn đưa đón con đi học. Vì thứ 2 là ngày đầu tuần.
+data2_75,data2,266.53,268.41,Em ở nhà chắc là em dọn dẹp nha.,Em ở nhà chắc là em dọn dẹp nha.
+data2_76,data2,269.33,271.41,Chị thấy như vậy là em quát xuyến gia đình.,Em dọn dẹp chị thấy như vậy là em quán xuyến gia đình.
+data2_77,data2,271.43,272.41,Dạ dạ em rất thích dọn việc.,Dạ dạ em rất thích dọn dẹp.
+data2_78,data2,272.41,274.65,"Thứ ba, chị đi chợ nha.",Rồi thứ 3 chị đi chợ nha.
+data2_79,data2,274.55,276.79,Chị đi chợ. Em dọn dẹp.,Chị đi chợ. Em dọn dẹp đi.
+data2_80,data2,276.79,278.69,Em lại quán xuyến gia đình.,Ờ rồi em lại quán xuyến gia đình.
+data2_81,data2,279.15,281.17,Thứ tư thì chị xin phép rửa chán đi.,Thứ 4 thì chị xin phép rửa chén đi.
+data2_82,data2,281.17,282.61,Dẹp dọn dẹp nha.,Em dọn dẹp nha.
+data2_83,data2,282.61,284.35,Em lại quán xuyến cho đời. Em lại quán xuyến cho đời.,"Ờ, em lại quán xuyến gia đình."
+data2_84,data2,284.35,286.45,Đúng rồi đúng rồi. Thứ 5 đi thứ 5.,Đúng rồi đúng rồi. Thứ 5 đi thứ 5 đi.
+data2_85,data2,286.45,289.13,"Thứ 5 đi thứ 5 chị, chị nghĩ là con chị cần.",Thứ 5 đi thứ 5 chị. Chị nghĩ là con chị cần chị.
+data2_86,data2,289.89,293.57,"Trời ơi, đúng là tình tự. Chị lại đưa rắn con. Thôi em nhà dọn dẹp đi.","Trời ơi, đúng là tình mẫu tử. Chị lại đưa đón con. Thôi em nhà dọn dẹp đi."
+data2_87,data2,296.23,298.55,Thứ 6 này của chị thì chị quyết định.,Thứ 6 này của chị. Thì chị quyết định.
+data2_88,data2,300.23,301.31,Chị đi chợ đi em.,Chị đi chợ đi em ơi.
+data2_89,data2,301.31,305.41,Đi chợ. Đi chợ chắc chắn phải có người ở nhà dọn dẹp. Em dọn dẹp.,Đi chợ chắc chắn phải có người ở nhà dọn dẹp. Em dọn dẹp.
+data2_90,data2,305.41,306.57,Em lại quên xíu cho đừng.,Em lại quăng xuyến cho gia đình.
+data2_91,data2,308.13,308.87,Thứ bảy đi.,Thứ 7 đi.
+data2_92,data2,309.33,311.73,Cuối tuần chị muốn đưa đón con.,Cuối tuần chị muốn đưa đấng con đi học
+data2_93,data2,312.57,315.23,"Thật là không á, cái này là đến tâm lý của em thôi chứ. Em dọn dẹp.","Thật lòng, cái này là nếu tâm lý của em thôi chứ. Em dọn dẹp."
+data2_94,data2,317.21,319.57,Em không buông cho đình được. Nhà có gì dọn dẹp hoài vậy.,Em không buông gia đình được. Ở nhà có gì dọn dẹp quầy vậy?
+data2_95,data2,321.33,324.99,Chồng chứ không phải Cinderella đâu em. Lộn lem hả? Lộn lem hả?,"Chồng chứ đâu phải Cinderella đâu em. Lọ lem hả, lọ lem hả?"
+data2_96,data2,325.03,326.55,Cứ cuối tuần này mình làm.,Vậy hai ngày cuối tuần này mình làm gì ta?
+data2_97,data2,328.49,329.43,Chắc ăn á.,Chắc ăn á.
+data2_98,data2,330.01,333.17,Hôm hai ngày cuối tuần thì chị cũng vẫn sẽ rửa chán thôi.,"Thôi, hai ngày cuối tuần thì chị cũng vẫn sẽ rửa chén thôi chứ."
+data2_99,data2,334.53,336.77,"Ê, bị khó, em nghĩ là không hợp lý rồi.","Ê, bị khó em nghĩ là không hợp lý rồi, mèo ơi."
+data2_100,data2,336.77,342.05,Chị nghĩ là phải mời chuyên gia tới em để quán xuyến chuyện gia đình. Tại vì hai đứa mình chưa có gia đình hay mình không có kinh nghiệm.,"Chị nghĩ là phải mời chuyên gia tới đó em để quán xuyến chuyện gia đình. Tại vì hai đứa mình chưa có gia đình, thấy mình không có kinh nghiệm."
+data2_101,data2,342.05,342.75,Mình không hiểu được.,Mình không hiểu được.
+data2_102,data2,342.75,345.25,Đúng rồi. Em đi mời được không?,Đúng rồi. Em đi mời được không?
+data2_103,data2,345.99,350.47,Nhớ lại câu nói cụ. Em là người nắm trong tay khách mời của ngày hôm nay. Bây giờ chỉ muốn gọi khách mời chứ gì.,Nhớ là câu nói cũ. Em là người nắm trong tay khách mời của ngày hôm nay. Bây giờ chị muốn gặp khách mời chứ gì.
+data2_104,data2,351.86,353.32,Chị thử chị im của em làm.,Chị thử chị im coi em làm gì.
+data2_105,data2,353.32,354.62,Cái này là cái này.,Chị đang nể em ơi.
+data2_106,data2,356.26,358.38,Chân lửa đây. Nhanh lên.,Đang năng nỉ anh ơi. Nhanh lên.
+data2_107,data2,359.79,362.11,Được. Em sẽ làm. Hai cái gì chị mua.,Được em sẽ làm. Hai cái gì chị muốn.
+data2_108,data2,388.47,397.43,"Vâng, quý vị, trong mức quý vị thấy, đó là cái hành động buông bỏ tất cả buồn lo. Chúng tôi tài trợ cho khách mời đến đây, những nhân vật đặc biệt, một đôi dép lông.",Vâng thưa quý vị. Trong mắt quý vị thấy. Đó là cái hành động buông bỏ tất cả những buồn lo. Chúng tôi tài trợ cho khách mời đến đây. Những nhân vật đặc biệt. Một đôi dép lông.
+data2_109,data2,397.53,407.67,Để có thể mang về cái sự hoài phái. Và dịch vụ của chúng tôi sẽ chăm sóc tận nơi cho tất cả mọi người. Em ơi đừng có bới đầu nữa trả nhân vật lại cho chị. Đừng vỗ lòng khỏi nhân vật của chị.,"Để có thể mang lại sự thoải mái. Và dịch vụ của chúng tôi. Chúng tôi sẽ chăm sóc tận nơi cho tất cả mọi người. Em ơi đừng có bới đầu nữa, trả nhân vật lại cho chị. Đừng vỗ lòng khổ nhân vật của chị."
+data2_110,data2,407.67,412.87,Mánh ơi ở đây người ta lựa căn phòng giải tỏa muộn phiền. Chúng phải phòng massage. Chúng phải phòng massage.,Khánh ơi ở đây người ta là căn phòng giải tỏa muộn phiền. Chứ không phải phòng massage.
+data2_111,data2,415.87,417.97,"Em cho nhân vật qua đây dạ, em xin mời chị qua đây.",Em cho nhân vật qua đây dạ. Em xin mời chị qua đây ạ.
+data2_112,data2,417.97,418.97,Dạ qua đây giùm em.,Dạ qua đây giùm em ha.
+data2_113,data2,431.47,432.83,Công việc của chị Vân là gì?,Công việc của chị Vân là gì ạ?
+data2_114,data2,432.97,434.73,Thì tại mình là giảng viên khiêu vũ.,Hiện tại mình là giảm viên khiêu vũ.
+data2_115,data2,441.32,450.52,Trước khi mà trở thành giảm hiệu khuyên vũ. Thì mình có một cái quá trình rất là nhiều công việc khác nhau. Trước đây là mình tốt nghiệp đại học sư phạm. Ngài Anh Văn.,Trước khi mà trở thành giảm viên khiêu vũ thì mình có một cái quá trình rất là nhiều công việc khác nhau. Trước đây là mình tốt nghiệp đại học sư phạm ngành anh Văn.
+data2_116,data2,450.82,458.96,Thì mình đi dạy inven. Đi dạy inven khoảng 6-7 năm. Nhưng mà sau đó thì mình thay đổi công việc. Mình làm cho các công ty.,"Thì mình đi dạy anh Văn, đi dạy anh Văn khoảng 6-7 năm. Nhưng mà sau đó thì mình thay đổi công việc, mình làm cho các công ty."
+data2_117,data2,459.46,463.8,Đến năm 2008 thì ông xã tìm thấy mình.,Đến năm 2008 thì ông xã tìm thấy mình.
+data2_118,data2,464.46,465.9,Ờ chứ chị không tìm không xả.,Chứ chị không tìm ông xã ?
+data2_119,data2,466.92,468.1,Lúc mà chị theo ông xã đi tìm.,Lúc đó chị thấy ông xã đi tìm thì chị núp.
+data2_120,data2,470.34,471.28,Ông xả tiền thêm.,Ông xã tìm thấy mình.
+data2_121,data2,471.24,473.28,Xã tìm thấy chị ở dịp nào vậy?,Ông xã tìm thấy chị ở dịp nào vậy chị?
+data2_122,data2,473.74,476.58,Một cái sở thích và đam mê của chị đó là khiêu vũ.,Có một cái sở thích và đam mê của chị đó là khiêu vũ.
+data2_123,data2,476.88,482.1,"Dù là trong quá trình mà chị đi dạy, chị đi làm. Nhưng mà đam mê nhất vẫn là khiêu vũ.","Mặc dù là trong quá trình chị đi dạy, chị đi làm nhưng mà đam mê nhất vẫn là khiêu vũ."
+data2_124,data2,483.42,489.6,Chị đi vào một cái trung tâm. Chị khi vụ giống là một sở thích.,"Thì chị đi vào một cái trung tâm, chị khiêu vũ giống như là một sở thích vậy."
+data2_125,data2,490.2,497.56,"Thì đang khiêu vũ như vậy thì anh ấy xuất hiện. À, anh xuất hiện và anh ấy đến mời chị nhảy.",Thì đang khiêu vũ như vậy thì anh ấy xuất hiện. À anh xuất hiện và anh ấy đến mời chị nhảy.
+data2_126,data2,497.56,499.94,Và từ đó thì anh chị quen nhau.,Và từ đó thì anh chị quen nhau.
+data2_127,data2,500.8,502.7,Ê lãng mạn quá như trong phim á mèo.,Ê lãng mạn quá như trong phim á Mèo ha.
+data2_128,data2,502.7,506.2,Nhưng mà anh chị tìm hiểu nhau bao lâu rồi cưới?,Đúng rồi nhưng mà anh chị tìm hiểu nhau bao lâu rồi cưới à.
+data2_129,data2,506.5,508.3,Anh chị quen nhau từ năm 2008.,Anh chị quen nhau từ năm 2008.
+data2_130,data2,508.5,518.08,Rồi cùng nhau tập hiếu vũ và thi đấu. Và đến 2010 thì anh chị tự mở một cái trung tâm. Vậy hiếu vũ. Rồi anh chị lập gia đình luôn. Và năm 2010.,Rồi cùng nhau tập khiêu vũ và thi đấu. Và đến 2010 thì anh chị tự mở một cái trung tâm. Vậy khiêu vũ. Rồi anh chị lập gia đình luôn. Và năm 2010.
+data2_131,data2,518.84,522.86,Nhưng mà sau khi mà lập gia đình xong thì anh chị ngưng. Anh chị không có hiếu vũ nữa.,"Nhưng mà sau khi mà lập gia đình xong thì anh chị ngưng, anh chị không có khiêu vũ nữa."
+data2_132,data2,523.14,524.06,Oh sao vậy chị?,Ồ sao vậy chị?
+data2_133,data2,524.36,533.32,"Tại vì là lúc đó anh chỉ có em bé, anh chỉ phải tập trung cái công việc chính của mình để mà có một cái kinh tế vững chắc để mà nuôi.","Tại vì là lúc đó anh chị có em bé, anh chị phải tập trung cái công việc chính của mình. Để mà có một cái kinh tế vững chắc để mà nuôi con."
+data2_134,data2,533.52,542.54,"Nhưng mà sau khi mà con đã trưởng thành rồi. Bây giờ một bé là 13 tuổi, một bé 11 tuổi. Thì anh chị lại vẫn nhớ khiêu vũ.","Nhưng mà sau khi mà con đã trưởng thành rồi, bây giờ một bé là 13 tuổi, một bé 11 tuổi. Thì anh chị lại vẫn nhớ khiêu vũ."
+data2_135,data2,542.54,547.7,"Và năm 2020, 2020 anh chị quyết định quay trở lại Khiêu Vũ.","Và năm 2020, anh chị quyết định quay trở lại khiêu vũ."
+data2_136,data2,552.26,558.14,Nhưng mà cả hai vợ chồng cùng mở một cái trung tâm như vậy. Thì cái công việc mình phân chia như thế nào?,Nhưng mà cả hai vợ chồng cùng mở một cái trung tâm như vậy thì cái công việc mình phân chia như thế nào ạ?
+data2_137,data2,558.46,565.92,Rất là nhiều việc vừa công việc vừa gia đình vừa con cái thì anh chị quyết định là lập một kết hợp khai biểu.,"Đúng là rất là nhiều việc, vừa công việc, vừa gia đình, vừa con cái. Thì anh chị quyết định là lập một cái thờ khóa biểu."
+data2_138,data2,566.34,569.4,"246 sẽ là chị, 357 sẽ là anh.","Hai tới sáu sẽ là chị, ba năm bảy sẽ là anh."
+data2_139,data2,569.4,575.42,Là có nghĩa là nếu như mà ngày đó chị mà làm việc hết tất cả mọi thứ là quán xuyến chuyện gia đình.,Là có nghĩa là nếu như mà ngày đó chị mà làm việc hết tất cả mọi thứ là quán xuyến chuyện gia đình.
+data2_140,data2,576.02,581.34,Và cả về công việc hiện tại. Anh đi chơi.,Và cả về công việc hiện tại. Anh đi chơi.
+data2_141,data2,581.64,582.28,Speaker 07.,Đúng rồi.
+data2_142,data2,582.44,585.84,Người nào không có lịch thì người đó được chơi.,Người nào không có lịch thì người đó được chơi.
+data2_143,data2,586.04,588.32,"Dạ, trời ơi, sao sướng quá vậy chị.","Ya, sao sướng quá vậy chị."
+data2_144,data2,588.34,595.22,Nhưng mà cũng không có bó buộc. Ví dụ cái ngày đó mà chị mệt đi. Thì chị sẽ nói anh ơi hôm nay em mệt. Anh giúp em nha.,Nhưng mà cũng không có bóp buộc. Ví dụ cái ngày đó mà chị mệt đi. Thì chị sẽ nói anh ơi hôm nay em mệt. Anh giúp em nha.
+data2_145,data2,595.62,599.6,"Thì ảnh cũng vui vẻ, anh sẽ giúp. Rồi cái ngày nào anh mệt thì chị sẽ.",À thì anh cũng vui vẻ anh sẽ giúp. Rồi cái ngày nào anh mệt thì chị sẽ giúp.
+data2_146,data2,599.82,603.5,Vậy thì thời khóa biểu này nó ra đời được mấy năm rồi chị hay là.,Vậy thì anh cũng vui vẻ anh sẽ giúp. Rồi cái ngày nào anh mệt thì chị sẽ giúp. Vậy thì thời khóa biểu này nó ra đời được mấy năm rồi chị hay là mới đây?
+data2_147,data2,604.2,607.24,Ra đời từ lúc mà anh chị gặp gia đình luôn á.,Ra đời từ lúc mà anh chị lập gia đình luôn đó.
+data2_148,data2,633.8,640.32,Chị nói là chúng ta không thuộc về nhau. Kế là tự nhiên anh Khẩn. Anh Khẩn bị đứng hình.,"Ờ đúng rồi, chị nói vậy đó. Chúng ta không thuộc về nhau. Cái là tự nhiên anh khửng. Anh khửng, anh bị đứng hình á."
+data2_149,data2,640.78,645.28,Đứng hình kia là. Thôi anh không hùng hổ nữa. Anh hết hùng hổ.,Đứng hình cái là thôi anh không hùng hộ nữa. Ờ anh hết hùng hộ.
+data2_150,data2,645.28,646.76,"Dạ không hát, hát đáp trả lời.",Chứ anh không hát đáp trả này hả chị?
+data2_151,data2,646.68,648.06,"Không, anh chỉ là đứng hình thôi.","Ờ không, anh chỉ là đứng hình thôi."
+data2_152,data2,652.4,654.94,"À, thì ra là anh không hát, chị hát thôi.","À thì ra là anh không hát, chị hát thôi."
+data2_153,data2,655.15,655.72,Dạ đúng rồi.,Đúng rồi.
+data2_154,data2,655.72,657.68,Không muốn mở một cái đêm nhạc trong gia đình.,Ảnh không muốn mở một cái đêm nhạc trong gia đình.
+data2_155,data2,657.92,662.08,Anh Đức Hinh thôi. Và thế là mọi chuyện nó được dàn xếp.,Ảnh đứng hình thôi và thế là mọi chuyện nó được giàn xếp.
+data2_156,data2,662.14,669.92,"Hoặc là đôi lúc là anh chị cần có những cái không gian riêng với nhau. Thì anh sẽ nói là em ơi, chúng ta không thuộc về.",Dạ. Hoặc là đôi lúc là anh chị cần có những cái không gian riêng với nhau. Thì anh sẽ nói là em ơi chúng ta không thuộc về nhau.
+data2_157,data2,670.68,673.34,À là hai người muốn làm gì làm.,À là hai người muốn làm gì là đúng vậy đó.
+data2_158,data2,673.34,682.18,Quan trọng là mình nói là đối phương sẽ đáp ứng. Ý là em thấy nó rất là thú vị nhưng mà nó cũng rất là lạ. Tại vì đây là câu chuyện một cặp vợ chồng mà đây là lần đầu tiên em được nghe.,À quan trọng là mình nói là đối phương sẽ đáp ứng. Ý là em thấy nó rất là thú vị nhưng mà nó cũng rất là lạ. Tại vì đây là câu chuyện một cặp vợ chồng. Và đây là lần đầu tiên em được nghe.
+data2_159,data2,675.95,676.59,Cảm ơn các bạn.,Đối phương sẽ hiểu.
+data2_160,data2,682.62,687.82,Nó rất là hay và mọi người duy trì được cái điều đó trong suốt một khoảng thời gian liên tục như vậy thì em cảm thấy rất là.,Ờ nó rất là hay và mọi người duy trì được cái điều đó. Trong suốt một khoảng thời gian liên tục như vậy. Thì em cảm thấy rất là hay.
+data2_161,data2,695.72,698.46,"Chia tất tình tật, chia từ đầu đến.","Chia luôn, chia tất tần tật, chia từ đầu đến cuối."
+data2_162,data2,699.18,707.12,"Ví dụ như 246 là lịch của chị đúng không? Là tiền ăn trong nhà là chị phải chi hết. À, ảnh 357.","Ví dụ như 246 là lịch của chị đúng không? Là tiền ăn trong nhà là chị phải chia hết. Đó, ảnh 357 đúng không?"
+data2_163,data2,707.54,714.6,Ăn trong nhà là anh chia hết đi em không có dính vô nhưng mà những cái vaccine ngoài cái ăn uống.,Tiền ăn trong nhà là anh chia hết đi. Em không có dính vô. Nhưng mà những cái phát sinh ngoài cái ăn uống ra đó.
+data2_164,data2,714.9,721.06,Thì cuối ngày á. Ngồi lại chia với nhau. Chia đôi chia đôi. Giống như chơi đồ hàng.,"Thì cuối ngày á, ngồi lại chia với nhau. Chia đôi, chia đôi. Giống như chơi đồ hàng vậy đó."
+data2_165,data2,721.66,725.8,Ủa nhưng mà còn chủ nhật cứ mình chiên sao chị? Là mình làm tới trưa hả? Mình làm tới trưa xong mình đổi ca hả chị?,Ủa nhưng mà còn chủ nhật cứ mình chia sao chị? Là mình làm tới trưa hả? Mình làm tới trưa xong mình đổi ca hả chị?
+data2_166,data2,725.96,733.58,"Không không không, ví dụ như có 4 chủ nhật đúng không? Thì 2 chủ nhật đầu tháng là của chị, 2 chủ nhật cuối tháng là của anh, đó đều ra vậy.","Không, không, không. Ví dụ như có 4 chủ nhật đúng không? Thì 2 chủ nhật đầu tháng là của chị 2 chủ nhật cuối tháng là của anh. Đó, đều ra vậy đó."
+data2_167,data2,734.48,739.68,Thì tính ra cái quy định của gia đình là ngày nào cũng xài tiền hay sao. Mới có chuyện kia đúng không.,Vậy tính ra cái quy định của gia đình là ngày nào cũng xài tiền hay sao? Nó mới có chuyện kia đúng không?
+data2_168,data2,743.14,747.92,Rồi cái người nào mà vô cái ngày không xài thì cái người kia lỗ chịu thôi.,Đúng rồi cái người nào mà vô cái ngày không xài. Thì cái người kia lỗ chịu thôi.
+data2_169,data2,751.48,752.96,Nhưng mà điện nước thì là mình chia đôi hả?,Nhưng mà điện nước thì mình chia đôi hả chị?
+data2_170,data2,753.0,754.34,Rồi mọi thứ chia.,"Đúng rồi, mọi thứ chia hết."
+data2_171,data2,754.3,756.84,Vậy đó hả chị? Chứ không phải là chị sẽ giữ tiền của anh.,"Vậy đó hả chị, chứ không phải là chị sẽ giữ tiền của anh hả?"
+data2_172,data2,756.9,762.24,"Không, giữ chiên mệt lắm em em thử coi bây giờ tự nhiên ôn đóng tiền mình phải lo hết.","Không, giữ chi mệt lắm em. Em thử coi bây giờ tự nhiên ôm đóng tiền mình phải lo hết nào là."
+data2_173,data2,762.24,767.5,Chi phí này chi phí nọ chi phí kia. Không giữ. Nhớ nha nhớ nè. Không giữ. Không giữ.,"Chi phí này, chi phí nọ, chi phí kia. Không giữ, nhanh nhớ nhanh nhớ nè. Không giữ, không giữ."
+data2_174,data2,768.94,778.46,Nhưng mà mình cũng không có đưa tiền cho người ta giữ. Dạ gì đúng không? Tiền mình tiền giữ. Chứ đúng không? Tự nhiên đưa cho người ta. Đúng không? Thì thôi. Tiền anh anh giữ. Tiền em em giữ.,Nhưng mà mình cũng không đưa tiền cho người ta giữ dại gì đúng không? Tiền mình tiền giữ. Tự nhiên đưa cho người ta. Thì thôi tiền anh anh giữ. Tiền em em giữ.
+data2_175,data2,778.74,780.56,Rồi cuối ngày mình chia đôi hàng với nhau.,Rồi cuối ngày mình chơi đồ hàng với nhau.
+data2_176,data2,781.92,784.24,Em thấy chuyện khá như được khai sáng rồi đó.,Ồ em thấy chị Khánh Như được khai sáng rồi đó.
+data2_177,data2,784.44,791.88,"Là em thấy thú vị tại vì yêu nhau, cưới nhau rồi nhưng mà vẫn có cái không gian riêng thì cũng là hay. Nhưng mà cái câu chuyện mà chị mang đến với chương trình.",Là em thấy thú vị. Tại vì chơi nhau cưới nhau rồi. Nhưng mà vẫn có cái không gian riêng. Thì cũng là hay. Nhưng mà cái câu chuyện chị mang đến với chương trình.
+data2_178,data2,791.88,794.88,Câu chuyện mà hai đứa em có thể tâm tình với chị đó là câu chuyện gì ạ?,Cái câu chuyện mà hai đứa em có thể tâm tình với chị đó là câu chuyện gì ạ.
+data2_179,data2,796.64,797.92,Khó tầm lắm.,Khổ tâm lắm.
+data2_180,data2,798.14,799.42,"Tâm hả chị, chị kể em nghe.",Khổ tâm hả chị chị kể em nghe đi.
+data2_181,data2,799.34,805.62,"Lắm luôn, để chị kể cho. Ông thương chị quá. Thương vợ thương con hả ngoài cha mẹ ra hả. Vợ con là số 1.","Khổ lắm luôn để chị kể cho. Ông thương chị quá, thương vợ thương con. Ngoài cha mẹ ra, vợ con là số 1 nha."
+data2_182,data2,805.62,814.8,À những việc nặng là anh làm. Việc nhẹ là em làm. Có 1 cái thì để cho anh. Anh dạy. Anh dạy toán ok. Em dỡ toán.,Những việc nặng là anh làm. Việc nhẹ là em làm. Con cái thì để cho anh dạy. Anh dạy toán. Em dở toán lắm.
+data2_183,data2,814.8,823.82,Hồi đó em thi khối D. Em chỉ thi anh Văn nè. Văn nè. Toán mà điểm toán là em tệ tệ tệ nhất. Thôi anh dạy toán đi. Em dạy Văn và dạy anh Văn.,Hồi đó em thi khối D. Em chỉ thi anh văn. Mà điểm toán là em tệ tệ tệ nhất. Thôi anh dạy toán đi. Em dạy văn và dạy anh văn.
+data2_184,data2,824.22,833.46,Còn những cái khác anh dậy đi. Xong cái ảnh ok ok cũng hợp lý. Rồi tự nhiên một ngày em. Mình đang dậy con anh Văn rõ ràng mình đang dậy.,"Còn những cái khác anh dạy đi. Xong cái ảnh ok ok cũng hợp lý. Rồi tự nhiên một ngày em. Em kia, mình đang dạy con anh Văn, rõ ràng mình đang dạy mà."
+data2_185,data2,834.36,843.04,Anh dạy con nè. Em im lặng đi. Em im lặng. Để cho anh dạy. Em im lặng nha. Chị đâu chịu đâu. Ủa em đang dạy con mà.,"Em, anh dạy con nè. Em im lặng đi, em im lặng. Để cho anh dạy. Em im lặng nha, chị đâu chịu đâu. Ủa em đang dạy con mà."
+data2_186,data2,843.48,852.06,Em đang dạy con mà tự nhiên anh nói cái gì vậy. Em đừng có nói gì đó. Để cho anh dạy. Trời lúc đó là giống như muốn cãi nhau.,"Em đang dạy con mà tự nhiên anh nói cái gì vậy. Em đừng có nói gì đó, để cho anh dạy. Trời ơi, trời lúc đó là giống muốn cãi nhau luôn đó."
+data2_187,data2,852.06,855.58,Lúc đó là chúng ta không thuộc về nhau thiệt luôn á. Thiệt luôn á chú Bảo.,Lúc đó là chúng ta không thuộc về nhau thiệt luôn đó. Thiệt luôn đó chúng ta.
+data2_188,data2,855.58,857.3,Và cuối cùng là bé được ai dạy chị?,Nhưng mà cuối cùng là bé được ai dạy chị.
+data2_189,data2,857.8,858.62,Đây là cái khoảnh khắc.,Ý là cái khoảnh khắc đó.
+data2_190,data2,858.6,861.92,Bữa đó bé nghỉ học luôn. Tại vì chăm bị cái lệnh đó nha.,"Bữa đó bé nghỉ học luôn, tại vì cha mẹ gây lộn, bé nghỉ ."
+data2_191,data2,863.66,871.78,"Cứ đó thì ok thôi, bây giờ người ta đang là hùng hổ quá. Chị nói thôi, ok anh muốn dạy thì anh dạy đi. Đó.","Bữa đó chị là ok thôi, bây giờ người ta đang là hùng hổ quá. Chị nói thôi, ok anh muốn dạy thì em dạy đi, đó."
+data2_192,data2,872.14,873.06,Nhưng mà chị.,Nhưng mà chị.
+data2_193,data2,876.34,879.56,"Bởi mới chị mới tới chương trình này đó. Giờ sao, bây giờ giải quyết sao.","Chị mới tới chương trình này đó. Bây giờ sao, bây giờ giải quyết sao vậy?"
+data2_194,data2,878.18,878.77,Bây giờ sao?,Có nghĩa là.
+data2_195,data2,879.56,885.12,Chị là dạy anh văn. Nhưng mà đến lúc đến mô anh văn thì anh đòi dạy con.,Có nghĩa là chị là dạy anh Văn. Nhưng mà đến lúc mà đến cái môn anh Văn thì anh đòi dạy con.
+data2_196,data2,885.12,886.08,Bây giờ đòi giành luôn.,Ờ bây giờ đòi dành luôn.
+data2_197,data2,886.48,888.0,Ủa vậy tính ra anh cũng giỏi anh Văn?,Ủa chị tính ra ảnh cũng giỏi anh Văn hả?
+data2_198,data2,888.0,889.42,Không có bạn chị.,Tất nhiên là không có bằng chị rồi.
+data2_199,data2,890.02,891.34,Vậy chồng hôn thôi vậy trời.,"Ê, vậy chồng hơn thua dạ trời."
+data2_200,data2,893.27,900.41,"Hả? Bây giờ không hiểu, không hiểu tại sao luôn. Tự nhiên người ta đang giỏi thẳng văn hơn. Để người ta dạy đi.","Hả? Trời ơi, bây giờ không hiểu, không hiểu tại sao luôn á. Tự nhiên người ta đang giỏi anh Văn Hân nè, để cho người ta dạy đi."
+data2_201,data2,900.61,903.07,"Ừ, hông cũng hợp lý. Nè bên phê chị nha.","Ừ, không, cũng hợp lý. Nè, bên phe chị nha."
+data2_202,data2,903.75,910.81,"Vì thôi, em phê chị. Rồi, xong. Ok, chúc nha. Rồi, vậy là chúng ta đã giải quyết được vấn đề này rồi. Cảm ơn rất nhiều.","Vậy thôi, em phe chị. Rồi, xong. Rồi, vậy là chúng ta đã giải quyết được vấn đề này rồi. Cảm ơn rất nhiều."
+data2_203,data2,906.98,907.73,Dạ chúc nha.,"Ok, chốt nha."
+data2_204,data2,912.41,914.81,Gì vậy khách? Dẹp dạ. Dẹp đổi về hả?,Cái gì vậy Khánh? Dẹp đồ về hả?
+data2_205,data2,920.21,926.21,Em nghĩ vậy nè. Tại vì cái vấn đề này nó ngoài tầm kiểm soát.,Em nghĩ vậy nè. Tại vì cái vấn đề này nó ngoài tầm kiểm soát của em rồi.
+data2_206,data2,926.21,932.92,Tại vì chị khá nhiều chưa? Tại vì chị khá nhiều chưa? Chưa có những cái trải nghiệm về chuyện gia đình trước. Chuyện gia đình trước.,Tại vì chị Khả Như chưa có trải nghiệm về chuyện gia đình.
+data2_207,data2,932.92,934.66,"Ừ, em chắc em có.","Ừ, em chắc em có."
+data2_208,data2,935.74,936.44,Nhưng mà em thấy mẹ em có thể tự tra thêm một tập nữa. Nhưng mà.,Nhưng mà.
+data2_209,data2,936.84,945.88,Nhưng mà em nghĩ. Lâu lâu mà em đổi giáo viên dạy thì em thấy em cũng thích. Do đó nếu như mà lỡ mà anh dành anh dạy thì em nghĩ là con cũng sẽ.,Nhưng mà em nghĩ lâu lâu mà em đổi giáo viên dạy thì em thấy em cũng thích. Do đó nếu như mà lỡ mà anh dạy thì em nghĩ là con cũng sẽ thích.
+data2_210,data2,945.88,951.02,Dậy thì phải nói về tâm lý của đứa trẻ. Đúng vậy. Thì em muốn hỏi câu hỏi ngược lại là bé thích ai dậy.,Vậy thì phải nói về tâm lý của đứa trẻ. Đúng rồi. Vậy thì em muốn hỏi câu hỏi ngược lại là bé thích ai dạy hơn.
+data2_211,data2,951.02,952.6,Tất nhiên là thích chị rồi.,Tất nhiên là thích chị rồi.
+data2_212,data2,952.6,953.5,Chị nghĩ hai bé.,Là do chị nghĩ hay bé nói.
+data2_213,data2,953.92,954.66,Chị nói.,Chị nói.
+data2_214,data2,956.46,957.64,Em mời gặp bé đi.,Em mời gặp bé đi.
+data2_215,data2,958.86,965.48,Khánh ơi. Con ơi con có phải là. Trước khi mà em gặp bé. Thì xin mời quý vị khán giả chúng ta cùng nghỉ dây lau trong ít phút. Chúng tôi sẽ quay trở lại ngay ạ.,Khánh ơi. Con ơi con có phải là. Trước khi mà em gặp bé thì xin mời quý vị khán giả chúng ta cùng nghỉ dây lao trong ít phút. Chúng tôi sẽ quay trở lại ngày ạ.
+data2_216,data2,971.03,980.19,"Chào mừng quý vị đã cùng quay trở lại với chuyện họ chuyện mình. Và câu chuyện ngày hôm nay là một câu chuyện gia đình thật sự luôn. Một cái vấn đề rất là bình thường luôn. Đó là dạy con, dạy mẹ.",Chào mừng quý vị đã cùng quay trở lại với Chuyện Họ Chuyện Mình. Và câu chuyện ngày hôm nay là một câu chuyện gia đình thật sự luôn. Một cái vấn đề rất là bình thường luôn. Đó là dạy con.
+data2_217,data2,980.61,989.15,"Vợ chồng đã thống nhất về cái thời gian là ai, ngày hôm đó sẽ là ai, ngày hôm nay công việc của mình sẽ như thế nào, nó rõ ràng như thế mà vẫn có mâu thuẫn.",Vợ chồng đã thống nhất về cái thời gian là ai. Ngày hôm đó sẽ là ai. Ngày hôm nay công việc của mình sẽ như thế nào. Nó rõ ràng như thế mà vẫn có mâu thuẫn.
+data2_218,data2,989.15,998.39,Thì hôm nay chị đã mang đến cho mọi người một cái câu chuyện mà nó rất là đơn giản. Thì chuyện dạy con học. Thật sự là em không có nhiều ý kiến. Mong là quý vị khán giả khi xem chương trình.,Thì hôm nay chị đã mang đến cho mọi người một cái câu chuyện. Mà nó rất là đơn giản. Chuyện dạy con học. Thật sự là em không có nhiều ý kiến. Mong là quý vị khán giả khi xem chương trình này.
+data2_219,data2,998.59,1002.37,Sẽ có nhiều cái đóng góp ý kiến để tụi em có thêm nhiều kinh nghiệm nữa.,Sẽ có nhiều cái đóng góp ý kiến. Để tụi em có thêm nhiều kinh nghiệm nữa.
+data2_220,data2,1002.57,1005.23,Em cũng chia buồn với chị và chị Mèo.,Em cũng chia buồn với chị và chị Mèo.
+data2_221,data2,1006.48,1012.76,Là bé con của chị đi về rồi. Ủa sao vậy? Cái khoảng thời gian chạy quảng cáo nó hơi lâu. Mà bé phải đi học thêm.,Là bé con của chị đi về rồi. Ủa sao vậy? Cái khoảng thời gian chạy quảng cáo nó hơi lâu mà bé phải đi học thêm.
+data2_222,data2,1012.76,1015.2,"À, không có đứa chứ. Dạ, bây giờ thì mình sẽ bắt đầu bắt đầu bắt đầu bắt đầu bắt đầu. Dạ, bây giờ...","À không có đối chất được, không sao"
+data2_223,data2,1015.26,1022.98,"Em nghĩ nha, em với tư cách là một đứa con. Mà mẹ em cũng là cử nhân anh Văn. Và mẹ em cũng là người dành dạy.","Em nghĩ nha, em với tư cách là một đứa con mà mẹ em cũng là cử nhân anh văn. Và mẹ em cũng là người dành dạy em."
+data2_224,data2,1023.34,1030.26,Thì câu chuyện gia đình em nó cũng tương tự nhưng mà nó chỉ được một lần thôi. Không bao giờ có lần thứ hai được. Thì bỗng một ngày mẹ em bỗng.,Thì câu chuyện gia đình em nó cũng tương tự nhưng mà nó chỉ được một lần thôi. Không bao giờ có lần thứ hai được. Thì bỗng một ngày mẹ em bận.
+data2_225,data2,1031.4,1038.08,Bà em lấy cuốn sách tiếng Anh ra và khảo bài cho em. Bà mang một cái tách ngay sau khi em không trả lời được câu hỏi của bà em.,Thì ba em lấy cuốn sách tiếng anh ra và khảo bài cho em. Và mang một cái tag ngay sau khi em không trả lời được câu hỏi của ba em.
+data2_226,data2,1039.48,1045.66,Và em hỏi là ba ơi ba nói cái gì vậy con không hiểu. Thì nó là ba hỏi những cái gì trong sách thôi là sao không hiểu.,Em hỏi là ba ơi ba nói cái gì vậy con không hiểu thì nói là ba hỏi những gì trong sách thôi thì sao không hiểu.
+data2_227,data2,1045.66,1050.3,"Lúc đó là em đang ôm để mà vô lúc đó là lúc lúc mấy em không nhớ lúc 5, lúc 6.",Mà lúc đó là em đang ôm để mà vô lúc đó là lúc mấy em không nhớ lúc 5 lúc 6 gì đó.
+data2_228,data2,1068.96,1077.84,Em muốn hỏi chị là ở đây là cả hai anh chị đều biết tiếng anh và có thể dạy được cho bé nhưng mà chị bị ngứa nghề hay là do hân thua với.,Thì em muốn hỏi chị là ở đây là cả hai anh chị đều biết tiếng Anh và có thể dạy được cho bé. Nhưng mà chị bị ngứa nghề hay là do hân thua với chồng mình.
+data2_229,data2,1078.34,1086.98,Cả anh chị đều biết tiếng Anh. Nhưng mà chị nhỉnh một chút. Tại vì ngày xưa là chị giảng dạy anh Văn. Không phải là hơn thua.,"Cả anh chị đều biết tiếng Anh. Nhưng mà chị nhỉn một chút. Tại vì ngày xưa là chị dạng dạy anh Văn. Không phải là hơn thua, không phải."
+data2_230,data2,1088.06,1094.06,Vì là dạy con thì cho người ta dạy một chút chứ không lẽ là dành hết đúng không?,Tại vì là dạy con thì cho người ta dạy một chút chứ. Không lẽ là dành hết đúng không?
+data2_231,data2,1094.06,1098.4,Anh dạy hết sao được. Phải cho chị có một chút thành tích đối với con chứ.,Anh dạy hết sao được phải cho chị có một chút thành tích đối với con chứ đúng không?
+data2_232,data2,1098.56,1105.46,Bây giờ em nghĩ là chị đừng hỏi hai em. Mà chị về chị hỏi con chị. Coi bé thật sự ngoài cái chuyện mà bé đến trường học.,Bây giờ em nghĩ là chị đừng hỏi hai em mà chị về chị hỏi con chị á. Coi bé thật sự ngoài cái chuyện mà bé đến trường học giáo viên.
+data2_233,data2,1105.46,1112.1,Thì bé thật sự muốn học tiếng Anh cùng với ba của bé hay là chị? Em nghĩ cái đó là câu trả lời mà sát đáng nhất.,Thì bé thật sự muốn học tiếng Anh cùng với ba của bé hay là chị. Em nghĩ cái đó là câu trả lời mà xác đáng nhất.
+data2_234,data2,1112.62,1120.04,Tại vì bản thân em với Khánh mà hai đứa em đưa ra hai cái bình chọn khác nhau. Thì thành ra nó cũng không có mang lại ý nghĩa gì cho gia đình.,Tại vì bản thân em với Khánh mà hai đứa em đưa ra hai cái bình chọn khác nhau. Thì thành ra nó cũng không có mang lại ý nghĩa gì cho gia đình hết.
+data2_235,data2,1120.14,1129.1,Em thấy là trong cái chuyện này có cái sự may mắn cho bé đó là cả hai vợ chồng cùng giỏi để mà có thể dạy con. Nên cha hay mẹ dạy gì cũng hay.,Mà em thấy là trong cái chuyện này có cái sự may mắn cho bé đó là. Cả hai vợ chồng cùng giỏi để mà có thể dạy con. Nên cha hay mẹ dạy gì cũng hay.
+data2_236,data2,1130.06,1131.84,Nhưng mà chị vẫn muốn về anh Văn.,Nhưng mà chị vẫn muốn dạy anh Văn.
+data2_237,data2,1131.86,1132.31,"Không, bây giờ.",Không bây giờ.
+data2_238,data2,1134.34,1136.94,Thực ra ba chị em ở đây ngồi nói chuyện tự nhiên ai bắn chuông.,Thực ra tự nhiên. Ba chị em đang ngồi nói chuyện tự nhiên ai bấm chuông vậy.
+data2_239,data2,1137.36,1138.96,Em ra mở cửa coi là ai.,Em ra mở cửa coi là ai.
+data2_240,data2,1142.78,1150.5,Chị ơi! Có một người trái thu tiền điện internet. Có thứ truyền internet. Dạ. Chị nói chuyện nhìn em.,Chị ơi. Có một người tới thu tiền điện internet. Có thu tiền internet. Dạ. Chị nói chuyện giùm em.
+data2_241,data2,1150.51,1151.59,"Dạ, em hơi ăn ngon. Tại nhật.","Dạ, em mời anh ngồi."
+data2_242,data2,1151.9,1153.7,Từ lúc anh vào thì khánh sẽ đứng nha.,Từ lúc anh vào thì Khánh sẽ đứng nha.
+data2_243,data2,1154.44,1155.52,Không sao mất.,Không sao hết.
+data2_244,data2,1185.74,1188.72,Sao anh biết chị đem ở đây mà tới. Anh có cà định về cái điện thoại chị hả.,Sao anh biết chị đang ở đây mà tới? Anh có cả định vị cho điện thoại chị hả?
+data2_245,data2,1189.78,1196.22,Thường thường là hai vợ chồng đi đâu cũng có nhau hết á. Nên khi mà vợ đi đâu thì lúc nào chồng cũng sẽ đi.,Thường thường là hai vợ chồng đi đâu cũng có nhau hết á. Nên khi mà vợ đi đâu thì lúc nào chồng cũng sẽ đi theo.
+data2_246,data2,1196.22,1201.38,"Dạ, em biết tại sao mà anh ngồi đó, nãy giờ em để ý anh, anh cứ nhấp nhẩm, nhấp nhẩm về câu chuyện chị chia sẻ.","Dạ, em biết tại sao mà anh ngồi đó, nãy giờ em để ý anh, anh cứ nhấp nhẫn nhấp nhẫn về câu chuyện chị chia sẻ."
+data2_247,data2,1201.38,1209.54,Anh ơi nhân đây em hỏi anh xíu luôn về trong gia đình tại vì hai người con của anh chị cũng đã lớn.,"Anh ơi, nhân đây em hỏi anh xíu luôn vì trong gia đình á, tại vì hai người con của anh chị cũng đã lớn rồi."
+data2_248,data2,1209.88,1213.06,Nhưng mà cái vấn đề lớn nhất của hai vợ chồng với con cái đó là gì?,Nhưng mà cái vấn đề lớn nhất của hai vợ chồng mà với con cái là gì ạ?
+data2_249,data2,1213.06,1217.98,Cái lớn nhất của hai vợ chồng với con cái thường là về vấn đề dạy.,À cái lớn nhất của hai vợ chồng với con cái thường là về vấn đề dạy dỗ.
+data2_250,data2,1218.08,1219.36,Đó dạy vô.,"Đó, dạy dỗ."
+data2_251,data2,1219.36,1226.74,Thì thôi ngày hôm nay gặp nhau là cái duyên. Bây giờ mình bốn bờ môi một lời nói nha. Như là bốn hợp một lời. Bây giờ sẽ bắt đầu từ chị đi.,Thì thôi ngày hôm nay gặp nhau cũng là cái duyên. Bây giờ mình bốn bờ môi một lời nói nha. Tuy nhiên là bốn mặt một lời. Bây giờ sẽ bắt đầu từ chị đi ha.
+data2_252,data2,1226.74,1229.98,Nãy lúc mà không có ảnh thì chị nói. Chị có thể nói lại được không?,Nãy lúc mà không có ảnh thì chị nói gì thì chị có thể nói lại được không ạ?
+data2_253,data2,1230.06,1240.0,Là em không hiểu tại sao hôm nọ em đang dạy anh băng cho con mà anh cứ đòi dậy đó. Anh dành cái phần đó của em. Em kể ra vậy đó.,Là em không hiểu tại sao hôm nọ em đang dạy anh băng cho con mà anh cứ đòi dạy đó. Anh dành cái phần đó của em. Em kể ra vậy đó.
+data2_254,data2,1240.0,1241.84,Bữa nào hả chị? Anh hỏi ngày mấy tháng mấy.,Bữa nào hả chị ha? Anh hỏi ngày mấy tháng mấy kìa chị.
+data2_255,data2,1241.84,1243.86,"Không không không không, anh không có hỏi cái đó.","Không không, anh không có hỏi cái đó."
+data2_256,data2,1244.26,1250.94,Chứ tìm. Em chỉ hỏi thật sự là với anh. Anh thấy con anh thích anh dạy hay là chị dạy.,Vấn đề em chỉ hỏi thật sự là với anh. Anh thấy con anh thích anh dạy hay là chị dạy.
+data2_257,data2,1250.94,1256.92,Thường bây giờ hiện tại là cái vai trò về dạy học là thường là anh thường là đảm nhiệm chính.,"Thường bây giờ hiện tại là cái vai trò về dạy học. Thường là anh, thường là đảm dụng chính."
+data2_258,data2,1257.42,1265.7,"Hằng ngày thì anh thường là lúc nào cũng là là là bắt cái bé học bài. Khi nào những cái vấn đề nào, ví dụ như anh bận việc.","Hằng ngày thì anh thường là lúc nào cũng là bắt cái bé học bài. Khi nào những cái vấn đề nào, ví dụ như anh bận việc."
+data2_259,data2,1266.0,1268.58,Thì anh mới nhờ thêm vợ anh hỗ trợ thêm.,Thì anh mới nhờ thêm vợ anh hỗ trợ thêm thôi.
+data2_260,data2,1268.58,1272.46,"Dạ là. À ha cô, chị là Chí Vân là trợ giả.","Dạ, là. À cô vậy là chị Vân là trợ giảng."
+data2_261,data2,1272.46,1277.86,"Ủa chị là... Chị không, nhưng mà chị có xác nhận cái thông tin là ảnh là người giảng dạy chính cho bé không?",Ủa chị là. Nhưng mà chị có xác nhận cái thông tin. Là anh là người giảng dạy chính cho bé không.
+data2_262,data2,1277.86,1287.1,"Rồi ảnh giáng dạy chính tại vì là nhiều môn lắm em, cả chục môn lận mà chị chỉ có xin là dạy anh Văn, dạy Văn thôi, có 2 môn.",Đúng rồi anh giảng dạy chính. Tại vì là nhiều môn lắm em. Cả chục môn lận. Mà chị có xin là dạy anh Văn hay dạy Văn thôi. Có hai môn mà.
+data2_263,data2,1288.18,1289.92,Vì là ngoài học ở trường.,Vậy là ngoài học ở trường ra.
+data2_264,data2,1290.62,1292.78,Con bé còn phải tốt nghiệp cái trường trong nhà nữa.,Con bé cũng phải tốt nghiệp cái trường trong nhà nữa.
+data2_265,data2,1292.92,1295.58,Không! Theo phần phát biểu.,Không. Theo thời khóa biểu.
+data2_266,data2,1295.62,1296.98,Lại là thời.,Lại là thời khóa biểu.
+data2_267,data2,1297.32,1298.38,Có biểu của trường.,Thời khóa biểu của trường.
+data2_268,data2,1298.08,1300.94,Em xin tạm gọi gia đình mình là gia đình thời khóa biểu.,Em xin tạm gọi gia đình mình là gia đình thời khóa biểu nha chị.
+data2_269,data2,1300.94,1309.94,"Nhưng mà em chị ơi, bây giờ nè, anh có nói là khi nào anh bận thì chị sẽ dạy bé. Thì bây giờ tại sao mình không tạo công ăn việc làm thêm để cho anh quá bận rộn để anh không dạy bé được.","Nhưng mà em chị ơi, anh có nói là khi nào anh bận thì chị sẽ dạy bé. Thì bây giờ tại sao mình không tạo công ăn việc làm thêm để cho anh quá bận rộn để anh không dạy bé được."
+data2_270,data2,1309.94,1312.28,Lúc đó chị sẽ vào dậy bé. Được không ạ?,Lúc đó chị sẽ phải dạy bé. Đúng không ạ?
+data2_271,data2,1312.3,1315.68,"Không, không chị đâu. Tự nhiên sao chị lao vô chiếc mẹt vậy?","Không, không chị đâu. Tự nhiên sao chị lao vô chị mệt vậy?"
+data2_272,data2,1317.36,1327.26,Để chị kể cho. Tại vì vậy nè. Trong nhà là phải có một người làm thiên thần. Và một người là đối ác. Tất nhiên là chị sẽ làm thiên thần.,"Để chị kể cho, tại vì vậy nè. Trong nhà là phải có một người làm thiên thần và một người làm đống ác. Tất nhiên là chị sẽ làm thiên thần rồi."
+data2_273,data2,1354.86,1366.8,Mất nhiều thời gian lắm. Nó cứ gọi là nó mè nheo. Nó nói này nói kia. Mẹ nó chỉ cho nó là vấn đề A đi. Nó lại lá ấy qua vấn đề này. Lấn vấn đề kia. Nó tốn nhiều thời gian.,"Nó mất nhiều thời gian lắm. Nó cứ gọi là nó mèo nheo, nó nói này nói kia, mẹ nó chỉ cho nó là vấn đề A đi, nó lại lái qua vấn đề này, lấn vấn đề kia. Nó tốt nhiều thời gian lắm."
+data2_274,data2,1367.8,1370.7,Mà còn anh dậy thì anh nó vô trộn tâm hơn.,Mà còn anh dạy thì anh mới vô trọng tâm hơn.
+data2_275,data2,1370.7,1375.1,Chị có thể tham trợ giảng cũng được mà chị đồng vợ đồng chồng thì con cái sẽ học nhanh hơn.,Vậy thì chị có thể làm trợ giảng cũng được mà chị đồng vợ đồng chồng thì con cái sẽ học nhanh hơn.
+data2_276,data2,1375.06,1380.56,"Dạ đúng rồi, vậy thì chúng ta đã tìm được một cái chìa khóa để mà có thể mở ra được cái khóa.","Đúng rồi, vậy thì chúng ta đã tìm được một cái chìa khóa để mà có thể mở ra được cái khó nhằn."
+data2_277,data2,1380.66,1390.62,"Đúng rồi, cái thời khóa biểu này. Đó là anh sẽ làm giáo viên dạy chính cho con của mình. Chị sẽ là trợ giảng. Chị sẽ là thiên thần. Còn anh muốn ác, cỡ nào thì anh ác.","Đúng rồi cái từ khóa biểu này. Đó là anh sẽ làm giáo viên dạy chính. Cho con của mình. Chị sẽ là trợ giảng, chị sẽ là thiên thần. Còn anh muốn ác, cỡ nào thì anh ác."
+data2_278,data2,1390.62,1399.92,Và mong là con khi xem chương trình này. Con đừng có thấy được những cái tẩy của cha mẹ. Để về cảm thấy à thì ra là cha mẹ.,"Đúng không ạ, và mong là con khi xem chương trình này. Con đừng có thấy được những cái tẩy của cha mẹ. Để về cảm thấy. Aaaaaa. Thì ra là cha mẹ..."
+data2_279,data2,1400.62,1401.82,Con chị nói vậy hả?,Con chị nói vậy hả?
+data2_280,data2,1403.68,1404.42,Vì đó.,Thì đó.
+data2_281,data2,1404.62,1413.9,Cái vấn đề mà hôm nãy mà vợ anh có nói là. Về cái vấn đề mà dạy tiếng anh á. Thì hôm bữa là chỉ là một cái sự vô tình thôi.,Cái vấn đề mà hôm nãy mà vợ anh có nói. Là về cái vấn đề mà dạy tiếng Anh á thì hôm bữa là chỉ là một cái sự vô tình thôi.
+data2_282,data2,1413.9,1423.62,"Lúc đó nó cũng trẻ rồi, mà trước khi anh lên trên lầu để mà anh đi ngủ á. Thì đã hỏi bé là học bài xong chưa. Thì nó trả lời là nó học bài xong hết rồi.",Lúc đó nó cũng trẻ rồi mà trước khi anh lên trên lầu để mang đi ngủ á thì nó hỏi bé là học bài xong chưa thì nó trả lời là học bài xong hết rồi.
+data2_283,data2,1438.94,1447.02,Tiếng Anh. Nên anh mới kêu. Ủa sao bữa lúc nãy. Là đã nói là học bài xong rồi. Mà sao bây giờ lại nói rằng là.,Học tiếng Anh. Nên anh mới coi. Ủa sao lúc nãy là đã nói là học bài xong rồi. Mà sao bây giờ lại nói rằng là.
+data2_284,data2,1447.02,1455.76,Là chưa học bài mà mẹ còn đứng dậy đi hình tiếng Anh. Mà lại thấy hai mẹ con cứ nói qua nói lại. Mẹ nó dậy cái này. Thì nó lại nói vấn đề khác.,Là chưa học bài mà mẹ còn đứng dạy tiếng Anh. Mà lại thấy hai mẹ con cứ nói qua nói lại. Mẹ nó dạy cái này. Thì nó lại nói vấn đề khác.
+data2_285,data2,1455.96,1465.62,"Tại bị thì lại gì đó. Thì lúc đó anh mới sen vô nó. Thôi, em đi lên đi. Để anh dạy nó cho. Thì có thể lúc đó. Là anh chỉ là nói một cách bình thường thôi.",Tại bị thì là gì đó. Thì lúc đó anh mới say vô nói. Thôi thôi em đi lên đi để anh dạy nó cho. Thì có thể lúc đó. Anh chỉ là nói một cách bình thường thôi.
+data2_286,data2,1467.72,1473.32,"Vậy đó chị nhạy cảm quá. Anh biết không, chứ đâu 11 ngàn giờ rồi. Cảm giác là giống như là bị tự ái.","Vậy đó chị nhạy cảm quá, chị cảm giác là giống như là bị tự ái hay sao."
+data2_287,data2,1467.75,1470.7,"Chị nhạy cảm quá. Anh biết không, chị đó 11 miệng.","Đúng rồi anh biết không lúc đó 11, 12 giờ."
+data2_288,data2,1473.32,1480.7,"Chị nói rằng cái này là công việc của em, em đang dạy. Sao mà anh vô anh dành dạy. Nói vậy thôi chứ còn anh cũng không nhớ.","Rồi chị nói là cái này là công việc của em, em đang dạy. Làm sao mà anh vô anh dành dạy. Đó, nói vậy thôi chứ còn anh cũng không nhớ."
+data2_289,data2,1481.18,1482.84,Bây giờ em mới hiểu.,"Oh, bây giờ em mới hiểu ra."
+data2_290,data2,1483.18,1484.84,Giờ chị hiểu ra chị thông cảm chưa?,Giờ chị hiểu ra chị thông cảm chưa?
+data2_291,data2,1484.88,1485.94,Dạ.,Thông cảm rồi.
+data2_292,data2,1485.98,1490.44,"Nếu như chị chưa thông cảm thì em sẽ cho chị một ví dụ. Chị tưởng tượng đi, chị làm việc nhà.",Nếu như chị chưa thông cảm thì em sẽ cho chị một ví dụ. Chị tưởng tượng đi chị làm việc nhà.
+data2_293,data2,1490.54,1498.8,Chỉ dạy dỗ con mà người chồng thờ ơ nó còn kinh khủng hơn nữa. Nhưng người chồng này thấy 10h máy rồi sao con mình chưa đi.,Chị dạy vũ con mà người chồng thờ ơ nó còn kinh khủng hơn nữa. Nhưng người chồng này thấy 10h mấy rồi sao con mình chưa đi ngủ.
+data2_294,data2,1498.8,1507.4,"Mà vợ mình vẫn còn đang tức bật tức bật dậy. Thì chồng xót ruột quá. Vì con, vì gia đình thì em nghĩ đây là cái sự quan tâm của mọi người dành cho nhau.","Mà vợ mình vẫn còn đang tức bực, tức bực dại. Thì chồng xót ruột quá về con, về gia đình. Thì em nghĩ đây là sự quan tâm của mọi người dành cho nhau."
+data2_295,data2,1507.4,1514.9,Thì nhân đây em nghĩ là ở trong gia đình hay cả trong mối quan hệ không phải chỉ vợ chồng đâu mà anh em hay mẹ con hay tất cả.,Thì nhân đây em nghĩ là ở trong gia đình hay cả trong mối quan hệ. Không phải chỉ vợ chồng đâu mà anh em hay mẹ con hay tất cả mọi người.
+data2_296,data2,1514.9,1524.74,"Chỉ cần á, kiểu mà mình nói chuyện với nhau á, nó nhẹ nhàng hơn. Hay là mình thấu hiểu cho nhau và mình nhiều lời với nhau hơn một chút. Chứ mình đừng có im im đi.",Chỉ cần kiểu mà mình nói chuyện với nhau nó nhẹ nhàng hơn. Hay là mình thấu hiểu cho nhau và mình nhiều lời với nhau hơn một chút. Chứ mình đừng có im im đi ngủ.
+data2_297,data2,1524.74,1534.12,Khi nó mang lại những cái quốc ức tới chị bây giờ mà chị vẫn còn nhắc. Thì em nghĩ là nếu như không có ngày hôm nay. Thì anh với chị sẽ không bao giờ hiểu là tại sao cái ngày hôm đó chị giận hay là anh buồn.,Nhiều khi nó mang lại những cái quốc ức tới chị. Bây giờ mà chị vẫn còn nhắc. Thì em nghĩ là nếu như không có ngày hôm nay. Thì anh với chị sẽ không bao giờ hiểu là. Tại sao cái ngày hôm đó chị giận hay là anh buồn.
+data2_298,data2,1534.12,1535.28,Cái này cãi nhau nào chị?,Cái này cãi nhau hồi nào chị?
+data2_299,data2,1535.62,1539.84,"Mới đây à. Mới đây, hồi cuối tháng vừa rồi thôi.","Mới, mới hà. Mới đây, hồi cuối tháng vừa rồi thôi."
+data2_300,data2,1540.18,1544.52,Nhưng mà đầu tháng nay mình cũng không có ngồi lại với nhau để mình nói lại cái vấn đề này để anh được giải bài nổi lòng hả chị?,Nhưng mà đầu tháng nay mình cũng không có ngồi lại với nhau. Để mình nói lại cái vấn đề này. Để anh được giải bài nổi lòng hả chị ha?
+data2_301,data2,1544.56,1545.86,Rồi quên rồi.,"Đúng rồi, quên rồi."
+data2_302,data2,1546.46,1548.26,"À, quên, nhưng mà dẫn tới quy định tới đây là tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì tại vì t.",À quên nhưng mà dẫn quyết định tới đây.
+data2_303,data2,1549.56,1552.9,"Quên nghĩ là không có nhắc đến chuyện đó, nhưng mình vẫn ấm ướp trong lòng. Hẹn gặp lại trong video này.",Quên nghĩa là không có nhắc đến cái chuyện đó. Nhưng mình vẫn ấm ức trong lòng.
+data2_304,data2,1553.5,1554.7,Cảm ơn các bạn đã quan tâm theo dõi và hẹn gặp lại.,"Em hiểu, phải tâm lý đó."
+data2_305,data2,1554.98,1563.94,Vậy thì anh chị cho em hỏi là. Với cái sự tư vấn ngon nết của hai đứa em. Thì không biết là anh chị có cảm thấy nó thỏa đáng hơn một chút xíu.,Vậy thì anh chị cho em hỏi là. Với cái sự tư vấn ngon nớt của hai đứa em. Thì không biết là anh chị có. Cảm thấy nó thỏa đáng hơn một chút xíu không ạ?
+data2_306,data2,1564.34,1565.34,Chị muốn nói không lắm mà.,Chị muốn nói không lắm rồi đó.
+data2_307,data2,1566.68,1576.56,Chị rất là vui. Tại vì đến chương trình ngày hôm nay là anh chị đã giải để tỏa được cái thắc mắc đó. Tại vì ở nhà cũng không có muốn nhắc lại cái câu chuyện đó. Tại vì hôm đó nó không có vui.,Chị rất là vui. Tại vì đến chương trình ngày hôm nay. Anh chị đã giải tỏa được. Cái thắc mắc đó. Tại vì ở nhà cũng không có muốn nhắc lại cái câu chuyện đó. Tại vì hôm đó nó không có vui.
+data2_308,data2,1577.94,1587.04,Đêm khuya mà giống như là sắp cãi nhau đến nơi rồi. Thì chị không muốn nhắc đến cái chuyện đó nữa. Nhưng mà trong lòng mình vẫn ấm ức là tại sao mình cứ muốn giành cái việc đó của mình.,Đêm khuya mà giống như là và sắp cãi nhau đến nơi rồi thì chị không muốn nhắc đến cái chuyện đó nữa nhưng mà trong lòng mình vẫn ấm ức là tại sao cứ muốn dành cái việc đó của mình.
+data2_309,data2,1587.52,1592.44,Tuy nhiên cái chương trình ngày hôm nay là chị với anh giải bày được cái chuyện đó. Thì chị hiểu anh hơn.,Thì nhân cái chương trình ngày hôm nay là chị với anh giải bày được cái chuyện đó thì chị hiểu anh hơn.
+data2_310,data2,1593.66,1601.72,Lúc đó là anh đang lúc đó là anh lo lắng quá lo lắng quá là khuya rồi mà hai mẹ con chưa đi ngủ. Dạ đúng rồi. Hình thử là chị rất cảm ơn hai em.,Lúc đó là anh lo lắng quá. Lo lắng quá là khuya rồi mà hai mẹ con chưa đi ngủ. Dạ đúng rồi. Thì chị rất cảm ơn hai em.
+data2_311,data2,1852.84,1857.76,Mà công nhận nha. Lớn có nghĩa là có con mười mấy tuổi rồi mà vẫn nhịp.,Không mà công nhận nha. Lớn có nghĩa là có con mười mấy tuổi rồi mà vẫn nhịp nhàng.
+data2_312,data2,1857.77,1858.84,Mình nhảy nhau.,Giống em hồi nãy á.
+data2_313,data2,1859.38,1867.88,Thánh ơi em đừng có nhận ra là cô giáo nữa nha. Em nhảy kỳ lắm. Dạ. Em thấy cái sự đồng điệu. Nó làm cho mình thương nhau nhiều hơn đúng không anh chị?,Khánh ơi em đừng có giận người ta là cô giáo nữa nha. Em nhảy kì lắm. Dạ em thấy cái sự đồng điệu á. Nó làm cho mình thương nhau nhiều hơn đúng không anh chị.
+data2_314,data2,1868.08,1877.48,Và em mong là anh chị sẽ luôn luôn hạnh phúc như thế này. Luôn luôn lan tỏa cái điều tích cực này. Và gia đình con cái lúc nào cũng sẽ vui vẻ với nhau ạ. Em cảm ơn anh chị.,Và em mong là anh chị sẽ luôn luôn hạnh phúc như thế này. Luôn luôn lan tỏa cái điều tích cực này. Và gia đình con cái lúc nào cũng sẽ vui vẻ với nhau à. Em cảm ơn anh chị. Dạ.
+data2_315,data2,1877.86,1879.32,Đây là thủ tục của chương trình.,Đây là thủ tục của chương trình ạ.
+data2_316,data2,1879.32,1885.98,"Dạ, nhưng mà anh chị ơi, em nói nghe. Bây giờ tranh thủ lúc không có chị khá như á hả anh chị? Vậy em nhảy 1-2 điệu gì được không? Để lát chị khá như em khè.",Dạ nhưng mà anh chị ơi em nói nghe. Bây giờ tranh thủ lúc không có chị Khả Như. Hai anh chị dạy em nhảy 1-2 điệu gì được không. Để lát chị Khả Như em khè chị.
+data2_317,data2,1890.6,1894.64,Dạ xin phép em mượn chị để chị dạy cho em ha. Dạ. Công tác mình đơn giản thôi nha chị.,Dạ xin phép em mượn chị để chị dạy cho em ha.
+data2_318,data2,1894.7,1895.44,"Rồi, đơn giản là cái tên là tên của em. Hẹn gặp lại!",Rồi đơn giản.
+data2_319,data2,1895.4,1896.04,Cơ bản thôi nha.,Cơ bản thôi nha.
+data2_320,data2,1897.22,1906.46,"Rồi, bây giờ chân trái. Chân trái, lùi. Một. Hai. Trùm lại, rồi bước lên. Ba. Bốn.",Rồi bây giờ chân trái. Chân trái. Lùi 1 2. Chụm lại rồi bước lên 3 4 1.
+data2_321,data2,1906.76,1914.84,"Trùm chân lùi, chân trái 3, 4, 1. Trùm chân, chân phải. Chân phải tiến.","Chụm chân. Lùi. Chân trái 3, 4, 1, chụm chân, chân phải. Chân phải tiến."
+data2_322,data2,1914.84,1923.34,"3, 4, 1, trộm. Trên trái lùi. Lùi. Lùi. Lùi. Trộm.","3, 4, 1, chụm. Chân trái lùi. Lùi, lùi, lùi, chụm."
+data2_323,data2,1928.26,1929.64,Và chị đang nhảy song ca.,Tôi và chị đang nhảy song ca.
+data2_324,data2,1929.82,1933.96,Nhảy mà xong ra rồi sao em? Dạ em mời chị ngồi mời khánh một mình thể hiện ạ.,"Nhảy mà song ca là sao em? Dạ em mời chị ngồi, mời Khánh một mình thể hiện ạ."
+data2_325,data2,1934.62,1936.34,Sao? Chị dạy em đứng gì rồi.,Sao? Chị dạy em được gì rồi?
+data2_326,data2,1936.42,1938.74,Chị mới dạy em nhảy điều audition.,Chị mới dạy em nhảy điều audition đó.
+data2_327,data2,1938.74,1939.66,À thì tầm tạm.,Auditon sao ?
+data2_328,data2,1942.88,1950.52,Đi về chỗ đi khánh ơi. Chị từ đây về sau khánh có nhỏ lời. Chị từ chối cho mẹ em nha. Từ chối cho mẹ em nha. Dạ. Dạ đây là.,Đi về chỗ đi Khánh ơi. Từ đây về sau Khánh có ngỏ lời. Chị từ chối giùm em nha. Từ chối giùm em nha. Dạ đây là.
+data2_329,data2,1951.28,1958.54,Nó giống như là muộn phiền của chị vậy đó. Nếu như mà chị cảm thấy nãy giờ mình gỡ rối được tơ lòng một chút xíu rồi. Chị hãy đập vỡn nó ra.,Nó giống như là muộn phiền của chị vậy đó. Nếu như mà chị cảm thấy nãy giờ mình gỡ rối được tơ lòng một chút xíu rồi. Chị hãy đập vỡ nó ra.
+data2_330,data2,1958.66,1960.52,"Đập, đập, đập như thế nào em đập vô đầu.",Đập đập đập như thế nào em đập vô đầu.
+data2_331,data2,1961.04,1964.66,Mình có thiết bị hết chị. Bên em là có thiết bị tối tân hết nha. Em gửi chị cái tâm. Em gửi chị cái tâm.,Không chị mình có thiết bị hết chị. Bên em là có thiết bị tối tân lắm nha. Em gửi chị cái tâm.
+data2_332,data2,1966.62,1971.06,"Dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, d",Dạ chị đứng kìa đập cho nó có lực nè. Dạ rồi. Anh ơi anh trợ lực cho chị giùm em nha.
+data2_333,data2,1972.54,1980.62,Và đến với khoảnh khắc này khách chắc là tất cả chúng ta đang rất là mong chờ giây phút thiêng liêng này. Đó chính là hai vợ chồng cùng nắm chặt tay nhau.,"Vâng ạ, và đến với khoảnh khắc này khá chắc là tất cả chúng ta đang rất là mong chờ giây phút thiên liêng này. Đó chính là hai vợ chồng cùng nắm chặt tay nhau và..."
+data2_334,data2,1991.98,1993.61,Em có mơn anh chị.,Em cảm ơn anh chị rất nhiều.
+data2_335,data2,1993.61,1997.39,Dạ tụi em đến đây và tụi em cứ quẩn loạn mỗi lần khách mời đập.,Dạ tụi em đến đây và tụi em cứ quảng loạn mỗi lần khách mời đặt thôi.
+data2_336,data2,1998.19,1999.43,"Em chưa kể đến 1, 2, 3.","Em chưa kể đến 1, 2, 3 nữa."
+data2_337,data2,2000.93,2006.97,Em cảm ơn chị Vân Anh Phúc đã đến với chương trình. Cái câu chuyện của chị Vân Anh Phúc tuy là nó nhỏ trong gia đình thôi.,Em cảm ơn chị Vân Anh Phúc đã đến với chương trình. Cái câu chuyện của chị Vân Anh Phúc tuy là nó nhỏ trong gia đình thôi.
+data2_338,data2,2007.07,2015.33,Nhưng mà em nghĩ là khi mà em nghe em cũng sẽ có thêm một kinh nghiệm. Thế sau này em có gia đình em sẽ dành thời gian để nói chuyện với nhau nhiều hơn.,Nhưng mà em nghĩ là khi mà em nghe em cũng sẽ có thêm một kinh nghiệm. Thì sau này em có gia đình thì em sẽ dành thời gian để nói chuyện với nhau nhiều hơn nữa.
+data2_339,data2,2015.33,2023.71,"Để tránh cái sự hiểu lầm nhỏ thôi. Nhỏ thôi nhưng nó cũng sẽ mang cái muộn sầu trong nhà. Em không muốn, nếu như mà muốn lúc nào cũng sẽ vui.","Để tránh cái sự hiểu lầm nhỏ thôi. Nhỏ thôi nhưng nó cũng sẽ mang cái muộn sầu trong nhà. Em không muốn, nếu như mà muốn lúc nào cũng sẽ vui vẻ."
+data2_340,data2,2023.71,2025.51,Thì mọi người hãy cùng chia sẻ với nhau nhiều hơn.,Thì mọi người hãy cùng chia sẻ với nhau nhiều hơn nữa.
+data2_341,data2,2025.51,2034.61,Và thay mặt cho hai anh chị. Duy Khánh xin gửi đến một phần quà. Đến Hãi Như. Để khi lập gia đình. Mình tháo cái hình hai anh chị ra. Mình dán hình mình với lại cho mọi người xem.,"Và thay mặt cho hai anh chị, Duy Khánh xin gửi đến một phần quà đến Khả Như. Để khi lập gia đình mình tháo cái hình hai anh chị ra mình dán hình mình với lại chồng."
+data2_342,data2,2034.61,2038.31,Lê Minh Hư được không. Nha cho chị Lê Minh Hư nha.,"Vậy với Lê Minh Thu được không? Nha, cho chị Linh Minh Hô nha."
+data2_343,data2,2038.31,2039.31,Không ok được nha.,Ok được nha.
+data2_344,data2,2039.31,2043.11,"Dạ, em cảm ơn anh chị rất nhiều. Khánh ơi chào anh chị tạm biệt.","Dạ. Em cảm ơn anh chị rất nhiều. Khánh ơi chào anh chị, tạm biệt anh chị."
+data2_345,data2,2043.01,2044.21,Em chào anh chị.,"Dạ vâng, em chào anh chị."
+data2_346,data2,2062.09,2063.19,Khánh ơi.,Khánh ơi.
+data2_347,data2,2065.76,2068.08,"Ủa, Hán rồi trời. Hán ơi.",Ủa khánh đâu rồi trời. Khánh ơi.
+data2_348,data2,2070.95,2072.75,Ôi không thấy gánh ở đâu.,Ôi không thấy Khánh nữa đâu cả.
+data2_349,data2,2074.43,2076.03,Khánh ơi em làm gì vậy Khánh.,Khánh ơi em làm gì vậy Khánh.
+data2_350,data2,2078.49,2082.79,Trời ơi bị bắt rồi. Chán quá. Rồi.,Trời ơi bị bắt rồi. Ừ chán quá. Rồi.
+data2_351,data2,2082.79,2084.63,"Nhắm mươi, bình lâm ngay mươi.","5, 10, 15, 20, 21."
+data2_352,data2,2093.47,2096.59,"Hắn ơi, em thấy riết cái giam phòng mình ế không?",Khánh ơi. Em thấy riết cái văn phòng mình ế không.
+data2_353,data2,2096.59,2097.53,Gian phòng.,Văn phòng.
+data2_354,data2,2097.53,2099.21,Cái văn phòng này ế quá.,Cái văn phòng này ế quá em ơi.
+data2_355,data2,2099.11,2105.39,Cảm thấy chị không có gọi là lập thành trong cái việc mà quy định bối cảnh á. Hôm trước chị nói đây là vòng.,Em cảm thấy chị không có. Chị không có gọi là. Lập thành trong cái việc mà quy định bối cảnh á. Hôm trước chị nói đây là. Phòng vũ.
+data2_356,data2,2108.37,2109.89,Tay vô kỹ quay phần 4 hả?,Tay du ký quay phần 4 hả.
+data2_357,data2,2115.99,2117.45,Em ơi ế quá cưng ơi.,Em ơi ế quá cưng ơi.
+data2_358,data2,2118.07,2118.43,Chết.,Chết
+data2_359,data2,2118.57,2119.03,Dạ.,Gì vậy?
+data2_360,data2,2119.17,2120.13,Khách tới rồi.,Khách tới rồi.
+data2_361,data2,2120.47,2121.03,Tới nào?,Khách tới hồi nào ?
+data2_362,data2,2121.07,2121.83,Hết hồi nãy rồi.,Khách tới hồi nãy rồi.
+data2_363,data2,2122.27,2123.13,Sao nó không có khác?,Sao em nói không có khách?
+data2_364,data2,2123.17,2124.59,Em kêu cho phòng trợ ngồi trở.,Em kêu vô phòng chờ ngồi chờ.
+data2_365,data2,2124.61,2125.53,Để chị đó.,Để chị đón khách.
+data2_366,data2,2125.89,2126.87,Để coi làm được không lắm.,Để coi làm được bao lâu.
+data2_367,data2,2131.71,2133.09,Nhưng mà khách ở trong phòng kìa.,Nhưng mà khách ở trong phòng kìa.
+data2_368,data2,2133.49,2135.09,Rồi đi riêng là kiếm khách.,Rồi đi đi là kiếm khách đi.
+data2_369,data2,2135.19,2136.05,Kiếm được.,Không kiếm được.
+data2_370,data2,2136.15,2138.05,Nhưng mà cái vấn đề về văn phòng này ế là chúng ta không được trả lương.,Văn phòng này ế mà chúng ta không được trả lương đó.
+data2_371,data2,2138.05,2138.79,Anh xin lỗi.,Em xin lỗi nhưng mà.
+data2_372,data2,2139.05,2139.75,Tìm được.,Tại sao không tìm được?
+data2_373,data2,2139.77,2140.69,Em phá trái cửa rồi.,Em khóa trái cửa rồi.
+data2_374,data2,2140.69,2142.99,Em quay trái người. Hả? Em nhốt hết.,Em khóa trái cửa. Em nhốt khách.
+data2_375,data2,2143.19,2144.37,Chết rồi giờ sao vậy.,Chết rồi giờ sao vậy?
+data2_376,data2,2144.57,2145.81,Làm gì mà em nhốt hết.,Em làm cái gì mà em nhốt khách?
+data2_377,data2,2145.99,2152.85,"Không phải, hồi nãy em chỉ nói là anh ở trong đó đi. Cái anh nói là không, anh đứng ra anh nói. Cái em tức quá, cái em nhốt hết ở trong đó luôn. Cái em quăng dự khách ở đâu em mất tiêu.","Không phải, hồi nãy em chỉ nói là anh ở trong đó đi. Cái anh nói là không, anh muốn ra. Cái em tức quá, cái em nhốt khách ở trong đó luôn. Cái em quăng chìa khóa đi đâu, mất tiêu rồi."
+data2_378,data2,2154.35,2155.43,Chị làm khách nha.,Bây giờ chị làm khách nha.
+data2_379,data2,2155.53,2156.05,Ủa?,Ủa?
+data2_380,data2,2157.58,2158.72,Sao ra được vậy trời.,Rồi sao ra được vậy trời?
+data2_381,data2,2167.77,2169.01,Em nói với chị.,Em nói với chị luôn.
+data2_382,data2,2170.38,2171.8,Đây là người đã vượt ngục.,Đây là người đã vượt ngục.
+data2_383,data2,2172.08,2175.7,Ở ngoài kêu vậy nè là im đi.,Ở ngoài kêu như vậy nè. Là im đi Khánh.
+data2_384,data2,2211.0,2212.7,Em có lạp bơi ô nguyễn.,Em tên là Beo Nguyễn.
+data2_385,data2,2212.9,2213.44,Bèo.,Beo.
+data2_386,data2,2213.76,2215.52,Biết đánh vần như thế nào?,Beo là viết đánh vần như thế nào?
+data2_387,data2,2217.32,2220.24,"À, Bell là nó liên quan đến cái chữ Bell.",À beo là nó liên quan chữ beo.
+data2_388,data2,2218.96,2220.24,Liên quan kêu bèo.,Beo trong beo trong beo rếu.
+data2_389,data2,2220.24,2224.46,Điều riếu. Năm nay em 28 tuổi.,"Beo, beo, beo. Năm nay em 28 tuổi."
+data2_390,data2,2224.78,2226.54,À bận rộn.,À bằng tuổi.
+data2_391,data2,2226.94,2229.26,Mình gần 30 rồi đó mà cứ diễn điên diễn.,Đó mình gần 30 rồi đó mà cứ diễn điên diễn khùng.
+data2_392,data2,2232.96,2238.58,"Kê chị, kê chị. Rồi, Bê Quyển giới thiệu đến quý vị là công việc hiện tại của em là gì.","Kệ chị, kệ chị. Rồi, Bê Nguyễn giới thiệu đến quý vị là công việc hiện tại của em là gì?"
+data2_393,data2,2281.22,2282.44,Đúng không?,Chưa có đủ duyên để làm việc đúng không?
+data2_394,data2,2288.74,2296.9,Thì cái công việc của bạn nó dạo gần đây rất là hot nha. Có rất nhiều cái nội dung ở trên mạng xã hội mà gây.,Thì cái công việc của bạn. Nó dạo gần đây rất là hot nha. Có rất nhiều cái nội dung. Ở trên mạng xã hội mà gây cười.
+data2_395,data2,2299.22,2299.98,Dạ vâng ạ.,Dạ vâng ạ.
+data2_396,data2,2299.98,2305.6,Bây giờ chúng ta sẽ cùng mở chiếc hộp bí mật để biết là ngày hôm nay chúng ta có cái gì với bạn Bê Nguyễn nha.,Rồi bây giờ chúng ta sẽ cùng mở chiếc hộp bí mật để biết là. Ngày hôm nay chúng ta có cái gì với bạn Beo Nguyễn nha.
+data2_397,data2,2305.6,2308.6,Chắc là các bạn đã rất hãng hút đúng mà. Và ngày hôm nay...,Mà các bạn ơi chắc là các bạn rất háo hứng đúng không ạ. Và ngày hôm nay.
+data2_398,data2,2330.21,2338.97,Và đây cũng chính là chiếc hộp bí ẩn. Như các bạn cũng thấy trên tay của Khánh là chữ ổ.,"Ok, và đây cũng chính là chiếc hộp ký ẩn. Như các bạn cũng thấy trên tay của Khánh là chữ Ủa em."
+data2_399,data2,2343.68,2346.5,Là em chưa hiểu. Nhưng mà cái này là bạn đem tới.,"Là em chưa hiểu, nhưng mà cái này là bạn đem tới hả?"
+data2_400,data2,2346.68,2347.86,"Ờ, cái này là của em.","Ờ, cái này là của em."
+data2_401,data2,2348.68,2351.3,"Ồ, nếu mà đã ủ em thì về để cho của em trả lời.","Ồ, nếu mà đã Ủa em thì về đây là của em trả lời."
+data2_402,data2,2351.3,2358.34,"Em có soạn ra những cái văn mẫu mà nó khiến cho mọi người sẽ cứa vào trái tim khi mà nói lên đường. À, tí đậu.",Em có soạn ra những cái văn mẫu mà nó khiến cho mọi người sẽ cứ vào trái tim. Đúng rồi.
+data2_403,data2,2358.68,2359.84,Trời ơi hiểu quá.,Trời ơi hiểu rồi.
+data2_404,data2,2359.88,2360.94,Cái này em sẽ bị đau lòng.,Đọc cái này em sẽ bị đau lòng.
+data2_405,data2,2361.18,2364.44,Vậy là đây là những cái câu nói hoặc là những cái câu.,Vậy là đây là những cái câu nói hoặc là những cái câu.
+data2_406,data2,2364.44,2365.28,Mày tính sát thương cảm.,Mang tính xác thương cao.
+data2_407,data2,2365.28,2368.42,"Đúng, mặc dù là nó ít chữ đúng không? Nhưng mà mang một cái hỉ to. Cảm ơn các bạn.",Đúng có nghĩa mặc dù là nói ít chữ đúng không. Nhưng mà mang một ý nghĩa to.
+data2_408,data2,2372.62,2375.08,Cảm giác mà khi thiệt thiệt tình.,Có nghĩa là cái cảm giác mà khi thiệt tình luôn.
+data2_409,data2,2375.48,2384.6,"Có nghĩa là khi mà mình làm một cái công việc gì đó mà mình đang nói chuyện vui vẻ vui vẻ. Và mọi chuyện, mọi xung đột đều bắt đầu từ chữ của em.",Là có nghĩa là khi mà mình làm một cái công việc gì đó. Mà mình đang nói chuyện vui vẻ vui vẻ. Và mọi chuyện mọi xung đột đều bắt đầu từ chữ. Ủa em.
+data2_410,data2,2386.96,2390.42,"Em ơi, chị cũng có công ty sản xuất mà chị dẹp luôn rồi đó.","Em ơi, chị cũng có công ty sản xuất mà chị dẹp luôn rồi đó em."
+data2_411,data2,2393.48,2396.26,Rồi ngộ ra. Ví dụ như khánh là khánh ghét nhất từ.,"Đúng rồi, ngộ ra. Ví dụ như Khánh, Khánh ghét nhất từ gì?"
+data2_412,data2,2396.48,2398.76,Em ghét không có ghét câu chữ gì.,"Em ghét không có ghét câu, chữ gì hết."
+data2_413,data2,2399.06,2399.72,Chứ em ghét gì?,Chứ em ghét gì?
+data2_414,data2,2401.24,2402.36,Giống hỏi.,Dấu hỏi. Dấu hỏi.
+data2_415,data2,2403.84,2411.48,Mấy lúc mà em. Mấy lúc mà em gửi mấy cái nội dung mà. Em nghĩ là những cái ý tưởng của em kiểu khá hay á. Mà táo bạo nha. Em thật sự em nghĩ cái đó mà em viết.,Thế lúc mà em gửi mấy cái nội dung mà. Em nghĩ là những cái ý tưởng của em kiểu khá hay á. Mình báo bào nha. Em nghĩ cái đó mà em viết ra.
+data2_416,data2,2404.08,2404.86,Cảm ơn em.,Chấm hỏi thôi.
+data2_417,data2,2413.62,2421.28,"Vết, em nó bắt cười, em đọc lại. Em gửi cái này, cái này là dấu chấm hội. Em nghĩ là cái dấu nó còn đông lòng. Cái chủ của em có vẽ nó bị dài nha. Đúng rồi.","Viết, em nói mắc cười, em đọc lại. Em gửi cái này, cái này là dấu chấm hỏi em. Em nghĩ là cái dấu nó còn đau lòng, cái chữ em có dấu nó bị dài nha."
+data2_418,data2,2421.28,2426.78,"Nhưng mà ok bây giờ mình sẽ điểm qua một số chỗ ở trên đây ha. Có ra số không em? Trời ơi, đau lòng.",Nhưng mà ok bây giờ mình sẽ điểm qua một số chữ ở trên đây ha. Có ra số không em? Trời ơi đau lòng.
+data2_419,data2,2427.16,2433.78,Có ra số không em là phải áp lực lên mình là mình phải làm cái công việc đó ra được cái số số đây là số tiền.,Có ra số không em là phải áp lực lên mình là mình phải làm cái công việc đó ra được cái số. Số đây là số tiền.
+data2_420,data2,2433.79,2434.78,Dạ đúng rồi.,Dạ đúng rồi.
+data2_421,data2,2434.82,2438.24,"Rồi tiếp theo là chị nhờ tiếng. Không, không có tí đâu.",Rồi tiếp theo là chị nhờ tí không? Không có tí đâu.
+data2_422,data2,2438.57,2439.02,Dạ đúng rồi.,Dạ đúng rồi.
+data2_423,data2,2439.04,2443.62,Mỗi lần mà bắt đầu mọi cái sự khổ đau. Được bắt đầu từ chị nhờ tiếng.,Mỗi lần mà bắt đầu mọi cái sự khổ đau thì bắt đầu từ chị nhờ tí.
+data2_424,data2,2443.62,2447.06,Cái từ chị nhờ nó nhẹ nhàng lắm mọi người. Nhưng mà cái khi là cái chủ tí.,Thật ra cái từ chị nhờ nó nhẹ nhàng lắm mọi người. Nhưng mà cái khi là cái chỗ tí á.
+data2_425,data2,2447.06,2451.26,Có khi là chị nhờ tí khánh ơi sửa nguyên tập dùm chị. Nhiêu cái thủ dung dùm chị. Đúng rồi.,"Đôi khi là chị nhờ tí, Khánh ơi sửa nguyên tập dùm chị. Đi cái nội dung dùm chị."
+data2_426,data2,2449.58,2450.7,Cái đồ dùng chứ không. Cái đồ dùng chứ không. Cái đồ dùng chứ không. Cái đồ dùng chứ không. Cái đồ dùng chứ không.,Đúng rồi đó.
+data2_427,data2,2451.56,2452.8,"Rồi, chị rất đi.","Rồi, chị rất tiếc."
+data2_428,data2,2452.8,2457.22,Trời ơi xui nha bà. Chị rất tiếc nha. Clip mình là phải làm lại từ đầu nha.,Trời ơi xui nha bà. Chị rất tiếc nha. Cái clip mình là phải làm lại từ đầu nha em.
+data2_429,data2,2457.22,2465.04,"Không, chị đau tiếc là chị hủy luôn á. À, hủy thôi. Chứ không cho cơ hội làm về từ đầu. Nè con nè, có chưa em? Chị rất tiếc chị nhờ tí, à đơn giản mà.","Không chị rất tiếc là chị hủy luôn á. Chứ không có cho cơ hội làm lại từ đầu. Nè còn nè, có chưa em chị rất tiếc chị nhờ tí. À đơn giản mà."
+data2_430,data2,2465.32,2468.32,Đơn giản mà. Em nói chị đơn giản mà.,Đơn giản mà. Em nói chị đơn giản mà đi.
+data2_431,data2,2468.32,2469.24,Đơn giản.,Đơn giản mà.
+data2_432,data2,2469.24,2469.98,Thử làm đi.,Tự làm đi.
+data2_433,data2,2499.88,2509.24,Là em đã từng gặp một cái trường hợp. Lúc đó là em đã lên giường để em coi phim rồi. Cái phim xong rồi thì. Nó chỉ là chuyện trị nhờ tí.,Là em đã từng gặp một cái trường hợp. Lúc đó là em đã lên giường để em coi phim rồi. Coi phim xong rồi. Thế chỉ là chuyện chị nhờ tí thôi.
+data2_434,data2,2509.74,2518.88,Có đó không? Chị nhờ tí thì lúc đó là em bị rơi vô cái quan trọng là đấu tranh tư tưởng á. Tại mình có thể trả lời cái này hay không? Mình cần phải trả lời hay không? Mình đang tận hưởng.,Em ơi có đó không. Chị nhờ tí thì lúc đó là em bị rơi vô cái tâm trạng đấu tranh tư tưởng đó. Cái quan trạng là đấu tranh tư tưởng. Mình có thể trả lời cái này hay không. Mình cần phải trả lời hay không. Mình đang tận hưởng mà.
+data2_435,data2,2519.62,2527.1,"Nhưng mà hầu như cũng là cái đạo đức nghề nghiệp. Ờ đạo đức nghề nghiệp. Thì em vẫn vùng lên, em trả lời. Dạ em có chị. Và chị có em tới sáng.",Đó nhưng mà cuối cùng là cái đạo đức nghề nghiệp. Thì em vẫn bùng lên. Em trả lời. Dạ em có chị. Và chị có em tới sáng luôn.
+data2_436,data2,2527.74,2536.74,"Là chị nhờ sửa một cái file. Vì sửa một cái file, chị nhờ sửa dễ lắm. Nhưng mà chị đã chuẩn bị trước rồi. Chị sợ chị nhờ tí mà chị soạn.",Đó là chị nhờ sửa một cái file. Nhờ sửa một cái file. Chị nhờ sửa dễ lắm. Nhưng mà chị đã chuẩn bị trước rồi. Chị nhờ tí mà chị soạn nè.
+data2_437,data2,2537.97,2540.29,Là em thấy cái ba chấm nó nhảy liên tục liên tục.,Là em thấy cái ba chấm nó nhảy liên tục.
+data2_438,data2,2540.3,2540.88,Đúng rồi.,Đúng rồi!
+data2_439,data2,2541.93,2550.69,"Đúng rồi, chị thì chị bị cái trường hợp là. Mèo ơi, tôi kể bà nghe ba chấm, ba chấm, ba chấm là tới sáng. Là trường hợp Dương Khánh nhắn tin cho chị. Cái gì vậy?",Đúng rồi chị thì chị bị cái trường hợp là. Mèo ơi tôi kể bà nghe ba chấm ba chấm. Là tới sáng. Là trường hợp Duy Khánh nhắn tin cho chị. Kiểu vậy đó.
+data2_440,data2,2552.53,2560.95,"Nhưng mà chị hỏi thiệt nha, em là nhân vật trung gian, đôi khi là em sẽ làm việc qua, khách hàng qua em, rồi em mới làm việc với...","Nhưng mà chị hỏi thiệt nha. Em là nhân vật trung gian. Đôi khi là em sẽ làm việc qua. Khách hàng qua em, rồi em mới làm việc với."
+data2_441,data2,2560.95,2561.81,Của nhóm của mình.,Đội nhóm của mình.
+data2_442,data2,2565.09,2574.03,"Ừ, mỗi khi mà tụi em gây áp lực với tụi chị á. Ví dụ nha, tụi em mà gây áp lực với tụi chị. Thì có phải là do khách hàng ép em không? Hay là em tự làm cái chuyện đó thôi? Đúng rồi, đúng rồi.",Thì mỗi khi mà tụi em gây áp lực với tụi chị á. Ví dụ như từ em mà gây áp lực với tụi chị. Thì có phải là do khách hàng ép em không hay là em tự làm.
+data2_443,data2,2574.43,2578.53,Em tự làm như vậy để cho vừa lòng khách hàng. Theo ý em muốn chứ không phải khách hàng muốn.,Em tự làm như vậy để cho vừa lòng khách hàng theo ý. Em muốn chứ không phải khách hàng muốn.
+data2_444,data2,2578.53,2583.39,Dạ thì em nghĩ là mình cũng là con người mà mình đâu có muốn ép ai bao giờ đâu chị. Vậy là em cũng bị ép.,Dạ thì em nghĩ là mình cũng là con người mà mình đâu có muốn ép ai bao giờ đâu chị. Thế là em cũng bị ép.
+data2_445,data2,2586.29,2587.39,Nè khách hàng gọi.,Thế khách hàng gọi anh.
+data2_446,data2,2596.55,2599.67,"Sản phẩm cuối cùng vẫn là một mục đích cuối cùng. Tuy nhiên ở đây, tất cả các bạn đã có thể thực hiện các mục đích tốt nhất. Cảm ơn các bạn.",Đúng là cái sản phẩm cuối cùng nó vẫn là một cái mục đích cuối cùng tuy nhiên.
+data2_447,data2,2599.67,2602.15,Cái áp lực mà lúc mà làm nó kinh khủng thật sự.,Cái áp lực mà lúc mà làm nó kinh khủng thật sự đó.
+data2_448,data2,2602.17,2602.75,Dạ đúng rồi.,Dạ đúng rồi.
+data2_449,data2,2602.87,2604.75,Nhưng mà điều đó là do ai em?,Nhưng mà điều đó là do ai em.
+data2_450,data2,2609.45,2610.65,Cúp máy chỉ đi.,Cúp máy chỉ đi.
+data2_451,data2,2610.85,2612.75,"Dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, dạ, d","Dạ, cúp máy rồi. Dạ, cho chị khách hàng nè."
+data2_452,data2,2639.86,2642.94,Mảnh áo cho người xem lưng mà mình tâm sự thôi. Em cứ kể đi cưng. Cảm ơn bạn.,Vạch áo cho người tâm lưng mà mình tâm sự thôi. Em cứ kể đi cưng.
+data2_453,data2,2643.04,2645.0,Dạ cái là mờ mặt em được không để em kể.,Dạ có làm mờ mặt em được không? Để em kể.
+data2_454,data2,2650.26,2653.36,Nhưng mà trong đây thì anh thấy là còn thiếu một cái câu.,Nhưng mà trong đây thì em thấy còn thiếu một cái câu nữa.
+data2_455,data2,2657.14,2659.28,Chị bị cái đó quên 5 xuất thác.,Ê! Chị bị cái đó quanh năm suốt tháng.
+data2_456,data2,2659.34,2662.18,"Em đã chụp quảng cáo và... Chụp, chụp, chụp, chụp.",Em đã chụp quảng cáo và chụp chụp chụp chụp chụp.
+data2_457,data2,2662.24,2669.88,Xong em cảm thấy là. Em chụp em tự thấy hài lòng với cái sản phẩm. Cái hình đó của mình luôn. Em chụp ưởng qua. Chị nghĩ là em nên.,Xong rồi em cảm thấy là em không tự thấy hài lòng với cái sản phẩm. Cái hình đó của mình luôn. Em chỉ gửi qua. Chị nghĩ là em nên như vậy.
+data2_458,data2,2670.88,2679.66,"Em thấy ok mà chị, em giúp chị thêm một cái, một cái vương án lựa chọn khác đi. Xong cái em, dạ ok ok, em làm 5 lần vậy. Cái anh nói ok ok vậy được rồi.","Em thấy ok mà chị, em giúp chị thêm một cái. Một cái phương án lựa chọn khác đi. Xong cái em, dạ ok ok. Em làm 5 lần vậy. Cái em nói ok ok vậy được rồi."
+data2_459,data2,2679.96,2685.48,"Em chờ nha, chừng nào chị chốt được xong hình thì chị gửi qua để em đăng. Cuối cùng chị lấy 4 tấm đầu.","Rồi em chờ nha, chừng nào chị chốt được xong hình thì chị gửi qua để em đăng. Cuối cùng chị lấy 4 tấm đầu tiên."
+data2_460,data2,2687.06,2690.72,Cái đó là chụp hình. Khách biết công việc của chị luôn luôn là thu âm.,Cái đó là chụp hình. Khách biết công việc của chị luôn luôn là thu âm.
+data2_461,data2,2691.44,2692.36,Chị thua anh.,Chị thu âm.
+data2_462,data2,2692.56,2694.64,Mà em tưởng tượng đi thu nhạc quảng cáo nó đâu có ngắn.,Mà em tưởng tượng đi thu nhạc quảng cáo nó đâu có ngắn.
+data2_463,data2,2695.42,2696.18,Cái này là một bài hát.,Nó là một bài hát.
+data2_464,data2,2697.0,2706.28,"Không không, chị muốn cái sắc thái. Bây giờ em hát giọng miền Bắc đi. Rồi, em hát giọng miền Bắc. Rồi, em ơi, bây giờ cái khúc này em thêm mấy cái thoại cho chị trong cái lúc hát đó, cho nó dễ thương nha em.","Không, không, chị muốn cái sắc thái. Bây giờ em hát giọng miền Bắc đi. Rồi, em hát giọng miền Bắc. Rồi. Em ơi, bây giờ cái khúc này em thêm mấy cái thoại cho chị trong cái lúc hát đó. Cho nó dễ thương nha em."
+data2_465,data2,2707.38,2716.4,"Xong rồi em ơi đừng có thoại tại vì thoại vô trong nhạc nó mất tự nhiên á, nó không có tự nhiên á. Nên em thu lại dùm chị. Xong. Em ơi cái nửa đầu em hát nam, nửa đầu em hát.","Xong rồi. Em ơi, đừng có thoại. Tại vì thoại vô trong nhạc nó mất tự nhiên á. Nó không có tự nhiên á. Nên em thu lại cho chị. Xong. Em ơi, cái nửa đầu em hát Nam. Nửa đầu em hát."
+data2_466,data2,2716.4,2720.6,"Lửa tàu em hát bắt đi để cho nó, nên nó mình chỉ phát được đa dạng vùng miền.",Nửa sau em hát bác đi để cho nó. Nó mình chỉ phát được đa dạng vùng miền.
+data2_467,data2,2721.0,2721.42,Yeah.,Dạ.
+data2_468,data2,2721.74,2726.96,Em ơi có thể hát vui hơn được không? Nó giọng nó trẻ hơn một chút để kiểu mành vui vẻ hơn.,Em ơi có thể hát vui hơn được không. Nó giọng nó trẻ hơn một chút để kiểu mình vui vẻ hơn.
+data2_469,data2,2728.5,2737.48,"Em ơi, chị muốn nó đừng có vui quá. Tại vì nó bị vui quá đó em. Vị thu là từ 8h sáng mà tới 8h chiều vẫn chưa xong.",Em ơi chị muốn nó. Đừng có vui quá. Tại vì nó bị vui quá đó em. Chị thu là từ 8h sáng. Mà tới 6h chiều vẫn chưa xong.
+data2_470,data2,2737.68,2746.26,"Đợi khách hàng phản hồi để mình mới được về chứ không thôi là mình mất thêm một buổi nữa. Nhưng em ơi, 6h chiều vẫn chưa xong tại vì sếp phải đi ra ngoài.",Đợi khách hàng phản hồi để mình mới được về. Chứ không thôi là mình mất thêm một buổi nữa. Nhưng em ơi 6h chiều vẫn chưa xong. Tại vì sếp phải đi ra ngoài ăn.
+data2_471,data2,2747.76,2755.54,"Thành ra phải ngồi đợi, đợi tới 7h sếp nói lấy bản đồng, là đáng lẽ là 9h sáng tôi về rồi.",Thế nên là hành ra mới ngồi đợi. Đợi tới 7 giờ. Sếp nói lấy bản đồ. Là đáng lẽ là 9 giờ sáng tôi về rồi.
+data2_472,data2,2755.9,2756.92,Thấy kinh khủng không?,Thấy kinh khủng không?
+data2_473,data2,2756.96,2762.78,Khánh đã từng quay trong một nhãn hàng nước. Quay TBC. Thì biết là nó rất là quan trọng đúng không?,Khánh đã từng quay cho một nhãn hàng nước. Quay TBC. Thì biết là rất là quan trọng đúng không?
+data2_474,data2,2762.84,2771.94,Thì xong rồi kêu khách uống. Thì khách thật sự khách rất là thích cái nước đó nha. Tại vì trước khi mình nhận lời mình làm đồng hành cùng với nhãn hàng đó là mình đã rất thích uống.,Dạ. Thì xong rồi kêu Khánh uống. Thì Khánh thật sự rất là thích cái nước đó nha. Tại vì trước khi mình nhận lời mình làm đồng hành của mấy nhãn hàng đó là mình đã rất thích uống nước đó.
+data2_475,data2,2771.94,2776.78,Và đến bây giờ có thể ăn uống. Cầm vô. Thì xong cảnh là. À vậy đúng không?,Và đến bây giờ mà Khánh đang uống. Cầm vô thì xong cảnh là. Đúng không?
+data2_476,data2,2777.44,2779.06,Hắn quay là 127.,Khánh quay là 127 tkae.
+data2_477,data2,2780.4,2784.22,"Nhưng, nhưng, nhưng, nhưng, nhưng, câu chuyện này nó ở đây, là mình phải uống.",Nhưng nhưng nhưng. Câu chuyện này nó ở đây. Là mình phải uống thật.
+data2_478,data2,2787.54,2794.76,Dốc hết tâm gan sức lực của mình. Mình uống. Mình đang đi làm kiếm tiền. Mình phải cố gắng lên. Em làm xuống sẽ tới.,Dốc hết tâm gan sức lực của mình. Mình uống. Mình đang đi làm kiếm tiền. Mình phải cố gắng lên. Em làm xuống sẽ tới tối.
+data2_479,data2,2796.28,2797.64,Lúc phát TVC.,Lúc phát tbc lên.
+data2_480,data2,2802.78,2809.7,"Chị ơi, chuyển qua cảnh mà kiểu mà. Mấy cái ly nước mà được làm từ trái này trái nọ xong. Xong, cảnh cuối là. Cảnh cuối là như thế nào? Cảnh cuối là từ đây.","Chị ơi, chuyển qua cảnh mà kiểu mấy cái ly nước mà được làm từ trái này, trái nọ xong. Xong, cảnh cuối là như thế nào? Cảnh cuối là từ đây thôi nha."
+data2_481,data2,2811.52,2812.66,Cái khúc này mỗi người ta mỗi người ta sẽ có một cái khúc này.,Cái khúc em muốn nó lấy.
+data2_482,data2,2812.66,2820.12,"Chị nè, chị bị quảng cáo một cái sản phẩm và khi mà chị đặt cái sản phẩm, ví dụ như mình đặt cái sản phẩm.","Chưa em ơi, chị nè. Chị bị quảng cáo một cái sản phẩm. Và khi mà chị đặt cái sản phẩm, ví dụ như mình đặt cái sản phẩm xuống."
+data2_483,data2,2821.62,2825.46,Cười cho tươi. Chị cười từ 9h sáng tới 7h tối.,Cười cho tươi. Chị cười từ 9h sáng tới 7h tối.
+data2_484,data2,2830.96,2834.34,Về lấy cái tay.,Về lấy cái tay.
+data2_485,data2,2835.34,2842.78,Về lấy cái tay. Sao mới đầu không nói vậy đó? Tương quá. Tương quá.,Về lấy cái tay. Sao mới đầu không nói vậy đó. Tức quá. Tức quá vậy tức.
+data2_486,data2,2864.7,2872.9,Thì thật ra mình là người đứng giữa mà em người đứng giữa mà em. Nếu anh chị bị dậy thì em cũng bị cái khác. Em cũng phải đáp ứng những cái.,Thì thiệt ra mình là người đứng giữa mà em là người đứng giữa mà em. Anh chị bị vậy thì em cũng bị cái khác. Em cũng phải đáp ứng những cái.
+data2_487,data2,2872.9,2881.8,"Cái gọi là tâm tư, tình cảm của họ nữa mà. Ở đây nó một cái tuần mà nó. Khi mình quay mình còn có kịch bản, mình còn biết cái gì. Cỏ này nó tự nhiên nó tương ra.",Gọi là tâm tư tình cảm của họ nữa mà. Ở đây nó 1 cái tuần mà nó. Khi mình quay mình còn có kịch bản mình còn biết cái gì. Còn cái này tự nhiên nó tuôn ra chị.
+data2_488,data2,2882.08,2891.7,"Ví dụ như là em vẫn nhớ hoài là có một lần là em làm cho một cái chị đó. Lúc đó là em đang bay rồi ở Hà Nội. Là hôm đó là 9h, 10h là em phải bay vô.","Ví dụ như là em vẫn nhớ hoài là có 1 lần. Là em làm cho 1 cái chị đó. Lúc đó là em đang bay ra Hà Nội. Lúc đó là 9h, 10h em phải bay vô."
+data2_489,data2,2891.9,2899.32,Lên máy bay á. Thì Temas cẩn thận. Em hẹn hò với chị đó lúc 8 giờ rưỡi. Chị đó ngủ quên.,Là lên máy bay á. Thì em cẩn thận em hẹn họp với chị đó lúc 8h30. Chị đó ngủ quên chị.
+data2_490,data2,2900.62,2909.66,Khiến đời mình cũng không có thể giải quyết được cái vấn đề của mình làm cái gì. Khiến đời mình cũng không có thể giải quyết được cái vấn đề của mình làm cái gì. Khiến đời mình cũng không có thể giải quyết được cái vấn đề của mình làm cái gì. Khiến đời mình cũng không có thể giải quyết được cái vấn đề của mình làm cái gì. Khiến đời mình cũng không có thể giải quyết được cái vấn đề của mình làm cái gì.,Cái ngủ quên thì bây giờ vai trò của mình làm cái gì. Mình sẽ giải quyết cái vấn đề ngủ quên của khách hàng. Thành ra là lúc đó là em phải họp lúc 9h30. Mà đi lên máy bay mà 10h bay.
+data2_491,data2,2909.66,2918.66,"Thì lúc đó là mình phải xếp hàng, mình qua cổng an ninh, các kiểu. Thì lúc đó em như là một người kinh doanh gì đó. Em đi giữa.",Thì lúc đó là mình phải xếp hàng. Mình qua cổng an ninh. Thì lúc đó em như là một nhà kinh doanh vậy đó. Em đi giữa sân bay.
+data2_492,data2,2918.66,2928.04,"Tay em đeo, em bot, rồi em đi, đi, đi. À, cái phương án của em với chị là như vậy. Chị phải giải quyết như vậy, như vậy, như vậy. Em xin trình bày cái bản kế hoạch của em như xa là lại như vậy.","Một tay em đeo Airpods. Rồi em đi đi đi. À, phương án của em với chị là như vậy. Chị phải giải quyết như vậy, như vậy, như vậy. Em xin trình bày cái bản kế hoạch của em như xa rồi lại như vậy."
+data2_493,data2,2928.62,2937.82,"Đó, thì em dành đến gần 1 tiếng đồng hồ xong rồi vừa scan máy vừa đi qua cổng an ninh.","Đó, thì em dành đến gần một tiếng đồng hồ. Xong rồi vừa scan máy, vừa đi qua cổng an ninh. Xong rồi cuối cùng chị."
+data2_494,data2,2938.36,2942.86,"Ờ cũng được, cũng được đấy em. Cũng được đấy hả anh? Thôi cũng được, cũng được em.","Ờ, cũng được, cũng được em. Cũng được, cũng được em. Cũng được."
+data2_495,data2,2946.74,2951.68,Nói chung là có những cái áp lực vô hình. Bởi vậy thật ra là công việc nào cũng có những cái áp lực hết. Đó.,Nói chung là có những cái áp lực vô hình. Bởi vậy thực ra là công việc nào cũng có những cái áp lực hết đó.
+data2_496,data2,2951.78,2956.28,Nhưng mà quan trọng là mình đối mặt với nó như thế nào thôi. Nhưng mà có vẻ như bạn chưa đối mặt được nên bạn mới tới đây á hả?,Nhưng mà quan trọng là mình đối mặt với nó như thế nào thôi. Nhưng mà có vẻ như bạn chưa đối mặt được. Nên bạn mới tới đây á không.
+data2_497,data2,2956.29,2956.68,Cái này là đúng không?,Dạ đúng rồi.
+data2_498,data2,2956.68,2961.34,"Em nghe nói, em nghe nói là Roney sẽ giải quyết những cái vấn đề đó. Ờ, vậy thì bây giờ...",Em nghe nói là Rane sẽ giải quyết những cái vấn đề đó. Ờ vậy thì bây giờ bạn đang cần.
+data2_499,data2,2961.34,2966.22,Bây giờ em muốn đối phó với. Bên khách hàng là bên chị. Để tụi chị có cái giải pháp cho em.,Bây giờ em muốn đối phó với bên khách hàng. Là bên chị. Để tụi chị có cái giải pháp cho em.
+data2_500,data2,2966.22,2968.92,Nghĩa là mình là một phe hả chị? À tụi mình là một phe.,Em nghĩ là mình là một phe á chị. À tụi mình là một phe.
+data2_501,data2,2969.02,2975.66,Thế nào để mà có thể nói chuyện trơn tru với khách hàng. Thì xin mời quý vị khán giả cùng nghỉ giải lao trong khoảng phút chút tôi sẽ quay trở lại ngay.,Làm thế nào để mà có thể. Nói chuyện trơn tru với khách hàng. Thì xin mời quý vị khán giả cùng nghỉ giải lao trong cái phút. Chúng tôi sẽ quay trở lại ngay.
+data2_502,data2,3013.29,3022.91,"Cái đó mình không có mệt, mình khỏe lắm, mình làm gì cũng được. Nhưng mà đến dạo gần đây là mỗi khi mà mình làm, mình tập trung vào vấn đề đó, em sẽ không thể nào tập trung được hết.","Cảm giác là lúc đó mình không có mệt, mình khỏe lắm, làm gì cũng được. Nhưng mà đến dạo gần đây là mỗi khi mà mình làm, mình tập trung vào vấn đề đó. Em sẽ không thể nào tập trung được hết, em phải ăn."
+data2_503,data2,3024.91,3029.09,Và theo thời gian cách đây là có thể 1 năm cái diệu chứng này đã xuất hiện. Là em đã rớt mập.,Và theo thời gian cách đây là có thể 1 năm cái diễu chứng này nó xuất hiện là em đã rất mập.
+data2_504,data2,3030.69,3039.43,"Thậm chí là hôm nay là đeo cái mic trong đây là nó cứng cứng nãy giờ luôn á. Nó làm em không có chịu nổi luôn. Đó, thì hả nói em cảm giác là nó ảnh hưởng đến sức khỏe đời tôi.",Thậm chí là hôm nay là đeo cái mic ở trong đây là nó cứng cứng nãy giờ luôn á. Là em không chịu nổi luôn. Đó thì em cảm giác là nó ảnh hưởng đến sức khỏe đời tui.
+data2_505,data2,3039.43,3045.43,Nhưng với em nhiều quá là ảnh hưởng tới phong thái rồi hình dáng nữa. Em rất là sợ cái chuyện đó.,"Cá nhân của em nhiều quá, nó ảnh hưởng tới phong thái, hình dáng nữa. Em rất là sợ cái chuyện đó dạ."
+data2_506,data2,3045.43,3049.65,Vậy thì cái vấn đề của em gặp phải là em muốn tư vấn về nhang sắc của em.,"Ờ, vậy thì cái vấn đề của em gặp bảy là em muốn tư vấn về nhan sắc của em."
+data2_507,data2,3050.15,3051.75,"Không, em nghĩ là bạn muốn.","Không, em nghĩ là bạn muốn..."
+data2_508,data2,3051.65,3052.45,Sức khỏe!,Về sức khỏe.
+data2_509,data2,3053.15,3057.95,Ý là bạn nói là bạn quá stress nên phải ăn nhiều. Vậy thì bây giờ mình coi bạn stress tới đâu đi.,Ý là bạn nói là... Bạn quá stress nên phải ăn nhiều. Vậy thì bây giờ mình coi bạn stress tới đâu đi.
+data2_510,data2,3058.55,3059.15,Mình đăng đi.,Mình ăn đi.
+data2_511,data2,3060.05,3066.39,Ngày hôm nay em đã bí mật chuẩn bị. Một thước đo cảm xúc tinh thần. Dành đi đón mời ngày hôm nay. Đó là.,Ngày hôm nay em đã bí mật chuẩn bị một thước đo cảm xúc tinh thần. Dành cho khách mời ngày hôm nay.
+data2_512,data2,3068.99,3070.25,Đây là bảo vật của bạc nền giữ.,Đây là bảo vật của bạn nè bạn giữ nhá.
+data2_513,data2,3072.75,3074.43,Hánh ơi đây nè Hánh ơi chị thấy rồi.,Khánh ơi đây nè Khánh ơi chị thấy rồi.
+data2_514,data2,3107.59,3110.55,Rồi ok thời gian có vẻ đã hết. Bạn có thấy nói chuyện động không.,"Rồi, ok, thời gian của bạn đã hết. Bạn có thấy nó chuyển động không?"
+data2_515,data2,3110.73,3112.17,Thế vị khách hàng của em giống.,Em thấy chị khách hàng em ở trỏng.
+data2_516,data2,3116.93,3119.93,Em có thấy nó chuyển động. Nó thấy nó đọt.,Em thấy nó chuyển động. Em có thấy nó chuyển động. Nó hơi xoay xoay xoay.
+data2_517,data2,3120.21,3122.81,Lúc nãy là em thấy cái sự chuyển động của nó nhiều.,Lúc nãy là em thấy cái sự chuyển động của nó nhiều hay ít?
+data2_518,data2,3123.27,3124.15,Nhiều nhiều.,Nhiều nhiều.
+data2_519,data2,3125.35,3134.09,Rồi bây giờ Như sẽ đọc cái đáp án mà nếu như mà bạn thấy cái hình đó di chuyển nhanh nha. Hình ảnh mà chuyển động nhanh trong trường hợp nhận thấy hình ảnh chuyển động.,Rồi bây giờ Như sẽ đọc cái đáp án mà nếu như mà bạn thấy cái hình đó di chuyển nhanh nha. Hình ảnh mà chuyển động nhanh. Trong trường hợp nhận thấy hình ảnh chuyển động nhanh.
+data2_520,data2,3134.09,3143.57,Khả năng bạn đang đối mặt với stress nặng nếu tình trạng không cải thiện bạn nên xem xét đến phòng khám bởi stress nặng.,Nhiều khả năng bạn đang đối mặt với stress nặng. Nếu tình trạng không cải thiện. Bạn nên xem xét đến phòng khám. Bởi stress nặng kéo dài.
+data2_521,data2,3143.57,3146.23,Gây ra một số vấn đề về tâm lý.,Có thể gây ra một số vấn đề về tâm lý khác.
+data2_522,data2,3146.23,3151.99,Đây là bạn xếp nặng rồi đó. Như bạn thấy là cái vòng đó chạy nhanh thì chị Khả Như vừa đưa cho bạn một thông tin là.,Đây là bạn stress nặng rồi đó. Như bạn thấy là cái vòng đó chạy nhanh. Thì chị Khả Như vừa đưa cho bạn một cái thông tin là.
+data2_523,data2,3153.97,3158.79,"Đến phòng khám, bác sĩ sẽ giúp bạn. Có nghĩa là bạn phải cần điều trị về tinh thần, về tâm lý.",Đến phòng khám. Bác sĩ sẽ giúp bạn. Có nghĩa là bạn phải cần điều trị về tinh thần. Về tâm lý.
+data2_524,data2,3159.09,3167.13,Thì tại vì tâm lý nó là một cái thứ gì đó mà mình không thể nào uống thuốc là hết được. Mà mình phải còn có thời gian để điều trị. Khánh cũng bị tâm lý.,Thì tại vì tâm lý nó là một cái thứ gì đó mà mình không thể nào uống thuốc là hết được. Mà mình phải cần có thời gian để điều trị. Khánh cũng bị tâm lý.
+data2_525,data2,3167.79,3168.91,Mà khán đáng không ai tin.,Mà Khánh nói không ai tin hết.
+data2_526,data2,3169.01,3174.83,"Thánh là tâm thần chứ không phải tâm lý. Thánh ơi, em lộn rồi á. Tâm thần. Nó khác cái tâm lý.",Khánh là tâm thần chứ không phải tâm lý. Khánh ơi em lộn rồi á. Tâm thần. Nó khác cái tâm lý.
+data2_527,data2,3174.83,3177.77,À em là bên cái mảng tam tần hả? À vậy mình khác lĩnh vực rồi.,À em là bên cái mảng tâm thần hả? À giờ mình khác lĩnh vực rồi.
+data2_528,data2,3177.77,3179.11,Em với chị là vụng hoảng.,Em với chị là cùng một mảng á.
+data2_529,data2,3179.11,3183.77,"À em, à có là hai chị em mình với bạn là cùng nghề nhưng mà khác.",À em. À có hai chị em mình với bạn là cùng nghề. Nhưng mà khác ngành.
+data2_530,data2,3183.77,3186.57,"Khác nhỉ? Mình là bên tâm thần, bạn này bên tâm lý.",Khác ngành. Mình là bên tâm thần bạn này bên tâm lý.
+data2_531,data2,3187.89,3194.85,Nói chứ thật ra khi mà mình bị stress nhiều quá thì Như nghĩ là Như có thể cho bạn lời.,Nói chứ thật ra khi mà mình bị stress nhiều quá. Thì Như nghĩ là Như có thể cho bạn lời khuyên.
+data2_532,data2,3195.45,3204.71,Nếu như mà bạn không làm gì thì bạn đừng cầm điện thoại. Không làm gì thì đừng chơi điện thoại. Đừng lướt mạng xã hội. Đừng có vào bất kể một cái nền tảng xã hội.,"Đó là nếu như bạn không làm gì thì bạn đừng cầm điện thoại. Không làm gì thì đừng chơi điện thoại, đừng lướt mạng xã hội. Đừng có vào bất kể một nền tảng xã hội nào."
+data2_533,data2,3205.09,3214.27,Để yên qua một bên. Và có thể là bạn không cần xem tivi luôn. Bạn hãy nằm hay là ngồi ở đâu đó. Và cái nơi đó nó khá trống trải một chút.,Để yên qua một bên. Và có thể là bạn không cần xem tivi luôn. Bạn hãy nằm hay là ngồi ở đâu đó. Và cái nơi đó nó khá trống trải một chút xíu.
+data2_534,data2,3214.27,3223.97,"Nó không cần, nó đừng có nhiều đồ đạc quá. Bạn phải đến một cái không gian nó hơi trống, hơi thoáng một chút xíu. Để không suy nghĩ một cái gì hết. Đừng nghe quá nhiều tiếng ồn. Tại vì lúc đó mình sẽ đỡ stress hơn.","Nó không cần, nó đừng có nhiều đồ đạc quá. Bạn phải đến một cái không gian nó hơi trống hơi thoáng một chút xíu. Để không suy nghĩ một cái gì hết. Đừng nghe quá nhiều tiếng ồn. Tại vì lúc đó mình sẽ đỡ stress hơn."
+data2_535,data2,3224.37,3231.25,Một cái điều quan trọng hơn để mà chúng ta có thể thoát khỏi những cái stress không phải thoát đâu nhưng mà chúng ta xử lý được.,Và một cái điều quan trọng hơn. Để mà chúng ta có thể thoát khỏi những cái stress. Không phải thoát đâu. Nhưng mà chúng ta xử lý được nó.
+data2_536,data2,3231.25,3237.65,Là hạn chế đó là làm bạn với công việc chấp nhận những thứ mà mình đang.,Đó là hạn chế đó là làm bạn với công việc. Chấp nhận những thứ mà mình đang có.
+data2_537,data2,3238.25,3240.71,Nhưng mà em làm bạn với công việc này em phải làm bạn với khách hàng á chị.,Nhưng mà em làm bạn với công việc. Em phải làm bạn với khách hàng đó chị.
+data2_538,data2,3241.27,3251.11,Em biết không có nghĩa là mình phải đối mặt với nó theo cái kiểu là. Mình đang làm cái điều mình thích nè. Mình đang làm cái điều mình thích nè. Mình phải cố gắng với nó hơn. Dạ.,Em biết không. Có nghĩa là mình phải đối mặt với nó. Theo cái kiểu là. Mình đang làm cái điều mình thích nè. Mình đang làm cái điều mình thích nè. Mình phải cố gắng với nó hơn.
+data2_539,data2,3251.11,3259.55,Và hạn chế tiếp xúc với những người mang tiêu cực. Và nãy có một vấn đề mà chị nghĩ là mọi người.,Và hạn chế tiếp xúc. Với những người mang tiêu cực. Và nãy có một cái vấn đề. Mà chị nghĩ là mọi người hay bị.
+data2_540,data2,3260.15,3269.67,Mình bị thèm ăn. Thèm ăn trong lúc làm. Đơn giản thôi chuyện nó bình thường. Máu tập trung về não nhiều. Thì có nghĩa là cái bụng mình sẽ đói.,"Mình bị thèm ăn. Thèm ăn trong lúc làm. Đơn giản thôi, chuyện đó bình thường. Máu tập trung về não nhiều. Thì có nghĩa là cái bụng mình sẽ đói."
+data2_541,data2,3269.97,3279.37,Cái đó là chuyện bình thường thôi. Và mình sẽ thường thèm ngọt để nó có nhiều cái năng lượng. Để mà mình khỏe hơn. Giống như mình đang mệt. Mình hay uống một cái lon nước ngọt.,Cái đó là chuyện bình thường thôi. Và mình sẽ thường thèm ngọt. Để nó có nhiều cái năng lượng. Để mà mình khỏe hơn. Giống như mình đang mệt. Mình hay uống một cái lon nước ngọt.
+data2_542,data2,3279.67,3287.81,Một cái bánh ngọt hay là một viên sô-cô-la. Thì cái đó. Thật ra chị cũng vẫn xài cái đó. Có nghĩa là chị sẽ lúc nào trong túi.,Hay là một cái bánh ngọt. Hay là một viên sô-cô-la. Thì cái đó. Thật ra chị cũng vẫn xài cái đó. Có nghĩa là chị sẽ lúc nào trong túi.
+data2_543,data2,3287.81,3294.17,"Có một cái viên sô-cô-la nhỏ nhỏ để mà mình dùng cái từ là tuột đường á, mình ăn cho lên đường.",Cũng sẽ có một cái viên sô-cô-la nhỏ nhỏ. Để mà mình dùng cái từ là tuột đường. Mình ăn cho lên đường.
+data2_544,data2,3294.99,3296.27,Tại vì đường quan trọng.,Tại vì đường quan trọng mà.
+data2_545,data2,3296.79,3305.87,Nhưng mà mình cũng nên hạn chế. Tại vì chị không biết là em có làm chủ được cái chuyện đó. Không có nghĩa là mình đang thèm lắm. Nhưng mà mình phải nhớ. Mình phải nhớ nên cái chuyện này.,Nhưng mà mình cũng nên hạn chế. Tại vì chị không biết là em có làm chủ được cái chuyện đó không. Có nghĩa là mình đang thèm lắm. Nhưng mà mình phải nhớ. Mình phải nhớ nên cái chuyện này.
+data2_546,data2,3305.87,3310.53,Nó không có cái gì để mà ngăn cản ngoài cái ý thức của bản.,Nó không có cái gì để mà ngăn cản. Ngoài cái ý thức của bản thân.
+data2_547,data2,3311.31,3319.67,Chắc mình phải tự vạch ra cho mình một cái nỗi sợi. Nhưng mỗi lần mà em à. Tối em nói không không không. Mình đã mất rất nhiều thời gian để mình giảm cân rồi. Ngày xưa mình đã gần 80kg.,"Chúng ta phải tự bạch ra cho mình một cái nỗi sợ. Như mỗi lần em tối em đói. Không, không, không, mình đã mất rất nhiều thời gian. Nên mình giảm cân rồi. Ngày xưa mình đã gần 80kg rồi."
+data2_548,data2,3319.67,3328.15,Bây giờ xuống còn 50 mấy ký là quá mừng. Nên là bằng mọi cách không để cho mình ăn thêm. Tại vì mình hiểu được cái quá trình giảm cân nó cực lắm. Với lại là mình phải ý thức được.,Bây giờ xuống còn 50 mấy kg là quá mừng. Nên là bằng mọi cách không để cho mình ăn thêm. Tại vì mình hiểu được cái quá trình giảm cân nó cực lắm. Với lại là mình phải ý thức được là.
+data2_549,data2,3328.15,3337.29,Làm công việc này là công việc thiên về công chúng nên là mình cũng phải ráng giữ gìn cân nặng của mình đó thì mình phải có những cái nỗi sợ đó những áp lực đó thì mình mới không đụng.,"Mình đang làm công việc này là công việc thiên về công chúng. Nên là mình cũng phải ráng giữ gìn cân nặng của mình. Thì mình phải có những cái nỗi sợ đó, những cái áp lực đó thì mình mới không đụng tới đồ ăn."
+data2_550,data2,3337.29,3339.99,Nếu mà mình chiều cái bụng mình quá thì nó sẽ thành thổn.,Nếu mà mình chiều cái bụng mình quá thì nó sẽ thành thói quen.
+data2_551,data2,3339.18,3340.0,Quen.,Quen quen.
+data2_552,data2,3341.19,3349.33,Còn một cái nếu như mà mọi người bị thèm quá. Thì mọi người có thể ăn xíu. Xíu thôi. Chút xíu thôi.,"Còn một cái nếu như mà mọi người bị thèm quá. Thì mọi người có thể ăn xíu. Xíu thôi, chút xíu thôi."
+data2_553,data2,3349.33,3353.89,"Chứ đừng có ăn bị nhiều quá. Ăn nhiều quá thì lúc đó không cứu được. Cúi tôi, cúi tôi.","Chứ đừng có ăn bị nhiều quá, ăn nhiều quá thì lúc đó không cứu được. Cúi tui, cúi tui."
+data2_554,data2,3355.03,3364.79,Đó là cái cách mà Như nghĩ là bản thân Như cũng vậy. Nếu mà mệt quá hay như thế nào mình dễ bị tăng cân do mình bị buồn á. Bị căng thẳng là mình hay dễ ăn.,Đó là cái cách mà Như nghĩ là bản thân Như cũng vậy. Nếu mà mệt quá hay như thế nào mình dễ bị tăng cân do mình bị buồn á. Bị căng thẳng là mình hay dễ ăn lắm.
+data2_555,data2,3365.81,3373.79,"Dạ, xong cái chủ đề ngày hôm nay, cảm ơn Bê Nguyễn. Em đã mang đến chương trình một cái... Làng gió mới. Một làng gió mới làm cho chị với Khánh Như Hòa.","Dạ, xong cái chủ đề ngày hôm nay. Cảm ơn Beo Nguyễn. Em đã mang đến chương trình một cái. Một làng gió mới làm cho chị với Khánh như hòa vào một."
+data2_556,data2,3370.1,3370.82,Làng gió mới.,Làng gió mới.
+data2_557,data2,3374.27,3382.05,Bởi vì những bức bối mà chị nghĩ là không phải chỉ riêng Bêu Nguyễn ở đây mà ở ngoài kia cũng có rất nhiều áp lực trong cuộc sống mà chúng ta.,Bởi vì những bước bối mà chị nghĩ là không phải chỉ riêng Beo Nguyễn ở đây. Mà ở ngoài kia cũng có rất nhiều áp lực trong cuộc sống mà chúng ta.
+data2_558,data2,3382.05,3391.55,"Ai cũng có những cái áp lực mà bản thân mình cần phải vượt qua mỗi ngày. Nhưng làm sao để giữ được sức khỏe, cái năng lượng và sự yêu đời mỗi ngày đó là giá trị cần thiết nhất của chúng ta.","Ai cũng có những cái áp lực mà bản thân mình cần phải vượt qua mỗi ngày. Nhưng làm sao để giữ được sức khỏe, năng lượng và sự yêu đời mỗi ngày. Đó là giá trị cần thiết nhất của chúng ta."
+data2_559,data2,3395.04,3399.96,Quan trọng là mình nhìn nhận nó theo cái hướng tích cực là mình sẽ thấy cái mọi chuyện nó sẽ nhẹ nhàng hơn rất là nhiều.,Quan trọng là mình nhìn nhận nó theo cái hướng tích cực là. Mình sẽ thấy cái mọi chuyện nó sẽ nhẹ nhàng hơn rất là nhiều.
+data2_560,data2,3402.37,3403.45,Chị Bên đi Bên.,Chị Mèo đi về rồi.
+data2_561,data2,3403.75,3404.51,Dạ tôi về ạ.,Dạ đi về ạ.
+data2_562,data2,3405.11,3408.81,Hán ơi sao lần nào vậy? Tại em mới nói chị đi về hoài nhau.,Khánh ơi sao lần nào chị. Em có nói chị đi về hoài hả.
+data2_563,data2,3408.81,3410.97,"Tại vì trống sân khấu, em không có biết nói.","Em bị trống sân khấu, em không có biết nói gì."
+data2_564,data2,3410.97,3413.71,Nè em giả cái cuộc áp lực này đi.,Em giả cái cục áp lực này đi. Dục.
+data2_565,data2,3415.07,3416.69,Cho nên là áp lực.,Cho nó hết áp lực á.
+data2_566,data2,3418.79,3426.61,Cái này gọi là những cái bức bối của em. Và nếu như mà nãy giờ những cái lời nói cũng như là cái sự đóng góp của Khánh Như.,Cái này gọi là những cái bức bối của em. Và nếu như mà nãy giờ những cái lời nói cũng như là cái sự đóng góp của Khánh với Như.
+data2_567,data2,3426.91,3436.45,Mà có mang lại cho bạn sự hiệu quả. Hay là một cái lòng an ủi chút xíu. Thì bạn hãy đặt tan cái muộn phiền đi. Trong giây phút này chúng ta chọn vui vẻ. Thoải mái và thả trôi mỗi muộn phiền.,"Mà có mang lại cho bạn sự hiệu quả hay là một cái lòng an ủi chút xíu. Thì bạn hãy đập tan cái muộn phiền đi. Trong giây phút này chúng ta chọn vui vẻ, thoải mái và thả trôi mọi muộn phiền."
+data2_568,data2,3436.55,3443.55,Nhưng trước khi đập tan thì bạn phải nghe theo hiệu lệnh của chị Khả Như nha. Đừng giống những khách mời trước. Bị ụt tai lắm.,Nhưng trước khi đập tan thì bạn phải nghe theo hiệu lệnh của chị Khánh như nha. Đừng giống những khách mời trước. Bị ủ tai lắm.
+data2_569,data2,3443.55,3452.55,Thật ra em thì hơi cảm nhận. Cảm ơn chị Khả Như và anh Khánh đã giải quyết cái vấn đề của em. Thật ra mọi vấn đề muộn phiền em đã giải quyết hết rồi. Nhưng mà theo em hiểu là bây giờ nếu mình giải quyết phải đâm cái này á hả?,Thật ra em thì cảm ơn chị Khả Nhu và anh Khánh đã giải quyết vấn đề của em. Thì mọi vấn đề mụn phiền em đã giải quyết hết rồi. Nhưng mà theo em hiểu là bây giờ nếu mình phải đâm cái này hả chị?
+data2_570,data2,3463.83,3465.27,Em chui ra đập dùm bạn.,Em chui ra đập dùm bạn nè.
+data2_571,data2,3465.27,3465.91,Anh đọc bản.,Em đập bạn.
+data2_572,data2,3466.57,3468.51,Chuyện cái mụn viền này mà cho tụi tao.,Chuyển cái buồn phiền này qua cho anh.
+data2_573,data2,3468.67,3469.81,Là đập tìm bạn.,Đây là đập dùm bạn hả?
+data2_574,data2,3469.85,3474.63,Dạ. Nhưng mà cầm đi nha. Để tôi tôi đâm vào. Em sợ em không phải cầm.,Dạ. Nhưng mà cầm đi nha. Để tôi đâm vào. Em sợ em không phải cầm hả anh?
+data2_575,data2,3474.97,3476.21,Ủa? Cái gì vậy?,Ủa? Cái gì vậy?
+data2_576,data2,3484.58,3485.92,Tôi cảm thấy thoải mái quá.,Tôi cảm thấy thoải mái quá.
+data2_577,data2,3494.3,3502.74,"Cảm ơn Bêu Nguyễn đã đến với chương trình, cảm ơn Nhi Khánh. Hàng Như cảm ơn quý vị khán giả đã dành thời gian với chuyện họ triệu mình. Quý vị thông minh, chương trình do đài truyền hình TP.HCM.",Cảm ơn Beo Nguyễn đã đến với chương trình. Cảm ơn Nhi Khánh. Cảm ơn quý vị khán giả đã dành thời gian với Chuyện Họ Chuyện Mình. Quý vị thông mến. Chương trình do Đài Truyền hình TP.HCM.
+data2_578,data2,3502.94,3508.94,Phối hợp cùng với Madison Media Group thực hiện. Được phát sóng vào lúc 20h thứ 7 hàng tuần trên kênh HTV7.,Phối hợp cùng với Madison Media Group thực hiện. Được phát sóng vào lúc 20h thứ 7 hàng tuần trên kênh HTV7.
+data2_579,data2,3509.44,3513.06,"Còn bây giờ, xin chào và hẹn gặp lại.","Còn bây giờ, xin chào và hẹn gặp lại."

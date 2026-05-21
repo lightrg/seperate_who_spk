@@ -1,0 +1,102 @@
+{
+  "model_name": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "summary_json": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/code/qwen/kq/data26/summary.json",
+  "transcript": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/data/test_labeled/data26/labeled/transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 3,
+      "speaker_summary_score": 2,
+      "faithfulness_score": 4,
+      "conciseness_score": 2,
+      "total_score": 11,
+      "verdict": "review"
+    },
+    "issues": [
+      "Main summary is not accurate. The summary states that the conversation is about dividing schedules and responsibilities within the family, but the transcript mainly discusses a family dinner, duets, and some personal comments about health and family life.",
+      "Speaker 03, 04, 05, 07, 09, 10, 11, 12 are not accurately summarized. Their contributions are not clearly reflected in the summary.",
+      "Speaker 08 is accurately summarized, but the summary for other speakers is not."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "Conan",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of Conan's contribution in the transcript."
+      },
+      {
+        "speaker": "Conan_old",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of Conan_old's contribution in the transcript."
+      },
+      {
+        "speaker": "Habara",
+        "score": 3,
+        "supported": true,
+        "reason": "Habara's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_02",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of speaker_02's contribution in the transcript."
+      },
+      {
+        "speaker": "speaker_03",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of speaker_03's contribution in the transcript."
+      },
+      {
+        "speaker": "speaker_04",
+        "score": 2,
+        "supported": true,
+        "reason": "speaker_04's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_05",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of speaker_05's contribution in the transcript."
+      },
+      {
+        "speaker": "speaker_07",
+        "score": 2,
+        "supported": true,
+        "reason": "speaker_07's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_08",
+        "score": 3,
+        "supported": true,
+        "reason": "speaker_08's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_09",
+        "score": 3,
+        "supported": true,
+        "reason": "speaker_09's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_10",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of speaker_10's contribution in the transcript."
+      },
+      {
+        "speaker": "speaker_11",
+        "score": 3,
+        "supported": true,
+        "reason": "speaker_11's contributions are accurately summarized, focusing on family life and responsibility division."
+      },
+      {
+        "speaker": "speaker_12",
+        "score": 0,
+        "supported": false,
+        "reason": "No clear evidence of speaker_12's contribution in the transcript."
+      }
+    ],
+    "final_comment": "The summary is partially accurate but lacks clarity and detail. It does not capture the main focus of the conversation, which is more about family life and responsibility division. The speaker summaries are inconsistent, with some being accurate and others lacking evidence. The faithfulness score is moderate, but the summary is not concise enough. Overall, a review is needed to improve the accuracy and clarity of the summary."
+  },
+  "raw_text": "```json\n{\n  \"overall\": {\n    \"main_summary_score\": 3,\n    \"speaker_summary_score\": 2,\n    \"faithfulness_score\": 4,\n    \"conciseness_score\": 2,\n    \"total_score\": 11,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Main summary is not accurate. The summary states that the conversation is about dividing schedules and responsibilities within the family, but the transcript mainly discusses a family dinner, duets, and some personal comments about health and family life.\",\n    \"Speaker 03, 04, 05, 07, 09, 10, 11, 12 are not accurately summarized. Their contributions are not clearly reflected in the summary.\",\n    \"Speaker 08 is accurately summarized, but the summary for other speakers is not.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"Conan\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of Conan's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"Conan_old\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of Conan_old's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"Habara\",\n      \"score\": 3,\n      \"supported\": true,\n      \"reason\": \"Habara's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_02\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of speaker_02's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_03\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of speaker_03's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_04\",\n      \"score\": 2,\n      \"supported\": true,\n      \"reason\": \"speaker_04's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_05\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of speaker_05's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_07\",\n      \"score\": 2,\n      \"supported\": true,\n      \"reason\": \"speaker_07's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_08\",\n      \"score\": 3,\n      \"supported\": true,\n      \"reason\": \"speaker_08's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_09\",\n      \"score\": 3,\n      \"supported\": true,\n      \"reason\": \"speaker_09's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_10\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of speaker_10's contribution in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_11\",\n      \"score\": 3,\n      \"supported\": true,\n      \"reason\": \"speaker_11's contributions are accurately summarized, focusing on family life and responsibility division.\"\n    },\n    {\n      \"speaker\": \"speaker_12\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No clear evidence of speaker_12's contribution in the transcript.\"\n    }\n  ],\n  \"final_comment\": \"The summary is partially accurate but lacks clarity and detail. It does not capture the main focus of the conversation, which is more about family life and responsibility division. The speaker summaries are inconsistent, with some being accurate and others lacking evidence. The faithfulness score is moderate, but the summary is not concise enough. Overall, a review is needed to improve the accuracy and clarity of the summary.\"\n}\n```"
+}

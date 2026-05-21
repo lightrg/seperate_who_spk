@@ -1,0 +1,184 @@
+{
+  "low_threshold": 0.25,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 1706,
+  "collect_stats": {
+    "primary": 1359,
+    "aux": 0,
+    "fallback": 347,
+    "discarded_lt_0_5": 108
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 1239,
+    "assigned_primary": 1057,
+    "assigned_aux": 0,
+    "assigned_fallback": 182
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": false,
+    "skip_reason": "cluster_imbalance_too_high",
+    "selected_total": 0,
+    "selected_per_cluster": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "candidate_total": 521,
+    "candidate_per_cluster": [
+      159,
+      192,
+      164,
+      6
+    ],
+    "rejected_invalid": 467,
+    "rejected_tier": 182,
+    "rejected_low_sim": 36,
+    "rejected_low_margin": 27,
+    "rejected_short": 473,
+    "min_cluster_count": 6,
+    "max_cluster_count": 192,
+    "cluster_imbalance_ratio": 32.0,
+    "centroid_shift_cosine": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 593,
+    "force_meta_bucket_entries_created": 593,
+    "force_meta_tracks_seen": 968,
+    "force_meta_tracks_existing_skipped": 593,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 23,
+    "force_meta_tracks_no_segments": 352,
+    "force_meta_tracks_no_active": 352,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 17,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 8,
+    "force_meta_entries_created_from_force_only": 15,
+    "force_meta_total_entries": 608,
+    "force_meta_force_only_sample_keys": [
+      "(5, 1)|continuous_segment|tier=aux",
+      "(16, 1)|continuous_segment|tier=fallback",
+      "(30, 1)|continuous_segment|tier=aux",
+      "(35, 0)|continuous_segment|tier=fallback",
+      "(84, 1)|continuous_segment|tier=aux",
+      "(100, 1)|continuous_segment|tier=aux",
+      "(103, 1)|continuous_segment|tier=aux",
+      "(134, 0)|continuous_segment|tier=fallback"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 8,
+    "kept": 1894,
+    "removed_dur_sec": 5.205633802816351,
+    "removed_by_tier": {
+      "primary": 7,
+      "fallback": 1
+    }
+  },
+  "propagate_stats": {
+    "propagated_tracks": 203,
+    "force_assigned_tracks": 5,
+    "force_assign_candidates_total": 5,
+    "force_assign_lookup_hits_pass1": 5,
+    "force_assign_lookup_misses_pass1": 221,
+    "force_assign_lookup_misses_pass1_active": 2,
+    "force_assign_lookup_misses_pass1_inactive": 219,
+    "force_assign_same_track_other_chunk_pass1": 221,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 0,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 0,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 219,
+    "global_propagate_rejected_low_conf": 2,
+    "unmapped_tracks": 0,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 0,
+    "force_assign_sample_pass1_miss_active": [
+      "(38, 0)",
+      "(47, 0)"
+    ],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 2,
+    "hard_fallback_no_history": 0
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 539,
+  "mapped_tracks_after_propagate": 968,
+  "raw_segment_rows": 1894,
+  "vbx_segment_rows": 1894,
+  "final_segment_rows": 1894,
+  "artifacts": {
+    "raw_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_baseline\\runs\\thr_025\\test_labeled\\data19\\forensics_baseline__thr025__test_labeled__data19\\raw_low025.rttm",
+    "hyp_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_baseline\\runs\\thr_025\\test_labeled\\data19\\forensics_baseline__thr025__test_labeled__data19\\hyp_low025.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "Anh",
+      "SPK_1": "Cuong",
+      "SPK_2": "Dustin",
+      "SPK_3": "google"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 34.83,
+      "hypothesis_overlap_seconds": 283.25,
+      "true_positive_seconds": 7.03,
+      "false_positive_seconds": 276.22,
+      "false_negative_seconds": 27.8,
+      "precision": 0.024819064430714917,
+      "recall": 0.20183749641113985,
+      "f1": 0.04420271629778672
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 34.83,
+      "both_correct_any_seconds": 1.5700000000000012,
+      "both_correct_exact_seconds": 1.5700000000000012,
+      "one_correct_seconds": 25.630000000001207,
+      "zero_correct_seconds": 7.629999999999882,
+      "detected_as_overlap_seconds": 7.0299999999998946,
+      "collapsed_to_nonoverlap_seconds": 27.800000000001546
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 160.46999999999903,
+      "kept_true_plus_extra_seconds": 125.18000000002714,
+      "both_wrong_seconds": 35.29000000000155
+    }
+  },
+  "skipped": false,
+  "der": 72.407689798507,
+  "miss": 17.26571732176153,
+  "fa": 40.57927195317754,
+  "conf": 14.562700523567909
+}

@@ -1,0 +1,670 @@
+sample_id,data_name,start,end,predicted_text,target_text
+data19_0,data19,0.24,2.95,Nó có vị đấy. Hiểu gì biết không.,Nó có vị đấy. Nhưng thiếu gì biết không?
+data19_1,data19,3.73,5.21,Thiếu một cái chiều sâu.,Thiếu một cái chiều sâu.
+data19_2,data19,14.61,16.77,Cảm ơn các bạn. Cảm ơn.,Là cái gì?
+data19_3,data19,16.93,19.65,Ân. Sao mơ lơ to quá.,Là sờ mờ lờ tờ.
+data19_4,data19,20.89,23.21,Xin chào và hẹn gặp lại.,Xíu.
+data19_5,data19,57.62,61.79,Cường S7 với Vũ Ngọc Anh đến với 3BD.,Welcome Cuong Seven với lại Vũ Ngọc Anh đến với 3Buddy. Yeah.
+data19_6,data19,63.72,70.09,Xem rất là nhiều lần rồi mà hôm nay mới được mời mọi người ạ. Và hôm nay bọn tớ rất là vinh dự bởi vì bạn mời bọn tớ đến chương trình của bạn.,Tớ xem rất là nhiều lần rồi mà hôm nay mới được mời mọi người ạ. Và hôm nay bọn tớ rất là vinh dự bởi vì bạn mời bọn tớ đến chương trình của bạn.
+data19_7,data19,72.33,79.26,Cô ngọc Anh đã chuẩn bị tinh thần để được thưởng thức những cái ly cocktail và những cái màn gọi là rất là hay thôi.,Cô Ngọc Anh đã chuẩn bị tinh thần để được thưởng thức những cái ly cocktail và những cái màn gọi là rất là hay ngô.
+data19_8,data19,80.19,86.33,"Thực ra là tôi thấy là nếu mà nói chuyện ấy, xong rồi mình ngồi uống cocktail với nhau. Xong rồi nói chuyện tôi thấy khá là thoải mái.","Thực ra là tớ thấy là nếu mà nói chuyện ấy, xong rồi mình ngồi uống cocktail ở nhau xong rồi mình nói chuyện tớ thấy khá là thoải mái."
+data19_9,data19,86.32,89.6,Là mình sẽ bao như chuyện là mình tuôn ra hết luôn.,Là mình sẽ bao nhiêu chuyện là mình tuôn ra hết luôn đó chồng?
+data19_10,data19,89.61,94.2,"Không, không thua đâu. Tôi tỉnh táo. Chuyên tâm là tôi rất tỉnh táo.","Không, không tuôn đâu. Tớ tỉnh táo lắm. Yên tâm là tớ rất tỉnh táo."
+data19_11,data19,94.2,98.09,Tớ là cũng phải cảm ơn hai vợ chồng. Tại vì đã đến dự đám cưới của tớ.,Tớ là cũng phải cảm ơn hai vợ chồng vì đã đến dự đám cưới của tớ.
+data19_12,data19,98.58,103.01,Hai vợ chồng lúc nào cũng nhanh gọn lẹ say yes.,"Hai vợ chồng lúc nào cũng nhanh, gọn, lẹ, say yes."
+data19_13,data19,103.39,107.62,"Thì tôi say yes rồi, tại vì tôi rất là quý bạn. Tôi xem rất là nhiều những cái tập mà talk show của bạn.","Thì tớ say yes thôi, tại vì tớ rất là quý bạn. Tớ xem rất là nhiều những cái tập mà talk show của bạn."
+data19_14,data19,107.64,115.5,Mặc dù là hai đứa mình nói chuyện với nhau rất là ít. Nhưng mà có theo dõi nhau. Từ cũng có nói bạn là đôi lúc mình gặp nhau. Mình cảm nhận năng lượng.,"Mặc dù là hai đứa mình nói chuyện với nhau rất là ít, nhưng mà có theo dõi nhau. Tớ cũng có nói với bạn là đôi lúc mình gặp nhau ấy, mình cảm nhận năng lượng của nhau."
+data19_15,data19,115.45,116.09,Cái gì vậy ta?,Hay quá vậy ta.
+data19_16,data19,116.71,125.43,Vì là Cường là một người có trực giác tốt. Nhìn được xoáy vào bên trong người khác và thấy người ta đang nghĩ gì. Nhìn thấu được tâm can của một anh.,Vậy là Cuong là một người có trực giác tốt. Nhìn được xoáy vào bên trong người khác. Và thấy người ta đang nghĩ gì. Nhìn thấu được tâm can của Ngọc Anh.
+data19_17,data19,126.15,128.97,May qua tâm can của tôi thật là trong trắng.,May quá tâm can của tôi thật là trong trắng.
+data19_18,data19,128.98,130.27,Không trông chẳng tí nào.,Không trông trắng tí nào.
+data19_19,data19,132.06,133.49,Để lát nữa chúng ta.,Để lát nữa chúng ta cùng biết.
+data19_20,data19,133.21,136.09,"Ờ đúng rồi, không biết chẳng tí nào tí em sẽ bật mí cho mọi người nha.","Đúng rồi, không trông trắng tí nào tí nữa sẽ bật mí cho mọi người nha."
+data19_21,data19,136.09,141.51,"Giới thiệu một tí, mình đang đứng ở Oculus Board 54, vỏ bằng tần.",Giới thiệu một tí. Mình đang đứng ở Oculus Bar 54 Võ Văn Tần.
+data19_22,data19,141.43,142.46,Đẹp quá.,Đẹp quá.
+data19_23,data19,141.71,146.09,Dustin chọn món này rất là chill mà hợp được vai và tới luôn.,Hôm nay Dustin chọn món này rất là chill mà hợp cả vai bọn tớ luôn.
+data19_24,data19,146.08,149.05,Ở đây cái biểu tượng Oculus là con mắt.,Ở đây cái biểu tượng Oculus là con mắt á.
+data19_25,data19,149.08,157.82,Cho nên là những cái thiết kế như cầu bà nó cũng hình tròn người bartender là cái tâm và khách sẽ ngồi xung quanh và nhìn được họ.,Cho nên là những cái thiết kế như quầy bar nó cũng hình tròn. Người bartender là cái tâm. Và khách sẽ ngồi xung quanh và nhìn được họ.
+data19_26,data19,157.71,160.64,Họ giống như vừa là sân khấu mà vừa là quầy bar.,Vì họ giống như là vừa là sân khấu vừa là quầy bar.
+data19_27,data19,160.64,161.8,Không hợp lý.,Cũng hợp lý.
+data19_28,data19,161.8,162.82,Riêng tư nhỉ.,Riêng tư nhờ.
+data19_29,data19,162.83,166.97,Sau đây nó có một cái quầy ba khác. Thì biểu tượng theo mình hiểu là của hàng my.,Sau đây nó có một cái quầy bar khác. Biểu tượng theo mình hiểu là của hàng My.
+data19_30,data19,166.94,173.68,Sắp tới cũng có một cái gọi là pairing food and drink. Vừa có đồ ăn luôn.,Sắp tới cũng có một cái gọi là pairing food and drinks. Vừa có đồ ăn luôn.
+data19_31,data19,173.68,175.62,Là kết hợp đồ ăn đồ uống luôn.,Dạ là kết hợp đồ ăn đồ uống luôn.
+data19_32,data19,175.6,182.64,Để có được một cái buổi tối chi chiêu thì nhiệm vụ chương trình là phải tự tay thực hiện 2 cái món nước.,Có được một cái buổi tối chill chill thì nhiệm vụ chương trình là phải tự tay thực hiện hai cái món nước.
+data19_33,data19,183.01,188.19,Là hôm nay mình tự làm luôn hả? À ở nhà vợ cũng hay pha mấy cái rượu ngâm của cậu.,Là hôm nay mình tự làm luôn hả? Đúng. À ở nhà vợ cũng hay pha mấy cái rượu ngâm của cậu á.
+data19_34,data19,188.14,194.33,"Không, nhưng mà đừng, đừng uống bánh. Uống cái dưỡng ông nó bánh là rất nguy hiểm. Tôi kể bạn một lần mà kiểu thảm họa.",Không nhưng mà đừng uống rượu ngâm nó là rất nguy hiểm. Tôi kể cho bạn một lần mà kiểu thảm họa Ngọc Anh.
+data19_35,data19,194.6,203.69,Ý là bà này mang rượu ngâm của nhà bà ngoại ngọc anh đi cho cả đoàn phim uống. Mà lúc mà tôi đang ngồi với bạn. Tại vì là hôm ấy tôi không có mời.,Ý là bà này mang rượu ngâm của nhà bà ngoại Ngọc Anh đi cho cả đoàn phim uống. Mà lúc này tớ đang ngồi với bạn. Tại vì là hôm nay tớ không được mời.
+data19_36,data19,204.19,210.38,Nhưng mà tôi đang ngồi với bạn. Có một cuộc gọi là đúng hai câu thôi. Đón vợ. Đón vợ.,"Nhưng mà nhưng mà tớ đang ngồi với bạn. Có một cuộc gọi là đúng hai câu thôi. Đón vợ, đón vợ."
+data19_37,data19,211.3,214.57,Ê lúc đấy xong là không còn biết cái gì nữa luôn ấy. Tôi ước mất đi.,Thề lúc đấy xong là không còn biết cái gì nữa luôn đấy. Tớ ương mất đi.
+data19_38,data19,214.55,222.51,Đây đây bạn bạn phải kể tới đây tôi kể tới bạn tôi vẫn bây giờ tôi vẫn còn cái hình ảnh đấy là đó vỡ một phát là là sập máy.,"Đây đây bạn bạn phải kể tớ, để tớ kể với bạn. Bây giờ tớ vẫn còn cái hình ảnh đấy. Là đón vợ một phát là. Sập máy."
+data19_39,data19,222.45,230.59,Mình đang ngồi với cả bạn bè của mình. Tức là mình tức tốc mình đứng dậy đi luôn. Mà bạn biết tờ đến đấy là ngay bên.,Mình đang ngồi với cả bạn bè của mình. Tự nhiên mình tức tốc mình đứng dậy mình đi luôn. Mà bạn biết tớ đến đấy là ngay bên quận 2.
+data19_40,data19,231.06,234.85,Sắp mời thấy là bà này đang làm một số ở đấy.,Xong rồi thấy là bà này đang nằm một xó ở đấy luôn.
+data19_41,data19,234.87,235.69,Không có đâu.,Một xó đâu
+data19_42,data19,235.69,239.53,Ngoài đường luôn ngằm một cái ghế mà mọi người phải khênh bài ra bài tự nhiên bật.,Ngay ngoài đường luôn. Nằm một cái ghế mà mọi người phải khênh bà ấy ra. Bà ấy tự nhiên bật dậy.
+data19_43,data19,239.86,245.44,Ê tôi không say tôi đi được. Vào xe ô tô phát. Vào đôn hết cả xe ô tô. Không biết đâu.,Tôi không say tôi đi được. Vào xe ô tô phát. Nôn hết cả xe ô tô.
+data19_44,data19,245.49,247.77,Chúng ta mới bắt đầu chương trình nôn.,Chúng ta mới bắt đầu chương trình thôi.
+data19_45,data19,248.72,256.53,Từ lúc mà ở trên cái chức quận 2 về lại Vinhome đỡ mãi bà ra xe thì bà lại đứng ở đằng sau đi xe bà.,"Nôn từ lúc mà ở trên cái chỗ quận 2 về lại vinhome, đỡ mãi bả mới ra xe thì bà lại đứng ở đằng sau xe bả nôn tiếp."
+data19_46,data19,250.73,251.89,Ở trên cái chức quận 2 tháng 2 năm 2002.,Tôi không nên ở chỗ này.
+data19_47,data19,256.41,261.05,"Thôi chúng ta hãy quên đi, chúng ta phải làm một cái ly rượu để trôi đi được cái sâu đấy.","Thôi chúng ta hãy quên đi, chúng ta phải làm một cái ly rượu để trôi đi được cái sự đấy."
+data19_48,data19,259.85,264.15,Nhưng mà sau cái thời gian đấy mới rõ là thấy rất ít uống.,"Nhưng mà sau sau cái đợt đấy, cái thời gian đấy đến bây giờ là thấy rất ít uống rượu."
+data19_49,data19,264.93,267.25,Sợ. Em bị sợ luôn á.,Sợ. Ê bị sợ luôn á.
+data19_50,data19,267.05,275.31,Ngày xưa hồi đầu mà tôi quen với ngọc anh là bà này là bà đi chơi với bạn bà ấy uống rượu là đến tầm 2-3 giờ sáng.,Ngày xưa hồi đầu mà tôi quen Ngọc Anh ấy là bà này là bà đi chơi với bạn bà ấy uống rượu là đến tầm 2-3 giờ sáng mới về.
+data19_51,data19,267.96,269.14,"Mà tôi quen, quen không biết cái chuyện đó bao giờ. Quen không quen.",Bị sợ luôn
+data19_52,data19,276.11,284.73,Thôi mình pha chế rượu đi mọi người. Đang ở đây đang ngồi những ly rượu rất an toàn đang ở đây. Mình nên pha chế rượu đi mọi người.,"Thôi mình pha chế rượu đi mọi người. Đang ở đây đang có những ly rượu rất an toàn, đang ở đây mình nên pha chén rượu đi."
+data19_53,data19,279.02,280.93,"Đang ở đây, đang ở đây.",Mình hiểu được một chút thông tin rồi.
+data19_54,data19,284.33,286.87,Ở nhà mình không có gì ngoài rượu.,Nhà mình không có gì ngoài rượu.
+data19_55,data19,289.94,295.78,Tớ nghĩ là một từng người sẽ làm. Flicker là cái món bên này. Ai muốn làm ly đó.,"Tớ nghĩ là một từng người sẽ làm, Flicker là cái món bên này, ai muốn làm ly đó."
+data19_56,data19,295.78,297.91,Và mình làm ly này.,Vợ muốn làm ly này.
+data19_57,data19,298.5,299.44,Cũng được.,Cũng được.
+data19_58,data19,299.43,300.82,Cũng thấy hồi hợp dùm luôn.,Tớ cũng thấy hồi hộp dùm luôn á.
+data19_59,data19,302.05,308.89,"Bây giờ tôi sẽ bắt đầu nha mọi người. Yes, đầu tiên là 15 ml. Sinh ha soda.",Bây giờ tôi sẽ bắt đầu nha mọi người. Đầu tiên là 15ml Sinha Soda.
+data19_60,data19,314.07,318.83,Mình đọc câu hỏi hai người cùng trả lời nhanh nha. Lần đầu hai người gặp nhau ở đâu?,Mình đọc câu hỏi 2 người cùng trả lời nhanh nha. Lần đầu 2 người gặp nhau ở đâu?
+data19_61,data19,318.75,320.03,"1, 2, 3.",một hai ba.
+data19_62,data19,320.03,320.55,Ở phim.,Ở phim.
+data19_63,data19,320.63,321.91,Cùng gặp nhau hả?,Cùng gặp nhau hả?
+data19_64,data19,321.73,323.57,Hả? Hai người gặp nhau chứ. Cùng gặp là sao?,Hai người gặp nhau chứ cùng gặp là sao?
+data19_65,data19,323.61,328.31,Ý là ngọc ngọc vào anh Cường vào một khoảng khách khác. Còn anh Cường gặp ngọc vào một khoảng khách khác.,Ý là Ngọc gặp anh Cuong vào một khoảnh khắc khác. Còn anh Cuong gặp Ngọc vào một khoảnh khắc khác.
+data19_66,data19,328.21,329.43,Có phải gặp anh Cường này không?,Có phải gặp anh Cuong này không?
+data19_67,data19,329.48,332.68,Anh cường này. Thôi để phim đi cũng được.,Anh Cuong này. Thôi để phim đi cũng được.
+data19_68,data19,333.71,335.35,À hay quá vậy sao.,Hay quá vậy sao?
+data19_69,data19,334.5,338.52,Không phải gặp khác chỗ với Cường gặp em.,Em có thể gặp khác chỗ với lại Cuong gặp em.
+data19_70,data19,338.12,346.84,Thì tại vì lúc đấy là ngọc vô tình nhìn thấy anh Cường thôi. Hồn chơi chắc là anh Cường nhìn thấy ngọc. Rồi một lúc khác thì kiểu hai đứa mà chạm mặt nhau thì là trong.,"Thì tại vì lúc đấy là Ngọc vô tình nhìn thấy anh Cuong thôi, còn chưa chắc là anh Cuong nhìn thấy Ngọc. Rồi một lúc khác thì kiểu hai đứa mà chạm mặt nhau thì là ở trong phim."
+data19_71,data19,347.23,350.37,Cậu đang lấy cái gì đấy. Cavalo. Đúng rồi 45.,"Cuong đang lấy cái gì đấy? Cavalos. Đúng rồi, 45 mil."
+data19_72,data19,350.27,352.39,Capa Dos. Khe REC 7 tới.,Cavalos. Đúng rồi.
+data19_73,data19,353.39,358.39,Đi tập với cả trúng phim. Nên là hai đứa gặp nhau ở trong đấy.,Đi đi tập với cả chúng phim. Nên là hai đứa gặp nhau ở trong đấy.
+data19_74,data19,359.33,361.81,Nếu mà Lập đã nhìn thấy anh Cường từ trước đến giờ.,Nhưng mà Ngọc đã nhìn thấy anh Cuong từ trước đấy rồi.
+data19_75,data19,361.61,365.83,Cứ cũng nhìn thấy học anh từ trước như chưa bao giờ nói chuyện. Là bắt đầu trong phim là bắt đầu muốn nói chuyện.,Cuong cũng nhìn thấy Ngọc Anh từ trước nhưng chưa bao giờ nói chuyện. Là bắt đầu ở trong phim rồi bắt đầu mới nói chuyện.
+data19_76,data19,366.15,372.41,Trong phim sau khoảng nửa tháng mới nói chuyện với nhau. Ngoài trừ những lúc phải tập thoại ra thôi còn lại là không bao giờ nói chuyện với nhau.,Trong phim sau khoảng nửa tháng mới nói chuyện với nhau. Ngoài chứ những lúc phải tập thoại ra thôi. Còn lại là không bao giờ nói chuyện với nhau.
+data19_77,data19,372.31,374.48,"Chỉ nhìn thôi, bị stock thôi.","Chỉ nhìn thôi, bị stalk thôi."
+data19_78,data19,374.38,378.66,Chỉ đại khái là vậy á. Chỉ quan sát thôi.,Chỉ đại khái là vậy á. Chỉ quan sát thôi.
+data19_79,data19,378.26,380.91,"Còn mọi người tiếp theo, ai là người đổ trước?",Câu hỏi tiếp theo. Ai là người đổ trước?
+data19_80,data19,380.93,384.49,"Trời ơi, kìa trông kìa. Ê, điều nha.","Kìa chồng kìa. Ê, Điêu nha."
+data19_81,data19,386.05,387.75,"Vâng, đổ trước là đúng rồi.",Vợ đổ trước là đúng rồi.
+data19_82,data19,386.95,388.05,Không biết sao vậy chứ.,Chồng nghĩ sao vậy.
+data19_83,data19,387.85,390.39,Nhưng mà tình vợ trước thì chồng phải là người đổ trước.,Chồng tỏ tình vợ trước thì chồng phải là người đổ trước.
+data19_84,data19,390.25,391.09,Tò tin lúc nào.,Tỏ tình lúc nào?
+data19_85,data19,393.27,397.49,Khi mà đã là chồng rồi thì nó khác lắm bạn ạ. Bạn có tỉ như tỉ không?,Thấy không? Khi mà đã là chồng rồi thì nó khác lắm bạn ạ. Bạn có thấy như thế không?
+data19_86,data19,397.95,399.01,Còn tí nữa sao?,Tỏ tình lúc nào?
+data19_87,data19,418.24,423.45,"Thì nghĩ là chưa có lần mà tỏ tình chính thức nhỉ, đúng không?",Hình như là chưa có lần mà tỏ tình chính thức nhờ? Đúng không?
+data19_88,data19,423.96,426.5,Mình chưa có lần nào mình tỏ thành chính thức cái sao.,Mình là chưa có lần nào mình tỏ tình chính thức hay sao ấy.
+data19_89,data19,426.4,428.86,Có mà trong tòa tình vợ một lần rồi.,"Có mà, chồng tỏ tình vợ một lần rồi."
+data19_90,data19,428.98,430.42,Nói câu nào mà tỏ tình.,Nói câu nào mà tỏ tình?
+data19_91,data19,430.36,431.84,Là mạnh dạn nhé.,Làm bạn gái anh nhé.
+data19_92,data19,432.88,433.5,Có à.,Có à?
+data19_93,data19,433.5,435.22,Đập trùng phá bây giờ.,Đập chồng một phát bây giờ đây.
+data19_94,data19,435.86,437.44,Đang tập thoại phim á à.,Đang tập thoại phim mà.
+data19_95,data19,438.74,440.66,Như vậy là. Ngọc anh đổ trước.,Như vậy là Ngọc Anh đổ trước.
+data19_96,data19,440.66,448.53,"Chả biết nữa thôi, cả hai đứa đổ vào nhau đi ha. Cắt bản là bọn ngọc lúc đấy là kiểu như là muốn để cho mọi thứ nó tự nhiên.","Chả biết nữa thôi, cả hai đứa đổ vào nhau đi ha. Căng bản là bọn Ngọc lúc đấy là kiểu như là muốn để cho mọi thứ nó tự nhiên ấy."
+data19_97,data19,448.43,452.85,"Thì cứ giáp vào nhau, ở bên cạnh nhau đến tận giờ này không hay luôn.",Thì cứ ráp vào nhau rồi ở bên cạnh nhau đến tận giờ này không hay luôn á.
+data19_98,data19,452.75,455.61,"Nào từ từ, hai người yêu nhau bao nhiêu trăm thì cưới.",Nào từ từ hai người yêu nhau bao nhiêu năm thì cưới.
+data19_99,data19,455.8,456.43,Tạm nằm.,8 năm.
+data19_100,data19,456.41,458.39,Bài lắm và cưới.,Bảy năm rồi cưới.
+data19_101,data19,458.39,459.76,À ở bảy năm mở cưới.,À ừ 7 năm rồi cưới.
+data19_102,data19,459.95,461.07,Trời ơi.,Trời ơi.
+data19_103,data19,461.79,466.63,Bọn tớ yêu nhau chắc chưa được 12 tháng.,Bọn tớ yêu nhau chắc chưa được 12 tháng.
+data19_104,data19,466.63,475.67,Wow. Nhưng đôi khi nó là định mệnh. Đúng rồi. Ít hay nhiều thời gian nó không quan trọng. Tự dưng mình cảm nhận. À đây đúng là người bạn đời của mình rồi mình muốn cưới.,Wow. Nhưng đôi khi nó là định mệnh. Đúng rồi. Ít hay nhiều thời gian không quan trọng. Tự dưng mình cảm nhận. À đây đúng là người bạn đời của mình. Rồi mình muốn cưới họ.
+data19_105,data19,475.67,476.83,Thì đấy mới là điều quan trọng.,Cái đấy mới là điều quan trọng.
+data19_106,data19,477.89,483.15,Đúng không? Không phải ai mình cũng có cái cảm xúc đấy đâu. Không phải ai mình cũng có cảm giác là muốn điều đấy đâu.,"Đúng không, không phải ai mình cũng có cái cảm xúc đấy đâu. Không phải ai mình cũng có cái cảm giác là muốn điều đấy đâu."
+data19_107,data19,478.25,481.14,Không phải ai mình cũng có cái cảm xúc đấy đâu.,"Phải tìm được đúng người, chính xác."
+data19_108,data19,483.17,485.11,Muộn hay sớm nó không quan trọng hẳn đúng.,Muộn hay sớm nó không quan trọng bằng đúng.
+data19_109,data19,485.11,485.79,Đúng.,Đúng.
+data19_110,data19,485.93,488.65,Ôi chết rồi. Đã có gì đó.,Ôi chết rồi. Đã có gì đó.
+data19_111,data19,489.61,491.19,Không sao không sao bạn ơi.,Không sao không sao bạn ơi.
+data19_112,data19,490.91,492.69,Quên mất là không được đá.,Quên mất là không được đá.
+data19_113,data19,494.17,497.65,Bạn ơi thông cảm ở nhà chồng tớ là biết là.,Bạn ơi thông cảm ở nhà. Chồng tớ là biết làm.
+data19_114,data19,497.65,502.06,Không nhưng mà ly này sẽ là một ly rất là ngon. Tôi nghĩ vậy.,Ôi không nhưng mà ly này sẽ là một ly rất là ngon. Tớ nghĩ vậy.
+data19_115,data19,503.22,505.12,Cái đi sau tới còn sợ nữa.,Thế vì sau tớ còn sợ nữa.
+data19_116,data19,505.12,507.92,"Không, ngọc Anh có thể, ngọc Anh phát.","Không, Ngọc Anh có thể, Ngọc Anh pha."
+data19_117,data19,508.02,514.1,"Ở nhà có sữa biết pha nước chanh và tràng trứng bác ạ. Đấy, 2 món.","Ở nhà chồng tớ biết pha nước chanh và trắng trứng bạn ạ. Đấy, hai món."
+data19_118,data19,514.4,516.17,Chúc mừng.,Chúc mừng.
+data19_119,data19,518.79,522.12,Ui vừa đủ đây. Đủ không? Đây.,"Uầy, vừa đủ này. Đúng không?"
+data19_120,data19,523.22,526.26,Thế bình đã làm xong ly rượu trong 15 giây.,Thế mình đã làm xong ly rượu trong 15 giây.
+data19_121,data19,531.59,535.69,Nãy giờ là mình làm khó bạn mà bạn vẫn vượt qua được thử thách. Thử đi.,Nãy giờ là mình làm khó bạn mà bạn vẫn vừa qua được thử thách. Thử đi.
+data19_122,data19,535.41,538.43,"Bạn, bạn, bạn. Sổ bạch trước đi.","Bạn bạn bạn, chuột mạch trước đi."
+data19_123,data19,538.76,539.66,Mời bạn.,Mời bạn.
+data19_124,data19,541.29,543.69,"Dù đúng, dù sai nó vẫn ra được kết quả.",Dù đúng dù sai nó vẫn ra được kết quả.
+data19_125,data19,547.49,554.67,"Vẫn nghe mùi táo, vẫn có ga, chua ngọt, có một tí nồng xay nhẹ nha.","Vẫn nghe mùi táo, vẫn có gas chua ngọt, có một tí nồng xay nhẹ nha."
+data19_126,data19,554.61,556.06,Tại sao nhiều tiểu hơn tí xíu?,Tôi cho nhiều rượu hơn tí xíu.
+data19_127,data19,556.06,561.18,"Ồ, đồng phá công thức. Nhưng mà rất là đậm đà.","Ồ, đột phá công thức, nhưng mà rất là đậm đà."
+data19_128,data19,561.43,564.99,Đây là ly cocktail đầu tiên dòng pha cho vợ.,Đây là ly cocktail đầu tiên chồng pha cho vợ đấy.
+data19_129,data19,565.86,567.5,Battender là cũng ok đấy.,Bartender là cũng ok đấy nha.
+data19_130,data19,570.65,572.05,Ok rồi.,Ok đấy chồng.
+data19_131,data19,572.65,573.81,Nó đậm đà.,Nó đậm đà.
+data19_132,data19,573.41,577.27,Cháu hãy nhớ công thức này về tụi Nhâm Nhi với nhau nha.,Chồng hãy nhớ công thức này về tối nhâm nhi với nhau nhé.
+data19_133,data19,583.42,590.9,Đạt điểm. Tại bây giờ Ngọc Anh sẽ là người. Và Crystal Petal. Với sự hỗ trợ của Cường.,"Đạt điểm. Bây giờ, Ngọc Anh sẽ là người pha Crystal Petal. Với sự hỗ trợ của Cuong."
+data19_134,data19,590.2,595.2,Ok crystal pearl. Lý ly đá đựng sẵn. Ly đá là ly nào?,"Ok, Crystal Petal. Lấy ly đá đựng sẵn. Ly đá là ly nào?"
+data19_135,data19,595.12,596.92,"Đây, ly đá của Ngọc Anh ở dưới đây.","Đây, ly đá của Ngọc Anh ở dưới đây."
+data19_136,data19,600.85,603.25,"Anh này là phải đọc nha, phải đọc kịch bản.","Ngọc Anh này là phải đọc nha, phải đọc kịch bản."
+data19_137,data19,603.25,608.75,Rót ni tơ lỏng vào trong ly với khối lượng vừa. Cái này vặn ra như thế nào vậy ạ?,Rốt ni tơ lỏng vào trong ly với khối lượng vừa. Cái này vặn ra như nào bạn?
+data19_138,data19,608.59,609.93,Cái này không phải lito.,Cái này không phải ni tơ.
+data19_139,data19,611.07,611.93,Nhìn coi đây.,Ni tơ đây.
+data19_140,data19,612.47,616.47,"Nito đây, đúng kiểu mình Nito.",Ni tơ đây. Đúng kiểu bình ni tơ luôn.
+data19_141,data19,619.77,621.35,Thế này nó có làm gì không?,Đây nó có làm gì không?
+data19_142,data19,621.51,623.98,Mình chỉ cần mở thôi.,Mình chỉ cần mở thôi.
+data19_143,data19,624.08,625.5,Đây đây đây.,Đây đây đây.
+data19_144,data19,628.31,634.51,"Rồi nha, Nito này gió với khối lượng vừa. Khối lượng vừa là khối lượng bao nhiêu?",Rồi nha ni tơ này. rót với khối lượng vừa. Khối lượng vừa là khối lượng bao nhiêu à?
+data19_145,data19,643.11,644.29,Đủ rồi.,Đủ rồi.
+data19_146,data19,644.17,647.43,"Rồi, viết vô lại xong phần ni tơ lõng rồi.","Rồi, nhét vô lại xong phần ni tơ lỏng rồi."
+data19_147,data19,647.98,653.94,Rồi 15 mil. Rô Cô Gin rất chậm. 15 mil.,"Rồi, 15 mil. Rokujin, rốt chậm 15 mil."
+data19_148,data19,653.64,655.08,Biết 15-15 độ đo nào không?,Biết 15 mil đo như nào không?
+data19_149,data19,655.1,656.06,15 new.,15 mil.
+data19_150,data19,657.06,658.56,Mình phải đo.,Mình phải đo.
+data19_151,data19,662.01,663.67,Chắc chắn là 15 luôn.,Chắc chắn là 15 luôn.
+data19_152,data19,664.49,666.08,"12, chưa đủ đúng không?",12 chưa đủ thấy không.
+data19_153,data19,668.42,672.04,"Ê, bình thường, bình thường 20 luôn được không?",Mình cho 20 luôn được không?
+data19_154,data19,672.67,674.07,Em 16 mất rồi.,Ê 16 mất rồi.
+data19_155,data19,674.07,675.03,Cường giúp nha.,Cuong giúp nha.
+data19_156,data19,674.89,675.76,Giúp em.,Không giúp không giúp.
+data19_157,data19,675.75,676.85,Nhược đi.,Giúp đi.
+data19_158,data19,676.83,678.71,Ôi rồi chết rồi rơi vào.,Thôi ôi thôi chết rồi rơi vào.
+data19_159,data19,680.14,682.74,Rồi mất nắp. Thay tiếp. Không sao gửi à.,Rơi mất nắp chai rượu mọi người à.
+data19_160,data19,685.28,690.28,"Trong khi đó, chúng ta cùng trả lời câu hỏi. Mở màn chỉ đẹp của anh mặc đồ màu gì.",Trong khi đó chúng ta cùng trả lời câu hỏi. Mở màng chị đẹp vũ ngọc anh mặc đồ màu gì?
+data19_161,data19,690.23,691.17,"2, 3.",Màu đỏ
+data19_162,data19,690.23,691.17,"2, 3.",Một hai ba.
+data19_163,data19,694.47,700.3,Trái tim tôi vụn vỡ và là sai rồi. Thế mà mở mang cho là chào.,Trái tim tôi vụn vỡ bạn ạ. Sai rồi. Tiết mục mở màng cơ mà chồng.
+data19_164,data19,700.29,701.26,Solo đúng không?,Solo đúng không?
+data19_165,data19,701.62,702.96,Solo hay là...,Solo hay là.
+data19_166,data19,702.84,704.28,Slow là một màn đấy.,Solo là mở mảng ấy.
+data19_167,data19,704.36,707.58,Là tập đầu tiên đi bảo xuất hiện solo là gì?,Là tập đầu tiên vợ xuất hiện solo là gì?
+data19_168,data19,707.38,713.09,Vợ nhớ nhầm trong concert đúng hơn màu đỏ ạ. Sorry ạ. Tốt tập trung vào đây. 10 sec.,"Vợ nhớ nhầm trong concert đúng là màu đỏ ạ, Sorry ạ, bớt tập trung vào đây."
+data19_169,data19,715.16,716.82,Ôi bây giờ là 28 luôn à.,"Ôi, bây giờ là 28 luôn à."
+data19_170,data19,718.81,720.07,B37.,Lên 37.
+data19_171,data19,721.15,722.73,"Không sao, chỉ có xây hên thôi.","Không sao, chỉ có say hơn thôi."
+data19_172,data19,723.21,729.41,Cái gì thì đổ. Tụi chậm thành đổ nhanh lý sao không ạ. Watermelon đây à.,"Nó thì nó thì nổ chậm và thành nổ nhanh hay sao bạn ạ. Watermelon đây ạ, đây."
+data19_173,data19,729.35,730.09,Chính xác.,Chính xác.
+data19_174,data19,731.15,735.07,Rớt đầy ly 50ml. 50ml thôi mình đong ra đi ha.,"Rót đầy ly 50ml, 50ml thôi mình đong ra đây đi ha."
+data19_175,data19,736.3,739.72,Nhưng mà đang ở đây đi trường học cũng không biết 50 mu mà cho vào kênh.,"Nhưng mà đong ở đây đi chứ, Ngọc cũng không biết 50ml mà cho vào cái..."
+data19_176,data19,775.25,780.53,Và bây giờ chúng ta phải bỏ vào trong bình xếc cơ lắc và cho đá hồi trước đi.,Và bây giờ chúng ta phải bỏ vào trong bình shaker lắc. Và cho đá vào trước đi.
+data19_177,data19,781.03,785.36,Đây đây đây đây đó. Chồng yên tâm. Mấy viên à anh.,"Đây đây đây, để vợ. Chồng yên tâm. Mấy viên hả anh?"
+data19_178,data19,785.74,794.24,"Khoảng 2 phần 3. À đây đây, lấy cái này. Đây là cái bàn stir. Mà mình stir thanh lịch trong 40 cái.","Khoảng 2 phần 3. À đây đây, lấy cái này. Đây là cái màng stir. Mà mình stir thanh lịch trong 40 cái."
+data19_179,data19,794.14,795.86,Xoay 40 cái nhẹ nhàng thanh lịch.,Xoay 40 cái nhẹ nhàng thanh lịch.
+data19_180,data19,795.76,797.06,40 cây à.,40 cái à?
+data19_181,data19,799.66,805.3,Làm toán nữa. Thật là cảm thấy khổ sở. Hỏi tiếp theo 1 câu nữa.,Làm toán nữa. Thật là cảm thấy khổ sở. Hỏi tiếp theo một câu nữa nè.
+data19_182,data19,806.76,810.6,"Cường Seven thích nhất món gì do vợ nấu. 1, 2, 3.","Cuong seven thích nhất món gì do vợ nấu? 1, 2, 3."
+data19_183,data19,810.49,811.21,Kênh gà.,Cánh gà.
+data19_184,data19,817.17,821.05,Thì 2 năm 15 ngàn một lần cho ăn thì phải nhớ món đấy nhất chứ gì nữa.,Thì 2 năm mới làm cánh gà một lần cho ăn thì phải nhớ món đấy nhất chứ còn gì nữa.
+data19_185,data19,822.07,823.47,Sắp hơn 10 kỷ.,Chắc 20 cái.
+data19_186,data19,825.19,827.57,Thôi đủ rồi đó. Anh nghĩ là đủ.,Thôi đủ rồi đó. Anh nghĩ là đủ.
+data19_187,data19,829.31,832.45,"Để mà mình chặt đá, mình rock vào trong ly.",Để mình chặn đá. Mình rót vào trong ly.
+data19_188,data19,834.35,837.6,Đây bạn đây bạn yên tâm bạn hãy tin tưởng ở từ.,"Đây bạn đây, bạn yên tâm, bạn hãy tin tưởng vào tớ."
+data19_189,data19,838.24,840.22,Vô mầm đỏ rồi đúng không?,"Vô, nằm đổ rồi đúng không?"
+data19_190,data19,844.22,846.71,Kênh Nito lúc đầu sao vào để bày mất kênh Nito.,Cái niter lúc đầu sao vào để làm gì.
+data19_191,data19,846.2,848.57,Mày mất cơ hội lắm rồi tại vì mình lâu quá.,Bay mất cái lỗ luôn rồi tại vì mình lâu quá.
+data19_192,data19,848.88,853.94,Này chồng thấy vừa khít chưa. Chồng thấy chưa. Không được một giờ.,Này chồng thấy vừa khít chưa? Chồng thấy chưa? Không thừa một giọt mà.
+data19_193,data19,853.44,855.2,"Khí lô chắc, đúng không?","Bạn này lỗ chắc, đúng không?"
+data19_194,data19,855.14,863.3,Để giải thích cho mọi người là cái món này nó có nito ở dưới khi mà đổ cái ổng hậu ở trên vào nó đẩy khi nito bay lên giống như là tiên cảnh.,Để giải thích cho mọi người là cái món này nó có ni tơ ở dưới. Khi mà đổ cái hỗn hợp ở trên vào nó đẩy khí ni tơ bay lên như là tiên cảnh vậy đó.
+data19_195,data19,867.41,868.72,Chưa hết.,Chưa hết.
+data19_196,data19,868.72,869.36,Không hết à.,Chưa hết à?
+data19_197,data19,869.36,876.42,Một miếng chanh để mình twist vỏ chanh cho tinh dầu bay ra.,Mình còn một cái miếng chanh để mà mình gọi là twist cái vỏ chanh cho cái tinh dầu nó bay ra thôi.
+data19_198,data19,876.41,878.73,"Cái mình lập mặt, mình pop phần 3.","Rồi mình lập lại, mình bóp khoảng 3 cái."
+data19_199,data19,886.15,887.63,Lại gấp mấy người khác.,Lấy mấy miếng khác.
+data19_200,data19,887.63,889.45,Có ai thấy đi vào bài rào?,Có ai thấy tinh dầu bay ra không?
+data19_201,data19,889.43,892.27,"Không, thấy toàn trách bay ra.","Không, thấy toàn chanh bay ra."
+data19_202,data19,892.27,895.13,"Cháu mới chấm ngược rồi, cháu bóp ngược, cháu bị bóp ngược.","Chồng ơi chồng ngược rồi, chồng bớp ngược, chồng bị bớp ngược."
+data19_203,data19,896.43,898.53,Chờ mời bốc cái số không này.,Chồng phải bớp cái chỗ khúc này chứ.
+data19_204,data19,898.79,900.17,Bạn thử đi Dustin.,Bạn thử đi Dustin.
+data19_205,data19,899.97,901.51,Sợ bị bóc ngược như lúc nãy.,Chồng phải bớp ngược như lúc nảy á.
+data19_206,data19,903.43,908.32,"Có, có đúng không? À, là chỉ có vị thôi ở trên.",Có có đúng rồi là chỉ có vị thôi ở trên trên.
+data19_207,data19,908.32,910.65,"Người này bóp hơi nè, hơi mạnh tay.",Hai người này bóp hơi mạnh tay.
+data19_208,data19,916.23,919.53,À thủy tinh. Xin thở thử chứng nhạc.,Thủy tinh tớ thử trước nha.
+data19_209,data19,921.08,922.96,"Có rất nhiều thiếu, nhiều con đoạn mà.",Có rất nhiều thiếu nhiều công đoạn nhưng mà.
+data19_210,data19,926.94,930.25,"Thấy đậm đà rượu tiếp rồi, mình thấy cái đứa bàn tay này.",Mình thấy đậm đà rượu tiếp rồi mình thấy đôi bàn tay này.
+data19_211,data19,932.37,934.74,Chồng sẽ đam mê em này thôi.,Chồng sẽ đam mê này thôi.
+data19_212,data19,941.82,945.01,Cái này là bị không ngon bằng cái cốc người ta pha.,Cái này bị bị không ngon bằng cái cốc người ta pha.
+data19_213,data19,945.04,947.88,Nó có vị đấy. Như thiếu gì biết không.,"Nó có vị đấy, nhưng thiếu gì biết không?"
+data19_214,data19,947.55,948.33,Tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là tất nhiên là t.,Ngon mà.
+data19_215,data19,948.38,949.8,Thiếu một cái chiều.,Thiếu một cái chiều sâu.
+data19_216,data19,956.75,958.03,Sao lại như thế nhỉ?,Sao lại như thế nhỉ?
+data19_217,data19,957.94,960.62,Chắc tại vì đá nhiều quả nó loãng.,Chắc tại vì đá nhiều quá nó loãng.
+data19_218,data19,959.62,967.58,"Không phải, nó do cái tư tưởng, cái tâm hồn người người ta pha cái ly đấy. Thấy người ta pha ly ban đầu lúc nào người ta cũng phải trông rất là đam mê.","Không phải, nó do cái tư tưởng, cái tâm hồn người ta pha cái ly đấy. Thấy người ta pha ly ban đầu lúc nào người ta phải trông rất là đam mê."
+data19_219,data19,967.58,970.6,"Để chuyển cái chiều sâu, chuyển năng lượng cho người uống.","Để chuyển cái chiều sâu, chuyển năng lượng cho người uống."
+data19_220,data19,970.7,978.54,Nhưng mà khó quá tại vì là vừa phải tập trung pha này. Xong lại vừa bị Dustin hỏi xoay đáp.,Nhưng mà khó quá tại vì là vừa phải tập trung pha này xong lại vừa bị Dustin hỏi xoáy đắp xoay.
+data19_221,data19,978.34,985.22,Bị chồng là nói trả lời những cái câu mà người ta đứng hình nữa làm sao mà người ta có thể có chiều sâu ở trong cái.,Rồi bị chồng là nói trả lời những cái câu mà người ta đứng hình nữa. Làm sao mà người ta có thể có chiều sâu ở trong cái đi.
+data19_222,data19,985.05,986.23,Đấy mới gọi là thử thách.,Đấy mới gọi là thử thách.
+data19_223,data19,986.36,993.99,Nó vẫn đẹp. Mời hai người cầm ly. Và chúng ta sẽ đến với phần 3.,"Quan trọng là, Nó vẫn đẹp. Mời hai người cầm ly và chúng ta sẽ đến với phần party."
+data19_224,data19,987.11,988.72,Nó vẫn đẹp.,Nó vẫn đậm đà.
+data19_225,data19,998.25,999.62,"Nè vui lắm, nghe vui lắm.",Chồng uống hết của vợ rồi.
+data19_226,data19,1000.51,1002.17,"Kết rồi, bộ quần này đi.","Hết rồi, vợ uống này đi."
+data19_227,data19,1002.16,1007.34,"Nếu mà để chấm điểm thì phần này, chắc là món của Cường là thẳng.",Nếu mà để chấm điểm thì phần này. Chắc là món của Cuong là thắng.
+data19_228,data19,1007.75,1009.96,I know. Mình là Dustin.,I know. Mình là Dustin.
+data19_229,data19,1009.94,1011.53,Mình là Cư Sếp.,Mình là Cuong Seven.
+data19_230,data19,1012.77,1015.59,Tụi mình bao bá? Dạ buddy!,Tụi mình vào bar. Ra buddies!
+data19_231,data19,1020.69,1023.21,Hai bạn là những người thích chơi game đúng không?,Hai bạn là những người thích chơi game đúng không?
+data19_232,data19,1023.55,1027.13,Ờ anh cường thích chơi game của ngọc chẳng có một cái game nào trong máy điện thoại.,"Ờ, anh Cuong thích chơi game, còn Ngọc chẳng có một cái game nào trong máy điện thoại."
+data19_233,data19,1027.19,1031.09,Vậy là đây là một cái game không cần điện thoại. Nó thích chơi những loại game.,Vậy là Lê là một cái game không cần điện thoại nữa. Nó thích chơi những loại game mà...
+data19_234,data19,1061.75,1069.39,Cái The Champion của một bên. Lần đầu đấy đi dịch nên là phải tập online. Có những cái việc mà người ta phải sparing.,Cái The Champion của một bên. Đợt đấy là dịch nên là phải tập online. Có những cái việc mà người ta phải sparing ấy.
+data19_235,data19,1069.29,1079.27,Tại vì mình không mua được cái cái dụng cụ để về để mình tập. Thầy giáo hướng dẫn là hai đứa sẽ ở nhà tập sparring ở nhau. Là sẽ đeo mặt nạ với cả đeo găng.,Tại vì mình không mua được cái dụng cụ để về để mình tập. Thầy giáo hướng dẫn là hai đứa sẽ ở nhà tập sparing ở nhau. Là sẽ đeo mặt nạ với cả đeo găng vào.
+data19_236,data19,1079.27,1082.81,"Xong rồi đánh vừa vừa lực, bà lại ra dụ tới.",Xong rồi đánh vừa vừa lực. Bà lại ra rủ tớ.
+data19_237,data19,1083.95,1091.89,Bảo là tập luyện cho vợ. Thì mình đánh cái lực của mình cũng rất là vừa phải. Tất nhiên là mình vẫn phải có phản xạ của mình chứ đúng không?,Bảo là tập luyện cho vợ. Thì mình đánh cái lực của mình cũng rất là vừa phải. Tất nhiên là mình vẫn phải có phản xạ của mình chứ đúng không?
+data19_238,data19,1091.85,1100.53,"Né mình phải trả vợ đấm để con đỡ chứ. Lắc lắc lắc lắc. Bộp phát, bà ngửa là phát. Xong rồi là phát. Là mắt trận trừng lên.",Né mình phải trả vỡ đấm để con đỡ chứ. Lắc lắc lắc lắc bộp phát bà ngửa ra phát. Xong rồi là mắt trận trừng lên.
+data19_239,data19,1106.23,1107.43,Vừa đập vừa khóc.,Vừa đấm vừa khóc luôn.
+data19_240,data19,1107.91,1110.84,Thế vì làm sao mà có thể lấm mạnh như thế.,Tại vì làm sao mà có thể đấm mạnh như thế.
+data19_241,data19,1110.84,1115.76,Mạnh đâu. Cái lực của Tớ lúc đấy chỉ có tầm 30% thôi.,"Mạnh đâu, cái lực của tớ lúc đấy chỉ có tầm 20-30% thôi."
+data19_242,data19,1115.94,1121.42,Lúc đó tôi thấy hình vũ Ngọc Anh tham gia boxing. Nhìn thấy cô gái này chịu chơi.,"Lúc đó tôi thấy hình của Ngọc Anh tham gia boxing. Xin nhìn thấy, trời cô gái này chịu chơi phết."
+data19_243,data19,1121.82,1124.54,"Liều với đây. Liều á. Liều màu, màu liều.","Liều phết đấy, máu liều mà."
+data19_244,data19,1124.94,1131.4,"Rồi, vậy thì hôm nay là hai người sẽ lại tiếp tục đối kháng trong một cái bàn ba người. Tất cả mọi người để cho cá nhân.","Rồi, vậy thì hôm nay là hai người sẽ lại tiếp tục đối kháng. Trong một cái bàn ba người. Tất cả mọi người để chơi cá nhân."
+data19_245,data19,1131.3,1133.58,Đã vào game là không quen biết nha.,Đã vào game là không quen biết nha nha
+data19_246,data19,1134.56,1136.86,Nên là có đánh vica pol chung được với nhau đâu.,Đây là còn đánh pickleball chung được với nhau đâu.
+data19_247,data19,1136.86,1138.94,Đúng rồi bọn tôi đã đánh ra bọn tôi cãi nhau ấy chứ.,"Đúng rồi, bọn tớ mới đánh là bọn tớ cãi nhau ấy chứ."
+data19_248,data19,1138.74,1139.78,Nó không có khai đâu.,Đâu có cãi đâu.
+data19_249,data19,1139.78,1143.38,Không cãi nhau mà ý là kiểu không đánh được ấy. Được không biết là do cái tính tiêu hay là cái tính tiêu mà nó giống nhau.,"Không cãi nhau, mà ý là kiểu không đánh được ấy. Tớ không biết là..."
+data19_250,data19,1143.38,1149.48,"Không có ai mà đi đánh với người khác mà nhẹ nhẹ thôi, tư tư tư tư chậm nào nhẹ nào.","Bạn ơi không có ai mà đi đánh với người khác mà. Nhẹ nhẹ thôi, từ từ từ từ, chậm nào nhẹ nào đấy."
+data19_251,data19,1149.68,1151.38,À đạo diễn đánh mình.,Đạo diễn đánh mình.
+data19_252,data19,1151.08,1154.02,Mình đang nãy mà cái người bên cạnh cứ như thế sao mà mình nãy.,Mình đang đánh mà người bên cạnh cứ như thế mà sao mà mình đánh.
+data19_253,data19,1154.78,1155.68,Mặc nói.,Mắc đói.
+data19_254,data19,1155.68,1156.58,Bởi khó quá.,Bị khớp á.
+data19_255,data19,1156.38,1165.8,"Không à, nói chung là chơi thể thao không nên chơi cùng bạn gái và vợ. Là bạn gái ok, lúc mà là vợ rồi là tách tách tách.",Nói chung là chơi thể thao không nên chơi cùng bạn gái và vợ. Là bạn gái thì ok. Lúc mà là vợ rồi là tách tách tách tách.
+data19_256,data19,1166.9,1171.34,Lúc đầu là mời em vào team anh. Lúc sau là mời em đi khỏi team em anh.,"Lúc đầu là mời em vào team anh, lúc sau là mời em biến khỏi team anh."
+data19_257,data19,1171.35,1176.07,"Nếu là bạn gái mình, ôi không sao đâu. Nhưng mà là vợ rồi, tại sao vợ lại như vậy?","Nếu là bạn gái thì mình không sao đâu. Nhưng mà là vợ, sao vợ lại đánh như vậy?"
+data19_258,data19,1181.55,1182.51,Vào game đi.,Vào game đi.
+data19_259,data19,1183.27,1193.39,Liều ăn nhiều là chọn chơi đầu tiên. Chọn này rất đơn giản. Chương trình sẽ đặt ra những câu hỏi. Mỗi người sẽ liệt kê cho tới khi nào. Người nào không liệt kê được nữa sau 5 giây.,Liều ăn nhiều là trò chơi đầu tiên. Trò này rất đơn giản. Chương trình sẽ đặt ra những câu hỏi mỗi người sẽ liệt kê cho tới khi nào người nào không liệt kê được nữa sau 5 giây.
+data19_260,data19,1193.49,1199.47,Thì người đó phải uống một sát. Ở đây thì nó có nước thường. Và nó có nước thánh.,Thì người đó phải uống 1 shot. Ở đây thì nó có nước thường và nó có nước thánh.
+data19_261,data19,1207.92,1209.5,Vậy thì mình đi theo.,Vậy thì mình đi theo. Đúng rồi.
+data19_262,data19,1209.29,1210.19,Đi theo đúng rồi.,Đi theo đúng rồi.
+data19_263,data19,1210.41,1214.64,Kể những thứ bạn thường lướt thấy và dừng lại xem trên điện thoại.,Kể những thứ bạn thường lướt thấy và dừng lại xem trên điện thoại.
+data19_264,data19,1216.26,1220.94,Thời trang. Để em nhớ.,Thời trang. Đếm nhé.
+data19_265,data19,1221.34,1222.14,Phoem.,Phim.
+data19_266,data19,1224.27,1225.0,Múc bàn.,Mút bang.
+data19_267,data19,1224.97,1225.97,Bài là cái gì vậy?,Mút bang là cái gì.
+data19_268,data19,1226.03,1227.21,Xem người ta ăn.,Thêm người ta ăn.
+data19_269,data19,1228.27,1229.58,Âm nhạc.,Âm nhạc.
+data19_270,data19,1234.72,1236.45,"Thời trang, quần áo.","Thời trang, quần áo."
+data19_271,data19,1236.43,1240.31,Rồi sao mà bị hơi tráng. Hơi tráng luôn. Ngay từ đầu.,Nói rồi xong bị thời trang ngay từ đầu.
+data19_272,data19,1242.31,1244.43,Cường trọng một ly hả?,Cuong chọn một ly hả?
+data19_273,data19,1246.3,1247.48,Khuôn em à.,Của em đây.
+data19_274,data19,1251.27,1255.56,"Đúng rồi trời ơi. Dẹp. Chúc mừng, chúc mừng, chúc mừng.","Đúng rồi, chuẩn rồi. Yep. Chúc mừng, chúc mừng, chúc mừng."
+data19_275,data19,1255.93,1259.87,"Chúc mừng, 1 ly nước than. À mình có đồ ăn và nước.",Chúc mừng một ly nước thánh. À mình có đồ ăn và nước.
+data19_276,data19,1259.91,1261.78,Quả là quá dễ thương.,Quán quá dễ thương.
+data19_277,data19,1261.67,1264.92,Là tôi sẽ miêu tả cho các bạn từng thành phần.,Là tớ sẽ miêu tả cho các bạn từng thành phần.
+data19_278,data19,1265.92,1267.17,Trứng cá.,Trứng cá.
+data19_279,data19,1267.55,1269.09,Cái bên dưới là gì?,Cái bên dưới là gì ạ?
+data19_280,data19,1269.03,1271.57,Ở cái bên dưới là gì? Có vẻ giống so điểm.,"Ừ cái bên dưới là gì, có vẻ giống sò điệp."
+data19_281,data19,1277.9,1281.05,Hai cái món này màu xanh đó là củ ngó xuân.,Hai cái món này màu xanh đó là củ ngó xuân.
+data19_282,data19,1282.21,1290.39,Ở trên là trứng cá cavia. Ở giữa nó có kem cháy. Ở trên cùng nó có trang trí bằng hoa cơm cháy.,Ở trên là trứng cá caviar. Ở giữa nó có kem cháy. Ở trên cùng nó có trang trí bằng hoa cơm cháy.
+data19_283,data19,1290.39,1293.93,Tớ không biết. Tớ không biết là trừng cá này luôn. Nhưng mà thôi thử đi.,"Tớ không biết, tớ không biết là trứng cá này luôn. Nhưng mà thử đi."
+data19_284,data19,1300.81,1303.89,"Ngon nha, rất là ngon.","Ngon nha, rất là ngon."
+data19_285,data19,1304.09,1309.97,Mà cái này là chị ăn đúng một bite. Là nó có đầy đủ mọi thứ. Ăn nhiều quá thì lại bị over.,Mà cái này là chỉ ăn đúng một bite. Là nó có đầy đủ mọi thứ. Ăn nhiều quá thì lại bị over.
+data19_286,data19,1311.01,1312.79,Tớ mất thích ăn điện tớ ăn hoài đấy.,Tớ mà thích ăn gì là tớ ăn hoài đấy.
+data19_287,data19,1313.53,1319.83,Ông này có một kiểu là đã thích quán gì là ngày nào cũng có thể vào quán đấy được. Lúc nào cũng sẽ rủ ra quán đấy ăn.,Ông này là có một kiểu là đã thích quán gì là ngày nào cũng có thể ra quán đấy được. Lúc nào cũng sẽ rủ ra quán đấy ăn.
+data19_288,data19,1319.8,1320.95,Một người trung thành.,Một người trung thành.
+data19_289,data19,1321.35,1323.1,Đây có bị jinker.,Đây có vị ginger.
+data19_290,data19,1323.11,1329.11,"Tiếp theo ha, ăn luôn cái phần kia mình sẽ giới thiệu. Ở trên là chutoro, là cá ngừ.","Tiếp theo ha, ăn luôn cái phần kia mình sẽ giới thiệu. Ở trên là chutoro. Là cá ngừ."
+data19_291,data19,1328.9,1341.99,Mà có cảm nửa nạc nửa mỡ. Ở dưới cùng là cái lớp khoai tây sợi chiên giòn. Ở giữa có một cái lớp kem trứng cá đối muối.,"Mà có cả nửa nạc nửa mỡ. Ở dưới cùng là cái lớp khoai tây sợi chiên giòn. Ở giữa có một cái lớp kem, trứng, cá đối, muối."
+data19_292,data19,1341.92,1344.29,Bạn nói mà tưởng có bị.,Bạn nói mà tớ cứ bị.
+data19_293,data19,1344.29,1345.5,Nó bị kiểu.,Nó bị kiểu.
+data19_294,data19,1345.5,1347.7,Đốt cho nhau không?,Bị đê mê đúng ko hay là sao.
+data19_295,data19,1345.96,1347.0,Có chơi nhau không?,Đút cho nhau không? .
+data19_296,data19,1351.55,1355.54,Thấy chồng tớ lãng xẹt cho bà rơi. Rồi bà đã quá quen việc đấy rồi.,"Thấy chồng tớ lãng xẹt chưa bạn ơi, rồi đã quá quen việc đấy rồi."
+data19_297,data19,1357.07,1361.83,"May quá tới có chồng, không phải chuyện chuyện việc gì, phải ghê ngại thức ợ. Ngon không?","May quá tớ có chồng tớ không phải việc gì, phải ghen ăn thức ở. Ngon phải không?"
+data19_298,data19,1364.61,1368.79,Mời đế Oculus Bar. Thank you Toàn.,"10 điểm. Oculus bar, thank you toàn."
+data19_299,data19,1369.81,1373.95,Bạn đầu bếp là khoa. Bây giờ chúng ta quay trở lại với cuộc chiến liều ăn nhiều.,Bạn đầu bếp là Khoa. Bây giờ chúng ta quay trở lại với cuộc chiến liều ăn nhiều.
+data19_300,data19,1374.05,1381.67,"Đều là cuối 8x, đầu 9x. Vậy hãy lần lượt kể về những trào lưu, hình ảnh quen thuộc của lứa tuổi này.","Đều là cuối 8X, đầu 9X. Vậy hãy lần lượt kể về những trào lưu, hình ảnh quen thuộc của lứa tuổi này."
+data19_301,data19,1441.61,1443.21,Không có nhường ai à nước lọc.,"Không có nhường ai, à nước lọc."
+data19_302,data19,1443.53,1444.75,Cảm ơn bà.,Cảm ơn bạn.
+data19_303,data19,1445.78,1447.09,"Ok, chờ cũng thôi.","Ok, trời cũng thương."
+data19_304,data19,1447.08,1448.14,Có vẻ là từ trong.,Có vẻ là tớ chọn.
+data19_305,data19,1447.91,1449.37,Cứ cũng vậy.,Phước cũng dày.
+data19_306,data19,1449.45,1453.39,Kể về những thứ lúc nhỏ không hiểu nhưng bây giờ đã hiểu.,Kể về những thứ lúc nhỏ không hiểu nhưng bây giờ đã hiểu.
+data19_307,data19,1455.63,1457.21,Cháu xin nghỉ chút xíu coi.,Cho suy nghĩ chút xíu coi.
+data19_308,data19,1457.22,1460.61,"Cái câu này khó nha. Từ nhỏ không hiểu, bây giờ hiểu rồi hả?",Cái câu này khó nha. Hồi nhỏ không hiểu bây giờ hiểu phải hả?
+data19_309,data19,1460.63,1463.83,Bắt đầu từ tớ. Hồi nhỏ không hiểu làm tên là gì.,Bắt đầu từ tớ. Hồi nhỏ không hiểu làm tình là gì?
+data19_310,data19,1463.82,1467.44,Dạ đúng á hồi nhỏ không hiểu ly dị là gì.,Đúng mà. Hồi nhỏ không hiểu ly dị là gì?
+data19_311,data19,1469.58,1470.46,Hay đấy.,Hay đấy.
+data19_312,data19,1470.23,1472.43,Hồi nhỏ không hiểu kết hôn là gì.,Hồi nhỏ không hiểu kết hôn là gì?
+data19_313,data19,1474.06,1476.72,Hồi nhỏ không hiểu đẻ con ra từ đâu.,Hồi nhỏ không hiểu đẻ con ra từ đâu.
+data19_314,data19,1478.67,1481.23,Hồi nhỏ không hiểu đi học để về sau làm gì.,Hồi nhỏ không hiểu đi học để về sau làm gì.
+data19_315,data19,1482.54,1485.8,Hồi nhỏ không hiểu tình yêu là gì.,Hồi nhỏ không hiểu tình yêu là gì.
+data19_316,data19,1485.82,1487.38,Không ghê vậy.,Ghê vậy.
+data19_317,data19,1488.1,1490.56,Hồi nhỏ không hiểu LGBT là gì.,Hồi nhỏ không hiểu LGBT là gì.
+data19_318,data19,1490.57,1493.61,Dạ. Hồi nhỏ không hiểu đi tập thể dục để làm gì.,Hồi nhỏ không hiểu đi tập thể dục để làm gì.
+data19_319,data19,1495.06,1496.39,Tiếng tập từ nhỏ rồi nha.,Đi tập từ nhỏ rồi nha.
+data19_320,data19,1497.93,1503.52,Ý là đi tập từ nhỏ bởi vì là thầy cô giáo và bố mẹ bảo đi tập chứ bản thân có đâu phải thích đi tập đâu.,Ý là đi tập từ nhỏ bởi vì là thầy cô giáo và bố mẹ bảo đi tập chứ bản thân có phải thích đi tập đâu.
+data19_321,data19,1504.28,1509.04,Nói đến câu này cũng thấy hơi có lý. Từ nhỏ không bao giờ kiếm tiền để làm gì.,Nói đến câu này cũng thấy hơi có lý. Từ nhỏ mới hiểu kiếm tiền để làm gì.
+data19_322,data19,1509.89,1512.13,Hồi nhỏ không biết.,Hồi nhỏ không biết.
+data19_323,data19,1513.29,1516.76,Thời trang nghĩa là sao á. Thời trang ăn mặc là gì á.,Thời trang nghĩa là sao. Thời trang ăn mặc là gì á.
+data19_324,data19,1518.5,1519.75,Em mua cái gì mặc đó.,Em mua gì mặc đó.
+data19_325,data19,1519.73,1521.03,Hoặc là mặc đồng phục.,Hoặc là mặc đồng phục.
+data19_326,data19,1521.01,1525.48,Cũng được. Hồi nhỏ không biết tại sao bố mẹ mình lại cấm chơi game.,Cũng được. Hồi nhỏ không biết tại sao bố mẹ mình lại cấm chơi game.
+data19_327,data19,1528.0,1529.93,Hồi nhỏ không biết.,Hồi nhỏ không biết.
+data19_328,data19,1535.91,1539.98,Bây giờ cái gì định nói cái gì? Không biết tại sao mà đổi tóc giả.,Không biết cái gì định nói cái gì. Không biết tại sao phải đổi tóc giả.
+data19_329,data19,1545.1,1547.82,Người ta thích thôi. Người ta thích đổi màu tóc.,Người ta thích thôi. Người ta thích đổi màu tóc.
+data19_330,data19,1547.76,1550.1,Như đúng á. Có lần không biết tại sao nhưng mà.,"Đúng rồi, đúng mà. Không biết tại sao."
+data19_331,data19,1554.04,1555.94,Ai với chồng này vậy mới là vợ chồng.,Vợ chồng này vậy mới là vợ chồng.
+data19_332,data19,1555.94,1560.2,Những điều bạn dự định sẽ dạy cho con mình khi bé được 3 tuổi.,Kể những điều bạn dự định sẽ dạy cho con mình khi bé được 3 tuổi.
+data19_333,data19,1560.3,1561.26,Bạn.,3 tuổi.
+data19_334,data19,1562.21,1569.65,Mình sẽ dạy con mình là nếu như mà con đến lớp mà ai bắt nạt con thì phải về mách với bố mẹ.,Mình sẽ dạy con mình là. Nếu như mà con đến lớp mà ai bắt nạt con thì phải về mách với bố mẹ.
+data19_335,data19,1572.21,1574.33,Mình dạy con mình học bơi.,Mình dạy con mình học bơi.
+data19_336,data19,1576.3,1577.91,Đúng rồi cái bơi là cái bơi.,Đúng rồi. Cái bơi là cái quan trọng.
+data19_337,data19,1577.35,1583.51,"Mình sẽ dạy con mình tiểu tiện và đại tiện, biết control.",Mình sẽ dạy con mình tiểu tiện và đại tiện. Biết control.
+data19_338,data19,1584.31,1586.83,Chồng nghĩ sao mà 3 tuổi là biết rồi.,Chồng nghĩ sao vậy 3 tuổi là biết rồi.
+data19_339,data19,1586.39,1587.83,Mình muốn dậy.,Mình muốn dạy ơ kìa.
+data19_340,data19,1587.88,1589.38,Giờ lỡ nó biết rồi sao.,Nhưng lỡ nó biết rồi thì sao.
+data19_341,data19,1589.35,1594.76,"Không, không, 3 tuổi chưa biết, 3 tuổi, ngày xưa 3 tuổi trồng vẫn còn đái dầm mà.",Không 3 tuổi chưa biết. Ngày xưa 3 tuổi chồng vẫn còn đái dầm mà.
+data19_342,data19,1590.41,1592.04,Bà tuổi chưa biết.,3 tuổi là phải biết rồi.
+data19_343,data19,1597.49,1599.19,Người ta hỏi là muốn dậy cái gì.,Người ta hỏi là muốn dạy cái gì.
+data19_344,data19,1598.91,1600.31,Anh không thể dậy được.,Không thể dạy được.
+data19_345,data19,1601.85,1604.77,Thôi được rồi. Mình sẽ lấy qua mình lễ phép.,"Thôi được rồi, mình sẽ dạy con mình lễ phép."
+data19_346,data19,1606.42,1614.75,Mình sẽ dạy con mình là phải biết kinh trên nhường dưới.,Mình sẽ dạy con mình là phải biết kính trên nhường dưới.
+data19_347,data19,1614.72,1616.75,Anh đẹp nè.,Là lễ phép á.
+data19_348,data19,1617.11,1621.73,"Hâm mình tự sự, hâm mình tự sự thật.",Mình sẽ dạy con mình nói sự thật.
+data19_349,data19,1622.67,1628.23,Bộ chứ nó lào đứa nó đẻ ra hả. Đứa đứa nào đẻ ra nó lao liền.,Bộ chứ nói láo tụi nó đẻ ra hả? Đứa nào đẻ ra nói láo liền không?
+data19_350,data19,1664.29,1675.85,Cho con mình biết đọc bảng chữ cái rồi chuẩn bị đi vào. Bảng chữ cái.,Cho con mình biết đọc bảng chữ cái để chuẩn bị đi vào bảng chữ cái.
+data19_351,data19,1675.95,1677.65,Bạn chưa trái?,Bảng chữ cái.
+data19_352,data19,1677.45,1678.57,"Ờ, cũng được.",Ờ cũng được.
+data19_353,data19,1680.69,1684.51,Biết đọc rồi mà. Bây giờ biết rồi rồi. À đọc thơ.,"Biết đọc rồi mà, biết nói rồi. À đọc thơ."
+data19_354,data19,1687.06,1689.03,Từ đọc chữ cái lên đọc thơ luôn.,Từ đọc chữ cái lên đọc thơ luôn.
+data19_355,data19,1688.88,1689.92,Đúng rồi.,Đúng rồi.
+data19_356,data19,1690.0,1690.9,Quá giỏi.,Quá giỏi.
+data19_357,data19,1690.69,1692.07,Rồi tiếp đi bạn.,Rồi tiếp đến bạn.
+data19_358,data19,1692.03,1696.36,Mình là sẽ dạy cho con mình biết như thế nào là.,Mình là sẽ dạy cho con mình biết. Như thế nào là gia đình.
+data19_359,data19,1697.49,1699.47,Thí dụ như gia đình có hai người.,Thí dụ như gia đình có 2 người bố.
+data19_360,data19,1700.47,1701.85,Nghĩa là gì?,Nghĩa là gì.
+data19_361,data19,1702.5,1703.96,Tí tụi tí thật đấy chứ.,Thí dụ gì thật đấy chứ.
+data19_362,data19,1703.96,1705.86,Mình sẽ dạy cho con mình khiêm tốn.,Mình sẽ dạy cho con mình khiêm tốn.
+data19_363,data19,1706.82,1709.56,Mình sẽ làm cho con mình.,Mình sẽ dạy cho con mình.
+data19_364,data19,1707.96,1711.28,"Sơ cơm mì. 3, 2, 1.",Năm bốn ba.
+data19_365,data19,1711.28,1719.01,Tức tại cho ông về để vợ nói. Khi đã chưa vào bà nêm nói. Nhưng mà chưa vào trường hết chứ. Cho ông về dừng lại để cho mợ nói.,"Từ từ, chồng phải để vợ nói cái đã chứ, vợ vẫn đang nói. Nhưng mà chưa vợ chưa nói hết chưa chồng phải dừng lại để cho vợ nói."
+data19_366,data19,1719.59,1722.81,Mình sẽ dậy cho ôm mình tập đàn.,Mình sẽ dạy cho con mình tập đàn.
+data19_367,data19,1722.89,1724.36,Dạy tập nhảy.,Dạy tập nhảy.
+data19_368,data19,1724.33,1726.24,"Mình sẽ dậy ạ, mình đập vỡ.",Mình sẽ dạy mình tập võ.
+data19_369,data19,1726.34,1729.12,13 tuổi và mày không được nhiều mà.,13 tuổi mà mấy. Không được nhiều quá.
+data19_370,data19,1731.58,1733.94,Nghĩa tình thương ơn mình tập hết.,Mình sẽ dạy cho con mình tập hát.
+data19_371,data19,1743.16,1745.03,Để cho bạn ơi.,Để cho bạn nói.
+data19_372,data19,1750.68,1752.0,Dạ cảm ơn mình.,Dạy con mình.
+data19_373,data19,1754.66,1758.62,Liệt kê những điều bạn thấy. Bạn cho là sexy trong lúc.,Liệt kê những điều bạn thấy. Bạn cho là sexy trong lúc yêu.
+data19_374,data19,1759.48,1761.2,Hôn vào cổ.,Hôn vào cổ.
+data19_375,data19,1761.17,1762.49,Hôn vào tai.,Hôn vào tay.
+data19_376,data19,1781.58,1789.13,Ok khi yêu là mình mặc đồ lại cho nhau. Cởi cho nhau thì bình thường rồi.,Khi yêu là. Mình mặc đồ lại cho nhau. Cởi cho nhau thì bình thường rồi.
+data19_377,data19,1788.93,1791.25,Nhưng mà nếu mà sau đó mình mặc lại cho nhau.,Nhưng mà nếu mà mình sau đó mình mặc lại cho nhau.
+data19_378,data19,1791.89,1793.19,Chụp nặng nhiều.,Trông đáng yêu quá ha.
+data19_379,data19,1793.09,1794.87,Lúc ấy sao lúc ấy ngủ mặc dù gì vậy?,Lúc ấy sau lúc ấy ngủ mặc kiểu gì nhỉ.
+data19_380,data19,1798.94,1799.78,Bài cổ.,Phải ngủ chứ.
+data19_381,data19,1801.53,1802.49,Xem tivi.,Xem tivi.
+data19_382,data19,1808.8,1813.63,Rồi về cái từ này rất là tưởng nghĩa là Dustin cũng thích này. Nắm tay.,Rồi cái từ này rất là. Tớ nghĩ là Dustin cũng thích này. Nắm tay.
+data19_383,data19,1824.08,1829.75,"Mọi người quên à. Ừ, hôn trước khi ngủ chẳng hạn hoặc hôn sau đấy.",Mọi người quên à? Hôn trước khi ngủ chẳng hạn hoặc hôn sau đấy.
+data19_384,data19,1831.93,1835.61,Kéo gối cho nhau kiểu kéo gối. Kê á.,Kéo gối cho nhau kiểu kéo gối vào để kê á.
+data19_385,data19,1837.03,1839.91,Thôi đã còn kèm gỡ đi bây giờ. Đáp chat.,Ôi đang còn kéo gối thì bây giờ đắp chăn.
+data19_386,data19,1844.79,1845.53,Ông thôi.,Ôm thôi.
+data19_387,data19,1847.52,1853.57,"Điều sexy nhất khi ngủ là ngủ cùng lúc, thức cùng lúc.",Điều sexy nhất khi ngủ là ngủ cùng lúc thức cùng lúc.
+data19_388,data19,1853.37,1856.57,Điều sexy nhất là ra lấy nước lọc.,Điều sexy nhất là ra lấy nước lọc.
+data19_389,data19,1859.05,1861.21,Được rồi đúng không?,Được mà đúng không.
+data19_390,data19,1863.31,1864.35,Hít hơi là sao?,Hít hơi là sao.
+data19_391,data19,1865.89,1870.67,Là ngưỡi hả. Vít ơi. Không có hương.,Là ngửi á hả. Hít hơi. Không có hôn hít.
+data19_392,data19,1877.95,1887.81,"À có cái trong lúc đấy là không thở, không hít à. Thế là bà không hít. Bà nhìn thở à. Lúc đó bà phải lấy hơi hít.",À có nghĩa trong lúc đấy là. Là không thở. À không hít à. Ừ bà là hít. Hít mà là không hít. Bà nhịn thở à. Lúc đó bà phải lấy hơi ít.
+data19_393,data19,1888.9,1889.97,Có mùi không?,Có mùi không?
+data19_394,data19,1889.93,1892.1,Và được bài thích hít hít hơi tới.,Bà này thích hít hơi tớ.
+data19_395,data19,1900.03,1902.51,"Ờ, hợp lý, hợp lý, hợp lý.","Ờ, hợp lý, hợp lý, hợp lý, hợp lý."
+data19_396,data19,1903.91,1905.22,Vì nhau.,Nhìn nhau.
+data19_397,data19,1905.22,1906.27,Cái gì?,Cái gì?
+data19_398,data19,1906.26,1910.57,Nhìn nhau không gì đẳng. Bố đưa một bé đẳng.,Nhìn nhau không nhìn à mỗi người một bên à.
+data19_399,data19,1915.2,1917.0,Ăn một mộng gì đấy cũng tưởng nhau.,Ăn một món gì đấy cùng với nhau.
+data19_400,data19,1918.72,1924.07,Được. Ok. Cùng nhau. Là uống rượu cùng nhau. Sexy á.,Được. Cùng nhau. Là uống rượu cùng nhau. Sexy á.
+data19_401,data19,1923.99,1924.48,Cũng được.,Cũng được.
+data19_402,data19,1935.52,1937.21,"Mơ thấy nhau, mơ cùng nhau.","Mơ thấy nhau, mơ cùng nhau.a"
+data19_403,data19,1937.55,1939.53,Nó ngủ mơ thì làm sao mà hợp.,Ngủ mơ thì làm sao mà biết.
+data19_404,data19,1939.53,1942.77,Ý là mơ thấy nhau trong giấc mơ hay là yêu tiếp ấy hiểu không.,"Ý là mơ thấy nhau trong giấc mơ á. Là yêu tiếp ý, hiểu không."
+data19_405,data19,1942.77,1946.79,"Không, tụi tây không sao để mơ được cùng nhau. Cái này chưa bao giờ xảy ra.","Không, sao lại mơ được cùng nhau. Cái đấy chưa bao giờ xảy ra."
+data19_406,data19,1947.25,1948.41,Có chưa anh em?,Có chứ ơ kìa.
+data19_407,data19,1958.48,1963.63,"Vợ bạn đồng ý, tớ phải đồng ý. Ờ, ok. Chứ tớ đâu có nằm trong giấc mơ của hai bạn đâu.","Bây giờ vợ bạn đồng ý, tôi phải đồng ý. Ờ ok. Chứ tôi đâu có nằm trong giấc mơ của hai bạn đâu."
+data19_408,data19,1964.8,1967.92,Sợ đấy. Còn nghe nhạc cùng nhau.,Sợ đấy. Có nghe nhạc cùng nhau.
+data19_409,data19,1971.3,1973.96,Nghe một bản nhạc yêu thích.,Nghe một bản nhạc yêu thích.
+data19_410,data19,1981.01,1985.57,Ok hôm nay là ngang tải ngang sức nhưng Cường chưa uống.,Ok hôm nay là ngang tài ngang sức nhưng Cuong chưa uống.
+data19_411,data19,1985.57,1987.83,Không thể nào mà như thế được.,Đúng rồi. Không thể nào mà như thế được.
+data19_412,data19,1998.59,2000.55,Chúng ta đang đến với 50-50.,Chúng ta đang đến với 50-50.
+data19_413,data19,2000.85,2009.91,"Một cái game mà mỗi người sẽ cầm trong tay hai sự thật á. Một cái là nói thật, một cái là nói xạo. Mỗi người sẽ nói hai điều.",Một cái game mà mỗi người sẽ cầm trong tay 2 sự thật đó. Một cái là nói thật một cái là nói xạo. Mỗi người sẽ nói 2 điều.
+data19_414,data19,2009.91,2018.09,Hàng người còn lại có 2 phút để tra khảo. Tầm nhìn cuối cùng hết 2 phút là hai người phải đoán. Câu đó thật mà câu đó sao.,Hai người còn lại có 2 phút để tra khảo. Nhưng cuối cùng hết 2 phút là hai người phải đoán câu nào thật và câu nào xạo.
+data19_415,data19,2018.9,2026.41,"Nếu mà đoán trúng, người này sẽ phải uống. Nếu đoán sai thì người đoán sẽ phải uống. Luật chơi đã rõ.",Nếu mà đoán trúng. Người này sẽ phải uống. Nếu đoán sai. Thì người đoán sẽ phải uống. Luật chơi đã rõ.
+data19_416,data19,2035.97,2044.95,Câu đầu tiên. Sau một thời gian. Xem lại tất cả những cái bộ phim mình đã đóng. Thì mình thấy mình đóng phim khá là tệ.,Câu đầu tiên. Sau một thời gian. Xem lại tất cả những bộ phim mình đã đóng. Thì mình thấy. Mình đóng phim khá là tệ.
+data19_417,data19,2045.05,2046.54,Câu thứ 2.,Câu thứ 2.
+data19_418,data19,2046.54,2051.31,Câu thứ hai là. Tôi là một người. Không có năng khiếu.,Câu thứ 2 là. Tôi là một người không có năng khiếu về nhảy.
+data19_419,data19,2055.4,2059.11,Thấy phim này đóng giỡn nhất. Tụi mình cùng điều tra.,Thấy phim này đóng dở nhất. Tụi mình cùng điều tra.
+data19_420,data19,2059.08,2060.06,Tôi biết rồi.,Tôi biết rồi.
+data19_421,data19,2066.16,2067.43,Không có năng khiếu nhảy.,Sao lại không có năng khiếu nhảy.
+data19_422,data19,2068.48,2071.12,Mà đây là cố mạnh vậy.,Mà đây là. Cổ máy nhảy.
+data19_423,data19,2071.13,2072.27,Tại sao?,Tại sao.
+data19_424,data19,2073.63,2081.61,Tại vì là từ nhỏ khi mà tới đi nhảy là từ xuống là bị đúp bởi mình không nghe được.,Tại vì là từ nhỏ. Khi mà tớ đi nhảy. Là tớ suốt ngày bị đúp. Bởi mình không nghe được nhạc.
+data19_425,data19,2081.65,2082.85,Không có năng khiếu.,Không có năng khiếu.
+data19_426,data19,2082.61,2087.79,Mình không nghe được nhạc. Và người thầy của mình là mình phải. Vớt mình lên lớp.,Mình không nghe được nhạc. Và cái người thầy của mình là mình phải vớt mình lên lớp.
+data19_427,data19,2087.77,2088.77,Bạn có thích đóng phim không?,Bạn có thích đóng phim không?
+data19_428,data19,2088.58,2089.57,Thích động viên quá.,Thích đóng phim chứ.
+data19_429,data19,2089.46,2090.43,Muốn nóng phim nữa không?,Muốn đóng phim nữa không?
+data19_430,data19,2091.0,2092.21,Muốn đóng phim nữa.,Muốn đóng phim nữa.
+data19_431,data19,2092.2,2095.63,Thích than đóng phim với nhảy hơn hay là nhảy hơn.,Thích thích đóng phim với nhảy hơn hay là nhảy hơn đóng phim?
+data19_432,data19,2095.65,2096.87,Cái nào hơn.,Cái nào hơn?
+data19_433,data19,2097.69,2099.19,Thấy phim này đóng hay nhất.,Thấy phim đóng hay nhất?
+data19_434,data19,2099.2,2105.64,Phim đóng thấy cảm thấy thoải mái nhất. Mình xem lại mà mình cảm thấy ok. Thì là phim Treeside.,Phim đóng cảm thấy thoải mái nhất. Mình xem lại mà mình cảm thấy ok thì là phim truy sát.
+data19_435,data19,2105.55,2109.65,Cái nhân vật đấy là nhân vật phản diện thì mình thấy là đấy là trong những phim mình đóng ok nhất.,Cái nhân vật đấy là nhân vật phản diện. Thì mình thấy là đấy là trong những phim mình đóng ok nhất.
+data19_436,data19,2109.75,2112.65,Ở hồi đấy nhìn ông này tôi cũng bị ấn tượng.,Ờ hồi đấy nhìn ông này tôi cũng bị ấn tượng.
+data19_437,data19,2112.64,2117.4,Nhưng mà chắc được khoảng tầm 7 điểm hơn một chút xíu.,Nhưng mà chắc được khoảng tầm 7 điểm hơn một chút xíu.
+data19_438,data19,2117.39,2118.39,Thấp nhất là bao nhiêu?,Thấp nhất là bao nhiêu.
+data19_439,data19,2118.41,2121.75,Chắc là 4 điểm.,Thấp nhất chắc là 4 điểm.
+data19_440,data19,2121.77,2123.89,"Vợ không biết đâu, vợ không biết chuyện này đâu.","Vợ không biết đâu, vợ không biết phim đấy đâu."
+data19_441,data19,2124.59,2126.01,Bàn đoàn trước đi.,Bạn đoán trước đi.
+data19_442,data19,2125.91,2134.7,Mình đoán trước cho nó fair. Câu mà ông có năng thiếu nhảy là câu.,Mình đoán trước cho nó fair. Câu mà không có năng khiếu nhảy là câu thật.
+data19_443,data19,2140.71,2143.69,Thực ra cái chòi thực ra là để test nốt xin là chủ yếu á.,Cái trò này thực ra là để test Dustin là chủ yếu à.
+data19_444,data19,2143.49,2144.69,Như vậy là có người thua.,Như vậy là có người thua.
+data19_445,data19,2155.75,2162.59,Mình biết là bạn có một cái phần tự ti. Bạn không giỏi từ đầu. Nhưng mà bạn nỗ lực hơn rất nhiều. Mình tin điều đó.,Mình biết là bạn có một cái phần tự ti. Bạn không giỏi từ đầu nhưng mà bạn nỗ lực hơn rất nhiều. Mình tin điều đó.
+data19_446,data19,2162.49,2166.11,Cho nên bạn mới trở thành một người nhảy rất tốt.,Cho nên bạn mới trở thành một cái người nhảy rất tốt.
+data19_447,data19,2166.21,2170.31,Hồi xưa còn xăm hình ngược về cái gì nhờ?,Hồi xưa còn xăm hình ngược về cái gì nhờ.
+data19_448,data19,2171.39,2173.53,"Nốt nhạc, nốt nhạc sao bị ngược?","Nốt nhạc, nốt nhạc bị xăm bị ngược."
+data19_449,data19,2173.52,2176.33,Từ rất đam mê âm nhạc.,"Tớ rất đam mê, tớ rất đam mê âm nhạc."
+data19_450,data19,2176.55,2185.43,Tớ lại cho một thằng bạn thân nó xăm. Tớ đam mê âm nhạc thì tớ xăm nốt nhạc. Nhưng mà nó xăm lúc nó in ra nó in ngược bạn hiểu không. Nó in lên nó xong rồi nó xăm rất đam mê bạn.,Tớ lại cho một thằng bạn thân nó xăm. Tớ đam mê âm nhạc thì tớ xăm nốt nhạc. Nhưng mà nó xăm lúc nó in ra nó in ngược bạn hiểu không. Nó in lên nó xong rồi nó xăm rất đam mê bạn ạ.
+data19_451,data19,2185.33,2195.05,Xong rồi tớ nhìn vào gương thấy là à cũng đúng đốt nhạt rồi. Xong rồi một thời gian tớ đi dậy nhảy tớ mới thấy là. Sao thầy lại xăm nó nhạt ngược vậy. Ngược đâu.,Xong rồi tớ nhìn vào gương tớ thấy. À cũng đúng nốt nhạc rồi. Xong rồi thời gian tớ đi dạy nhảy tớ mới thấy là. Sao thầy lại xăm nốt nhạc ngược nhỉ. Ngược đâu.
+data19_452,data19,2195.54,2201.03,"Hóa ra lúc mình nhìn vào gương với bạn là nó ngược, là ý là nó xuôi.",Hóa ra là lúc mình nhìn vào gương ấy bạn. Là nó ngược là nó xui. Là ý là nó xui.
+data19_453,data19,2201.02,2204.77,Thật sự là đúng. Đúng rồi. Mình đánh giá qua gương thì nó lại sai.,Là ý là nó xui. Là nó đúng thật sự là đúng. Đúng rồi. Mình đánh giá qua gương thì là nó lại sai.
+data19_454,data19,2206.31,2211.09,Thằng bạn thân mình trả lời bê mình chắc nhỉ. Về sau tới về sắp đèn lấy mà.,Thằng bạn thân mình chẳng có bê mình trách nó. Về sau tớ phải xăm đè lên mà.
+data19_455,data19,2219.39,2223.35,Rồi đến bạn đi tự dưng thấy câu của mình bị lãng xẹt quá mình phải suy nghĩ.,Rồi để bạn đi. Tự dưng thấy câu của mình bị lãng xẹt quá. Mình phải suy nghĩ.
+data19_456,data19,2223.78,2232.4,Dustin nha. Câu số 1. Làm biến đi chơi vì sau 10h đêm là buồn ngủ. Câu số 2.,Dustin nha. Câu số một. Làm biếng đi chơi vì sau 10 giờ đêm là buồn ngủ. Câu số hai.
+data19_457,data19,2232.72,2236.36,Thường là người xỉn trước được chồng hốt về khi đi nhậu.,Thường là người xỉn trước. Được chồng hốt về khi đi nhậu.
+data19_458,data19,2236.35,2239.94,"Rồi, bây giờ câu số 1 là đúng.",Rồi. Bây giờ câu số 1 là đúng.
+data19_459,data19,2240.0,2241.22,Câu thứ 2 là sai.,Câu số 2 là sai.
+data19_460,data19,2241.73,2245.85,Câu số 1 là sai. Câu số 2 là đúng.,Câu số 1 là sai. Câu số 2 là đúng.
+data19_461,data19,2256.14,2257.91,"Đúng rồi, sẽ có một trong hai người uống.",Đúng rồi sẽ có 1 trong 2 người uống.
+data19_462,data19,2257.91,2260.35,Tưởng biết chắc luôn mà. Đúng không Dustin?,Tớ biết chắc luôn mà. Đúng không Dustin?
+data19_463,data19,2261.25,2263.47,Ngọc Anh uối,Ngọc Anh uống. Ngọc Anh uống.
+data19_464,data19,2265.26,2271.84,"Câu số 1, làm biến đi chơi vì sau 10 giờ đen lâu ngủ là đúng. Mọi người nghĩ Dustin là một người chơi khỏe không?",Câu số 1. Làm biến đi chơi vì sau 10 giờ là buồn ngủ là đúng. Mọi người nghĩ Dustin là một người chơi khỏe không?
+data19_465,data19,2272.28,2276.52,Ngọc anh không nghĩ thế mà Ngọc anh nghĩ cái về sau là đúng. Về sau là chồng hốt.,Ngọc Anh không nghĩ thế. Mà Ngọc Anh nghĩ vế sau là đúng. Vế sau là chồng hốt về.
+data19_466,data19,2276.42,2278.84,Trong hốt về no no no no.,Chồng hốt về? Nô nố nồ nô.
+data19_467,data19,2280.5,2286.08,Nhìn mặt Dustin ý là đã uống là sẽ là gần như là trụi đến cùng đấy.,Nhìn mặt Dustin đã uống là. Sẽ là. Gần như là trụ đến cùng đấy.
+data19_468,data19,2286.08,2288.54,Chúng ta nên đi nhậu với nhau nhiều hơn.,Chúng ta nên đi nhậu với nhau nhiều hơn.
+data19_469,data19,2289.64,2293.74,Như vậy tớ sẽ phải uống một cái là cậu đáng đúng. Ngọc ăn uống một cái. Đúng rồi.,Như vậy tớ sẽ phải uống một cái là cậu đáng đúng. Ngọc Anh uống một cái vì cậu đoán sai.
+data19_470,data19,2293.74,2296.56,"Chính xác, từ nghe câu đấy từ không cần khai thác luôn.","Chính xác, tớ nghe câu đấy tớ không cần khai thác luôn."
+data19_471,data19,2304.83,2308.73,"Không, cái câu này nó chồng mình sẽ biết rồi.",Không cái câu này nó chồng mình sẽ biết rồi này.
+data19_472,data19,2308.63,2311.55,Ừ bây giờ đã bảo là trò chơi này dành cho Dustin.,Ừ bây giờ đã bảo là trò chơi này dành cho Dustin mà lại.
+data19_473,data19,2314.69,2317.05,Tôi chưa bao giờ để tóc ngắn.,Tôi chưa bao giờ để tóc ngắn.
+data19_474,data19,2318.41,2321.35,"Thôi, tôi chưa bao giờ để tập ngăn sau 18 tuổi.",Thôi tôi chưa bao giờ để tóc ngắn sau 18 tuổi.
+data19_475,data19,2324.54,2327.92,Tôi đã can thiệp ba chỗ trên khuôn mặt.,Tôi đã can thiệp 3 chỗ trên khuôn mặt.
+data19_476,data19,2363.74,2367.26,"Tôi trả lời luôn ấy, tôi không hỏi đâu. Bây giờ cho bạn trả lời trước.","Tớ trả lời luôn ấy, tớ không không hỏi đâu. Bây giờ cho bạn trả lời trước."
+data19_477,data19,2367.06,2374.73,Câu tôi chưa bao giờ để tóc ngắn. Chứ 18 tuổi là thật. Sau 18 tuổi là thật.,Câu tôi chưa bao giờ để tóc ngắn trước 18 tuổi là thật. Sau 18 tuổi. Sau 18 tuổi là thật.
+data19_478,data19,2374.99,2380.19,Còn câu mà phẫu thuật 3 chỗ là xạo.,Còn câu mà phẫu thuật 3 chỗ là xạo.
+data19_479,data19,2380.07,2381.09,Kỳnh Sát.,Chính xác.
+data19_480,data19,2383.64,2385.24,Sao bị dễ đoán đấy.,Sao bị dễ đoán thế.
+data19_481,data19,2385.73,2393.81,Tại vì sao? Tôi chưa bao giờ tóc ngắn là được rồi. Tên vô trong 18 tuổi là chắc chắn là trước 18 tuổi.,Tại vì sao? Tôi chưa bao giờ để tóc ngắn là được rồi. Thêm vô sau 18 tuổi là chắc chắn là trước 18 tuổi có.
+data19_482,data19,2406.04,2415.86,Tại vì là tính nói như kia là lừa được Dustin rồi nhưng mà câu sau bí quá không biết nói cái gì. Bết thế ngọc nói là ngọc là người chuyển giới. Bết thế ngọc nói là ngọc là người chuyển giới.,Nhưng mà tại vì là tính nói như kia là lừa được Dustin rồi. Nhưng mà câu sau bí quá không biết nói cái gì. Biết thế Ngọc nói là Ngọc là người chuyển giới. Biết thế Ngọc nói là Ngọc là người chuyển giới.
+data19_483,data19,2421.82,2423.48,Kiểu thấy đoạt hơn thế mọi người.,Kiểu dễ đoán hơn thế mọi người.
+data19_484,data19,2430.68,2434.8,"Vợ hiểu không? Dustin sẽ không đánh giá vợ, Dustin sẽ đánh giá chồng.","Vợ hiểu hông, Dustin sẽ không đánh giá vợ, Dustin sẽ đánh giá chồng."
+data19_485,data19,2453.97,2456.37,"Và chơi thứ 2 chúng ta đã vượt qua, quá hay.","Trò chơi thứ 2 chúng ta đã vượt qua, quá hay."
+data19_486,data19,2459.48,2468.88,Đến với trò chơi cuối cùng. Trên bàn mình có mỗi người 3 cái ly. 3 ly 3 màu. Mình cũng không biết là cái gì cái gì.,"Đến với trò chơi cuối cùng. Trên bàn mình có mỗi người 3 cái ly, 3 ly 3 màu. Mình cũng không biết là cái gì với cái gì."
+data19_487,data19,2468.78,2471.5,Nhưng mà nó tên là ba vị một đời.,Nhưng mà nó tên là 3 vị một đời.
+data19_488,data19,2472.2,2476.74,"Ba vị một đời là có những vị gì ngọt, đắng, chua.","3 vị một đời là có những vị gì ngọt, đắng, chua."
+data19_489,data19,2476.65,2485.33,Mình sẽ là người uống thử và nói xem mình cảm nhận vị gì. Và mình kể một kỷ niệm khiến cho mình điên tưởng khi uống cái vị này.,Mình sẽ là người uống thử và nói. Xem mình cảm nhận vị gì. Và mình kể một kỷ niệm. Khiến cho mình liên tưởng khi uống cái vị này.
+data19_490,data19,2486.86,2487.9,Đậm ra trước đi.,Đậm nhất trước đi.
+data19_491,data19,2487.8,2488.82,Tập nhanh đi ha.,Đậm nhất đi ha.
+data19_492,data19,2489.18,2490.89,Ê đậm lên chưa lê?,Em đậm nhất trước đi.
+data19_493,data19,2495.47,2497.93,Cái này chúng ta phải thật là thê vị.,Cái này chúng ta phải thật là thi vị.
+data19_494,data19,2500.57,2501.99,Trời ơi.,Trời ơi.
+data19_495,data19,2502.51,2504.87,"Thường là ăn thứ giậy, như thuốc bắc ấy.","Thôi nó đắng dữ vậy, như thuốc bắc ấy."
+data19_496,data19,2507.03,2508.51,Nó là rượu hay gì vậy?,Nó là rượu hay gì vậy?
+data19_497,data19,2509.61,2513.25,Đây rồi đắng lắm luôn ấy bạn ạ. Ôi là trời.,Ê nó đắng lắm luôn đấy bạn ạ. Ô là trời.
+data19_498,data19,2514.67,2517.21,Đã nảy số.,"Rồi, đã nảy số."
+data19_499,data19,2517.4,2519.32,Dạ 3 bít đi trước.,Dạ. Ba bích đi trước.
+data19_500,data19,2519.34,2522.38,Cái đắng này từ lên tưởng đến cái.,Cái đắng này tớ liên tưởng đến cái.
+data19_501,data19,2522.45,2531.17,Tám cái điều mà bố tôi treo ở trước giường của tôi. Lúc mà tôi nhỏ là chữ nhẫn. Ý là mỗi một chữ nhẫn với một cái.,Tám cái điều mà bố tớ treo ở trước giường của tớ ấy. Lúc mà tớ nhỏ ấy. Là chữ nhẫn. Ý là mỗi một chữ nhẫn. Với một cái.
+data19_502,data19,2532.55,2540.59,Cái điều tương tự thì nó sẽ có một kết quả tương tự. Đấy. Thì ngày xưa Tường không phải là một người biết nhẫn nhịn.,Cái điều tương tự ấy. Thì nó sẽ có một kết quả tương tự. Đấy. Thì ngày xưa tớ không phải là một người biết nhẫn nhịn.
+data19_503,data19,2541.05,2550.28,Nên là khi mà bố tôi nói thế tôi thấy là kiểu đôi lúc là nó chưa hợp lý nhưng mà tôi thấy là cái hay ở đây là khi mà.,Nên là khi mà bố tớ nói thế. Tớ thấy là kiểu. Đôi lúc là nó chưa hợp lý. Nhưng mà tớ thấy là. Cái hay ở đây là. Là khi mà treo.
+data19_504,data19,2550.33,2552.8,Là ngày nào cái đế đổ đập vào mặt mình.,Là ngày nào cái đấy cũng đập vào mặt mình.
+data19_505,data19,2552.76,2554.83,Bây giờ cậu đã học được từ năm mấy tuổi.,Bây giờ cậu đã học được từ năm mấy tuổi.
+data19_506,data19,2554.82,2560.07,Học được chữ nhẫn là từ khi tới vào Sài Gòn thôi. Tới vào trong trong này tới.,Học được chữ nhẫn là từ khi tớ vào Sài Gòn thôi. Tớ vào trong này tớ ở.
+data19_507,data19,2560.05,2566.11,Tôi mới học được chữ nhẫn. Cái đắng ở đây là đã rất nhiều lần kiểu bố mẹ tới nói về cái tính cách của tôi.,"Thì tớ mới học được chữ nhẫn. Cái đắng ở đây là. Là rất nhiều lần kiểu. Bố mẹ tớ, nói về tính cách của tớ rồi."
+data19_508,data19,2566.19,2575.49,"Tớ là một đứa rất là cứng đầu ở một trong cái vỏ bọc an toàn với cả gia đình khi mà công việc của mình, khi mà mình không phải lo tất cả những thứ mà bên ngoài.","Tớ là một đứa rất cứng đầu, ở một trong cái vỏ bọc an toàn với cả gia đình. Khi mà công việc của mình, khi mà mình không phải lo tất cả những thứ bên ngoài."
+data19_509,data19,2576.38,2580.9,Mình về mình làm nhiều hay làm ít thì cũng có bố mẹ lo. Thì là mình không cảm nhận được trước đây.,"Mình về mình làm nhiều, làm ít thì cũng có bố mẹ lo, thì là mình không cảm nhận được chứ đấy."
+data19_510,data19,2581.37,2589.85,"Khi mà tới vào trong Sài Gòn mình lập nghiệp tự phải kiếm tiền ăn, tự phải giặt đồ, tự phải lo tất cả mọi thứ.","Khi mà tớ vào trong Sài Gòn, mình lập nghiệp tự phải kiếm tiền ăn, tự phải giặt đồ, tự phải lo tất cả mọi thứ."
+data19_511,data19,2589.83,2598.13,Tớ phải tự bươn chải đến tận thời điểm bây giờ thì tớ mới cảm nhận được cái vị đắng vị đắng ở đây là cái việc mà kiểu.,Tớ phải tự bươn trải đến tận thời điểm bây giờ. Thì tớ mới cảm nhận được cái vị đắng. Vị đắng ở đây là cái việc mà kiểu như là.
+data19_512,data19,2598.03,2605.53,tại sao bố mẹ mình lại muốn tốt cho mình như vậy mà mình lại chưa cảm nhận được. Khi mà uống phát này xong là tớ nghĩ đến việc đầu tiên.,Tại sao bố mẹ mình muốn tốt cho mình như vậy. Mà mình lại chưa cảm nhận được. Khi mà uống phát này xong. Tớ nghĩ đến việc đầu tiên luôn.
+data19_513,data19,2619.04,2622.82,Cái đắng mà mình cảm nhận. Nó dai dẳng như thế này.,Cái đắng mà mình cảm nhận. Nó dai dẳng như thế này.
+data19_514,data19,2623.12,2631.2,"Là cái việc mà mình có thời gian mình kiếm được tiền mà mình tiêu xài, phung phí.",Là cái việc mà mình có thời gian mình kiếm được tiền mà mình tiêu xài phung phí.
+data19_515,data19,2631.2,2641.11,"Trong những cái lúc mà thời thế không có được tốt hơn thì mình sẽ phải làm việc cật lực cấp 2, cấp 3, cấp 4, cấp 5 lần nhưng không đạt được kết quả như cái lúc đó thì mình sẽ cảm thấy là đáng.","Trong những cái lúc mà thời thế không có được tốt hơn thì mình sẽ phải làm việc cật lực gấp 2, gấp 3, gấp 4, 5 lần nhưng không đạt được kết quả như cái lúc đó thì mình sẽ cảm thấy là đắng."
+data19_516,data19,2641.97,2650.0,Lúc đó nếu mà mình biết chi tiêu một cách có chừng mực hơn thì nó sẽ đỡ hơn.,Lúc đó nếu mà mình biết chi tiêu một cách có chừng mực hơn thì nó sẽ đỡ hơn.
+data19_517,data19,2649.9,2658.82,"Bản thân của tớ nghĩ là ai trong đời cũng trải qua việc đấy. Có những cái lúc mà kiểu nó thuận lợi cho mình quá. Mình thấy lúc nào, ôi, sao nguồn tiền nó vào dễ thế nhờ.","Bản thân của tớ nghĩ là ai trong đời cũng sẽ có việc đấy. Có những cái lúc mà kiểu nó thuận lợi cho mình quá. Mình thấy lúc nào. Uầy, sao nguồn tiền nó vào dễ thế nhỉ."
+data19_518,data19,2659.28,2668.56,Chỉ lúc mình khó khăn mình mới biết là cái việc đấy là nó rất là khó. Để mình có được cái cảm giác đấy và cái thu nhập như vậy. Ý của tớ là hồi mình trẻ.,Thì lúc mình khó khăn. Mình mới biết là cái việc đấy là nó rất là khó. Để mình có được cái cảm giác đấy. Và cái thu nhập như vậy. Ý của tớ là hồi mình trẻ.
+data19_519,data19,2669.33,2671.51,Thì mình thấy là cái việc mà hào giáo bên ngoài.,Thì mình thấy là cái việc mà hào nháng bên ngoài.
+data19_520,data19,2672.9,2682.76,Nó sẽ là một cái rất quan trọng. Nhưng mà khi mình lớn lên. Thì mình thấy là. Nó không phải là vấn đề là sự bên ngoài. Mà nó là những cái vấn đề.,Nó sẽ là một cái rất quan trọng. Nhưng mà khi mình lớn lên. Thì mình thấy là. Nó không phải là vấn đề là sự bên ngoài. Mà nó là những vấn đề gì.
+data19_521,data19,2682.66,2691.98,"Thực chất mình có, thực chất mình cảm nhận. Thì lúc ấy mình lại không có quan tâm. Qua đến kiểu bên ngoài. Tất nhiên là với cái nghề nghiệp như của mình bây giờ. Cái nếm vẫn rất quan trọng.","Thực chất mình có, thực chất mình cảm nhận ấy. Thì lúc ấy mình lại không quan tâm quá đến kiểu bên ngoài. Tất nhiên là với cái nghề nghiệp như của mình bây giờ ấy. Cái đấy vẫn rất quan trọng."
+data19_522,data19,2691.88,2695.98,Nhưng mà tôi nghĩ là cuộc tứ của các bạn là nó sẽ không đặt lên hàng đầu.,Nhưng mà tớ nghĩ là của tớ các bạn là nó sẽ không đặt ra hàng đầu nữa.
+data19_523,data19,2696.08,2703.66,Bây giờ có những ưu tiên khác. Có những ưu tiên số 1. Ở nhà đang chờ chẳng hạn.,Bây giờ có những ưu tiên khác. Có những ưu tiên số 1. Ở nhà đang chờ chẳng hạn.
+data19_524,data19,2703.75,2705.89,Thế đắng của vợ là gì?,Thế đắng của vợ là gì?
+data19_525,data19,2706.01,2713.71,Thật ra thì mình là một người không mấy khi nói quá nhiều về cảm xúc của mình. Hoặc là khi mà có một cái vấn đề gì.,Thật ra thì mình là một người không mấy khi nói quá nhiều về cảm xúc của mình. Hoặc là khi mà có một cái vấn đề gì đấy.
+data19_526,data19,2713.61,2722.87,Thì mình thường hay nghĩ nó một cái trường hướng nó tích cực hơn một chút. Mình uống cái này thì đầu tiên thì nó sẽ có một cái kỷ niệm.,Thì mình thường hay nghĩ nó một cái trường hướng nó tích cực hơn một chút. Mình uống cái này thì đầu tiên thì nó sẽ có một cái kỷ niệm.
+data19_527,data19,2722.87,2728.99,Mà mình cảm thấy là nó rất là đắng. Xong rồi đến một cái khác thì nó cũng khá là đắng.,Mà mình cảm thấy là nó rất là đắng. Xong rồi đến một cái khác thì nó cũng khá là đắng.
+data19_528,data19,2730.76,2732.52,Mấy chọn đằng trước hay đằng sau.,Mẹ chọn đắng trước hay đắng sau?
+data19_529,data19,2732.52,2739.14,Mình nghĩ rằng là trong ba cốc này chắc chắn sẽ có một cốc chua. Thì mình đang sắp xét là cái đấy là cái chua hay là cái đáng.,Mình nghĩ rằng là trong 3 cốc này chắc chắn sẽ có một cốc chua. Thì mình đang sắp xếp là cái đấy là cái chua hay là cái đắng.
+data19_530,data19,2739.14,2741.14,"Đáng trước, đáng trước tại vì cái kia chưa uống.","Đắng trước, đắng trước tại vì cái kia chưa uống."
+data19_531,data19,2747.65,2754.95,"Lúc đó thì mình nghĩ rằng là đã có một cái thời điểm mà nó là một cái thời điểm mà nó hơn, nó là cái thời điểm.",Lúc đắng đấy thì mình nghĩ rằng là. Đã có một cái thời điểm. Nó là một cái thời điểm. Nó là cái thời điểm.
+data19_532,data19,2769.04,2775.79,"Nó là một cái thời điểm mà lúc mà mình mới trưởng thành, lúc mà người ta mới lớn thì mình nghĩ rằng là.",Nó là một cái thời điểm. Lúc mà mình mới trưởng thành. Lúc khoảng tầm mới lớn. Thì mình nghĩ rằng là.
+data19_533,data19,2779.16,2780.63,Xong mình thấy con khác đẹp hơn.,Xong mình thấy con khác đẹp hơn.
+data19_534,data19,2790.59,2795.95,"Có những thời điểm mà nở hoa nhất ấy. Là cái tuổi 17, 18 tuổi ấy.","Khoảng thời điểm mà nở hoa nhất ấy. Là cái tuổi 17, 18 tuổi ấy. Thì mình."
+data19_535,data19,2797.9,2799.96,Mình bị thao túng tâm lý.,Hơi bị thao túng tâm lý.
+data19_536,data19,2802.98,2805.48,Mình bị thao túng tâm lý mà mình không biết.,Mình bị thao túng tâm lý mà mình không biết rằng là.
+data19_537,data19,2805.2,2810.36,Là mình bị cái điều đấy. Thật sự. Thì một cái người.,Rằng là mình bị cái điều đấy thật sự thì một cái người.
+data19_538,data19,2810.36,2812.43,À rồi bạn trai cũ.,À rồi bạn trai cũ.
+data19_539,data19,2817.15,2823.78,"Rất là lâu luôn, trong quãng thời gian 5 năm là cái quãng thời gian mà mình nghĩ rằng là kiểu.",Rất là lâu luôn trong quãng thời gian 5 năm là cái quãng thời gian mà mình nghĩ rằng là kiểu kiểu.
+data19_540,data19,2823.89,2829.6,Một cái tuổi trẻ luôn ấy. Đến mức mà khi mà mình rời xa cái người đấy.,Một cái tuổi trẻ luôn đấy đến mức mà khi mà mình rời xa thì người đấy.
+data19_541,data19,2837.63,2849.49,Mình chỉ cảm thấy là mình đã mất một cái quãng thời gian mà khi mình đi chơi về lúc 10h.,"Tình đấy mà khi mà mình rời xa người đấy, mình chỉ cảm thấy là mình đã mất một cái quãng thời gian mà khi mình đi chơi về lúc 10 giờ."
+data19_542,data19,2855.16,2858.53,Nên là lúc mà quen cường thì đi chơi về là 2-3 giờ sáng.,Nên là lúc mà quen Cuong ấy là đi chơi về đến 2-3 giờ sáng.
+data19_543,data19,2898.38,2907.3,"Sợ đường xá, mình sợ đi về một mình. Thì mình cảm thấy rằng là. Oh my God. Kiểu it's not me. Ok. Bye.",Mình sợ đường xá mình sợ đi về một mình thì mình cảm thấy rằng là oh my god kiểu is not me ok bye.
+data19_544,data19,2933.82,2943.64,"Thì đáng mà, thật sự là rất là đáng luôn ấy. Đến mức mà ví dụ như không bao giờ là sẽ được mặc những cái đồ như thế này luôn nha. Never. Cái không gian của mình lúc đấy chỉ có.",Thì đắng mà. Thật sự là rất là đắng luôn. Đến mức mà ví dụ như không bao giờ. Sẽ được mặc những cái đồ như thế này luôn nha. Never. Cái không gian của mình lúc đấy chỉ có.
+data19_545,data19,2943.93,2946.35,Nhóm bạn thân của cấp 3 và người đấy thôi.,Nhóm bạn thân hồi cấp 3 và người đấy thôi.
+data19_546,data19,2947.83,2956.9,"Ngọc Anh tìm được tự do của mình, tự tiếng nói riêng của mình khi mà thoát khỏi người ấy, còn lúc đó thì mình đang bị phụ thuộc.",Ngọc Anh. Tìm được tự do của mình. Tiếng nói riêng của mình. Khi mà thoát khỏi người ấy. Còn lúc đó thì mình đang bị phụ thuộc quá.
+data19_547,data19,2956.9,2964.06,"Đôi khi nó cũng là một cái bản chất của mình nữa, khi mà kiểu mình yêu ai, chỉ biết tới người đấy và mình rất là muốn gần cái người đấy.","Đôi khi nó cũng là một cái bản chất của mình. Nữa khi mà kiểu mình yêu ai ấy, chỉ biết tới người đấy và mình rất là muốn gần cái người đấy."
+data19_548,data19,2963.9,2969.58,"Ví dụ như anh Cường. Mình rất là thích gần chồng mình, mình thích dành thời gian nhiều cho cái người đó.","Ví dụ như anh Cuong, mình rất là thích gần chồng mình, mình thích dành thời gian nhiều cho cái người đó."
+data19_549,data19,2970.48,2977.63,Thì kiểu như là do một phần tính cách. Nhưng khi mà mình gặp được một người. Người mà họ tốt. Thì nó khác.,"Thì kiểu như là do một phần tính cách, nhưng khi mà mình gặp được một cái người, người mà họ tốt thì nó khác."
+data19_550,data19,2977.67,2986.89,"Còn khi mà mình gặp phải một người mà đôi khi không hợp nhau về cái mindset, tư tưởng, cách sống thì đôi khi nó sẽ bị như thế.","Còn khi mà mình gặp phải một cái người mà đôi khi không hợp nhau về cái mindset, về cái tư tưởng, về cái cách sống thì đôi khi nó sẽ bị như thế."
+data19_551,data19,2990.31,2996.97,Thật sự là rất là khó. Tại vì thì như anh Cường cũng không thể khi nghe mình đúng không.,Thật sự là rất là khó vì hình như anh Cuong cũng không mấy khi nghe mình đúng không?
+data19_552,data19,3002.49,3006.95,Tại vì không phải mười khi ngọc sẽ nói cái việc đấy nhưng mà tự dưng sao uống cái này nó đắng.,Tại vì không phải mấy khi Ngọc sẽ nói cái việc đấy nhưng mà tự dưng sao uống cái này nó đáng quá.
+data19_553,data19,3008.83,3009.82,Tự nhiên là bệnh.,Tự nhiên bật.
+data19_554,data19,3010.17,3016.27,"Ừ, nó bằng một cái công tắc gì đấy, bạn hiểu không? Một cái công tắc mà mình đã muốn là nó kiểu mất trí nhớ đi luôn rồi.",Ừ nó bật một cái công tắc gì đấy. Bạn hiểu không? Một cái công tắc mà mình đã muốn là nó kiểu mất trí nhớ đi luôn rồi.
+data19_555,data19,3016.15,3018.51,Mình không muốn bao giờ nghĩ tới cái việc đấy.,Mình không muốn bao giờ nghĩ tới cái việc đấy nữa.
+data19_556,data19,3061.76,3063.59,Ok tiếp đi tiếp đi.,"Ok, tiếp đi, tiếp đi."
+data19_557,data19,3063.59,3065.82,Đã đậm nhất thì tới đậm nhì.,Đã đậm nhất thì tới đậm nhì.
+data19_558,data19,3065.72,3067.65,"Thì xong rồi đế, cuối cùng.",Đậm nhì xong rồi đậm cuối cùng.
+data19_559,data19,3067.55,3068.96,Tất nhiên rất là nhớ đời.,Rất là nhớ đời.
+data19_560,data19,3078.83,3081.57,"Cái này tôi bật ra luôn ấy, nhưng mà bạn nói trước đi.","Cái này tớ bật ra luôn, nhưng bạn nói trước đi."
+data19_561,data19,3082.13,3087.37,"Ngọt, nó có thảo mộc, dễ uống.","Ngọt, nó có thảo mọc. Dễ uống."
+data19_562,data19,3089.23,3098.56,Mình thấy một cái mà nó liên tưởng tới cái vị của cái món này. Ở nhà được ăn cơm với gia đình là một cái cảm giác uống cái ly này nè.,Mình thấy một cái mà nó liên tưởng tới cái vị của cái món này. Ở nhà được ăn cơm với gia đình. Là một cái cảm giác uống cái ly này nè.
+data19_563,data19,3099.4,3108.07,Tại vì mình là người ở riêng. Và trước đây là cũng. Như trong đám cưới. Mình cũng có nói với gia đình một đoạn.,Tại vì mình là người. Ở riêng. Và trước đây là cũng như trong đám cưới. Mình cũng có nói với gia đình. Một đoạn là.
+data19_564,data19,3108.07,3116.33,"Mình với gia đình hơi mất kết nối. Đúng, đúng, đúng. Vì có thể gia đình không chấp nhận được mình. Cho nên là.",Mình với gia đình hơi mất kết nối. Đúng đúng đúng. Vì có thể gia đình không chấp nhận được mình. Cho nên là.
+data19_565,data19,3116.61,3126.47,Ngay khi mà sau cái đám cưới. Sau khi gặp Dion. Gia đình mới có những buổi ăn cơm gia đình chung có Dion và sau đó lúc nào cũng phải uống với ba.,Ngay khi mà sau cái đám cưới. Sau khi gặp Dion. Gia đình mới có những buổi ăn cơm. Gia đình chung có Dion. Và sau đó lúc nào cũng phải uống với ba.
+data19_566,data19,3126.47,3133.52,"Ba trai con với nhau. Ôi, trở nhớ rất là hạnh phúc. Và nó ngọt ngào như cái ly này.",Ba cha con với nhau. Ôi cảm giác rất là hạnh phúc. Và nó ngọt ngào. Như cái ly này.
+data19_567,data19,3137.28,3140.2,"Mến vợ nói đi, nói đi mình phải đổi tí.",Đến vợ nói đi. Nói đi mình phải đổi tí.
+data19_568,data19,3144.89,3154.54,"Thật sự là uống ly này thì ngọc chỉ cảm thấy là lúc này ngọt ngào, thứ nhất là ổn định.",Thật sự là uống ly này. Thì Ngọc chỉ cảm thấy. Là. Lúc này ngọt ngào. Thứ nhất là ổn định về.
+data19_569,data19,3155.62,3163.53,"Gia đình, cảm xúc, tình cảm. Có một người chồng mà mình cảm thấy là. Yên tâm, yêu thương.","Gia đình. Cảm xúc, tình cảm. Có một người chồng mà mình cảm thấy là yên tâm, yêu thương."
+data19_570,data19,3163.95,3171.93,"Mọi thứ, công việc, gia đình, bố mẹ. Mình cảm thấy nó đang tốt dần lên một cách theo chiều hướng tích cực.","Mọi thứ, công việc, gia đình, bố mẹ. Mình cảm thấy nó đang tốt dần lên một cách theo chiều hướng tích cực."
+data19_571,data19,3174.73,3183.31,Và những cái định hướng của hai vợ chồng sắp tới. Thì mình cảm thấy cái ngọt này nó rất chi là. Nó không có quá ngọt sắc.,Chồng và những cái định hướng của hai vợ chồng sắp tới. Thì mình cảm thấy cái ngọt này nó rất chi là. Nó không có quá ngọt sắc.
+data19_572,data19,3183.35,3192.25,"Mà nó sẽ là ngọt ngào, nhẹ nhàng tình cảm. Ê mâm em, hãy để cuộc đời này. Ê mâm em.","Mà nó sẽ là ngọt ngào, nhẹ nhàng, tình cảm. Làm êm êm êm hay để cuộc đời này êm êm êm như thế."
+data19_573,data19,3193.83,3197.53,Cái ngọt của viên mãn á hả? Hài lòng.,Cái ngọt của viên mãn hài lòng phải không?
+data19_574,data19,3197.98,3201.47,Còn tớ là tớ uống ngọt xong tớ chỉ nghĩ đồ ngọt thôi.,Còn tớ là tớ uống ngọt xong tớ chỉ nghĩ đồ ngọt thôi.
+data19_575,data19,3201.36,3202.35,Đồ ngọt.,Đồ ngọt thôi.
+data19_576,data19,3202.35,3203.98,Tôi thích ăn đường hột.,Tớ thích ăn đồ ngọt mà.
+data19_577,data19,3205.18,3213.55,"Thề luôn ấy, tớ thích ăn đồ ngọt lắm luôn ấy. Khi mà mình trước tuổi 23 là mình ăn mình không bao giờ mình thấy béo luôn.",Thề luôn tớ thích ăn đồ ngọt lắm luôn. Khi mà mình trước tuổi 23 là mình ăn không bao giờ mình thấy béo luôn.
+data19_578,data19,3213.54,3215.13,Bây giờ là sợ béo rồi đúng không?,Bây giờ là sợ béo rồi đúng không?
+data19_579,data19,3215.05,3215.91,Bây giờ là bảo.,Bây giờ là béo.
+data19_580,data19,3216.98,3226.12,"Tới thế bạn luôn, bây giờ mà mình ăn chỉ cần kiểu đồ ngọt khoảng tầm 2 ngày thôi là mình thấy mặt mình tròn. Bẹo ra. Bẹo ra, ý là cái tuổi.",Tớ thề bạn luôn. Bây giờ mà mình ăn chỉ cần kiểu. Đồ ngọt khoảng tầm 2 ngày thôi là. Mình thấy mặt mình tròn. Bẹo ra. Ý là cái tuổi mà.
+data19_581,data19,3225.95,3229.62,Tại sao ngày xưa cái tuổi trẻ mình ăn đồ ngọt nhiều như vậy.,Tại sao ngày xưa cái tuổi trẻ. Mình ăn đồ ngọt nhiều như vậy.
+data19_582,data19,3229.62,3230.89,Và không bị gì hết.,Mà không bị gì hết.
+data19_583,data19,3230.87,3236.09,"Ừ, tự ăn từ chè bưởi cho đến xôi, cho đến cô cao.",Ừ. Tớ ăn từ chè bưởi cho đến. Xôi cho đến coca.
+data19_584,data19,3236.32,3245.25,Cho đến tất cả những cái tại vì tớ là hảo đồ ngọt kiểu không béo mà bây giờ mà mình ăn một tí thôi là mình thấy kiểu mình trông kiểu mặt tròn vo luôn.,Rồi cho đến tất cả những cái. Tại vì tớ là hảo đồ ngọt. Kiểu không béo. Mà bây giờ mà mình ăn một tí thôi. Là mình thấy kiểu mình. Trông kiểu mặt tròn vo luôn ấy.
+data19_585,data19,3245.25,3246.15,Mình có tuổi rồi.,Mình có tuổi rồi.
+data19_586,data19,3246.71,3249.87,Thật sự là chồng uống cái này cũng chỉ nghĩ đến đồ ăn thôi.,Chồng thật sự là chồng uống cái này. Chỉ nghĩ đến đồ ăn thôi.
+data19_587,data19,3253.38,3256.26,Đơn giản là một người với tâm hồn ăn uống.,Đơn giản là một. Một người với tâm hồn ăn uống.
+data19_588,data19,3256.16,3264.12,Ông Cường là kiểu thật sự ông thích ăn vặt và thích ăn đồ ngọt kinh khủng luôn ấy. Mà ông phải kiểu như là kiếm chế rồi ấy bạn hiểu không.,Ông Cuong là kiểu thật sự ông thích ăn vặt. Và thích ăn đồ ngọt kinh khủng luôn. Mà ông phải kiểu như là kiềm chế. Bạn hiểu không.
+data19_589,data19,3264.61,3266.46,Tớ là tớ chỉ nghĩ đồ ngọt thôi.,Tớ là tớ chỉ nghĩ đồ ngọt thôi.
+data19_590,data19,3266.46,3269.28,Cẩu ngọt thì lạ.,Hảo ngọt thì là háo sắc.
+data19_591,data19,3271.9,3272.9,Đúng rồi gì nữa.,Đúng rồi gì nữa.
+data19_592,data19,3280.36,3281.76,Ly này chắc chua rồi.,Cái ly này chắc chua rồi.
+data19_593,data19,3281.76,3288.29,"À được rồi, nhưng mà thôi cũng được. Chua chua nhưng mà cũng chắc chắn là tài tử thích uống chua. Tài tử đi chưa?",À được rồi nhưng mà thôi cũng được. Chua chua nhưng mà cũng chấp nhận được tại tớ thích uống chua. Tại tớ đi trước à.
+data19_594,data19,3288.39,3298.29,Tớ cần cái vị chua mà mỗi lần kiểu ăn những cái gì mà kiểu hơi no ấy. Tớ cần cái vị chua để cho nó kiểu như là nó tiêu hóa.,Tớ cần cái vị chua mà mỗi lần kiểu ăn những cái gì mà kiểu hơi no ấy. Tớ cần cái vị chua để cho nó kiểu như là nó tiêu hóa ấy.
+data19_595,data19,3298.19,3306.51,Nói chung là Tớ là một người khá quan tâm đến cái việc mà sức khỏe. Bình thường mà Tớ mà perform trên sân khấu ấy. Tớ phải control luôn cái việc mà ăn uống.,Nói chung là tớ là một người khá quan tâm đến cái việc mà sức khỏe. Bình thường mà tớ mà perform trên sân khấu ấy tớ phải control luôn cái việc mà ăn uống.
+data19_596,data19,3306.41,3321.91,Nhiều lúc mọi người nghĩ là mình đi diễn nó rất đơn giản. Nhưng thật sự là lúc mà lên sân khấu. Và những người performer. Là họ ăn uống rồi họ tập luyện rồi cardio rồi tất cả mọi thứ. Họ phải giữ hơi thở của mình ở trên đấy. Gọi là khắt khe.,Nhiều lúc thì mọi người nghĩ là mình đi diễn nó rất đơn giản nhưng thực sự là lúc mà lên dân cấu ấy mà những người performer ấy là họ ăn uống rồi họ tập luyện rồi cardio rồi tất cả mọi thứ họ phải giữ cái hơi thở của mình ở trên đấy ấy gọi là khắt khe thôi.
+data19_597,data19,3321.87,3323.42,Ăn chua gì mà không thích.,Thế là ăn chua nhưng mà không thích?
+data19_598,data19,3323.42,3329.01,"Thực ra là cái như cái vị mà lúc ấy mà tớ pha, ý là tớ nói cái rose gin tớ hay uống.",Thực ra là cái như cái vị mà lúc nãy tớ pha ý là tớ nói cái Rokjin tớ hay uống ấy.
+data19_599,data19,3328.95,3336.69,"Nó có vị chua ấy, bởi vì tôi cảm thấy là mỗi lần buổi tối tôi ăn xong, tôi uống nó vào, nó vừa kiểu dễ tiêu hóa mà nó cũng kiểu.",Là nó có vị chua ấy bởi vì tớ cảm thấy là mỗi lần mà buổi tối tớ ăn xong. Tớ uống đấy vào nó vừa kiểu dễ tiêu hóa mà nó cũng kiểu say.
+data19_600,data19,3337.49,3343.31,Và ý là từ cái chùa đấy tớ nghĩ ngay ở trong đầu là đôi lúc mình cũng không thích lắm.,Đấy và ý là cái chua đấy tớ nghĩ ngay ở trong đầu là đôi lúc mình cũng không thích lắm đâu.
+data19_601,data19,3343.31,3352.93,"Nhưng mà mình ăn bởi vì mình cảm thấy là. Cái đấy nó làm cho mình. Cái cơ thể của mình ấy. Cái vận động của mình, cái hơi thở của mình. Và lúc mà mình làm cái công việc mình yêu thích.","Nhưng mà mình ăn bởi vì mình cảm thấy là cái đấy nó làm cho mình cái cơ thể của mình ấy. Cái vận động của mình, cái hơi thở của mình mà lúc mà mình làm cái công việc mình yêu thích."
+data19_602,data19,3352.83,3361.58,Hoặc là những cái việc mà mình vật động ở ngài tớ có thể làm một cái thời gian rất là dài. Hôm nọ tớ vừa diễn concert anh trai và gần trong gai. Tớ chạy nguyên một tuần cùng mọi người.,Hoặc là những cái việc mà mình vận động ở ngày. Tớ có thể làm một cái thời gian rất là dài. Hôm nọ tớ vừa diễn concert anh trai vượt ngàn chông gai. Tớ chạy nguyên một tuần cùng mọi người.
+data19_603,data19,3362.44,3372.5,Là 2 ngày sau mới tớ thấy như tớ đi chơi. Ngay hôm sau tớ có thể đi chơi pick up ball luôn. Tớ không nói là tớ là một người ăn uống đúng nhé. Nhưng mà ý là tớ tức cảm nhận là khi mà tớ.,Mà hai ngày xong. Tớ thấy như tớ đi chơi. Ngay hôm sau tớ có thể đi chơi pick up ball luôn. Tớ không nói là tớ là một người ăn Đúng đúng nhá. Nhưng mà ý là tớ cảm nhận. Là khi mà tớ chạy.
+data19_604,data19,3373.01,3380.99,Hai đêm như thế. Mình cảm giác như là mình. Mình đang kiểu như cardio rồi mà. Mình vận động rồi mà. Thì tôi nghĩ là nó đến việc từ việc mà mình tiêu hóa.,Hai đêm như thế. Mình cảm giác như là mình đang kiểu như cardio thôi mà. Mình vận động thôi mà. Thì tớ nghĩ là nó đến từ việc mà mình tiêu hóa.
+data19_605,data19,3381.58,3391.26,Những cái năng lượng mình nạp vào. Và những cái mình đốt ra. Và làm sao mà mình giữ được cái năng lượng đấy. Thì nó là một cái mà. Tôi liên tưởng đến vị này.,Những cái năng lượng mình nạp vào và những cái mình đốt ra và làm sao mà để mình giữ được cái năng lượng đấy. Thì nó là một cái mà tôi liên tưởng với vị này.
+data19_606,data19,3391.16,3392.94,Nói chung là liên quan tới ăn uống đấy bạn.,Nói chung là liên quan tới ăn uống đấy bạn.
+data19_607,data19,3395.34,3405.34,Ngọc An hả? Thôi Dustin đi. Vì này không có quá gắt. Là cái chua mà nó còn hơi lợ lợ nữa. Nó ở giữa chứ nó không phải là chua.,Ngọc Anh hả? Thôi Dustin đi. Vị này không có quá gắt. Là cái chua mà nó còn hơi lỡ lỡ nữa. Nó ở giữa chứ nó không phải là chua quá.
+data19_608,data19,3406.08,3414.37,Nó làm cho mình liên tưởng tới một cái việc là. Lờ lợ là nhiều khi. Mình thấy mình ăn chay với chồng. Chồng Dustin là người ăn chay.,"Nó làm cho mình liên tưởng tới một cái việc là lỡ lỡ là nhiều khi mình thấy mình ăn chay với chồng, chồng Dustin là người ăn chay."
+data19_609,data19,3415.96,3419.14,Nhưng mà có đôi khi mình cũng thèm.,Nhưng mà có đôi khi mình cũng thèm thịt.
+data19_610,data19,3420.73,3426.17,"Trong những bữa ăn chay đó cũng cảm thấy là nó hơi lợi lợi, nó thiếu thiếu một cái gì đó, thiếu protein.","Trong những bữa ăn chay đó cũng cảm thấy là nó hơi lỡ lỡ, nó thiếu một cái gì đó thiếu protein thịt."
+data19_611,data19,3426.13,3432.3,Nhưng mà thật ra là món ăn chồng làm rất ngon. Nhưng mà nếu mà để nói là ăn chay cùng chồng luôn thì không thể.,Nhưng mà thật ra là món ăn chồng làm rất ngon. Nhưng mà để nói là ăn chay cùng chồng luôn thì không thể làm được.
+data19_612,data19,3432.49,3434.54,Mình rất là phục. Dion.,Mình rất là phục Dion.
+data19_613,data19,3434.53,3441.59,Cái vị này là mình liên tới là vị ăn uống à. Nếu mà bình thường tự ăn ấy. Tầm 5 ngày tự sẽ ăn là rất là khắt.,Cái vị này mình liên tưởng đến vị ăn uống mà. Nếu mà bình thường tớ ăn tầm 5 ngày tớ sẽ ăn là rất là khắt khe.
+data19_614,data19,3441.87,3451.95,"Nhưng mà 2 thứ tuần là tớ xoã luôn. Tớ ăn mọi thứ tớ thích luôn ấy. Là bể vọt liền. Thì thế, thì bây giờ mình thế này. Tôi thấy việc ăn uống nó cũng là một cái niềm.",Nhưng mà 2 ngày cuối tuần là tớ xóa luôn. Tớ ăn mọi thứ tớ thích luôn. Là bể vọt liền. Thế thì bây giờ như thế này tớ thấy việc ăn uống nó cũng là một cái niềm vui.
+data19_615,data19,3451.85,3454.29,I know. Chỉ là đừng trai giả mặn.,I know. Chỉ là đừng chay giả mặn.
+data19_616,data19,3454.19,3463.19,"Nghĩa là đồ trai nhưng vẫn có cơm tấm, sườn nướng, thịt heo quay. Sao tôi không thật sự được ăn thịt? Thì tôi thấy nó là lỡ.","Nghĩa là đồ chay nhưng vẫn còn cơm tấm, sườn nướng, thịt heo quay. Xong rồi tớ không thực sự được ăn thịt. Thì tớ thấy nó lờ lỡ."
+data19_617,data19,3465.43,3471.96,Đúng tới giờ kì lắm. Bây giờ câu chuyện của Vua sắp xong là gì.,"Đúng, tớ hiểu, tớ hiểu, tớ hiểu. Kỳ lắm. Bây giờ câu chuyện của Vũ Sang Sang là gì nào?"
+data19_618,data19,3472.04,3480.5,Mình thấy nhớ tới một cái hôm mình ở cái ngôi chùa mà vợ chồng mình gặp nhau. Nhưng mà cái hôm đấy là chỉ có một mình mình.,Mình thấy nhớ tới một cái hôm mình ở cái ngôi chùa mà vợ chồng mình gặp nhau. Nhưng mà cái hôm đấy là chỉ có một mình mình thôi.
+data19_619,data19,3480.5,3491.37,Hôm đấy mình nhớ là cuộc đời mình từ trước đến giờ được cái trộm ví là từ nhỏ cho đến khoảng thời gian đấy thì nó khá là.,Hôm đấy mình nhớ là cuộc đời mình từ trước đến giờ thì được cái trộm vía là từ nhỏ cho đến cái lúc khoảng thời gian đấy thì nó khá là suôn sẽ.
+data19_620,data19,3491.37,3498.63,"Ngoài chiều chuyện kia ra thì mặt về kinh tế nó khá là tốt cho đến thời điểm đấy, mình nhớ lúc mình ngồi.",Ngoài trừ cái chuyện kia ra thì mặt về kinh tế nó khá là tốt. Cho đến thời điểm đấy mình nhớ lúc mình ngồi ở đấy.
+data19_621,data19,3498.73,3503.15,"Một mình ở trong ngôi chùa đấy, mình chỉ còn 100.000 đồng trong túi.",Một mình mình ở trong ngôi chùa đấy mình chỉ còn 100.000 đồng trong túi.
+data19_622,data19,3504.06,3508.93,Mình cảm thấy. Tại sao mình lại. Có cái lúc như thế này.,Mình cảm thấy tại sao mình lại có cái lúc như thế này.
+data19_623,data19,3508.93,3515.94,Đấy là khoảng thời gian đầu tiên mình cảm thấy khó khăn về mặt tài chính như thế trong cuộc đời.,Đấy là cái khoảng thời gian đầu tiên mình cảm thấy khó khăn về mặt tài chính như thế trong cuộc đời.
+data19_624,data19,3518.91,3526.69,"Từ trước đến giờ thì mình không có bị khó khăn với chuyện đấy. Và mình chưa bao giờ nghĩ đến phải cố gắng kiếp tiền, chưa bao giờ phải nghĩ tới việc đấy.","Từ trước đến giờ thì mình không có bị khó khăn về chuyện đấy. Và mình chưa bao giờ nghĩ đến phải cố gắng kiếm tiền, chưa bao giờ phải nghĩ tới việc đấy."
+data19_625,data19,3526.59,3533.89,"Đến cái lúc đấy mình ngồi một buổi trưa lúc 12h, 1h mình ngồi lặng ở cái, trong cái ngôi chùa đấy.","Cho đến cái lúc đấy, lúc đấy mình ngồi một buổi trưa, lúc 12h, 1h mình ngồi lặn ở ghế ở trong cái ngôi chùa đấy."
+data19_626,data19,3533.89,3539.27,Đúng một trăm nghìn mà mình mua đủ một cái bỏ hương để thắp nhang.,Mình có đúng 100 nghìn và mình mua đủ một cái bó hương để thắp nhang.
+data19_627,data19,3539.27,3544.71,"Mình cảm thấy rằng wow, cuộc đời mình cũng có lúc như thế này và nó khá là chua.","Mình cảm thấy là wow, cuộc đời mình cũng có lúc như thế này và nó khá là chua."
+data19_628,data19,3545.67,3550.61,Nó rất xưa chua mà. Nhưng cái sự chua đấy thì nó cũng không phải là nó quá là.,"Nó thực sự chua, nhưng cái sự chua đấy thì nó cũng không phải là nó quá là gắt."
+data19_629,data19,3551.03,3552.29,Chú này dễ thương đấy.,Chua là dễ thương đấy.
+data19_630,data19,3554.04,3554.98,Nhưng mà cũng may là.,Nhưng mà cũng may là.
+data19_631,data19,3554.98,3563.53,Thật sự là lúc đấy thì mình cũng là cái thời điểm mà mình gặp chồng có cái sức chia sẻ.,Thật sự là lúc đấy thì. Mình cũng là cái thời điểm. Mà mình gặp chồng. Có cái sức chia sẻ. Đỡ đần.
+data19_632,data19,3564.71,3573.07,Mình cũng như là anh Cường. Mình đợi đần cho nhau. Thì cũng qua cái khoảng thời gian đấy. Rồi đến bây giờ thì mình cảm thấy rằng là.,Mình cũng như là anh Cuong. Mình đỡ đần cho nhau. Thì cũng qua cái khoảng thời gian đấy. Rồi đến bây giờ. Thì mình cảm thấy rằng là.
+data19_633,data19,3573.49,3582.93,"Có những cái thời điểm mình cần phải như thế, mình phải nhận ra một cái điều gì đấy trong cuộc sống của mình để mình hoàn thiện cho cuộc sống của mình nó tốt.",Có những cái thời điểm. Mình cần phải như thế. Mình phải nhận ra một cái điều gì đấy. Trong cuộc sống của mình để mình hoàn thiện cho cái cuộc sống của mình nó tốt hơn.
+data19_634,data19,3584.46,3587.71,Và một người phụ nữ trưởng thành.,Một người phụ nữ trưởng thành.
+data19_635,data19,3592.53,3596.17,Rất là tuyệt vời nghe câu chuyện đó. Xong mình cảm thấy là các bạn nên đi chùa.,Rất là tuyệt vời nghe câu chuyện đó. Sao mình cảm thấy là các bạn nên đi chùa?
+data19_636,data19,3596.27,3600.73,Ngày xưa là Cường đi chuột ấy đầu tiên. Sao Cường thấy là rất là thiêng.,Ngày xưa là Cuong đi chùa đấy đầu tiên. Sao Cuong thấy là rất là thiêng.
+data19_637,data19,3600.91,3604.59,Cường giới thiệu cho bạn của Cường. Sao bạn của Cường phải giới thiệu cho con mấy anh?,Cuong giới thiệu cho bạn của Cuong. Xong bạn của Cuong lại giới thiệu cho ngọc anh.
+data19_638,data19,3604.45,3608.01,Cái ngôi chùa đấy nó bình yên giữa lắm. Ừ nó lạ lắm.,Cái ngôi chùa đấy nó bình yên dữ lắm. Ừ nó lạ lắm.
+data19_639,data19,3609.77,3611.53,Miếu bà tiên hậu ở Sài Gòn.,Miếu Bà Tiên Hậu ở Sài Gòn hả?
+data19_640,data19,3612.69,3614.13,Nó kiểu bình yên.,Nó kiểu bình yên ấy.
+data19_641,data19,3614.94,3615.98,Dễ thương quá.,Dễ thương quá.
+data19_642,data19,3615.98,3621.24,Không có lắm cái về tâm linh nó là một cái sự gì đấy năng lượng nó đưa đường dẫn lối.,Không có lắm cái về tâm linh. Nó là một cái sự gì đấy năng lượng. Nó đưa đường dẫn lối cho mình.
+data19_643,data19,3621.24,3623.96,Với thực ra nó cũng là cái mong muốn của mình phát ra.,Thực ra nó cũng là cái mong muốn của mình phát ra đấy.
+data19_644,data19,3623.86,3632.46,Đúng rồi. Mình nhìn vào chính mình bên trong thôi. Rồi. Hôm nay học sinh giỏi chúng ta đã hoàn thành. Mọi người hãy bỏ chơi.,Đúng rồi. Mình nhìn vào chính mình bên trong thôi. Rồi. Hôm nay học sinh giỏi chúng ta đã hoàn thành. Một trò chơi mọi người thấy vui không.
+data19_645,data19,3635.5,3642.66,Dustin có tiếpục mở quà. Mọi người có thể mở ra và Dustin sẽ chia sẻ.,Dustin có tiết mục mở quà. Mọi người có thể mở ra. Và Dustin sẽ chia sẻ.
+data19_646,data19,3642.56,3645.6,Ủa có khi là món chồng thích không?,Có khi nào là món chồng thích không nhỉ?
+data19_647,data19,3647.0,3651.76,Đó là voucher của 19 Beauty Studio.,Đó là voucher của 19 Beauty Studio.
+data19_648,data19,3651.8,3659.8,Chỗ này có làm các dịch vụ. Khử thăm môi. Mi mắt. Triệt lông.,"Chỗ này có làm các dịch vụ khử thâm môi, mi mắt, triệt lông, hàng băng."
+data19_649,data19,3664.34,3666.41,"Để ngóc anh quan tâm, cân anh tự quan tâm hơn.","Cái đấy Ngọc Anh quan tâm, cái này tớ quan tâm hơn."
+data19_650,data19,3666.4,3669.84,Cô La Ma Rôi tặng kèm. Còn cái này cho Vũ Ngọc Anh nè.,"Chocolat Maru tặng kèm, còn cái này cho Vũ Ngọc Anh nè."
+data19_651,data19,3669.82,3670.61,Tạm biệt!,Wow! Sướng vậy.
+data19_652,data19,3676.9,3679.04,To chứ người to phải hộp to.,To chứ người to là phải hộp to chứ.
+data19_653,data19,3678.94,3686.52,"Thank you bạn, luôn xinh đẹp và tỏa sáng nhé. Vũ Ngọc Anh Dustin.",Thank you bạn. Luôn xinh đẹp và tỏa sáng nhẽ. Vũ Ngọc Anh Dustin
+data19_654,data19,3701.67,3708.44,Cũng xin được thay mặt ekip là cảm ơn. Đầu tiên đó là Oculus. Cảm ơn luôn.,Cũng xin được thay mặt ekip là cảm ơn. Đầu tiên đó là Oculus. Cảm ơn Oculus.
+data19_655,data19,3708.34,3715.02,"Đồ ăn quá ngon, rượu quá ngon, không gian quá tuyệt vời, private, riêng tư và sang trọng.","Đồ ăn quá ngon, rượu quá ngon. Không gian quá tuyệt vời. Private, riêng tư và sang trọng."
+data19_656,data19,3714.92,3724.72,Tiếp theo là cảm ơn 19 Beauty Studio và các bạn hãy đọc mã Buddy19 khi đến đặt lịch.,Tiếp theo là cảm ơn 19 Beauty Studio. Và các bạn hãy. Đọc mã Buddy19. Khi đến đặt lịch ở đó.
+data19_657,data19,3724.62,3730.66,"Để có được giải nháp 10%. Cảm ơn YSL Beauty. Tặng quà, rất là nhiều quà.",Để có được giảm giá 10%. Cảm ơn YSL Beauty. Tặng quà rất là nhiều quà thơm.
+data19_658,data19,3746.37,3749.86,Kể những việc bạn làm nếu bạn có siêu năng lực.,Kể những việc bạn làm nếu bạn có siêu năng lực.
+data19_659,data19,3749.87,3756.34,Nếu như mình có siêu năng lực để ra được rất là nhiều.,Nếu như mình có siêu năng lực để ra được rất là.
+data19_660,data19,3756.09,3767.46,Rất là nhiều tiền đi về. Thì mình sẽ xây một tòa lâu đài.,Rất là nhiều tiền thì mình sẽ xây một tòa lâu đài.
+data19_661,data19,3771.48,3779.08,Nếu mà tớ có xíu năng lực thì tớ sẽ bay vòng vòng vòng trái đất trong ngày đi.,Nếu mà tớ có siêu năng lực thì tớ sẽ bay vòng vòng vòng trái đất trong ngày đi về.
+data19_662,data19,3778.98,3787.2,Có xíu lực tớ sẽ đi thám hiểm vũ trụ. Gặp mấy con alien ở các hành tinh khác để tớ ngồi giao lưu nói chuyện.,Có siêu năng lực tớ sẽ đi thám hiểm vũ trụ. Em gặp mấy con alien ở các thành tinh khác thì tớ ngồi giao lưu nói chuyện.
+data19_663,data19,3790.1,3800.6,Nếu mà mình có siêu năng lực mình sẽ. Mình sẽ xây một ngôi trường mà miễn phí.,Nếu mà mình có siêu năng lực mình sẽ mình sẽ xây một ngôi trường miễn phí.
+data19_664,data19,3801.27,3804.51,Vừa rồi có tiền nó không xây luôn thì bây giờ mới xây.,"Vừa rồi có tiền nó không xây luôn đi, bây giờ mới xây."
+data19_665,data19,3813.49,3817.55,Bà này là đặt tên gôn vũ bởi vì bà chỉ thích tiền thôi.,Bà này là đặt tên gôn vũ bởi vì bà chỉ thích tiền thôi.
+data19_666,data19,3817.54,3818.61,Tay hai lần rồi.,Say 2 lần rồi.
+data19_667,data19,3818.46,3824.14,Thì nếu mình có siêu năng lực thì mình sẽ đi cứu thế giới.,Thì mình nếu mình có siêu năng lực. Thì mình sẽ đi cứu thế giới.
+data19_668,data19,3835.37,3838.24,Dân chơi mà sợ mưa rơi.,Dân chơi mà sợ mưa rơi.

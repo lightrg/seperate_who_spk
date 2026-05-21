@@ -1,0 +1,39 @@
+{
+  "eval_script": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\danh_gia_check_point_md_v2_fixed_pyannote_ckpt_hftoken_v3.py",
+  "checkpoint": {
+    "label": "baseline",
+    "ckpt_path": null,
+    "order_key": [
+      0,
+      0,
+      "baseline"
+    ]
+  },
+  "runs_root": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\runs",
+  "hf_model": "pyannote/speaker-diarization-community-1",
+  "low_threshold": 0.25,
+  "failed_manifest": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\manifests\\baseline_failed.json",
+  "samples": [
+    {
+      "split": "test_labeled",
+      "case_id": "data60",
+      "case_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\data\\test_labeled\\data60",
+      "wav_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\data\\test_labeled\\data60\\mixture.wav",
+      "rttm_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\data\\test_labeled\\data60\\labeled\\mixture.rttm",
+      "enrollment_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\data\\test_labeled\\data60\\enrollment",
+      "n_speakers": 3,
+      "group_name": "vif_2",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data60",
+        "overlap_count": "0",
+        "n_spk": "3",
+        "index": "vif_2",
+        "_class_name": "vif_2",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 522,
+      "duration_sec": null
+    }
+  ]
+}

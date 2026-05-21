@@ -1,0 +1,49 @@
+{
+  "model_name": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "summary_json": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/code/qwen/kq/data19/summary.json",
+  "transcript": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/data/test_labeled/data19/labeled/transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 1,
+      "faithfulness_score": 3,
+      "conciseness_score": 2,
+      "total_score": 8,
+      "verdict": "review"
+    },
+    "issues": [
+      "Main summary is inaccurate. The transcript does not discuss the division of responsibilities within a family. Instead, it talks about a wedding celebration and some unrelated topics.",
+      "Speaker summaries are inaccurate. All speakers are described as discussing family life and division of responsibilities, but the transcript does not provide enough evidence to support this.",
+      "Faithfulness is lacking. The summary includes content that is not present in the transcript, such as discussing family life and division of responsibilities.",
+      "Conciseness is poor. The summary is overly detailed and includes unnecessary information."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "Anh",
+        "score": 1,
+        "supported": false,
+        "reason": "The summary does not accurately reflect the content of Anh's speech. Anh talks about the space and luxury of the event, but the summary incorrectly states that Anh discusses family life and division of responsibilities."
+      },
+      {
+        "speaker": "Cuong",
+        "score": 1,
+        "supported": false,
+        "reason": "The summary does not accurately reflect the content of Cuong's speech. Cuong talks about the event and his admiration for the hosts, but the summary incorrectly states that Cuong discusses family life and division of responsibilities."
+      },
+      {
+        "speaker": "Dustin",
+        "score": 1,
+        "supported": false,
+        "reason": "The summary does not accurately reflect the content of Dustin's speech. Dustin talks about the event and the guests, but the summary incorrectly states that Dustin discusses family life and division of responsibilities."
+      },
+      {
+        "speaker": "google",
+        "score": 0,
+        "supported": false,
+        "reason": "The summary does not include any content related to google's speech. google asks a hypothetical question about superpowers, but the summary incorrectly states that google discusses family life and division of responsibilities."
+      }
+    ],
+    "final_comment": "The summary is inaccurate and includes content not present in the transcript. It also includes content that is not supported by the transcript. The summary should be revised to accurately reflect the content of the conversation."
+  },
+  "raw_text": "```json\n{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 1,\n    \"faithfulness_score\": 3,\n    \"conciseness_score\": 2,\n    \"total_score\": 8,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Main summary is inaccurate. The transcript does not discuss the division of responsibilities within a family. Instead, it talks about a wedding celebration and some unrelated topics.\",\n    \"Speaker summaries are inaccurate. All speakers are described as discussing family life and division of responsibilities, but the transcript does not provide enough evidence to support this.\",\n    \"Faithfulness is lacking. The summary includes content that is not present in the transcript, such as discussing family life and division of responsibilities.\",\n    \"Conciseness is poor. The summary is overly detailed and includes unnecessary information.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"Anh\",\n      \"score\": 1,\n      \"supported\": false,\n      \"reason\": \"The summary does not accurately reflect the content of Anh's speech. Anh talks about the space and luxury of the event, but the summary incorrectly states that Anh discusses family life and division of responsibilities.\"\n    },\n    {\n      \"speaker\": \"Cuong\",\n      \"score\": 1,\n      \"supported\": false,\n      \"reason\": \"The summary does not accurately reflect the content of Cuong's speech. Cuong talks about the event and his admiration for the hosts, but the summary incorrectly states that Cuong discusses family life and division of responsibilities.\"\n    },\n    {\n      \"speaker\": \"Dustin\",\n      \"score\": 1,\n      \"supported\": false,\n      \"reason\": \"The summary does not accurately reflect the content of Dustin's speech. Dustin talks about the event and the guests, but the summary incorrectly states that Dustin discusses family life and division of responsibilities.\"\n    },\n    {\n      \"speaker\": \"google\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"The summary does not include any content related to google's speech. google asks a hypothetical question about superpowers, but the summary incorrectly states that google discusses family life and division of responsibilities.\"\n    }\n  ],\n  \"final_comment\": \"The summary is inaccurate and includes content not present in the transcript. It also includes content that is not supported by the transcript. The summary should be revised to accurately reflect the content of the conversation.\"\n}\n```"
+}

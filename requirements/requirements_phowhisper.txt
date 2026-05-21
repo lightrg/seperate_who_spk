@@ -1,0 +1,9 @@
+# Thư viện cho PhoWhisper (ASR)
+# Python 3.10
+openai-whisper
+transformers
+torchaudio
+soundfile
+numpy
+pandas
+jiwer

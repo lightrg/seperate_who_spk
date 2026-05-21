@@ -1,0 +1,4 @@
+Model,Mode,Tokens/s,Prefill(ms),PeakVRAM(MB),LoadTime(s),NewTokens,DeviceMap
+Qwen/Qwen2.5-1.5B-Instruct,4-bit,2.81,377.88,1196.00,15.55,256,"{'': 0}"
+Qwen/Qwen2.5-1.5B-Instruct,BF16,12.39,1333.97,3162.00,6.78,256,"{'': 0}"
+Qwen/Qwen2.5-7B-Instruct,4-bit,4.15,137.64,5740.00,78.55,115,"{'': 0}"

@@ -1,0 +1,61 @@
+{
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "summary_json": "C:\\ai_diarizen5090\\code_qwen_25_7b\\qwen_out\\data2\\summary.json",
+  "transcript": "C:\\ai_diarizen5090\\code_pho_whisper\\test_labeled_bestcp_low025\\data2\\labeled\\transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 3,
+      "speaker_summary_score": 2,
+      "faithfulness_score": 2,
+      "conciseness_score": 2,
+      "total_score": 9,
+      "verdict": "review"
+    },
+    "issues": [
+      "Summary tổng quát không nêu đúng ý chính của cuộc hội thoại, thiếu thông tin về mục đích và nội dung chính của chương trình.",
+      "Phần tóm tắt theo speaker không rõ ràng và có sự lẫn lộn vai trò giữa các người tham gia.",
+      "Có sự gộp nhầm các phần khác nhau của cuộc hội thoại, dẫn đến không trung thực.",
+      "Tóm tắt quá dài dòng, thiếu sự tinh chỉnh."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "speaker_00",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng rõ ràng về vai trò của speaker_00 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_01",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng rõ ràng về vai trò của speaker_01 trong cuộc hội thoại."
+      },
+      {
+        "speaker": "speaker_02",
+        "score": 1,
+        "supported": true,
+        "reason": "Speaker_02 tham gia trao đổi về việc dạy con và phân chia trách nhiệm trong gia đình."
+      },
+      {
+        "speaker": "speaker_03",
+        "score": 1,
+        "supported": true,
+        "reason": "Speaker_03 tham gia trao đổi về việc dạy con và phân chia trách nhiệm trong gia đình."
+      },
+      {
+        "speaker": "speaker_05",
+        "score": 1,
+        "supported": true,
+        "reason": "Speaker_05 tham gia trao đổi về sức khỏe, áp lực và ăn uống."
+      },
+      {
+        "speaker": "speaker_06",
+        "score": 1,
+        "supported": true,
+        "reason": "Speaker_06 tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm."
+      }
+    ],
+    "final_comment": "Summary tổng quát và tóm tắt theo speaker cần được cải thiện để đảm bảo trung thực và ngắn gọn. Cần xác định rõ vai trò của từng người tham gia và nêu rõ mục đích và nội dung chính của chương trình."
+  },
+  "raw_text": "{\n  \"overall\": {\n    \"main_summary_score\": 3,\n    \"speaker_summary_score\": 2,\n    \"faithfulness_score\": 2,\n    \"conciseness_score\": 2,\n    \"total_score\": 9,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Summary tổng quát không nêu đúng ý chính của cuộc hội thoại, thiếu thông tin về mục đích và nội dung chính của chương trình.\",\n    \"Phần tóm tắt theo speaker không rõ ràng và có sự lẫn lộn vai trò giữa các người tham gia.\",\n    \"Có sự gộp nhầm các phần khác nhau của cuộc hội thoại, dẫn đến không trung thực.\",\n    \"Tóm tắt quá dài dòng, thiếu sự tinh chỉnh.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"speaker_00\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng rõ ràng về vai trò của speaker_00 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_01\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng rõ ràng về vai trò của speaker_01 trong cuộc hội thoại.\"\n    },\n    {\n      \"speaker\": \"speaker_02\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"Speaker_02 tham gia trao đổi về việc dạy con và phân chia trách nhiệm trong gia đình.\"\n    },\n    {\n      \"speaker\": \"speaker_03\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"Speaker_03 tham gia trao đổi về việc dạy con và phân chia trách nhiệm trong gia đình.\"\n    },\n    {\n      \"speaker\": \"speaker_05\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"Speaker_05 tham gia trao đổi về sức khỏe, áp lực và ăn uống.\"\n    },\n    {\n      \"speaker\": \"speaker_06\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"Speaker_06 tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm.\"\n    }\n  ],\n  \"final_comment\": \"Summary tổng quát và tóm tắt theo speaker cần được cải thiện để đảm bảo trung thực và ngắn gọn. Cần xác định rõ vai trò của từng người tham gia và nêu rõ mục đích và nội dung chính của chương trình.\"\n}"
+}

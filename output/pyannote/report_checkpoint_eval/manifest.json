@@ -1,0 +1,49 @@
+{
+  "root_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote",
+  "python_exe": "C:\\ai_diarizen5090\\.venv_diarizen\\Scripts\\python.exe",
+  "eval_script": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\danh_gia_check_point_md_v2_fixed_pyannote_ckpt_hftoken_v3.py",
+  "cp_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote",
+  "data_root": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\data",
+  "output_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote",
+  "low_threshold": 0.25,
+  "checkpoints": [
+    {
+      "label": "baseline",
+      "ckpt_path": null
+    },
+    {
+      "label": "best_model",
+      "ckpt_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote\\best_model.pth"
+    },
+    {
+      "label": "best_model_phase1_top4_anchor",
+      "ckpt_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote\\best_model_phase1_top4_anchor.pth"
+    },
+    {
+      "label": "best_model_phase2_top6_overlap",
+      "ckpt_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote\\best_model_phase2_top6_overlap.pth"
+    },
+    {
+      "label": "best_model_phase3_top6_consolidate",
+      "ckpt_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote\\best_model_phase3_top6_consolidate.pth"
+    }
+  ],
+  "n_samples": 14,
+  "expected_runs": 70,
+  "cached_runs": 70,
+  "failed_runs": 0,
+  "splits": [
+    "test_data",
+    "test_labeled"
+  ],
+  "tables": {
+    "raw_case_results": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\raw_case_results.csv",
+    "overall_summary": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\overall_summary.csv",
+    "test_labeled_class_summary": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\test_labeled_class_summary.csv",
+    "test_data_vivo_by_nspeaker_summary": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\test_data_vivo_by_nspeaker_summary.csv",
+    "test_data_vivo_by_overlap_and_nspeaker_summary": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\test_data_vivo_by_overlap_and_nspeaker_summary.csv",
+    "failed_runs": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\tables\\failed_runs.csv"
+  },
+  "plots_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\plots",
+  "rttm_cp_pred": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\checkpoint_eval_report_pyannote\\rttm_cp_pred"
+}

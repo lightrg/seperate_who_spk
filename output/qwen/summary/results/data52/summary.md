@@ -1,0 +1,574 @@
+# 1. TÓM TẮT NỘI DUNG CHÍNH CỦA CUỘC HỘI THOẠI
+
+Cuộc hội thoại mở đầu bằng phần giới thiệu khách mời. Nội dung chính tập trung vào cách phân chia lịch và trách nhiệm trong gia đình.
+
+# 2. TÓM TẮT NỘI DUNG CHÍNH THEO TỪNG NGƯỜI NÓI
+
+- **D_ng**: Người này tham gia trao đổi về việc dạy con, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+  - evidence_spans: [1454.5s - 1604.4s]
+- **Dung**: Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+- **Dustin**: Người này tham gia trao đổi về sức khỏe và áp lực, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+  - evidence_spans: [2419.2s - 2569.1s]
+- **Dương**: Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+- **Tuy_t**: Người này tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+  - evidence_spans: [1453.3s - 1553.9s]
+- **Tác giả**: Người này tham gia trao đổi về một phần trao đổi khác trong cuộc trò chuyện, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.
+  - confidence: low
+
+# 3. TỔNG QUAN CUỘC HỌP
+
+Đây là một đoạn talkshow có phần mở đầu và giới thiệu khách mời. Nội dung chính xoay quanh câu chuyện gia đình, cách phân chia trách nhiệm giữa vợ chồng hoặc việc dạy con. Transcript có nhiều đoạn chuyển cảnh và dẫn chương trình nên cần tránh gộp nhầm các phần khác nhau.
+
+# 4. HÀNH ĐỘNG TRIỂN KHAI (ACTION ITEMS)
+
+Không có action item rõ ràng trong transcript này.
+
+# 5. CHI TIẾT THEO NGƯỜI NÓI (SPEAKER INSIGHTS)
+
+- **D_ng**: Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.
+  - evidence_spans: [1454.5s - 1604.4s]
+- **Dung**: Feeling overwhelmed by career goals and societal pressures.
+- **Dustin**: Đoạn chia sẻ về sức khỏe, áp lực, ăn uống hoặc giảm cân.
+  - evidence_spans: [2419.2s - 2569.1s]
+- **Dương**: Đạo diễn Dương, đang tham gia một cuộc thi âm nhạc và muốn chia sẻ cảm nhận của mình
+- **Tuy_t**: Đoạn trao đổi về đời sống gia đình, vợ chồng hoặc cách phân chia trách nhiệm.
+  - evidence_spans: [1453.3s - 1553.9s]
+- **Tác giả**: Đọc sách và tìm hiểu về xã hội và nghệ thuật.
+
+# 6. KỊCH BẢN CHUẨN HOÁ (CLEANED TRANSCRIPT)
+
+[37.6s - 46.8s] Dustin: Cuối cùng thì cũng đã gặp được chị Minh Tuyết. Hello. Và Mai Tiến Dũng. Hello. Chào mừng cả hai chị em đã đến với bật nến của Dustin on the go.
+[40.5s - 41.2s] Tuy_t: Hello.
+[42.3s - 43.6s] D_ng: Hello.
+[49.5s - 61.9s] Dustin: Thì bật nến là nơi mà bạn được sống thật là chính mình. Thông qua cái ánh nến thì mình hy vọng là ở đây mọi người sẽ được sưởi ấm. Mình sẽ tề tụ với nhau. Và đặc biệt bây giờ cũng là. Dịp cuối năm nữa.
+[63.2s - 78.3s] Dustin: Và Dustin cũng xin được. Gửi lời chúc mừng. Chị Minh Phước và Mai Tiến Dũng. Đã có những chương trình truyền hình thực tế rất là hot và mọi người cũng đã kịp nhảy lên cái chuyến tàu để cùng tham gia với lại các nghệ sĩ của Việt Nam mình thì rất là.
+[78.5s - 80.0s] D_ng: Trộn bí đi ạ.
+[79.7s - 86.3s] Dustin: Trộn vía đi ạ. Trộn viếng. Truyền thống là mình sẽ thắp lên ngọn nến này để mình bắt đầu câu chuyện.
+[90.5s - 94.3s] Dustin: Mọi người ở nhà có hay bật Mê nến luôn là khác.
+[95.0s - 98.6s] Tuy_t: Chị là chị hay bật nến, ông xã cũng vậy.
+[98.6s - 104.1s] Dustin: Thích nến. Mình có mùi thơm. Xong rồi mình. Mình có thể thư giãn hơn.
+[100.8s - 101.7s] Tuy_t: Cảm ơn các bạn.
+[105.7s - 117.9s] Dustin: Bạn đang nghe. Bật nến podcast của Dustin On The Go. Cái lịch trình của hai người là bay đi bay về rất là nhiều. Vậy một năm là mọi người phải về Việt Nam mấy lần rồi phải quay lại Mỹ bao nhiêu lần.
+[118.1s - 119.1s] D_ng: Cái này không đếm được đâu chị.
+[119.2s - 131.5s] Tuy_t: Rất là không tùy thuộc vào cái schedule hoặc là cái show mình nó tới như thế nào ấy. Nếu mà show tới liên tục thì bay như Jim. Còn nếu không có sôi thì ngủ.
+[131.7s - 133.6s] D_ng: Có chim đổ trên cành thôi.
+[135.1s - 139.8s] Dustin: Vậy hai người đã từng. Talk. Trò chuyện với nhau trong một cái. Talk show nào chung chưa.
+[142.7s - 143.6s] Tuy_t: Hình như chưa nha.
+[145.3s - 147.0s] D_ng: Đi sâu cùng nhau và nói xấu.
+[147.0s - 151.6s] Dustin: Không hẹn gặp lại. Chứ chưa có ngồi mà đối mặt với nhau 3 mặt.
+[154.0s - 157.1s] Dustin: Vậy hôm nay sẽ là cơ hội để chúng ta ba mặt một lời.
+[159.5s - 166.9s] Dustin: Bật nến sẽ có những trò chơi rất là hấp dẫn. Mọi người đã sẵn sàng chưa ạ? Sẵn sàng chưa?
+[169.9s - 171.7s] Dustin: Tình chị em sẽ tan vỡ.
+[174.2s - 178.1s] Dustin: Bình thường tình chị em mình có kháng thích không? Nếu mình gặp nhau thì mình sẽ nói.
+[179.2s - 180.5s] Tuy_t: 2 bé Dũng. Hai ví dụ.
+[182.7s - 187.5s] D_ng: Bé Mai còn không rồi, còn không. Vào chi tiết lại. Ê, là Thúy, là Thúy, là Thúy. Là bà Thúy không à.
+[187.5s - 189.6s] Dustin: Bây giờ chị lý còn có nghe là mẹ tuyết.
+[192.2s - 193.7s] Tuy_t: Tôi đã già rồi.
+[194.0s - 195.9s] Dustin: Chị có hài lòng với cái danh xưng mẹ tuyết không?
+[196.5s - 201.4s] Tuy_t: À chị vui. Tại vì chị nghĩ cái danh sân đó nó chứng minh một cái cảnh khác. Chị vui.
+[197.8s - 198.4s] Dustin: Tại vì em có một cái thứ khác. Chị vui.
+[202.3s - 207.4s] Tuy_t: Là một cái khía cạnh là mình được yêu thương ấy. Cho nên chị vui với cái danh xưng đó. Dạ hả?
+[209.9s - 212.7s] Dustin: Còn Dũng, Dũng thích gọi là anh Dũng hay bé Dũng.
+[212.8s - 214.4s] D_ng: Thật sự em thích gọi là bé hơn.
+[216.1s - 222.1s] D_ng: Sắp đầu bốn rồi chị Tuyết. Nhưng mà em vẫn thích kiểu như trong mắt các anh chị. Mình lúc nào cũng bé bỏng nhất.
+[223.3s - 234.7s] D_ng: Chính vì sự bé bỏng đó cho nên là đi show đi đâu. Là cũng được kiểu như take care. Mà nhất là chị Tuyết nữa nè. Là một trong những người mà. Hay nhỏng nhẽo thì mình chăm sóc chị. Nhưng mà khi mà mình cần cái gì. Là chị Tuyết đứng ra.
+[236.5s - 237.7s] Dustin: Vẫn là vai bé bỏng.
+[238.9s - 243.4s] Tuy_t: Lúc nào cũng vẫn thích gọi là bé Mai bé Mai hoặc là bé Dũng chứ không có thích gọi là mai tiến.
+[245.0s - 248.3s] Dustin: Bé Dũng nha. Mẹ tuyết và bé Dũng.
+[251.5s - 267.4s] Dustin: Lý do mà Dustin rất là muốn có được sự xuất hiện của chị Tuyết với lại Dũng. Là bởi vì trong thời gian qua nếu mà mình so sánh quá trình làm nghề. Thì nếu mà mình ví nó như một chuyến tàu. Thì cả hai đã qua những cái trạm như là sân khấu của hải ngoại.
+[270.1s - 293.1s] Dustin: Sau đó là trở về với thị trường âm nhạc trong nước nè. Rồi tiếp đến là truyền hình thực tế ở Việt Nam. Và đó là lý do mà hai người đã có những hoạt động sôi nổi. Nhưng có một cái lý do chính nữa là hoạt động social của hai người gần đây cũng rất là sôi nổi nữa. Rất là hài hước. Đó là lý do mà khán giả rất yêu và yêu cầu chị Minh Tuyết và Mai Tiến Dũng sẽ phải có mặt ở Bật Nến thì đó là cái lý do.
+[293.2s - 294.0s] D_ng: Vô cái nửa pháo.
+[294.0s - 296.2s] Dustin: Mình vô một cái để mình chúc mừng cho.
+[296.3s - 298.0s] Tuy_t: Cảm ơn các bạn. Cảm ơn cho cái chuyến tàu của chúng ta.
+[299.1s - 301.4s] Dustin: Nhờ vậy mình mới gặp nhau ở Việt Nam.
+[304.7s - 319.1s] Dustin: Trời đất xin giới thiệu về không gian mà mình đang ngồi ở đây là Paris Garden ở số 2Bit Nguyễn Thị Minh Khai đa cao quận 1. Thì nơi đây là một cái cà phê, nhà hàng tái hiện lại thành phố Paris.
+[322.7s - 325.8s] Tuy_t: Một trong những thành phố mà chị rất là thích. Minh Tú rất là thích.
+[325.8s - 327.5s] D_ng: Em rất là muốn đi nhưng em chưa được đi.
+[328.8s - 334.9s] D_ng: Thì em mình đi điêu luyện rất là nhiều. Nhưng em chỉ được dừng chân tại mặt xe thôi. Chứ chưa, em chưa được đi Farry bao giờ cả.
+[335.3s - 337.3s] Dustin: Nếu đến Ba Ghi thì Mai Tiến Dũng sẽ đến.
+[337.6s - 340.7s] D_ng: Chắc sẽ là type excel.
+[341.5s - 344.3s] Dustin: Đây, ngồi đây.
+[346.9s - 349.8s] D_ng: Ồ quý vị ơi, đây cũng có đôi quý vị à, già mô phỏng rất giống.
+[350.3s - 352.7s] Dustin: Ủa, hồi nãy chụp hình là sống ảo là y chang luôn nha.
+[353.3s - 356.4s] D_ng: Rồi nghe nói là phải, đi đến Paris là phải ngồi.
+[356.4s - 357.4s] Tuy_t: Đúng rồi.
+[357.8s - 360.2s] D_ng: Là đường y trang trưởng Việt Nam chắc là lãng mạn lắm.
+[360.2s - 365.8s] Tuy_t: Thông khí, rồi cái fashion, mọi thứ nó làm cho mình cảm giác nó lãng mạn.
+[365.9s - 367.4s] Dustin: Nó phù hợp với những người điệu.
+[367.7s - 368.4s] Tuy_t: Đúng rồi.
+[369.8s - 374.1s] D_ng: Và nhất là mình xem đã có một cái show của emily in paris đó.
+[374.1s - 375.4s] Dustin: Emily in Paris.
+[375.5s - 387.8s] D_ng: Tự nhiên mình thấy. Trời ơi sao mình cũng muốn. Thời trang nó thời thường. Nhưng mà mình cảm thấy thời thượng nó lại không bị quá nhanh. Có cảm giác là bên châu Âu và Paris nó chậm hơn một chút.
+[387.8s - 397.8s] Tuy_t: Thích nhất là đi ngang mấy cái công viên á. Xong rồi mấy anh chàng ngồi á. Rồi bận áo măng tô rồi. Vấn khăn này nọ rồi. Xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích xích x
+[402.4s - 404.4s] Tuy_t: Thấy nó lãng mạn làm sao.
+[404.4s - 407.7s] Dustin: Cái giọng Pháp là nghe nó đã là rất là tình rồi.
+[407.8s - 408.4s] Tuy_t: Đúng rồi.
+[408.4s - 415.8s] Dustin: Vậy thì mọi người nếu đói. Mình có đồ ăn đến từ nhà Paris Garden. Có steak, mình có tôm hùm. Mời chị nha.
+[420.7s - 421.8s] Dustin: Mời Mai Tiến Dũng.
+[422.2s - 424.3s] Tuy_t: Bây giờ mình ngồi đây mình ăn luôn vậy đó hả?
+[424.3s - 429.5s] Dustin: Mình vừa ăn, mình vừa uống. Tại vì chuyến tàu này nó sẽ đi qua rất là nhiều trạm.
+[430.3s - 432.4s] D_ng: Bây giờ nạp năng lượng.
+[432.4s - 434.6s] Dustin: Cứ nạp năng lượng nha mọi người.
+[433.9s - 434.6s] D_ng: Cứu em em ơi.
+[440.8s - 441.6s] Tuy_t: Ngon nha.
+[445.7s - 448.2s] Tuy_t: Beautiful.
+[452.9s - 475.6s] Dustin: Trò chơi đầu tiên mang tên là Thần Giao Cách Cảm. Luật chơi như sau. Chương trình sẽ có những câu hỏi. Thì Dustin đọc một câu hỏi. Ba chị em mình sẽ trả lời cùng một lúc. Nếu đáp án ba chị em giống nhau thì ok, nếu mà ai có đáp án khác với hai người còn lại. Thì người đó phải uống một ly nước.
+[476.4s - 477.1s] D_ng: Thiệt luôn hả?
+[477.6s - 480.1s] Tuy_t: Trời ơi là chơi hết.
+[481.3s - 482.7s] D_ng: Tôi tưởng là uống.
+[483.2s - 490.4s] Dustin: Cái này là thấm giọng. Còn cái kia là hình phạt. Mọi người có thường hay chơi game không?
+[490.4s - 493.2s] D_ng: Không, nhưng mà chơi đi, chứ bao giờ chơi game bà Tuyết hết.
+[494.8s - 498.1s] Tuy_t: Tôi đã coi chương trình của Dustin rồi. Tôi cũng hoảng sợ lắm.
+[498.1s - 500.0s] Dustin: Ủa chị có rô là chị cũng hiểu.
+[500.0s - 502.2s] Tuy_t: Chị cũng đã từng xem rồi.
+[503.4s - 515.4s] Dustin: Bạn đang nghe. Bật nến podcast của Dustin on the go. Đây là. Chín ly nước đắng. Yes or no thôi. 1, 2, 3 mới trả lời nha. Mình cùng trả lời.
+[517.1s - 518.0s] Dustin: Anh sẵn?
+[521.2s - 524.7s] Dustin: 6 packs hay là slim fit. Mình có thể suy nghĩ.
+[528.9s - 532.3s] Dustin: 1, 2, 3. Slim Fit.
+[531.7s - 532.5s] Tuy_t: Plimp it. Plimp it.
+[535.3s - 538.4s] Dustin: Vậy là khỏi uống. Ok. Rồi tới mời chị.
+[536.6s - 541.6s] Tuy_t: Ok. Trời ơi câu này căng rồi nha. Câu này căng rồi nha.
+[542.5s - 546.1s] Dustin: Căn không? Căn, chị đọc luôn đi.
+[544.4s - 544.9s] Tuy_t: Hẹn gặp lại.
+[546.2s - 548.9s] Tuy_t: Tại vì bản thân chị chỉ có suy nghĩ.
+[550.8s - 553.5s] Dustin: Nhưng mà nó chỉ có A với B à chị suy nghĩ 50.
+[553.6s - 556.5s] Tuy_t: Lên chọn cái nào muốn hồi cho người khác.
+[556.9s - 558.5s] Dustin: Chị đọc xong rồi đếm 123.
+[558.8s - 564.7s] Tuy_t: Nhiều fan hay nhiều tiền? 1, 2, 3, 4. Nhiều fan hay nhiều tiền?
+[563.4s - 564.4s] Dustin: 3, 2, 1.
+[563.8s - 564.8s] D_ng: Nhiều phần. Nhiều phần.
+[566.0s - 568.5s] Tuy_t: Là đúng rồi. Là đúng rồi. Nhiều xét.
+[571.0s - 571.8s] Dustin: Hạt tiền.
+[572.9s - 575.7s] Tuy_t: Khoan để hỏi là tại sao chưởng lại chọn nhiều fan hơn nhiều.
+[575.8s - 618.8s] D_ng: Tại vì em là thích kiểu tính người tình cảm. Cho nên là khi mà em được nhiều người yêu mến và có nhiều fan thì em nghĩ là từ những cái đó. Thì mình sẽ có nhiều cơ hội khác hơn. Cái tinh thần đối với em nó quan trọng lắm. Phê em không hiện tại không quá nhiều. Thế nhưng fan của em là những người rất là trung thành. Mà rất yêu quý em và chăm sóc em thật sự. Có những chị chăm sóc em như là em trong nhà đó. Thế nên rất là trân quý bao nhiêu năm trời. Họ lớn lên cùng mình các bạn nhỏ. Lớn lên cùng mình. Chị gà đi cùng mình thì cái đó em thấy nó thú vị. Ngành nghiệp của mình đôi khi có những cái bấp minh. Mình vẫn có thể tâm sự với những người đó. Rồi họ chia sẻ với mình. Nhiều tiền nhưng mà đâu có chia sẻ được với ai nếu không mình không có thật sự có những người chia sẻ cùng với mình những cái tinh.
+[619.8s - 620.6s] Dustin: Còn chị?
+[621.0s - 628.2s] Tuy_t: Cái đó là vì Dũng nói hoa mỹ. Mình nói sự thật luôn. Mình là nghệ sĩ, mình cần fan. Mà có nhiều fan thì có nhiều.
+[628.5s - 629.1s] Dustin: Dạ đúng.
+[632.3s - 642.4s] Dustin: Chính xác, em cũng vậy thôi. Em làm nghề tới bây giờ em nghĩ là tiền thì không có. Nhưng fan là những người mà sẽ đi cùng với mình qua từng năm từng tháng.
+[643.0s - 646.6s] Tuy_t: Mình là nghệ sĩ cho nên chọn giữa hai thứ mình vẫn phải chọn fan.
+[648.2s - 649.4s] Dustin: Câu tiếp theo ai đọc nè.
+[651.3s - 658.2s] D_ng: Cái này em giống chị Tuyết nè. Em cũng đáng đó phải suy nghĩ nè. Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình.
+[659.2s - 661.4s] Tuy_t: Quay, quay, quay, khoan, khoan đếm nha.
+[661.7s - 663.1s] D_ng: Văn đếm nha, thật sự những cái này khó đó.
+[663.8s - 665.6s] Dustin: , nhưng mà em có chỗ trả lời nha.
+[665.8s - 677.9s] Tuy_t: Ví dụ như là nếu mà mình nói là nó nằm trong cái situation là mình chỉ nghĩ một người nào đó. Bạn bè với mình nó khác. Và khi mình nghĩ về một người. Là gia đình của mình tức là chồng vợ.
+[678.0s - 679.6s] Dustin: Mỗi người có hệ quy chiếu khác.
+[679.6s - 680.2s] Tuy_t: Không có gì đánh giá nữa.
+[681.2s - 684.9s] D_ng: Phải nói là người tình của mình hoặc là chồng của mình. Hoặc là vợ.
+[685.0s - 687.2s] Dustin: À mỗi người có một tố chất khác.
+[687.3s - 700.1s] Tuy_t: Giống như bây giờ đơn giản nha. Khi mà một người đàn ông họ quen một người đàn bà. Chỉ là người tình thôi. Thì họ muốn người tình của họ sẽ là như vậy. Nhưng mà khi đã nghĩ tới lấy cái người đã làm vợ thì họ sẽ nghĩ một cái kiểu khác.
+[700.5s - 701.6s] D_ng: Thấy thấu chưa?
+[701.9s - 704.5s] Tuy_t: Cái người đàn bà già rồi nó suy nghĩ khác em à.
+[705.5s - 707.4s] Dustin: Vậy là người nào khác là người đã uống đó.
+[709.0s - 720.2s] D_ng: Thì mình cứ trả lời đi ạ. Ok đọc lại câu hỏi nha. Thích người giỏi ngoại giao hay giỏi chăm sóc gia đình? 2, 3. Giỏi chăm sóc gia đình.
+[718.9s - 720.2s] Tuy_t: Giỏi chăm sóc gia đình. Giỏi chăm sóc gia đình.
+[721.7s - 722.7s] D_ng: Ok em thoát.
+[724.5s - 731.8s] Dustin: Thì đúng rồi đúng rồi. Tại vì ở thời điểm này. Cả em với Dũng thì cũng. Mong muốn là chỉ có một cái mái ấm gia đình thật sự.
+[732.0s - 743.6s] Tuy_t: Chị nghĩ là có lẽ là tại vì chúng ta đều là những người đi ra ngoài làm việc á. Và nói chung là chúng ta cũng đã có một cái thành tựu khá là nhất định. Thì chúng ta lại khao khát cái tình cảm nhiều.
+[745.2s - 747.3s] Tuy_t: Khao khát cái sự ấm êm.
+[747.7s - 749.4s] Dustin: Chúng ta có thể tự đi ngoại giao.
+[749.4s - 753.3s] Tuy_t: Thì mình đâu dám nói bạch tạc ra như thế. Mình phải nói như vậy.
+[754.7s - 757.2s] Dustin: Mình chỉ cần một người là chỗ dựa cho mình thôi.
+[757.2s - 760.2s] Tuy_t: Để cho mình có thể bay nhảy bên ngoài đúng không?
+[761.9s - 770.8s] Dustin: Câu nào mà nó khác khác đi. Để có người phải thua chứ. Phở hay bún bò. 1, 2, 3. Bún bò.
+[770.0s - 770.8s] Tuy_t: Đúng à.
+[772.8s - 777.1s] Tuy_t: Uống thôi uống bò. Uống thôi uống bò chết chưa. Xin mời phở uống nha.
+[777.4s - 780.2s] Dustin: Hai chị em hẹn thêm bún bò hả? Chị là fan bún bò.
+[780.3s - 781.0s] Tuy_t: Thì là Phan.
+[786.2s - 787.0s] Tuy_t: Nhiều.
+[789.5s - 790.3s] D_ng: Sao đắng dữ vậy?
+[791.2s - 799.4s] Tuy_t: Em ăn thử như vậy đi em sẽ thấy rất ngon. Đó là mình đừng húp nước thôi. Nhưng mà khi nước béo nó nhiều thì cái mùi bún bò mùi xả nó sẽ dậy lên nhiều hơn. Ủa mà uống gì vậy?
+[799.4s - 801.2s] D_ng: Nước đắng, đắng lắm.
+[801.4s - 802.5s] Tuy_t: Bạn nước đó là cái gì?
+[802.5s - 811.2s] D_ng: Là nước đắng đó cho nó mát da, đẹp da. Mà đắng, đắng xong bây giờ uống xong rồi ha. Xong bây giờ nước bọt không biết tiết ra, nó còn đắng từ từ từ từ.
+[818.1s - 819.5s] Tuy_t: Nhưng mà cái này tôi cũng không biết trả lời.
+[821.0s - 823.3s] Tuy_t: Mưa tháng 6 hay nắng tháng 10.
+[824.1s - 825.2s] Dustin: Này nó thơ quá vậy.
+[825.2s - 826.6s] D_ng: 10 tháng 6.
+[827.3s - 828.9s] Tuy_t: Suy nghĩ xong chưa đếm nha.
+[829.5s - 829.9s] D_ng: Khó quá.
+[829.9s - 830.5s] Dustin: Không rồi nè.
+[831.3s - 834.5s] Tuy_t: Thì chị nói là cái này đơn giản nhưng mà lại khó.
+[836.3s - 841.3s] Tuy_t: Đi đây em sẽ thích mùa nắng hay mùa mưa. Em sẽ thích cái cảm giác đầu hơn.
+[841.3s - 848.5s] D_ng: Giờ chị nói cảm giác về thực tế là tooling. Hay chị thích kiểu là. Thực tế là trong cuộc sống. Tại vì nếu trong cuộc sống đi kiếm cơm.
+[848.5s - 849.5s] Tuy_t: Filling đi Filling.
+[849.5s - 851.0s] D_ng: Bọc phải bọc phi linh nha.
+[852.3s - 855.9s] Tuy_t: 2, 3, muôn tháng 6, nắng tháng 10.
+[854.8s - 856.0s] Dustin: Nắng tháng mười.
+[858.6s - 859.6s] D_ng: Đã đó là kiêu linh.
+[860.6s - 861.6s] Dustin: Cho chị thích được không?
+[861.6s - 862.4s] D_ng: Được rồi.
+[863.0s - 864.0s] Dustin: Của mình tháng 10.
+[864.0s - 869.7s] Tuy_t: Ê nè sinh nhật tháng 10 nè. Nhưng mà tại vì mưa nó lãng mạn hơn.
+[869.9s - 872.7s] Dustin: Nhưng mà tháng 10 nào mưa nó cũng ngập tới đầu gối hết đó chị.
+[873.0s - 874.4s] Tuy_t: Nắng tháng mười mà.
+[874.4s - 877.6s] Dustin: Mong là có ngày nắng tháng mùi để cái sinh nhật em nó bớt ảm đạm.
+[877.3s - 878.2s] Tuy_t: Tại tụi chị không ấy?
+[880.8s - 888.3s] D_ng: Nói chung là mưa nắng đều có cái heavy nguồn độ. Nhưng mà tại vì nếu mà đi show thì chỉ mong là ngày nắng. Tại vì ngày mưa thì nguy hiểm.
+[888.4s - 889.9s] Tuy_t: Thôi 15g thôi.
+[889.9s - 894.0s] D_ng: Mình đang nói về khí cạnh nào. Piêu Linh thì tất nhiên là mưa.
+[894.0s - 897.2s] Tuy_t: Tại vì thật sự ở Mỹ. Nó ít khi nào mà mưa dầm mưa về.
+[898.5s - 900.1s] Tuy_t: Không có nhiều.
+[900.1s - 908.6s] D_ng: Em thấy ở Việt Nam như thế nào. Mưa người ta hay gọi là mưa rào Việt Nam. Rào nó ngưng. Còn bên Mỹ á. Mưa là từ sáng đến tối.
+[908.6s - 912.6s] Tuy_t: Nhưng mà nó không có nhiều. Không nhiều ngày thôi. Không tức là nó không có nhiều ngày. Không nhiều ngày thôi. Không tức là nó không có.
+[910.4s - 911.6s] D_ng: Không nhiều ngày thôi.
+[914.4s - 915.6s] Dustin: Lấp phớt, lấp phớt.
+[915.6s - 916.7s] D_ng: Nhưng mà nó ra nguyên.
+[916.7s - 920.4s] Tuy_t: Nó dai nhưng mà nó rĩ rã chứ nó không kiểu à mà mà mà mà mà.
+[920.6s - 928.9s] Dustin: Ở đây là xong rồi nắng hết. Xong rồi đang nắng là mưa mưa mưa. Vậy là tính mọi người cũng vậy thích kiểu mưa lãng mạn đúng không? Chứ không thích mưa kiểu ào ào.
+[929.0s - 931.5s] Tuy_t: Không ai thích mưa ào ào.
+[933.7s - 935.1s] D_ng: Nguội ào ào. Các bạn không được về nhà.
+[935.6s - 936.8s] Dustin: Kẹt bên nhà ai đó.
+[937.6s - 940.0s] D_ng: Đúng không đúng không. Mưa quá không về được, không bắt được taxi.
+[941.0s - 942.7s] Dustin: Kẹt mưa đâu đó với ai chưa.
+[942.8s - 943.9s] Tuy_t: Nó khò quá.
+[947.3s - 948.8s] D_ng: Không có ra thực tế nào.
+[948.8s - 951.0s] Tuy_t: Ngày ấy qua rồi. Ngày ấy qua rồi.
+[951.1s - 953.4s] Dustin: Thì mới có bài đường xa ước mưa đúng không? Đó.
+[953.9s - 963.2s] Tuy_t: Ước ác trời mưa nhỏ hai đứa che chung một chiếc giường. Linh lén nhìn nhau bằng ánh mắt. Học trò chưa biết cách hôn môi. Ủa hai người không biết cái thơ đó hả?
+[963.2s - 963.8s] D_ng: Không.
+[963.9s - 964.8s] Tuy_t: Mimusa.
+[965.6s - 966.7s] Dustin: Là lúc học trò.
+[966.7s - 972.1s] Tuy_t: Chuyện Mimosa đấy. Trời ơi, hồi xưa là chị là. Trốn ở trong góc nhà để đọc truyện.
+[972.1s - 973.9s] D_ng: À là mê tủy thuyết đúng không?
+[973.9s - 974.4s] Tuy_t: Tự thí.
+[975.8s - 979.0s] Tuy_t: Tại sao tôi hát nhạc tình cảm là vậy đấy. Tôi rất là ước ác.
+[981.2s - 982.4s] D_ng: Xếp hàng chờ thăm mấy.
+[984.0s - 986.0s] D_ng: Cái này tùy lúc nè, bây giờ mình nói một ngữ cảnh.
+[986.1s - 987.4s] Tuy_t: Nếu thân bộ 10 tầng em đi.
+[987.5s - 989.3s] Dustin: Không, bây giờ mình nói trước đi rồi mình giải thích sao.
+[989.4s - 991.7s] Tuy_t: Không phải tháng, nhưng mà tháng bộ là bao nhiêu tháng mới được.
+[993.4s - 994.5s] Dustin: Chị đi được bao nhiêu.
+[994.6s - 996.2s] Tuy_t: Cái này làm khó người ta quá à.
+[996.5s - 1002.6s] D_ng: Biết thì sao không? Như thế này nè, nó khác nhau chỗ. Ví dụng với Dustin. Làm điểm đàn ông thì mình đi dây ngắn.
+[1002.9s - 1006.6s] Tuy_t: Bây giờ tôi mang đôi này mà tôi bắt tôi đi thang máy thang bộ tôi chết rồi.
+[1006.6s - 1008.1s] Dustin: Nhưng lúc em cũng mang giày cao luôn chị.
+[1008.1s - 1010.4s] Tuy_t: Mà cái cao của em nó không có là nghĩa địa gì hết.
+[1012.4s - 1016.0s] Dustin: Không có là nghĩa địa ha. Ba nhiêu phân mới là nghĩa địa gì kỷ.
+[1016.1s - 1021.1s] Tuy_t: Trời ơi cái giày này mà em kêu chị đi 3 tầng là chị thở. Rồi cái độ tuổi, độ tuổi.
+[1022.6s - 1025.0s] Dustin: 2 tầng đã về chưa. Ba tận sợ chị bỏ cuộc.
+[1025.0s - 1026.4s] D_ng: Không, ba tầng đường. Bao tầm được.
+[1027.1s - 1029.7s] Tuy_t: Mà phải tùy lúc lúc nào.
+[1029.9s - 1032.6s] D_ng: Thì nói chung là phải chờ hết, vô gặp thang máy là bị.
+[1032.6s - 1035.4s] Tuy_t: Không, ví dụ như là em cần phải đi những cái chuyện rất là gấp.
+[1036.2s - 1039.0s] D_ng: 3, 2, 1. 1, 2.
+[1038.2s - 1038.9s] Dustin: Bây!
+[1039.0s - 1039.0s] Tuy_t: Hẹn gặp lại.
+[1043.3s - 1047.5s] Tuy_t: Cái câu này là rõ ràng xử ép chị. Tại chị là đàn bà thì chắc chắn chị phải đi thang máy.
+[1047.5s - 1049.2s] Dustin: Thì em đi 3 tầng với chị mà.
+[1049.9s - 1053.3s] D_ng: Chị đi thang bộ nhưng mà chồng chị có thể cõng chị mà hay bế chị đi được mà.
+[1053.4s - 1055.6s] Tuy_t: Cái câu của em nó không có cái option là có chồng.
+[1056.6s - 1057.9s] D_ng: Chị có thể tự vẽ ra.
+[1059.5s - 1060.5s] D_ng: Thôi chị uống đi.
+[1060.8s - 1061.7s] Dustin: Mời chị Tết!
+[1062.9s - 1064.8s] Tuy_t: Cứu này là công sử ép chị.
+[1064.7s - 1065.5s] Dustin: Câu này là.
+[1065.2s - 1069.1s] Tuy_t: Không, câu này là không đúng, mấy người sửa ép tôi thiệt luôn á nha.
+[1070.7s - 1075.8s] D_ng: Đáng nha đáng lắm nha em nói thiệt nha. Đừng có nhấp uống luôn. Đừng có nhấp. Trời ơi chị giúp một chi vậy một hơi đi.
+[1075.8s - 1077.6s] Tuy_t: Oh my God.
+[1077.6s - 1078.3s] D_ng: Phải đọc đó.
+[1079.5s - 1083.1s] D_ng: Chắc chắn chị phải uống một hớp kia rồi. Chị không hớp kia rồi chị chị đều phải hớp nhẹ cái.
+[1083.3s - 1083.9s] Tuy_t: Đắng quá.
+[1085.9s - 1098.9s] Dustin: Bạn đang nghe. Bật nến podcast. Của Dustin on the go. Khi nói về. Những cái cột móc trong sự nghiệp của mình đi. Chị Tuyết và Dũng sẽ nghĩ đâu là những cái cột mốc mà nó làm thay đổi sự nghiệp.
+[1099.9s - 1105.9s] Tuy_t: Với chị là cái năm mà chị đi nước ngoài là nó thay đổi hoàn toàn sự nghiệp của chị.
+[1107.3s - 1113.8s] Tuy_t: Tại mới đầu chị được công chúng biết đến nhiều ấy. Là một cặp song ca Minh Tú Cẩm Ly.
+[1115.0s - 1154.1s] Tuy_t: Không phải là cái mục đích đầu tiên của chị là muốn có một cặp song cam bên trước cảm ly. Lúc đó là gặp Hà Bình họ đang tổ chức một cái chương trình thi những tiết mục. Mà thời điểm đó được công nhận thì mới được tuyển vào đạt hát và bình để hát thì lúc đó mình. Trời ơi mình mới chân ướt chân ráo mới lớn lên mới vừa thi thoát trường hành đạo có ai biết mình là ai đâu nè có rất là nhiều. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Cái này là một cái tên là. Tuyển vào để hát hàng đêm. Của Nhà Hát Hòa Bình.
+[1270.3s - 1292.4s] Tuy_t: Kế hoạch ngày hôm nay mình sẽ đi từ đâu từ đâu. Hoặc là lịch trình sẽ như thế nào. Thì chị Ly lo còn ngoại giao là ví dụ như là. Ở với bầu show hay là với bất cứ một cái gì ở bên ngoài. Và idea phần lớn thì là chị lo. Thì cái thời điểm đó là như vậy. Nhưng mà chị vẫn cảm thấy là giống như là chị vẫn chưa tìm được chính bản thân mình. Xong nên cuối cùng mà chị quyết định là chị đi nước ngoài.
+[1296.8s - 1322.7s] Tuy_t: Tại vì như vậy nếu mà chị ở Việt Nam mà đang là một cái cặp song ca nình đám như thế. Thật sự là đối với song ca như vậy là đã nổi tiếng rồi. Nó không thể nổi hơn được nữa. Thì nếu như mà mình nói với khán giả mình. Mới bài mình cho mình hát đơn ca. Thì khán giả chắc chắn sẽ không chấp nhận chị. Cũng như không chấp nhận chị Cẩm Ly luôn. Vì họ đã quen cái hình ảnh. Một cặp song ca rồi giống như anh Minh Thuận, Việt Hào cũng vậy. Lúc đó là hai người mấy tuổi. Lúc đó là chị nghĩ chị.
+[1445.6s - 1453.3s] Dustin: Cái đó có phải là cột mốc của Mai Tiến Dũng trong sự nghiệp ca hát không? Châu Lyn show của Paris By Night. Nếu nói về cục móc, sẽ có rất là nhiều.
+[1453.3s - 1455.6s] Tuy_t: Nhưng mà đó là cục móc đầu tiên. Nhưng mà nếu mà đầu tiên.
+[1454.5s - 1491.0s] D_ng: Nếu mà đầu tiên thì đúng là talent show của Presby. Đó có phải là một cái cú bật. Cho sự nghiệp của Dũng. Để Dũng được đứng trên sân khấu. Và được. Thật là hồi xưa thích hát, về văn nghệ ở Việt Nam đi học mà thì vẫn cứ tham gia văn nghệ trong. Nhưng mà không nghĩ là mình sẽ tham gia ca hát đâu. Tại vì bản điều khoản từ năm lớp 9 đến lớp 12. Đang đi học xong rồi nhà hỏi thì giờ mốt muốn làm. Lúc đó thì mình thích thời trang, mình thích thẩm mỹ. Cái gia đình là thôi học bác sĩ thẩm mỹ đi. , chống đau thì à, gia đình hướng nhà mình đi. Còn không học nha.
+[1492.3s - 1498.0s] D_ng: Có một người chị Úc thì ở Việt Nam á chị Úc thì đã đi học nhạc việt thành phố.
+[1499.5s - 1507.3s] D_ng: Học cùng khóa với chị hiền thục nè, chị Mỹ Tâm là cùng khóa luôn, thế xong rồi là vì đi, thì đi lúc qua đó thì chị bỏ ngang.
+[1507.5s - 1509.2s] Dustin: Lúc đó mấy tuổi bắt đầu đi Mỹ.
+[1509.2s - 1510.5s] D_ng: Dũng đi Mỹ lúc nó 11 tuổi.
+[1510.5s - 1512.9s] Dustin: Nhỏ hơn là lúc chị Tuyết đi rất là nhiều.
+[1513.0s - 1520.3s] D_ng: Thì lúc đó là đi qua đó thấy. Cho nên là nguyên khoảng thời gian mà hoạt động ở bên Mỹ. Thì mê coi thuyết nghe.
+[1522.0s - 1534.2s] D_ng: Học xong lớp 12 cái gia đình bảo ok, qua Mỹ 5 năm rồi, hứa cho về ngang chơi, nhớ gia đình. Cái đi về vừa về Việt Nam, mắc hai đọc báo ở bên kia bảo thí thúy Nga, Paris-Banai là đang tuyển cuộc thi.
+[1534.2s - 1536.2s] Tuy_t: Đó là em đi thi rồi thi cho vui thôi á đúng không?
+[1536.2s - 1551.5s] D_ng: Em nói vui là tại vì em bảo lúc đó là kiểu như là chị Úc thì mình thấy là cái khát khao chị Mình làm nghề hồi xưa. Hồi xưa chị nghĩ là nếu mà mình là fashion designer. Là mình sẽ thiết kế đồ cho chị. Mình hạ lên sân khấu và mặc đồ.
+[1551.5s - 1553.9s] Tuy_t: Từ hồi nhỏ em không có đam mê hay ước mơ là làm ca sĩ.
+[1553.9s - 1568.5s] D_ng: Em thích hát, em biết hát và thích hát. Và khi mà mấy anh chị nghệ sĩ mà qua nhà chơi với chị đi cùng học hóa. Anh Đình Bảo xưa là cũng qua nhà em chơi. Thích đi cùng các anh chị là đi karaoke thích hát thôi nhưng mà cũng không có nghĩ là mình sẽ đứng trên sân khấu.
+[1569.7s - 1604.4s] D_ng: Cho nên là khi mà thấy có cuộc thi cái bà ok đi thi đúng không bà. Cái bà kêu thôi thì chị nhé không phải bà đi đi tôi đi cũng bà. Thế là hai chị em vô với Thôi Đề Mô Việt Nam. Gửi qua bên cho bên trung tâm. Chị Tít có nhớ không nhưng mà cứ mỗi tuần là Thúy Nga đăng lên một cái list. Từng tuần, từng tuần một. Mình coi là cho mọi người nghe. Bình chọn, bình chọn, bình chọn á. Hồi hộp, hồi hộp. Thấy cái giọng tập chị mình lên rồi. Khi xong phim tới phim mình. Cũng nghe ồ, cũng được post lên bài. Cũng là một trong những người được đăng lên ha tuyển chọn sau còn 300 thí sinh mà chơi hoài thấy họ gọi mình mà không gọi chỉ mình.
+[1607.9s - 1620.0s] D_ng: Thật sự đó là một trong những cái bước ngoặc đầu tiên luôn đó. Em nhớ hoài cuốn 86. Dũng hát quả này là hát thị thị Úc. Mà mình không có nghĩ mình đi hát, mà giờ tự nhiên chị đi thi, chị đi khác.
+[1620.0s - 1620.9s] Tuy_t: Bài gì vậy?
+[1621.0s - 1622.3s] D_ng: Em hát chuyện chạy cô đơn.
+[1624.5s - 1631.5s] D_ng: Xong cái mình bảo chí. Thôi em hát cho dành cho chị. Tại vì đâu có biết có được vô trong nữa hay không đâu. Thôi được lần đứng trên sân khấu to.
+[1635.0s - 1651.3s] D_ng: Tôi hát được lần trên sân khấu cũng được đi. Cho chị mình hãnh diện đi. Tuy nhiên xong hôm đó. Thằng nhóc được vô chung kết là vô vòng sau. Trời ơi thằng nhóc stress. Em stress mà bị sốt mà xuống bao nhiêu pound luôn. Là tại vì mình chỉ nghĩ là mình tới đó thôi ngưng rồi.
+[1651.8s - 1655.3s] Tuy_t: Cái đó là tổ ổng đại chứ ai là người đó.
+[1655.3s - 1671.0s] Dustin: Đúng, có những người biết bao nhiêu năm kiểu theo nghề cũng trầy trật. Nhưng mà mình có cái may mắn là Tổ gọi tên mình đúng không. Vậy theo hai người khán giả thích và yêu mến hai người là vì điểm gì?
+[1675.3s - 1684.4s] D_ng: Ví dụ như nếu mà nói về đã là nghệ sĩ thì tất nhiên là cái bề ngoài sẽ luôn luôn là sẽ là những cái hút.
+[1684.7s - 1685.0s] Tuy_t: Rồi em thấy cái câu chuyện đó rất là đúng rồi.
+[1685.7s - 1702.1s] D_ng: Không hẳn là là nghệ sĩ đâu, mình đi ra ngoài đường mình bất cứ gặp bất cứ người nào mà đúng gu của mình cái ghép của mình. Chắc chắn là mình sẽ thích đáp. Mình sẽ có cảm tình hơn. That's why mình mới hiểu. Có mấy cái câu là. First impression. Nếu mà riêng em thì em nghĩ là chắc tại vì. Em hay hát nhạc.
+[1702.3s - 1703.4s] Dustin: Nhạc buồn, nhạc suy.
+[1704.0s - 1719.2s] D_ng: Em cảm thấy là như thế này, khoảng thời gian mà mới vào nghề em hát nhạc sôi đọc. Có thể là vì một phần là cái tuổi đời mình chưa nhiều, kinh nghiệm mình chưa nhiều. Khi mình hát, họ sẽ mang một cái sắc màu ở vui, dễ nghe, để thay đổi không khí.
+[1722.4s - 1734.3s] D_ng: Để những bài hát nó đủ để nằm lòng trong lòng khán giả. Thường sẽ là những mẹ hát nó có mang một tính chất suy tư thường một tí xíu nó có một cái chiều sâu hơn.
+[1735.9s - 1750.4s] D_ng: Từ khi mà em tìm đến những ca khúc mà nó có thể gọi là chính em, là thấy em đi chơi. Mọi người thấy Vũ này khùng hay là một kịch giỡn và tưng và tưng. Đó là vì với những người thân.
+[1751.7s - 1755.1s] D_ng: Mình có thể vui. Thật sự Dũng không có vẻ vui như vậy.
+[1755.4s - 1756.2s] Dustin: Vậy khóc không?
+[1756.5s - 1767.6s] D_ng: Rất dễ khóc, chị tôi biết là rất là dễ khóc. Cho nên là cục móc trong cuộc sống. Tình cảm, sự nghiệp. Mọi thứ nó đến một cái mức mà. Nó làm cho mình có một cái điểm trụng xuống.
+[1767.6s - 1770.0s] Tuy_t: Chính mùi ấy, đến lúc mình chính mùi.
+[1770.0s - 1771.7s] D_ng: Bắt đầu mình tìm lại chính mình.
+[1773.2s - 1784.4s] D_ng: Và vô tình những ca khúc mình có thể thể hiện được cái nội tâm của mình thì lúc đó tự nhiên cái gọi là cái mạch của mình, mạch âm nhạc, mạch cảm xúc. Và mặt cảm xúc của khán giả nó không một cái điểm chạm.
+[1784.4s - 1842.4s] Dustin: Các khán giả thích khi mình hát nhạc buồn, suy. Bởi vì bây giờ Dũng đã thể hiện được cái sự thật là mình đã trải qua những cái nỗi đau nào đó trong cuộc sống.
+[1842.8s - 1858.6s] Tuy_t: Chị nghĩ chị giải thích cho Dũng. Tại sao mà em thấy là sau này em hát nhạc tình. Là em lại chạm đến khán giả nhiều hơn. Chị đã từng nghe một. Trong một cái chương trình. The Voice của Mỹ. Krishna Eklah hỏi cái người đang hát. Em mới hát xong em cảm thấy như thế nào?
+[1965.9s - 1980.4s] Tuy_t: Cũng giống như khi mà chị hát tình ca cũng vậy. Chị cũng đã từng trải qua hỉ nổ ái ố trong cái thời còn trẻ của mình chứ. Có người chị cũng phải có những cái tình cảm nhất định. Và chị hiểu được điều đó. Chị mới hát được như vậy. Mình cảm được nó thì khán giả sẽ cảm được mình.
+[1981.0s - 1987.8s] Dustin: Thì em có những cái tấm hình này mọi người sẽ cùng nhìn và đầu tiên là cái tấm này của chị Tuyết.
+[1989.0s - 1992.9s] Dustin: Đây là một tấm hình mà em thấy ở trên Facebook. Chị Post cũng gần đây.
+[1993.1s - 1994.9s] Tuy_t: Tiếng hát truyền hình trong 92.
+[1995.2s - 1998.5s] Dustin: Đạt giải nhì một cục móc một cú bật.
+[1998.6s - 1999.3s] Tuy_t: Đúng rồi.
+[2000.2s - 2006.5s] Dustin: Tiếp theo, cái này thì hồi nãy chị có nói là cặp đôi Cẩm Ly Minh Tuyết.
+[2006.5s - 2008.8s] Tuy_t: Đúng rồi. Cắm tay đây. Minh Tiếp đây.
+[2009.7s - 2011.6s] D_ng: Cầu trời khách hàng nó giống hả? Cầu trời khách hàng nó giống gì?
+[2012.0s - 2015.4s] Dustin: Cũng là một cái. Cú bật. Trong sự nghiệp âm nhạc luôn.
+[2015.5s - 2016.5s] Tuy_t: Chắc chắn.
+[2017.4s - 2026.3s] Dustin: Và nếu mà để nói với. Minh Tuyết của những năm 18, 19, 20 này. Chị sẽ nói điều gì. Một minh tuyết hiện tại sẽ nói gì với minh tuyết của 18, 19, 20.
+[2027.6s - 2032.3s] Tuy_t: Nói là một. Cảm ơn những cái vấp ngã. Cảm ơn những cái sai lầm.
+[2033.8s - 2041.7s] Tuy_t: Cảm ơn những cái. Vụng dại của thời ấy. Để có một Minh Tiết. Trưởng thành. Ấm áp.
+[2043.2s - 2044.6s] Tuy_t: Thấu hiểu của ngày hôm nay.
+[2049.3s - 2050.9s] Dustin: Đây là 10 máy 20.
+[2051.0s - 2054.2s] D_ng: Cái này là hát bài Cứu Mủ Say với Hương Giang.
+[2054.5s - 2056.8s] Dustin: Nào Paris By Night số 90.
+[2063.2s - 2066.3s] D_ng: Thì thấy không, cái tấm hình này, cái tấm này với lại cái tấm hồi nãy là khác không?
+[2066.4s - 2070.7s] Dustin: Mỗi một tấm là một khác. Bởi vậy em nhìn có những tấm em không biết là ai là Dũng luôn.
+[2070.7s - 2071.6s] Tuy_t: Đúng rồi đúng rồi.
+[2071.7s - 2075.8s] Dustin: Nếu để được nói với Dũng của những năm nay, Dũng hiện tại sẽ nói điều gì?
+[2075.9s - 2077.1s] D_ng: Vậy thì thành công quá nha.
+[2079.9s - 2084.2s] Dustin: Ok, để chúc mừng cho sự dậy thì thành công của cả hai.
+[2085.8s - 2103.8s] Dustin: Thì chúng ta hãy cùng hấp nến để thổi bánh sinh nhật. Bởi vì Dustin biết là vừa qua là chúng ta có sinh nhật của Dũng 29 tháng 9. Sinh nhật của chị Tuyết là 15 tháng 10. Đã sinh cũng 1 tháng 10 luôn. Và xin mời bánh kem của nhà hàng Paris Garden tặng cho 2 chị em.
+[2104.0s - 2105.5s] D_ng: Chắc nhau ha.
+[2105.5s - 2107.9s] Dustin: 3 con thiên bình Libra.
+[2108.1s - 2110.1s] D_ng: Hảo nào mê đẹp nhịp cảm.
+[2111.4s - 2123.6s] Dustin: Happy Birthday to you. Happy Birthday to you. Happy Birthday. Happy Birthday. Happy Birthday to you.
+[2125.3s - 2143.8s] Tuy_t: Dạ, cảm ơn, thank you, thank you. Năm nay quá nhiều cái hạnh phúc đi mọi người ơi. Thôi để chị đại diện ba người chị nói luôn nha. Tại chị già nhất. Chúng tôi là những người nghệ sĩ. Nghệ sĩ thì chúng tôi không cầu mong gì hết. Chỉ cầu mong là luôn luôn được khán giả yêu thương.
+[2145.3s - 2156.5s] Tuy_t: Luôn luôn được bận rộn chạy show. Để chúng tôi có thể cống hiến hết tuổi thanh xuân của mình. Lẫn kể cả khi chúng tôi về già. Khán giả vẫn yêu mến.
+[2159.3s - 2163.1s] Tuy_t: Chúng tôi thì ở nơi đâu có khán giả là ở nơi đó. Đều có tính tôn hết.
+[2168.3s - 2184.1s] Dustin: Thay mặt cho team Dustin On The Go. Chúc cho chị Minh Tuyết và Mai Tiến Dũng. Sẽ luôn ở trong team của khán giả. Phải hoạt động ở Việt Nam nhiều hơn. Tụi em được xem, được nghe những ca khúc mà mọi người trình diễn. Và sẽ được mời mọi người lại top show nhiều.
+[2231.7s - 2232.9s] Dustin: Trò chơi thứ 2.
+[2234.9s - 2236.7s] Dustin: Hà uống còn hơn.
+[2240.6s - 2242.6s] Dustin: Nếu chị trả lời được thì chị thoát thôi.
+[2243.8s - 2245.8s] Dustin: Đó xin đăng cầm câu hỏi của Dũng và Dũng.
+[2248.3s - 2249.8s] Dustin: Vậy thì ai sẽ là người bắt đầu?
+[2250.2s - 2251.6s] D_ng: Thua bắt đầu, thua là người.
+[2252.2s - 2257.8s] Dustin: Thu là người bắt đầu hỏi nha 1, 2, 3 1, 2, 3.
+[2259.1s - 2260.4s] Dustin: Vậy là mình hỏi bạn.
+[2267.1s - 2281.9s] Dustin: Lật chơi là nếu mình hỏi bạn phải trả lời thật, nếu bạn không trả lời thì bạn uống một ly. Nếu bạn trả lời thật, mình uống một ly. So easy đúng không? Nếu Mai Tiến Dũng trở thành khán giả bình chọn trực tiếp tại sân khấu Chị Đẹp.
+[2283.6s - 2291.6s] Dustin: Hiện tại số vote của các thành viên bằng nhau. Thì Dũng sẽ vote cho ai bị loại. Giữa ca sĩ Minh Tuyết và ca sĩ Tóc Tiên.
+[2293.5s - 2294.6s] D_ng: Biệt vời.
+[2294.9s - 2296.1s] Tuy_t: Oh my God.
+[2296.9s - 2298.3s] Dustin: Bạn uống hay bạn trả lời thật.
+[2301.0s - 2302.9s] D_ng: Cái này khó tại vì.
+[2305.0s - 2306.2s] Tuy_t: Bình chị, bình em.
+[2311.2s - 2312.1s] D_ng: Hơi ổn định.
+[2312.4s - 2315.8s] Dustin: Thà uống đi, thà uống còn hơn đi. Mời Dũng.
+[2316.3s - 2317.3s] D_ng: Tài hiểu rồi đó.
+[2317.6s - 2318.4s] Tuy_t: Ơi.
+[2319.4s - 2320.8s] D_ng: Là ai em cũng thương.
+[2321.3s - 2323.0s] Tuy_t: Thì đó bên chị bên em.
+[2323.3s - 2324.0s] D_ng: Nhìn nó đậm quá.
+[2326.2s - 2328.3s] Dustin: Chương trình mà bác phải chọn thì sao ra.
+[2329.8s - 2331.9s] Dustin: Không lẽ đứng đó ngồi cho em xin ly nước đắng.
+[2332.1s - 2337.0s] Tuy_t: Không đến lúc đó chị nghĩ nè, chị trả lời cho Dũng đúng không, Dũng sẽ bê trên cái tiết mục.
+[2337.0s - 2339.2s] D_ng: Đúng đó em đang nói, tại vì bây giờ mình chưa.
+[2339.3s - 2346.6s] Tuy_t: Tại vì khi mà Dũng bê xin tiết mục đó. Thì không có chị hay đứa em nào chắc được hết. Ai good hơn cũng sẽ chọn cái tiết mục đó.
+[2346.7s - 2350.3s] Dustin: Đúng rồi. Có sợ bị ném đá không?
+[2351.7s - 2353.3s] Dustin: Chọn đường nào cũng nếm mới đúng không?
+[2353.4s - 2356.7s] D_ng: Đúng, đường của bì ném mà. Thôi thì thôi mình cứ thật lòng.
+[2356.7s - 2358.5s] Tuy_t: Rỡ hơn về hai chị nếm em.
+[2361.3s - 2367.9s] D_ng: Cái này cũng khá hay. Em thấy cái này coi hay nè. Một hiểu lầm với đồng nghiệp. Trong quá khứ. Nhưng chưa từng được lên tiếng tiếng chính.
+[2369.2s - 2370.7s] Tuy_t: Tức là người ta hiểu lầm mình á à.
+[2371.3s - 2375.3s] Dustin: Không, ngược lại cũng được. Hiểu lầm nó chung giữa mình với đồng nghiệp mà chưa bao giờ đính chính.
+[2375.3s - 2378.8s] Tuy_t: Cho tới ngày hôm nay thì mình không biết rằng là mình có cái điều đó.
+[2379.1s - 2380.8s] D_ng: Được lòng mọi người đó.
+[2380.8s - 2387.2s] Tuy_t: Không phải được lòng. Nhiều khi người ta giận mình mà mình không biết á. Sao mình biết được? Người ta không nói là gì mình biết?
+[2387.4s - 2388.0s] D_ng: Chắc không?
+[2388.4s - 2390.6s] Tuy_t: Ví dụ người ta giận chị là.
+[2390.5s - 2391.1s] D_ng: Không?
+[2391.3s - 2391.8s] Tuy_t: Chị chắc.
+[2391.9s - 2395.4s] D_ng: Em nghĩ là ai cũng có ích ích với chị.
+[2395.8s - 2397.5s] Tuy_t: Nhưng mà vấn đề là chị không biết ai.
+[2397.8s - 2398.7s] D_ng: Tất cả mọi người.
+[2398.9s - 2402.1s] Tuy_t: Vậy sao? Vậy chị nghe không? Ai nói 1, 2, 3.
+[2400.0s - 2400.8s] D_ng: Ngon ngon không?
+[2402.4s - 2403.6s] D_ng: Vẫn mãi là người đến sau.
+[2406.9s - 2412.5s] D_ng: Thấy sao, nói đùa là sao. Phải cho các sao ca nhạc, đi lưu diễn với mọi người á. Xe mới xuống rồi mà.
+[2419.2s - 2420.2s] Dustin: Đang giậm.
+[2428.6s - 2429.8s] D_ng: Nhưng mà rất là vui.
+[2429.8s - 2434.9s] Dustin: Nghĩa là mọi người cũng chờ đợi chị, cũng mệt không? Cũng mệt chứ.
+[2435.0s - 2438.5s] Tuy_t: Cái đó nó không là một cái hiểu lầm.
+[2438.8s - 2439.5s] D_ng: Nhưng mà nó vui.
+[2440.4s - 2448.3s] Tuy_t: Bản thân của chị thì không có thích xích mích với người khác. Và không thích có sự gúc mắt với người khác.
+[2448.3s - 2453.4s] Dustin: Nếu mà lỡ có nghe đâu đó thì chị có làm rõi luôn vấn đề luôn hay là chị cho qua nếu mà có ai.
+[2453.4s - 2454.9s] Tuy_t: Ví dụ như là.
+[2456.2s - 2496.8s] Tuy_t: Ngày xưa đi, chị với tâm đoan có một chút xíu hiểu lầm. Tới một ngày thì chị nói chuyện thẳng với tâm đoan luôn. Với lại tâm đoan cũng nói chuyện thẳng. Chị nói là bà đang giận tôi. Hoặc là vậy đó. Nhưng mà mình phải cảm nhận được là người ta có cái lòng thành muốn làm bạn với mình hay không. Còn ví dụ cái người đối phương. Không có muốn một chút gì đó thì mình có giải thích cũng bằng thừa tính cách của chị đi, ví dụ giờ người đó đang làm có một cái điều không hay. Một thời gian chị gặp lại người ấy. Thì người ấy cho chị một cái cảm nhận. Rằng người ấy muốn làm lành. Thì chị rất sẵn lòng để làm lành với người ấy. Nguyên tâm bỏ lời chị trước thì chị sẽ.
+[2498.1s - 2510.1s] Tuy_t: Bởi vì chị bản tính của chị. Chị không thích có nhiều kẻ thù. Chị không thích có cái stress ở trong đầu. Bởi vì đối với chị là tìm một người. Nó rất là khó hơn tìm một kẻ thù.
+[2511.8s - 2519.8s] Dustin: Đúng. Chúng ta phải lấy cái tình bao dung, tình yêu. Để hóa giải những cái hận thù. Vậy thì bây giờ mình lấy nước đắng.
+[2520.4s - 2522.0s] Tuy_t: Ủa chị trả lời rồi.
+[2523.9s - 2526.2s] Dustin: Vậy thì ai uống? Vậy thì ai uống?
+[2528.4s - 2529.6s] Tuy_t: Đặt ra câu hỏi.
+[2529.7s - 2532.0s] D_ng: Cái này là biên tập đưa tôi không có biết.
+[2534.1s - 2536.6s] Dustin: Vậy là không có câu trả lời thì là người hỏi phải uống.
+[2536.6s - 2537.6s] Tuy_t: Đúng rồi.
+[2540.9s - 2542.2s] D_ng: Biên tập nào uống thế tôi coi.
+[2543.0s - 2545.5s] Dustin: Đắng nó đẹp da. Uống đi Dũng.
+[2546.8s - 2548.0s] Dustin: Bé Dũng mà.
+[2548.4s - 2550.9s] Tuy_t: Ngày mai da bé sẽ như da em bé.
+[2552.7s - 2553.4s] D_ng: Nói tới.
+[2558.3s - 2559.0s] Tuy_t: Hẹn gặp lại.
+[2559.5s - 2569.1s] Dustin: Trời ơi, em uống trước, em lấy tinh thần. Nếu được hack Facebook một người nổi tiếng Dustin muốn hack Facebook của ai?
+[2570.7s - 2582.7s] Dustin: Và làm gì sau khi chiếm được tài khoản đó. Ủa hát Facebook để làm cái gì ta? Tất nhiên là Dustin là một con thiên bình rất là ngoại giao. Không bao giờ mình làm những chuyện sau lưng.
+[2582.8s - 2594.4s] D_ng: Nói chung là Thiên Bình là bạn tính, em thấy là cũng hơi giống giống, chị em này giống giống nhau là Thiên Bình ở chỗ là không thích xích nước với ai. Và lỡ có xích mích á, một là thôi mình tự tắt luôn để mình không bị dứt đầu. Đúng rồi.
+[2593.6s - 2594.3s] Tuy_t: Bước đầu.
+[2595.1s - 2598.6s] D_ng: Mình nghĩ là ít nhiều gì sau này trong tương lai mình gặp lại nhau, mình vẫn chào nhau được.
+[2599.8s - 2612.5s] D_ng: Nhưng cái bạn tính chung nữa là nếu gặp lại người đó và mình thấy tình cảm là đúng thật sự là. Mước ra mình giải quyết vấn đề luôn là. Ê tôi nghe vậy nè. Tôi muốn làm rõ cho tôi không có ý vậy đâu. Để sao? Để mình cùng nhau tìm sự thanh thản.
+[2614.5s - 2623.1s] Dustin: Cho nên em sẽ uống. Để em nói là nếu mà bạn mà có tư tưởng đi hack Facebook người khác. Facebook bạn cũng sẽ bị hack đầu tiên. Thôi đừng dữ vậy.
+[2626.8s - 2633.9s] Dustin: Câu này cho Mai Tiến Dũng. Một điều mà Mai Tiến Dũng thấy mình rất xịn, rất giỏi. Mà chưa có dịp show ra cho mọi người biết bao giờ.
+[2633.9s - 2634.7s] D_ng: Trời đất ơi.
+[2636.0s - 2638.4s] D_ng: Có khi nào em vô tình em show ra mẹ không biết không ta?
+[2638.7s - 2640.4s] Dustin: Cái gì đó rất là.
+[2647.0s - 2647.9s] Dustin: Hầm kính.
+[2650.1s - 2653.7s] D_ng: Thầm kính mà mọi người không bao giờ biết đó hả? Mà em rất giỏi.
+[2665.6s - 2669.5s] Tuy_t: Chuyện chỉ em trong nhà. Tại sao em không có nói.
+[2678.3s - 2682.5s] D_ng: Có một chi tiết thậm kính thôi. Rất xịn, rất giỏi hả?
+[2682.5s - 2684.6s] Dustin: Chưa có dịp show ra vậy thôi.
+[2684.7s - 2687.3s] D_ng: Cũng có vài cái tài lẻ đấy ví dụ như là.
+[2687.3s - 2692.0s] Tuy_t: Dũng rất khéo tay nha make up rất đẹp làm tóc rất đẹp làm nail.
+[2693.1s - 2708.6s] D_ng: Rất là nghề giống nhà rồi. Ví dụ như xây nhà sửa chữa. Coding là Dũng biết. Tại vì từ nhỏ thì bố em mất sớm cho nên là những cái mà trong nhà thường thường mọi người sẽ làm. Bình Mỹ nó sẽ mắc bình mưu muốn bất cứ ai.
+[2708.8s - 2709.8s] Dustin: Đúng rồi, phải tự làm.
+[2710.2s - 2711.7s] D_ng: Thì có những cái là em tầm phải.
+[2713.5s - 2733.3s] D_ng: Thật sự chị thấy luôn là từ make up hay làm tóc là em phải tự. Mà không ai chỉ hết, như là mình đọc sách báo. Mình tìm lại, những cái trick người ta chỉ á, là phải nhớ. Ví dụ ống nước sữa hư sao, sả ống nước sữa sao là phải sửa sữa. Xinh bồn nó bị hư, bếp ga là tất cả những cái đó mình phải nhớ. Ngoài trừ là xe thì em chỉ đụng chạm bao nhiêu thôi nhưng mà nói chung là trong cuộc sống hàng ngày.
+[2733.4s - 2735.5s] Tuy_t: Nhưng mà em phải khéo tay cơ. Thì mới được.
+[2735.6s - 2751.8s] D_ng: Hôm mà em đi đặt mua cái nhà bên Mỹ. Thật sự nha, kinh phí nó quá cao. Mình buộc phải làm. Em nâng sàn đó chị Tuyết là cái một bên nhà nó bị thấp hơn khoảng thì cái em nâng sàn đó là em với chị gái là tự tìm tòi, mua gỗ về, tự nâng sàn, tự lót sàn.
+[2753.1s - 2766.2s] D_ng: Nói chung là những cái đó là nhiều khi mọi người không đấy. Tại vì bà chị thì thấy. Chị muốn ở bên Mỹ. Chị muốn thèm tránh dây lắm. Trồng tránh dây cho nó mát vườn. Rồi ai đóng cái vườn cho bạn, ai đóng cái giàn leo.
+[2766.3s - 2767.6s] Dustin: Trời ơi, dụng đấm luôn.
+[2767.7s - 2768.4s] D_ng: Đóng luôn.
+[2769.0s - 2771.0s] Tuy_t: Vợ quá, dũng vợ.
+[2772.3s - 2777.1s] Tuy_t: Chị cũng thích chồng thăng long với Dũng. Chị cũng thích chồng thăng long với Dũng. Bữa nào ở nhà chị cũng nói chuyện với dũng.
+[2779.3s - 2781.6s] Dustin: Anh cũng cần thông nước ống nước nhà anh đó vô.
+[2789.5s - 2792.0s] Dustin: Bốt phải dọn kế bên nhà Dũng. Thì có gì nhờ Dũng mà thông.
+[2793.9s - 2796.7s] Dustin: Dễ thương, ok chịu. Vậy là anh uống hả?
+[2797.8s - 2801.7s] D_ng: Nên giản thôi, mình trà bày ra cái trò này mà có gì đâu ba anh này. Đáng nha đáng thiệt.
+[2803.1s - 2805.8s] D_ng: Thật sự nếu mà đốt tiệt thì mỗi ngày nên uống 1 ly để đào thải.
+[2806.1s - 2808.9s] Dustin: Rồi mình đọc câu hỏi cho tỷ tiết đi để coi ai.
+[2809.4s - 2814.8s] Tuy_t: Nãy giờ chị uống uống nha. Sao? Chị hứa chị trả lời thật câu này nha. Ủa mắc gì? Cứ hỏi đi.
+[2815.2s - 2816.9s] D_ng: Câu này sẽ bù trừ cho câu trước nè.
+[2819.8s - 2821.6s] Dustin: Là câu chữ là chị thoát đúng không?
+[2821.7s - 2823.5s] D_ng: À nhưng mà cô này sẽ bù trữ trước nè.
+[2823.6s - 2826.0s] Tuy_t: Rồi, nói đi. Nói! Cầm trước.
+[2827.5s - 2831.0s] D_ng: Từng ngồi giám khảo chung với nghệ sĩ Trấn Thành.
+[2850.5s - 2852.0s] Tuy_t: Tự nhiên chị cảm thấy trong người nóng.
+[2852.0s - 2854.1s] D_ng: Uống nước đậm cho nó mát.
+[2864.5s - 2866.9s] Dustin: Câu hỏi A. À, trời.
+[2868.2s - 2870.1s] Tuy_t: À đẳng rồi à.
+[2890.3s - 2895.0s] D_ng: Chị Tuyết có nhìn xuống như vậy đi. Thấy sao không? Thức đẹp quá, hôm nay thức đẹp quá, make up.
+[2899.7s - 2908.0s] Tuy_t: Một cổng tươi trong showdisc mà Dustin thấy đẹp và phát sáng khiến tất cả trong Dustin phải dừng lại.
+[2909.1s - 2912.5s] Dustin: Và Dustin chỉ muốn đắm chìm trong cái cộng tư đó, đó là ai?
+[2914.3s - 2917.7s] Dustin: Một cọng tươi phát sáng khiến mình phải dừng lại.
+[2921.3s - 2923.0s] Tuy_t: Và mình muốn ở bên người đó.
+[2924.4s - 2926.6s] Tuy_t: Chị là người hỏi chị có quyền.
+[2927.0s - 2929.6s] D_ng: Chị cộng thêm nhiều vế sau á.
+[2930.8s - 2931.7s] Dustin: Nhiều năm trước.
+[2931.7s - 2932.4s] D_ng: Nhiều năm trước hả?
+[2935.3s - 2936.6s] Dustin: Vài năm trước, vài năm trước là em mới thấy cái thứ này. Vài năm trước, vài năm trước là em mới thấy cái thứ này. Cảm ơn các bạn.
+[2939.2s - 2940.2s] Dustin: Dễ hả?
+[2942.2s - 2943.6s] Dustin: Em đã.
+[2943.6s - 2944.6s] D_ng: Đừng có đã, hiện tại.
+[2946.1s - 2949.1s] D_ng: Không có thời điểm quá khứ. Thì hiện tại dù tôi đi thì hiện tại.
+[2949.2s - 2951.3s] Dustin: Mai Tiến Dũng. Mai Tiến Dũng.
+[2955.8s - 2957.1s] Dustin: Chú thấy dại vô.
+[2963.1s - 2966.6s] Tuy_t: Giả dối. Giả dối là phải uống gấp bồ.
+[2972.7s - 2984.5s] Dustin: Cho giải thích. Đã từng mời Mai Tiến Dũng lên show rất lâu rồi. Vì gặp ở event. Nhưng mà Mai Tiến Dũng chưa có trả lời. Cho nên là mãi tới bây giờ luôn. Cho nên mới nói là vài năm trước là vậy. Dũng có thể mở tin nhắn ra coi.
+[2984.9s - 2988.4s] Tuy_t: Không, mời talk show là bình thường. Em có cảm giác đó không?
+[2990.4s - 2991.9s] Dustin: Không nhưng mà mắt chết chết kìa.
+[2991.9s - 2995.5s] D_ng: Chớp đâu, thì chị là, tại vì cái câu cái vế sau là gì, cái vế.
+[2995.9s - 2996.9s] Tuy_t: Hiện tại.
+[2996.9s - 3000.2s] D_ng: Nguyên cải nè. Rồi còn phải đắm chìm trong đó.
+[3000.2s - 3001.0s] Dustin: Biết hả?
+[3001.0s - 3010.6s] Tuy_t: Tại vì cái người mà người ta cảm nhận được cái năng lượng đó là người ta dễ biết lắm. Người đối diện người ta nếu mà có cái năng lượng nó hội cảm nhận được liền. Thấy chưa uống, 1, 2, 3.
+[3012.3s - 3016.0s] Dustin: Mình một lòng một giả thôi, mình chỉ nói là có mật mình mà tới bên uống nè.
+[3020.1s - 3022.9s] Dustin: Công bố những tin nhắn. Tôi đã nhắn rút rất là lâu.
+[3026.3s - 3029.1s] D_ng: Mà tại Vũng ở hơi xa, chị lúc đó là Vũng chú Việt.
+[3030.5s - 3033.0s] Dustin: Nhưng mà xin lỗi, đã lỡ chuyến đò rồi.
+[3036.0s - 3065.7s] Dustin: Thôi không sao, mình đã uống rồi. Trò chơi cũng đã xong rồi. Mình rất là vui. Thì mình qua đến một cái chủ đề. Mà Dustin nghĩ là tất cả mọi người chúng ta. Thì nhiều người quan tâm. Mà mình không biết là hai anh chị. Có từng quan tâm không. Đó là content. Dạo gần đây thì nghệ sĩ ai cũng cần. Phải có một cái social life. Nó khác với lại. Việc mình đi diễn, mình tiếp xúc khán giả ở ngoài. Mà mình phải có mạng xã hội. Mình phải có những cái. Mọi người có bị bối rối khi nghe tới cái chữ content này không?
+[3065.7s - 3105.5s] Tuy_t: Nếu như mà trước sâu chị đẹp. Mới hỏi chị câu đó thì chị có thể bối rối đấy. Bởi vì nghệ sĩ sống ở hải ngoại. Họ khá là đơn thuần. Không có trong showbiz mà làm nhiều thứ. Tức là họ chỉ cứ đi quay video khi nào mà có chương trình. Xong rồi họ lại đi hát cuối tuần. Xong rồi họ về với gia đình, với bạn bè. Chứ họ không có TikTok, không có real, không có là không có nhiều. Thì huống hồ chỉ có chữ cần sang trong đó. Từ khi chị về, chị tham gia chương trình chị đẹp. Thì bắt đầu mình mới hiểu được cái điều đó. Cho nên nếu mà em hỏi cách đây trước khi xô chỉ đề thì chắc là chị bỡ ngỡ.
+[3105.5s - 3109.7s] Dustin: Còn Dũng. Có bối rối khi nghe đến chữ content không?
+[3109.9s - 3149.9s] D_ng: Mặc dù về Việt Nam bao nhiêu lâu. Chứ em vẫn bối rối. Tại vì. Dũng chia sẻ thật sự là Dũng là người rất là hướng nội. Thì đối với Dũng là mọi người thích là sẽ show ra những cái để sống riêng tư. Nhưng mà mình thì lại nghĩ là những cái gì riêng tư, những gì quý giá nhất của cuộc sống của mình thì mình dành riêng cho gia đình và ấy thôi, mình không có nên show. Tại vì đó là một cái gì đó chân quý lắm. Có thể mình là một người của công chúng. Mình sẽ cho công chúng hết cảm xúc của mình. Tại vì khi đứng lên sân khấu. Đó là cảm xúc của mình mà. Mình hát bài hát đó là của mình, mình đã trao cái đó ra. Nhưng mà riêng cái daily life thì em nghĩ là nó nên là một cái gì đó.
+[3145.4s - 3146.1s] Dustin: Để lại.
+[3150.1s - 3151.3s] D_ng: Nó của riêng mình thôi.
+[3151.4s - 3154.0s] Tuy_t: Contain không có nghĩa là mình show ra mấy cái đó.
+[3154.5s - 3171.4s] D_ng: Không, nhưng mà ít như gì đa phần nó sẽ cũng phải, nó có sớm có sự liên đới nhất định cũng có thể là tại vì mình chưa gặp được. Một cái người mà thật sự. Họ hiểu mình. Để họ giúp đưa những cái gì nên đưa ra. Và cái gì không nên đưa ra. Cho nên là khi mà mỗi lần mở.
+[3172.3s - 3173.8s] Tuy_t: Không, chị cũng ngại mấy cái đó lắm á.
+[3173.9s - 3175.0s] D_ng: Còn khen đi.
+[3175.0s - 3182.4s] Tuy_t: Rất là sợ, đó là lý do mà tại sao là khi mà chị tham gia chương trình chị đẹp á em thấy rất là nhiều. Bây hấp phớ trên thích xót mình đều không phải từ.
+[3182.9s - 3186.0s] Dustin: , từ những kênh của các bạn thí sinh khác.
+[3185.9s - 3194.5s] Tuy_t: Khi chị vui thì chị sẽ rất là thoải mái, chị sẽ làm. Còn nếu mà sắp xếp cho chị phải làm cái điều đó thì chị lại bị gượng đó, vì chị lại không thích.
+[3194.5s - 3197.0s] Dustin: Nhưng mà nếu mà cho chị 3 tiếng làm tóc make up thì chị ok.
+[3198.2s - 3200.8s] D_ng: Không, chị làm tắt 1 tiếng thôi mà chị dậm phấn là 3 tiếng.
+[3202.4s - 3204.7s] Tuy_t: Dạo này chị make up lẹ hơn làm tóc.
+[3204.7s - 3211.7s] Dustin: Vậy đó hả? Vậy nếu mà để tự chấm điểm social của mình trên thang 10, mọi người chấm mình bấy nhiêu điểm?
+[3212.9s - 3233.2s] Tuy_t: Hồi đó giờ chị không có làm xuống sâu. Chị mới vừa về chương trình chị đạt. Mới bắt đầu thử thôi đó. Nhưng mà chị cũng bị mấy em. Giúp chị nó la. Sao mà em kêu chị làm, chị không bao giờ chị làm hết trơn hết á. Mỗi lần nó kêu trời ơi tao đang bận mày kêu tao làm cái gì. Kiểu dạng vậy á. Mà chị đang vui chị làm cái gì. Mấy đứa nó kêu chị nó quên quay. Thì chị quay.
+[3233.3s - 3239.8s] D_ng: Nói chung là Dùng và chị Tuyết cũng có một cái giống giống nhau đó là mình cứ tự nhiên từ con người đó của mình và mọi người bắt gặp được.
+[3239.8s - 3241.6s] Tuy_t: Bắt cái moment đó thì ok.
+[3241.5s - 3242.2s] D_ng: Ok.
+[3246.3s - 3247.2s] Tuy_t: Bởi nó không phải mình.
+[3249.0s - 3260.8s] D_ng: Cũng đã từng thử nhưng mà có thể là một là chưa kịp được cái ekip mà họ thật sự hiểu vô. Thật sự hiểu vô. Của con người của mình. Mà họ đưa ra là. À cái này ông Dũng ông làm được. Mà đây là con người của ông Dũng. Hay là đây là con người của chị Tuyết.
+[3262.4s - 3280.6s] D_ng: Nó phù hợp với mình thì mình sẽ làm rất là nhanh còn cái mà nó không phù hợp với mình thì nó sẽ bị một cái sự gượng gạo và đó là tính chất là sao mà mình càng cứ đi tìm. Không phải không khát khao làm content đâu. Mình cũng muốn có một cái gì đó mang cho đời nó vui. Và họ sẽ thấy, khán giả sẽ thấy những cái mặt khác của mình, có người bình thường của mình.
+[3281.1s - 3299.5s] Tuy_t: Chị nghĩ là tốt nhất là họ phải hiểu mình và họ cast những cái moment mà mình dễ thương nhất có thể. Cũng có thể là cái lúc mà mình buồn nhất có thể cũng có, vui nhất có thể. Hài hước nhất có thể không có. Nếu mà họ cast được những cái moment đó. Và từ đó họ khai thác ra. Thì nó sẽ rất là tuyệt vời. Hơn là mình phải giả đóng một cái gì đó.
+[3299.5s - 3348.4s] Dustin: Dạ đúng, content nó phải chân thật. Ở đây em không phải nói content là mình phải theo trend đâu. Mà là mình tạo ra cái trend. Biết đâu họ sẽ là những người theo những cái trend mà mọi người tạo ra thì sao. Tuy nhiên khi mà mình nói đến content, social media thì hiện nay nó có một cái xu hướng. Là mọi người thích ném đá vào quá khứ ở trên mạng xã hội. Bởi vì mạng xã hội phát triển mọi người đều tự do nông luận ai cũng có rất là nhiều tài khoản khác nhau. Ai cũng có thể là một người lên tiếng đào bới. Người nổi tiếng thường khi mà họ có một cái cú bật mới trong nghệ thuật. Họ sẽ bị đào lại. Những cái status cũ. Hay là những hoa hậu mới vừa đăng quang. Là phải lập tức khóa trang cá nhân. Mình thấy cái đó rất là độc hại. Nhưng mà điều đó diễn ra hàng ngày. Và có những người họ xem đó là trò tiêu khiển.
+[3349.8s - 3360.3s] Dustin: Vậy thì mọi người có cảm thấy sợ không khi mà chúng ta đang đi đến một cái giai đoạn là content, không cần tạo. Mà Content sẽ tự tới với mình.
+[3363.4s - 3370.0s] Tuy_t: Chị nghĩ đó là cái điều mà. Một trong những cái điều mà chị lo ngại. Khi mà chị đi về Việt Nam.
+[3371.7s - 3483.8s] Tuy_t: Tại vì giống như chị nói như hồi nãy là bên Mỹ nó không có nhiều cái social, cái sinh hoạt văn nghệ tại hải ngoại nó khá là bình lặng. Cho nên tụi chị không có va chạm nhiều. Rất là ít va chạm luôn á. Giống như một cái family với nhau thôi á. Tại vì ca sĩ cũng không có quá đông á. Cho nên tụi chị không hề va. Về đây thì nó có quá nhiều cái social đi. Thì mình sẽ lại. Tụi chị bị choáng ngợp á. Không biết mình đi cái nào mới là đúng. Và cái nào mới là không đúng. Thì chị mình sợ. Thì cái đó là một trong những điều. Mà chị cũng rất là lo ngại. Khi mà chị về Việt Nam sinh hoạt. Đôi lúc nhiều khi mình muốn. Thoải mái, rất là thật với khán giả. Nhưng mà đôi lúc. Vì những cái điều này khiến mình bị khép kính lại. Mình không dám mở lòng hết tất cả mọi thứ. Mình chỉ cần mình nói sai một câu hay là mình làm sai một điều. Mình có thể là sai một bước mà đi sang hàng dặm. Thì cái đó là một cái rất là. Chị nghĩ không phải riêng chị đâu. Mà nghệ sĩ ai cũng vậy. Ai cũng rất là sợ điều đó. Và chị cũng mong rằng là. Mọi người hãy nhìn vào những cái gì. Người xí hò cống hiến trong nệ thuật ấy. Giống như có một cái điều chị thấy nó rất là hay. Hầu như tuần nào chị cũng bay á. Chị thấy là một cái điều mà chị thích vô cùng. Chị hay quan sát xung quanh ví dụ như đứa bé nó làm một cái điều gì đó vỡ ở dưới vỡ một cái món đồ gì đó thì họ không nói. Thì sao không vậy? Mà họ lại họ nói it's ok, it's ok con pick up cái này lên đi chẳng hạn thì em bé vừa pick up lên là good job, giỏi quá, giỏi quá. Tức là họ luôn luôn xây dựng. Thì hãy luôn luôn xây dựng cho nhau. Để cho người nghệ sĩ. Nhất là người nghệ sĩ họ có thể thoải mái cái đầu óc. Thì họ có thể phát triển nhiều cái. Tốt đẹp hay no hơn. Để mà cống hiến cho đời. Hay là cống hiến cho nghệ thuật. Thì chỉ mong rằng là. Khán giả họ nhìn vào cái điều đó nhiều hơn.
+[3485.5s - 3490.3s] Dustin: Dũng đã từng bao giờ cảm thấy tổn thương vì lỡ đọc một cái comment của ai đó chỉ trích mình không?
+[3492.3s - 3492.9s] Tuy_t: Là.
+[3493.3s - 3510.8s] D_ng: Bản tính của Dũng. Nó rất là nhạy cảm. Hơi tí là khóc, hơi tí là buồn. Chính vì vậy cho nên là những thời gian mà dập trưởng về Việt Nam, người tham gia chương trình này. Là đầu tiên va chạm với social xong ta chạm với những cái comment.
+[3513.1s - 3522.9s] D_ng: Cái khoảng thời gian phần thật sự là 20 2017 đến 2018 18, 19 2 năm đó là Dũng nghĩ là Dũng bị trầm cảm.
+[3527.7s - 3577.0s] D_ng: Dũng không có social. Bản thân nếu có thể hỏi. Cấp tiên là dũng cũng không nói chuyện nhiều với tiên. Và cũng ít liên lạc với tiên luôn là tại vì. Sự nghiệp của mình, mọi thứ trong trong mình nó không có được như mình muốn. Xong đó rồi mình cứ mỗi lần mình làm một cái gì đó. Mọi người bảo chí ơi sao em không vui vẻ đi, em không sống thật. Mình không tự nhiên được tại vì những cái gì mình làm ra mình cũng sợ, mình sẽ đón nhận những cái comment tiêu cực họ nhắm vào. Mình sống quen trong một môi trường luôn luôn muốn tạo ra một cái gì đó lúc mang tràng trề yêu thương và chia sẻ và lúc đó thì tự cô lập. Rải giá xã giao vì lỡ đi như chị Tiết nói đi lỡ đi ra là gì không hay cái đâm ra lại nghĩ chỉ. Hay là bị nói cái gì, cái làm mình bị tụt hút trong âm nhạc, đôi khi cũng muốn từ bỏ.
+[3580.9s - 3638.5s] D_ng: Chọn mình làm cái này làm cái gì có đáng không ta. Tự nhiên khi mình cũng chỉ muốn. ABCD. Hát hay hơn. Phát triển hơn mỗi ngày. Để mình làm gì để mình tốt hơn và mình sẽ cống hiến thêm nhiều hơn. Đọc những comment tư cực nó làm mình muốn đi thụt lùi, thụt lùi. Nhưng mà cũng may mắn. Cũng may mắn là sẽ có những đồng nghiệp chia sẻ được. Cứ những người bạn đồng hành cho cuộc sống. Biết mình như vậy. Một trong những người đó là tóc tiên. Lúc nào? Thôi anh hãy tập như em đi, đừng đọc gì hết. Mình là việc mình. Tất nhiên mình sẽ vẫn phải đọc hoặc là mình sẽ nhờ bộ quyền. Chắc đọc lại. Để kiểu giống như là. À có những ý kiến này nè. Mình để cố gắng hơn nè. Và họ sẽ thấy đúng tại vì họ hiểu mình. Họ hiểu mình thì họ sẽ là. Đây là những comment đúng này. Đọc đi. Rồi mình thấy mình phù hợp không để mình thay đổi không. Còn những đây là những câu mình tích cực nè. Mình đọc đi để mình thấy. Một cái động lực để mình tiếp tục.
+[3639.6s - 3648.1s] Dustin: Dustin cũng không ngoại lệ. Em cũng đã gặp rất là nhiều những cái căng thẳng. Em đọc comment, người khác chỉ trích những nghệ sĩ khác thôi. Em cũng bị down mood.
+[3649.4s - 3671.2s] Dustin: Và đó là lý do mà em làm bật nến để được gặp gỡ những người nghệ sĩ như chị Tuyết, như Dũng và nói được những điều. Thì Dustin cũng mong là thông qua cái bật nến. Mình được chữa lành. Cho em hỏi cách nào để mà mọi người chọn. Một cái sự an yên. Khi mà rời cái ánh hào quang của showbiz làm sao để mình cân bằng cuộc sống khi mình trở về đời thường.
+[3671.5s - 3679.6s] Tuy_t: Cũng 30 năm trong nghề rồi. Hơn rồi, hơn 30 năm trong nghề. Ngày xưa thì buồn thiệt. Nhiều khi chị cũng xây qua chị hỏi ông xã. Bộ em tệ vậy sao.
+[3684.7s - 3700.0s] Tuy_t: Tức là chị luôn luôn muốn biết được là mình có tệ như vậy thì để mình thay đổi. Cho tới ngày hôm nay mình phải nói là nó trở thành một sự trai liền. Tức là bây giờ mình sẽ đọc comment, mình cảm nhận được là những người comment giúp cho mình.
+[3701.3s - 3770.9s] Tuy_t: Tốt hơn thì mình lắng nghe những người đó còn những người mà họ thật sự họ không phải là comment cho mình tốt hơn mà họ chỉ là không thích. Họ comment những cái câu nói rất là nặng nè. Ví dụ như là. Nhỏ này xấu quắc hoặc là lùng tịt hoặc là mập tù lù hoặc đập nát cái mặt khác nghe phát mệt hoặc là nói chung là nhiều. Rất là nhiều. Thì mình không thể nào làm đẹp lòng tất cả mọi người được. Mình cảm nhận là. Đó không phải là một cái comment xây dựng. Thì kiểu mà mình chỉ mỉm cười thôi, mình lướt qua thôi. Chứ bây giờ mình làm gì được. Một cách duy nhất cho những người đó thấy được rằng là mình. Mình better hơn những gì họ nói. Để một ngày nào đó. Họ thay đổi cái tư tưởng đó trong đầu họ. Hoặc là hãy gặp mình một lần đi. Rồi lúc đó bạn hãy muốn nói gì thì nói. Thì mình chỉ nghĩ trong đầu mình là như thế thôi. Chứ còn bây giờ mình làm được gì. Mình không làm được gì cả. Nhưng mà chỉ tiếc là một điều. Mọi người nói là. Ca sĩ tại sao không lắng nghe khán giả. Muốn chứ. Nhưng mà có những cái comment như thế. Đôi lúc đọc đau lòng lắm.
+[3772.4s - 3786.9s] Tuy_t: Rồi nhiều khi muốn trả lời lại nữa chứ. Nhưng mà nghĩ trời ơi mình trả lời lại thì. Không biết nó sẽ đi về đâu. Nó cũng khủng khiếp hơn nữa. Thôi lại phải im lặng. Đứng trước một cộng đồng như thế, một cái public như thế. Từ lời ăn tiếng nói của mình nó vô cùng cẩn trọng.
+[3792.4s - 3827.3s] Tuy_t: Giống như nhiều người nói. Mắc gì cô phải mang giày cao gót. Chứ gì mà cô than. Ví dụ vậy không phải. Nếu khán giả thích tôi lùn thì tôi không mang giày cao gót đâu. Nếu khán giả thích tôi tròn. Tôi sẽ không bao giờ tôi muốn đai ạc. Bởi vì tôi rất là muốn ăn. Tôi thích ăn ngon lắm. Có thời điểm ấy. Chị nói với ông xã. Anh ơi nếu mà anh thấy em ăn tới chén thứ 2 là anh đánh em liền nha. Tại vì mình mê ăn mà. Rồi cho tới một ngày á. Anh mới nói là. Thôi đừng ăn. Ăn chén thứ 2 rồi đó. Ví dụ vậy. Mà lúc đó mình đang thèm ăn. Tại mình nhìn lâu quá rồi. Sao em ăn mà anh cũng cho vậy.
+[3829.5s - 3855.6s] Tuy_t: Tức là họ không hiểu có những cái giây phút mà mình mình phải cố gắng đấu tranh để vì khán giả của mình và cũng có những người ca sĩ. Họ phải nhịn đói tới mức mà họ xỉu. Bởi vì thật sự nha. Tập nó cũng nó chỉ thôn chắc người. Và nó xuống rất chậm. Nó phải kết hợp ăn uống nữa. Thì mình mới có thể xuống cân được một cách rất là lẹ. Và nhiều ca sĩ họ bắt buộc phải. Có thể là một ngày chỉ uống. Một ly nước juice.
+[3855.7s - 3857.1s] D_ng: Như vậy nó không qua học tí nào.
+[3858.0s - 3866.3s] Tuy_t: Bởi vì họ muốn xuống liền để cho đẹp lòng khán giả của họ có nhiều khi họ đọc comment riết ấy họ bị.
+[3867.8s - 3880.9s] Tuy_t: Bị ám ảnh trong đầu. Chắc nói là em hiểu rồi. Ốm khủng khiếp nhưng mà họ bị một cái bệnh. Là sợ khán giả chê. Không dám ăn gì hết. Ăn xong mất ra. Và họ riết rồi họ trở thành một cái bệnh của họ luôn.
+[3910.7s - 3936.3s] D_ng: Cỡ ở chân dài nè. Thì khi họ nói như vậy. Thì họ đang so sánh chút cho mình là. Nếu như bạn làm mặc cái này. Thì mình lại thích. Thì mình rất là thoải mái. Và mình đã là. Cái đó là mình nên ghi nhận khán giả ơ hôm nay tại sao hát khúc này nó không được. À bê cê đê thì tự mình. Tại vì lúc này đang hát cái tùm sặc hay là đang hát cái mình quên an hay là hát cái lấy hơi vội. Lấy hơi.
+[3936.3s - 3938.8s] Tuy_t: Đó là những cái comment góp ý. Là mình phải lắng nghe.
+[3939.3s - 3943.3s] Dustin: Và phải có giải pháp cho mình nếu như họ không thích A có thể có cái giải pháp B.
+[3943.3s - 3962.5s] Tuy_t: Có nhiều người dễ thương lắm nha. Comment xong nói là. Ô đây chỉ là một cái góp ý của mình thôi. Chứ mình không có ý là kê bạn. Hay là. Mình nghĩ rằng là bạn sẽ. Thấy cái này nó sẽ tốt hơn. Ví dụ vậy. Những cái đó mà mình đọc mình cảm thấy rất vui. Bởi vì người ta thương mình, người ta muốn góp ý cho mình.
+[3962.5s - 4004.5s] Dustin: Dustin cũng không đọc comment hoặc là đọc sẽ chọn là im lặng không bao giờ mình come back không bao giờ come back với khán giả cách mà Dustin có thể làm được là. Để chúng ta được nói những điều này, gửi đến khán giả bằng những talk show. Và Dustin cũng rất cảm ơn chị Minh Túy và Mai Tiến Dụng. Đã đến đây cho dù chỉ có một vài tiếng ít ỏi. Dustin cũng xin được nhân cơ hội này. Chúc cho chị Minh Tuyết, Mai Tiến Dũng. Sẽ có thêm nhiều những cái cơ hội để mà. Đến gần với khán giả Việt Nam hơn nữa. Bằng chứng là mọi người cũng đã. Tham gia talk show, tham gia các chương trình trường thực tế. Và chúc cho chị đẹp sẽ thành công.
+[4004.5s - 4048.3s] Tuy_t: Thank you. Cảm ơn Dustin rất nhiều. Chị cũng cảm ơn Dustin đã mời chị với Mai Tiến Dụng tới đây. Mà mình có cái cơ hội. Thứ nhất là tìm hiểu lẫn nhau. Trò chuyện với nhau. Và đưa chị với Mai Tiến Dũng. Đến gần với khán giả nhiều hơn. Cho khán giả hiểu hơn về Minh Triết và Mãi Tiến Dũng. Cũng có rất là nhiều fan tại Việt Nam mong muốn Minh Triết về Việt Nam nhiều hơn. Để mà phục vụ khán giả Việt Nam. Chỉ mong rằng là các bạn hãy đón nhận Minh Tuyết. Thương yêu Minh Tuyết bằng những cái lời động viên. Để mà Minh Tuyết có thể mỗi ngày mỗi tiến bộ nhiều hơn. Để mà mình có thể phục vụ khán giả nhiều hơn nữa. Bởi vì Minh Tuyết còn có nhiều thứ muốn phục vụ khán giả. Mà chỉ cần khán giả cho Minh Tuyết cái động lực. Để Minh Tiếp có thể làm được điều đó mà thôi.
+[4049.1s - 4049.9s] Dustin: Tạo content.
+[4052.7s - 4056.3s] D_ng: Wao thì cũng cảm ơn Dustin. Mời thêm một lần.
+[4057.8s - 4072.5s] D_ng: À là lần thứ 2 rồi hả? Không là tại vì Dustin hồi nãy có nói với em là đã từng mời em rồi. Mà em lại không có nhớ. Cho nên là vẫn mời lại một lần nữa để có cơ hội ngồi đây mà đã vậy là ngồi cùng với người chị của mình.
+[4073.8s - 4074.5s] Tuy_t: Ân tình.
+[4075.1s - 4077.5s] D_ng: Nói chung là không gặp nhau thì không gặp nhau là.
+[4077.5s - 4078.9s] Dustin: Nợ một cái ân tình với chị.
+[4079.1s - 4087.1s] D_ng: Là nói rất là nhiều chuyện để tâm sự. Và hôm nay lại không nghĩ là bạn mình cũng deep như thế.
+[4087.2s - 4091.2s] Tuy_t: Hả? Oh no no no. Because you không có coi show của Dustin.
+[4091.4s - 4095.0s] D_ng: Sâu lắm á. Sâu lắm. Sâu lắm. Sâu lắm hả.
+[4100.2s - 4107.3s] Tuy_t: Xong rồi đó là kiểu làm cho mình cảm giác là. Mình thêm một người để mình có thể cùng là Thiên Bình, cùng cùng Thiên Bình. Cùng chia sẻ.
+[4108.1s - 4156.2s] D_ng: Cũng cảm ơn Dustin là cơ hội để có những câu chuyện vui buồn trong cuộc talk show này để khán giả hiểu. Và mình cũng thật sự cũng như chị Minh Tuyết nói là mình vẫn mong là khán giả sẽ luôn luôn đón nhận, luôn luôn tạo cơ hội, luôn luôn góp ý một cách chân thành. Và đầy yêu thương. Thật sự là trước đây yêu thương là tại vì sao. Những cái lời góp ý trên thành. Yêu thương nó sẽ. Để cho mình cảm thấy là. Mình được yêu thương. Như một đứa. Em, một người bạn để mỗi ngày đảm lực, thuộc cái động lực đó rất là quan trọng tại vì thật sự là luôn luôn muốn đẹp trong lòng. Luôn luôn muốn mỗi ngày tốt hơn trong lòng khán giả. Và là những gì đó mà khán giả yêu mến và làm có ý nghĩa. Chỉ được mong là những chương trình như thế này sẽ được mọi người ủng hộ thật là.
+[4157.8s - 4158.7s] D_ng: Sẽ luôn luôn được khác.
+[4159.0s - 4161.3s] Dustin: Mình có quà sinh nhật cho cả hai người.
+[4163.2s - 4165.1s] Dustin: Tất nhiên là tới chương trình là phải có quà.
+[4165.5s - 4167.9s] D_ng: Nguôi vậy Surprise vậy.
+[4168.1s - 4171.2s] Tuy_t: Coi một lần là được với lại.
+[4173.2s - 4174.0s] Dustin: Ngoi.
+[4174.0s - 4178.3s] Tuy_t: Cái đó hay. Chị cũng bất ngờ, Linh nói chuyện cũng điếp lắm, vinh giản lắm.
+[4178.4s - 4193.4s] Dustin: Và đây từ từ nha, từng món quạt hơi nhiều. Cái này là tinh dầu phích táng cho phòng á. Với lại nước hoa đến từ AS Antique. Thương hiệu này là Smell That Makes Sense.
+[4198.0s - 4199.3s] Dustin: Riêng tư tôi đã nhắn tin rồi.
+[4199.4s - 4200.4s] D_ng: Hả tao đâu có biết đâu.
+[4202.0s - 4211.9s] Dustin: Và cảm ơn AS Antique đã gửi những món quà và nến. Hôm nay thì cũng là đến từ AS Antique. Thì mọi người có thể về đốt nến hoặc là mọi người thắp tinh dầu lên.
+[4217.1s - 4225.4s] Dustin: Còn đây là 2 món quà đến từ Nuxe. Thương hiệu này là dầu dưỡng khô có nhũ. Mình thấy rất là phù hợp cho những con thiên bình điệu đà.
+[4228.7s - 4231.6s] D_ng: Là body oil, dry oil.
+[4231.7s - 4241.0s] Dustin: Nó là Yuin For These Years. Thì nó có một cái là nhũ vàng, một cái là nhũ hồng thì hai chị em lựa đi cái nào ai hồng ai vàng. Cái này là dùng cho tóc, da, mặt được.

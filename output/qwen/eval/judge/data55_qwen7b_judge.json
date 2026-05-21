@@ -1,0 +1,55 @@
+{
+  "model_name": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "summary_json": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/code/qwen/kq/data55/summary.json",
+  "transcript": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/data/test_labeled/data55/labeled/transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 1,
+      "faithfulness_score": 3,
+      "conciseness_score": 2,
+      "total_score": 8,
+      "verdict": "review"
+    },
+    "issues": [
+      "Summary không đủ thông tin chính xác để đánh giá chủ đề chính của cuộc hội thoại.",
+      "Không có bằng chứng cụ thể cho các tóm tắt của các diễn giả cụ thể.",
+      "Faithfulness_score: Có sự gộp nhộm giữa các đoạn hội thoại của các diễn giả.",
+      "Conciseness_score: Summary dài và không đủ ngắn gọn."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "speaker_00",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng cụ thể cho tóm tắt của diễn giả này."
+      },
+      {
+        "speaker": "speaker_01",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng cụ thể cho tóm tắt của diễn giả này."
+      },
+      {
+        "speaker": "speaker_02",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng cụ thể cho tóm tắt của diễn giả này."
+      },
+      {
+        "speaker": "speaker_03",
+        "score": 1,
+        "supported": false,
+        "reason": "Tóm tắt của diễn giả này có một phần đúng về nội dung chính của cuộc hội thoại, nhưng không đủ chi tiết."
+      },
+      {
+        "speaker": "speaker_04",
+        "score": 0,
+        "supported": false,
+        "reason": "Không có bằng chứng cụ thể cho tóm tắt của diễn giả này."
+      }
+    ],
+    "final_comment": "Summary tổng thể không đủ thông tin chính xác để đánh giá chủ đề chính của cuộc hội thoại. Các tóm tắt theo diễn giả không có bằng chứng cụ thể và có sự gộp nhộm giữa các đoạn hội thoại. Summary cũng không đủ ngắn gọn."
+  },
+  "raw_text": "{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 1,\n    \"faithfulness_score\": 3,\n    \"conciseness_score\": 2,\n    \"total_score\": 8,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Summary không đủ thông tin chính xác để đánh giá chủ đề chính của cuộc hội thoại.\",\n    \"Không có bằng chứng cụ thể cho các tóm tắt của các diễn giả cụ thể.\",\n    \"Faithfulness_score: Có sự gộp nhộm giữa các đoạn hội thoại của các diễn giả.\",\n    \"Conciseness_score: Summary dài và không đủ ngắn gọn.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"speaker_00\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng cụ thể cho tóm tắt của diễn giả này.\"\n    },\n    {\n      \"speaker\": \"speaker_01\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng cụ thể cho tóm tắt của diễn giả này.\"\n    },\n    {\n      \"speaker\": \"speaker_02\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng cụ thể cho tóm tắt của diễn giả này.\"\n    },\n    {\n      \"speaker\": \"speaker_03\",\n      \"score\": 1,\n      \"supported\": false,\n      \"reason\": \"Tóm tắt của diễn giả này có một phần đúng về nội dung chính của cuộc hội thoại, nhưng không đủ chi tiết.\"\n    },\n    {\n      \"speaker\": \"speaker_04\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không có bằng chứng cụ thể cho tóm tắt của diễn giả này.\"\n    }\n  ],\n  \"final_comment\": \"Summary tổng thể không đủ thông tin chính xác để đánh giá chủ đề chính của cuộc hội thoại. Các tóm tắt theo diễn giả không có bằng chứng cụ thể và có sự gộp nhộm giữa các đoạn hội thoại. Summary cũng không đủ ngắn gọn.\"\n}"
+}

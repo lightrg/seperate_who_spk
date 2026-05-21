@@ -1,0 +1,99 @@
+{
+  "inputs": {
+    "summary_json": "C:\\ai_diarizen5090\\code_qwen_25_7b\\results\\summaries\\bench_1p5b_base\\summary.json",
+    "transcript": "C:\\ai_diarizen5090\\code_qwen_25_7b\\results\\summaries\\data26\\intermediates\\data26_asr_input.txt",
+    "reference_json": null
+  },
+  "schema": {
+    "required_keys_present": true,
+    "missing_required_keys": [],
+    "schema_pass_rate": 1.0
+  },
+  "lengths": {
+    "conversation_main_summary_words": 20,
+    "speaker_main_summary_count": 13,
+    "speaker_main_summary_avg_words": 35.61538461538461,
+    "speaker_main_summary_max_words": 40
+  },
+  "evidence": {
+    "speaker_summary_items": 13,
+    "valid_evidence_span_rate": 1.0,
+    "evidence_support_rate": 1.0,
+    "speaker_presence_rate": 1.0,
+    "items": [
+      {
+        "speaker": "Conan",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "Conan_old",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "Habara",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_02",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_03",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_04",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_05",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_07",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_08",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_09",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_10",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_11",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      },
+      {
+        "speaker": "speaker_12",
+        "has_valid_span": true,
+        "supported_by_transcript": true
+      }
+    ]
+  },
+  "genericness": {
+    "generic_speaker_summary_rate": 0.6153846153846154,
+    "low_confidence_rate": 0.6153846153846154
+  },
+  "aggregate": {
+    "summary_quality_score": 0.8908,
+    "interpretation": "good"
+  }
+}

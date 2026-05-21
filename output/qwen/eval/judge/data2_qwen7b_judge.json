@@ -1,0 +1,61 @@
+{
+  "model_name": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "summary_json": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/code/qwen/kq/data2/summary.json",
+  "transcript": "/Users/trannguyenquangkhang/Desktop/seperate_who_sp/pipeline_summary/test_v1/finetune_9_3/data/test_labeled/data2/labeled/transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 1,
+      "faithfulness_score": 3,
+      "conciseness_score": 2,
+      "total_score": 8,
+      "verdict": "review"
+    },
+    "issues": [
+      "Main summary is inaccurate. The summary mentions 'cách phân chia trách nhiệm trong gia đình' which is not the main focus of the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.",
+      "Speaker summaries are inaccurate. The summary for speaker_02 mentions 'dạy con' which is not the main focus of the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.",
+      "Faithfulness is lacking. The summary mentions 'cách phân chia trách nhiệm giữa vợ chồng hoặc việc dạy con' which is not a major topic in the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.",
+      "Conciseness is lacking. The summary is too long and includes unnecessary details."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "speaker_00",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of speaker_00 in the transcript."
+      },
+      {
+        "speaker": "speaker_01",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of speaker_01 in the transcript."
+      },
+      {
+        "speaker": "speaker_02",
+        "score": 1,
+        "supported": true,
+        "reason": "The summary mentions the host introducing the show and the guest, which is accurate."
+      },
+      {
+        "speaker": "speaker_03",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of speaker_03 in the transcript."
+      },
+      {
+        "speaker": "speaker_05",
+        "score": 0,
+        "supported": false,
+        "reason": "No evidence of speaker_05 in the transcript."
+      },
+      {
+        "speaker": "speaker_06",
+        "score": 1,
+        "supported": true,
+        "reason": "The summary mentions the guest discussing family life and responsibilities, which is accurate."
+      }
+    ],
+    "final_comment": "The summary is inaccurate and lacks faithfulness to the transcript. It includes details that are not present in the transcript and omits the main focus of the conversation. The speaker summaries are also inaccurate and lack support from the transcript."
+  },
+  "raw_text": "{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 1,\n    \"faithfulness_score\": 3,\n    \"conciseness_score\": 2,\n    \"total_score\": 8,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Main summary is inaccurate. The summary mentions 'cách phân chia trách nhiệm trong gia đình' which is not the main focus of the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.\",\n    \"Speaker summaries are inaccurate. The summary for speaker_02 mentions 'dạy con' which is not the main focus of the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.\",\n    \"Faithfulness is lacking. The summary mentions 'cách phân chia trách nhiệm giữa vợ chồng hoặc việc dạy con' which is not a major topic in the transcript. The transcript mainly talks about the introduction of the show and the host's introduction of the guests.\",\n    \"Conciseness is lacking. The summary is too long and includes unnecessary details.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"speaker_00\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of speaker_00 in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_01\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of speaker_01 in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_02\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"The summary mentions the host introducing the show and the guest, which is accurate.\"\n    },\n    {\n      \"speaker\": \"speaker_03\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of speaker_03 in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_05\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"No evidence of speaker_05 in the transcript.\"\n    },\n    {\n      \"speaker\": \"speaker_06\",\n      \"score\": 1,\n      \"supported\": true,\n      \"reason\": \"The summary mentions the guest discussing family life and responsibilities, which is accurate.\"\n    }\n  ],\n  \"final_comment\": \"The summary is inaccurate and lacks faithfulness to the transcript. It includes details that are not present in the transcript and omits the main focus of the conversation. The speaker summaries are also inaccurate and lack support from the transcript.\"\n}"
+}

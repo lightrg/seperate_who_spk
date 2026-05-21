@@ -1,0 +1,1386 @@
+{
+  "source": "c:\\ai_diarizen5090\\code_qwen_25_7b\\qwen_out\\data55\\intermediates\\data55_asr_input.txt",
+  "stats": {
+    "num_blocks": 19,
+    "num_normalized_blocks": 19,
+    "num_block_summaries": 19
+  },
+  "meeting_overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based. Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+  "conversation_main_summary": "Nội dung chính của cuộc hội thoại tập trung vào khách hàng, công việc hoặc nghề nghiệp.",
+  "meeting_type": "discussion",
+  "segments": [
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        0,
+        1
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        2
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        3,
+        4
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Trò chơi / tương tác",
+      "block_ids": [
+        5
+      ],
+      "summary": "Đoạn trò chơi hoặc tương tác nhẹ giữa các người nói."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        6
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chia sẻ về công việc",
+      "block_ids": [
+        7
+      ],
+      "summary": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        8,
+        9
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Giới thiệu khách mời",
+      "block_ids": [
+        10
+      ],
+      "summary": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        11,
+        12
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chuyển cảnh / dẫn chương trình",
+      "block_ids": [
+        13,
+        14,
+        15
+      ],
+      "summary": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo."
+    },
+    {
+      "title": "Trao đổi chính",
+      "block_ids": [
+        16,
+        17
+      ],
+      "summary": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based."
+    },
+    {
+      "title": "Chia sẻ về công việc",
+      "block_ids": [
+        18
+      ],
+      "summary": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp."
+    }
+  ],
+  "action_items": [],
+  "speaker_insights": [
+    {
+      "speaker": "speaker_00",
+      "insight": "Cảm ơn chia sẻ của chị Lệ. Xin hỏi chị Giao với cũng là tư cách một tổng giám đốc một quỹ đầu tư thì quan điểm chị có đồng ý với quan điểm thận trọng của chị Lệ.",
+      "evidence_spans": [
+        [
+          188.1,
+          309.8
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_01",
+      "insight": "Cảm ơn chia sẻ rất là thú vị của chị Kim Anh. Tức là quan điểm đầu tư của việc. Còn anh Phan sẽ đi từ rất là chi tiết từ công ty và từ đi từng đến doanh nghiệp cụ thể.",
+      "evidence_spans": [
+        [
+          1413.4,
+          1546.1
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_02",
+      "insight": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+      "evidence_spans": [
+        [
+          1093.9,
+          1373.4
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_03",
+      "insight": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+      "evidence_spans": [
+        [
+          3499.3,
+          3592.1
+        ]
+      ]
+    },
+    {
+      "speaker": "speaker_04",
+      "insight": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+      "evidence_spans": [
+        [
+          1766.5,
+          1820.3
+        ]
+      ]
+    }
+  ],
+  "speaker_main_summaries": [
+    {
+      "speaker": "speaker_00",
+      "main_summary": "Người này tham gia trao đổi về nội dung trao đổi chính của cuộc hội thoại, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          188.1,
+          309.8
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_01",
+      "main_summary": "Người này tham gia trao đổi về nội dung trao đổi chính của cuộc hội thoại, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          1413.4,
+          1546.1
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_02",
+      "main_summary": "Người này tham gia trao đổi về khách hàng, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          1093.9,
+          1373.4
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_03",
+      "main_summary": "Người này tham gia trao đổi về khách hàng, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          3499.3,
+          3592.1
+        ]
+      ],
+      "confidence": "low"
+    },
+    {
+      "speaker": "speaker_04",
+      "main_summary": "Người này tham gia trao đổi về việc giới thiệu khách mời và mở chủ đề, nhưng chưa đủ bằng chứng để kết luận rõ người này chủ yếu đang làm gì trong cuộc hội thoại.",
+      "evidence_spans": [
+        [
+          1766.5,
+          1820.3
+        ]
+      ],
+      "confidence": "low"
+    }
+  ],
+  "risk_flags": [
+    "Transcript có nhiều segment/chủ đề khác nhau; cần chú ý tránh gộp nhầm."
+  ],
+  "quality_notes": [
+    "rule_reducer_v9_speaker_main_confidence_fallback"
+  ],
+  "cleaned_transcript": [
+    {
+      "block_id": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "speaker": "speaker_03",
+      "text": "Chúng ta vừa khép lại phiên thảo luận thứ nhất. Chắc là tôi cũng xin phép tóm tắt sơ. Có lẽ là từ mạnh mẽ và quyết liệt là những từ khóa mà được nhắc đến nhiều nhất trong phiên thảo luận vĩ mô vừa rồi. Chúng ta có thể thấy là một thông điệp mà nhà tạo lập chính sách đang gửi tới tất cả các doanh nghiệp và thị trường tài chính. Về một chính sách kinh tế hỗ trợ mạnh mẽ toàn diện và nhanh chóng tới nền kinh tế. Trong một cái bối cảnh mà kinh tế thế giới đầy các yếu tố bất định như hiện nay. Lượng Việt Nam có là điểm sáng mới thu hút dòng vốn đầu tư gián tiếp nước ngoài. Và liệu chúng ta thị trường tài chính của chúng ta sẽ vươn mình giống như thông điệp. Mà tổng bí thư đã nhắc tới trong kỷ nguyên vươn mình của chúng ta hay không. Thì hy vọng là phiên thảo luận thứ 2 chúng ta sẽ giải đáp được những vấn đề đó. Trước tiên là đến với các quý vị viễn giả thì trong một bối cảnh vĩ mô toàn cầu biến động mạnh như hiện nay và nhiều ẩn số với vai trò là một nhà đầu tư tổ chức. Thì quan điểm đầu tư của các anh chị sẽ nghiêng về chiến lược đầu tư, phòng thủ, thận trọng hay là lạc quan, tìm kiếm cơ hội mới. Xin phép câu trả lời đầu tiên gửi tới. Chị Lệ là tổng giám đốc quỹ EOB."
+    },
+    {
+      "block_id": 1,
+      "start": 177.6,
+      "end": 186.6,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chia sẻ của chị Lệ. Xin hỏi chị Giao với cũng là tư cách một tổng giám đốc một quỹ đầu tư thì quan điểm chị có đồng ý với quan điểm thận trọng của chị Lệ."
+    },
+    {
+      "block_id": 1,
+      "start": 188.1,
+      "end": 309.8,
+      "speaker": "speaker_00",
+      "text": "Thực ra thì các quỹ đầu tư thì cũng sẽ khá là tương đồng về cái gọi là philosophy về đầu tư. Thì thực ra là sẽ giống nhau. Thế nhưng mà thực ra ở đây thì tôi nghĩ là ở trong cái khán phòng này của mình thì ngoài các cái nhà đầu tư về quỹ cũng có rất là nhiều nhà đầu tư cá nhân hoặc là doanh nghiệp chẳng hạn. Thì tôi muốn nói ở góc độ nó rộng hơn một chút xíu không phải chỉ liên quan đến mỗi quỹ của chúng tôi. Bởi vì thực ra PVI thì là quản lý tiền đầu tư cho bảo hiểm. Thì bản chất là cái cách đầu tư đã vô cùng thận trọng rồi. Thế nhưng mà mình muốn chia sẻ ở đây là cái cách mình ứng xử đối với các cái rủi ro trong thời gian vừa rồi nó là như thế nào. Thì thực sự mà nói nếu mà tôi nhớ là cái ngày mùng 2 tháng 4 đúng không ra cái chính sách về thuế như vậy. Thì thực sự là rất là choáng cho tất cả các quỹ đầu tư. Tôi không biết các anh chị ở đây như thế nào nhưng mà không ai lường được cái chuyện đó. Và sau đó tôi nhớ là chỉ khoảng mấy ngày thôi. Không nhớ là hình như mùng 6 tháng 4 chính Việt Nam Bits là muốn có một cái gọi là round table để gọi là mời các cái chuyên gia để thảo luận về cái ảnh hưởng của cái chính sách thuế đấy. Đến thị trường Việt Nam, đến vĩ mô Việt Nam và đến thị trường trứng khoán. Thì thực sự là gọi đến tất cả các anh chị không ai dám đơn hình. Thực sự là các anh ở đây phải chia sẻ với mọi người như vậy. Có thể mọi người nghĩ là quỹ đầu tư sẽ chủ động hơn rất nhiều, sẽ không cảm thấy là sốc hay là như thế nào. Nhưng thực sự những cái biến động mạnh đấy nó tác động tất cả. Và mọi người đều phải xem xét lại hết. Và ngay cả cái lúc đấy mà để mà bảo đưa ra một cái nhận xét như thế nào ra công chúng tất nhiên nội bộ. Thì chúng tôi sẽ phải ngồi lại để xem là cái ứng phó của mình nên như thế nào. Nhưng thực sự là nó là những cái biến động mà rất là kinh khủng. Thế thì qua cái biến động đấy thì chúng ta sẽ làm gì ạ. Thực ra là nếu mà xét về góc độ đầu tư thì nếu mà nếu bạn là quản lý thì bạn sẽ phải xem lại là cái chiến lược kinh doanh của mình thế nào. Điều chỉnh ra làm sao và ứng phó như thế nào thì cái đấy làm về mặt lý thuyết nhưng mà đối với đầu tư thì bọn tôi phải làm một cái việc hơn nữa là."
+    },
+    {
+      "block_id": 2,
+      "start": 311.4,
+      "end": 418.3,
+      "speaker": "speaker_00",
+      "text": "Khi mà bọn tôi đánh giá các doanh nghiệp ngoài những vấn đề liên quan đến là các chính sách thuế đấy sẽ ảnh hưởng đến ngành nghề nào, đến doanh nghiệp nào để mình thực sự là mình. Mình dừng các cái quyết định đầu tư tại thời điểm đấy đi đã. Và mình quan sát tiếp xem là cái việc các cái doanh nghiệp đấy người ta ứng phó với những biến động này như thế nào. Cái đó mới là cái quan trọng. Cái đó mới là cái vấn đề là phát triển bền vững. Bởi vì thực ra là như mọi người cũng đã nói rồi. Là bây giờ tất cả cái biến động này. Như phiên 1 thì các anh chị nói là không ai dự án được quá 6 tháng. Và những biến động nó xảy ra hàng ngày. Thì bây giờ cái sự bất định nó là sự bình thường mới. Thua bây giờ doanh nghiệp nào là doanh nghiệp có thể ứng phó đấy linh hoạt nhất bền vững nhất và có một cái sự chủ động. Tôi nhớ là trong cái thời điểm đấy có một cái doanh nghiệp như về thủy sản. Họ đã đưa ngay ra một cái nhận xét được là nếu như mức thuế 4-6% này thì ảnh hưởng đến lợi nhuận của tôi sẽ là 15-30%. Nhưng thực sự thì có ảnh hưởng đến thế không? Chưa chắc họ đã đưa ra trường hợp wood-cane và họ đã tính được ngay. Điều đấy cho thấy là doanh nghiệp rất là chủ động trong việc ứng phó với thị trường. Thì quay trở lại câu hỏi vừa rồi chiều đưa ra. Thì nó liên quan đến hai phần. Phần thứ nhất về mặt ngắn hạn. Chắc chắn những cái quyết định đầu tư. Phải review lại ngay lập tức. Để xem là những cái gì. Chúng ta có thể tiếp tục đầu tư. Những cái gì chúng ta có thể tối ưu trong ngắn hạn và tận dụng những cái. Thực ra đối với PVI bọn tôi là sẽ phải kinh doanh tiền tệ trên những cái nền tảng nó an toàn. Khi đợi những cái điều kia mình phải dừng lại để mình xem xem là tác động mức độ nó như thế nào và sau đó thì mình quan sát những cái doanh nghiệp nào là những doanh. Có thể ứng phó về mặt dài hạn được thì cái việc tiếp tục giải ngân cho những doanh nghiệp như thế thực ra là nó sẽ không bị dừng lại. Đấy là cái câu trả lời của tôi."
+    },
+    {
+      "block_id": 2,
+      "start": 419.4,
+      "end": 455.5,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn những chia sẻ rất là chi tiết và thực tế từ chị Giao. Thực tế là theo trao đổi của chị Lệ và chị Giao thì hiện nay là yếu tố bất định về mặt thuế quan vẫn là nhân tố mà. Các quỹ đầu tư cân nhắc nhiều nhất trong việc là phân bổ chỉ lúc đầu tư trong 6 tháng tới thì với vai trò là một quỹ đầu tư nước ngoài không chỉ phân bổ tài sản trên thị trường Việt Nam. Mà còn phân bổ trên tài sản trên các thị trường của các nước, các khu vực. Thì anh Hoài Anh có thể chia sẻ liệu cái chiến lược đầu tư và cái quan điểm đầu tư trong vòng 6 tháng tới của anh có tương đối là chia sẻ với chị Lệ và chị Giao không ạ?"
+    },
+    {
+      "block_id": 3,
+      "start": 459.3,
+      "end": 687.8,
+      "speaker": "speaker_04",
+      "text": "Bản thân mình thì cũng đã từng đầu tư và cho vay các doanh nghiệp Việt Nam khoảng 20 tỷ đô la trong vòng khoảng 20 năm vừa xong. Thì tất cả những khoản đầu tư đó thì là đều thành công cả nhưng mà thành công nhất là khi mà thời điểm mà khó khăn nhất thì ở Việt Nam thì mình lấy một cái ví dụ. Ví dụ là 2012 chắc mọi người biết là lúc đó là cái vay liên ngân hành nó khoảng hơn 20% và lúc đó thì là các doanh nghiệp bất động sản thì rất là khó khăn. Và tại thời điểm đó thì. Vincom Group lúc đó. Thì đang định là đầu tư cái khu. Mà Vincom Village bây giờ tại. Bên kia Lòng Biển. Thì thời điểm đó thì không ai cho vay cả. Thậm chí có những nhà ngân hàng trong nước và nước ngoài thì cũng rút các khoản vay đối với ở Village trong thời điểm đó. Thì bọn mình có đưa ra một cái phương án đầu tư tại thểm đó thì cũng rất là thận trọng. Nghe lời lúc đó nghĩ rằng là nếu mà giá một mét vuông của Vietcom Village tại thời điểm 2012 mà nó khoảng là 20 nghìn triệu một mét vuông thì đã là thành công. Thì các bạn biết là ngày hôm nay. Viên con village nó là khoảng là. 300-350 triệu mặt vuông. Và cái thời điểm đó thì tất nhiên là khi đó thì rất là khó khăn trong vấn đề huy động. Thì bọn mình cũng đưa ra một phương án bay vốn rất là cao và tỷ suất lợi nhuận khoảng 20% một năm thì nó rất là thành công. Và cũng tại thời điểm đó thì là năm 2013, đầu năm 2013 tức là thời điểm đó rất là khó khăn. Mà sau khi một loạt sự kiện của các ngân hàng ACB, là khủng hoảng của các ngân hàng tư nhân Việt Nam thì hầu như cái khả năng cho vay ở thị trường Việt Nam rất là thấp. Và lúc đó thì bọn mình có tham gia một cái đầu tư vào. Cũng vẫn là Vietcom Retail. Thời điểm đó thì định giá vincon retail nó khoảng một tỷ đô la tại thời điểm 2013 và hầu như không ai tham gia để đầu tư cả thì bọn mình đầu tư khoảng 300 triệu đô la ở thời điểm. Thì 2016 tức là khoảng 4 năm sau thì IPO thì nó khoảng 4 tỷ. Trong vòng 4 năm thì nó tăng lên khoảng là 400%. Thì đấy là những cái thành công mà không phải đối với cả đầu tư ở Việt Nam mà tại khu vực châu Á nói chung thì là những cái mà mình. Chiêm nghiệm lại thì những cái khoản đầu tư trong thời điểm khó khăn nhất của Việt Nam thì lại là thời điểm mà là thành công nhất của những khoản đầu tư của bọn mình. Thế thì ngay cả thân biên rồng mọi người cũng nói rất là khó khăn và các nhà đầu tư họ cũng rất là thận trọng. Nhưng nếu như là ở ai đây mà có một khoản đầu tư cần khoảng 200 triệu đô la thì bọn mình cũng rất là sẵn sàng đầu tư. Tuy nhiên điều đó thì thực ra các quỹ đầu tư thì hoặc là các ngân hàng thì không có gì khác ngoài tiền. Tất nhiên là tiền của nhà đầu tư, tiền của nhà người tất nhiên là mình sẽ phải thận trọng trong khoản đầu tư nhưng mà thực ra đối với các ngân hàng và các quỹ đầu tư thì tại thời điểm này cái khó khăn nhất là giải ngân. Chứ không phải rằng là có muốn đầu tư hay không. Tại vì là tìm vào doanh nghiệp nào để mà đầu tư thì đấy là một cái rất là khó khăn. Nhưng mình thì tóm lại thì là đối với mình thì là. Thời điểm này mình rất là mong muốn có một cơ hội đầu tư và nhưng mà vấn đề là các doanh nghiệp bản thân họ cũng không đưa ra những cái phương án để đầu tư. Thì mình nghĩ là nếu như mà các doanh nghiệp họ chủ động trong vấn đề họ tiếp xúc, họ đưa ra các phương án đầu tư thì mình nghĩ tại thời điểm này thì nó rất là. Đặc biệt là như là mọi người vừa xong cũng đã nói là chưa bao giờ bản thân mình là người đã từng tham gia đầu tư ở Việt Nam. Đầu tư khoảng ngần 30 năm vừa xong thì chưa bao giờ Việt Nam mà cái điều kiện nội tại mà tốt như bây giờ về mặt chính sách."
+    },
+    {
+      "block_id": 4,
+      "start": 689.7,
+      "end": 733.5,
+      "speaker": "speaker_04",
+      "text": "Tất nhiên có một cái điểm rất là đáng tiếc là cái thời điểm bây giờ thì là cái lúc mà có cái vấn đề của cái vấn đề tariff nó ảnh hưởng đến cái xuất khẩu của Việt Nam. Nhưng mà thường những thời điểm như bây giờ thì các doanh nghiệp Việt Nam lại có cái lợi rất lớn là tập trung vào cái thị trường nội địa mà như cái diễn đàn trước đây đã nói là cái đầu tư công. Mở ra một cơ hội rất lớn cho các doanh nghiệp trong nước để họ làm, đặc biệt là trong các lĩnh vực liên quan đến đầu tư công, rồi là tiêu dùng trong nội địa. Thì mình nghĩ đây là một cơ hội rất là tốt và mình nghĩ là tất cả các nhà đầu tư họ rất là quan tâm đến thị trường Việt Nam và cơ hội đầu tư Việt Nam. Rằng là tìm nó ở đâu hơn là có ai quan."
+    },
+    {
+      "block_id": 5,
+      "start": 821.6,
+      "end": 1052.3,
+      "speaker": "speaker_02",
+      "text": "Thực ra là nếu như mà các nhà đầu tư đã có đầu tư vào các quỹ của VCBS hoặc là cũng đã có theo dõi các buổi livestream của chúng tôi. Chắc các quý vị cũng biết là VCBF thì đi theo cái đường hối lạ đầu tư cơ bản. Thực ra thì chúng tôi cũng chưa bao giờ dự đoán được thị trường không cố làm cái việc mà chắc chắn là mình sẽ không thể làm được hoặc là không thể làm tốt. Thế nhưng mà có một điều mà tôi và cũng như là các đồng nghiệp của tôi ở VCBF thì đều chắc chắn rằng là. Trong năm nay cũng như là trong năm sau thì chắc chắn là ẩn số thì còn quá nhiều các cái sự không chắc chắn là chắc chắn là còn quá nhiều. Có thể là trong khoảng một tháng gần đây đúng không ạ, thì chúng ta luôn nhận được những cái tin rất là tích cực từ phía chính phủ Việt Nam hay là chính phủ Hoa Kỳ về cái tiến trình mà. Còn là thỏa thuận thương mại để mà đạt được một cái mức thuế quan nào đấy mà hợp lý cho Việt Nam thế tuy nhiên là. Liệu là nó có đúng như mình kỳ vọng hay không thì cũng chưa có ai chắc chắn cả và thực ra là cứ cho là Việt Nam có thể có những cái bước tiến tích cực. Thì mình cũng vẫn còn bị ảnh hưởng bởi những nước khác nữa. Và gần đây thì chúng ta cũng thấy rằng là. Giữa Mỹ và Trung Quốc hay Mỹ và châu Âu đúng không ạ. Hôm nay thì có vẻ là có tin. Đến ngày mai thì lại có vẻ rất là tiêu cực. Mọi thứ lại trở nên gọi là bi quan hơn. Thì mỗi một khi mà có những cái thông tin như vậy ra thị trường thì tôi nghĩ là thị trường đều có biến động. Tất nhiên là có thể là nó sẽ không có những cái biến động mạnh như là cái ngày mùng 2 tháng 4 khi mà có. Một cái thông báo mà chắc là đúng là cả thế giới không có ai nghĩ đến. Trừ cái nhóm của Trump ra thì chắc không có ai nghĩ đến việc đấy cả. Nhưng mà chắc chắn là sẽ còn có nhiều những cái tuyên bố, nhiều những cái thông báo, nhiều những cái chính sách mà nó sẽ không. Theo cái suy nghĩ của mọi người và thị trường thì sẽ dựa trên những cái đấy để mà phản ứng có thể là rất là tích cực và cũng có thể là tiêu cực. Thì đối với cả VCBF chính vì là như thế nên là từ trước đến nay thì bản thân thì cái lần biến động này cũng là một lần biến động rất lớn. Trải qua 20 năm của thị trường thì cũng không phải là lần duy nhất đúng không ạ. Gần đây nhất là Covid thì thị trường cũng sụt giảm rất là kinh khủng và sau đấy thì cũng lại hồi phục. Cái quan trọng nhất nó cũng vẫn là cái nền tảng của doanh nghiệp. Doanh nghiệp nào có thể chống chịu được, doanh nghiệp nào có thể vượt qua được những cái khó khăn đấy nhanh nhất. Và có những cái gọi là lộ trình phát triển mà ổn định nhất thế thì cái cách làm đầu tư của VCB. Thì từ trước đến nay vẫn là theo cái philosophy hay là cái triết lý đấy là lựa chọn những cái doanh nghiệp mà họ có cái nền tảng. Họ có những cái sản phẩm mà có khả năng cạnh tranh trên thị trường và ban lãnh đạo là có thể là rất là nhanh nhạy này để mà họ có thể ứng phó được với. Diễn tiến bất lợi và cũng như là tận dụng được các cái cơ hội thế thì khi mà có những cái thay đổi như thế trên thị trường thì VCBF cũng nhìn chung là đội ngũ. Thì cũng rất là bình tĩnh. Nhìn chung là mình không gọi là theo cái kiểu là cứ bán hết đi xong rồi tính. Mà mình cũng xem xét lại cái danh mục của mình. Thì đối với cả tất cả những cái doanh nghiệp mà chúng tôi đầu tư thì ngay từ ban đầu là mình cũng đã lựa chọn những cái doanh nghiệp mà nó có những cái nền tảng. Mình vẫn rất là tin tưởng là họ có thể vượt qua được những cái biến động như thế này. Thì tất nhiên là mình cũng sẽ phải xem xét kỹ hơn là về những cái doanh nghiệp mà nếu như mà họ ở những cái lĩnh vực mà không bị ảnh hưởng trực tiếp. Chắc chắn là nó cũng sẽ chưa có cái gì ảnh hưởng ngay nhưng đối với những cái doanh nghiệp mà trong những cái lĩnh vực ảnh hưởng trực tiếp thì mình cũng phải xem xét kỹ hơn. Cái sự đa dạng sản phẩm của họ như thế nào, các cái thị trường họ xuất khẩu ra làm sao để mình có thể là quyết định xem là phân bổ lại cái. Giữa các doanh nghiệp đến như thế nào?"
+    },
+    {
+      "block_id": 6,
+      "start": 1054.8,
+      "end": 1071.5,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chị Kim Anh. Thì như vậy là em hiểu là chỉ lược của việc có manh phan. Bởi vì là trong 6 tháng sắp tới. Chuyện sợi trên cơ sở là rất là nhiều yếu tố. Mình sẽ đi theo nguyên tắc là bottom-up, topic nhiều hơn là giải ngân dựa trên một cái chiến lược đi từ macro."
+    },
+    {
+      "block_id": 6,
+      "start": 1074.0,
+      "end": 1092.9,
+      "speaker": "speaker_03",
+      "text": "Như vậy là em xin phép nhờ chị Kiều Mạnh chia sẻ thêm. Thế thì theo quan điểm của chị khi mà lựa chọn cổ phiếu từ bottom up. Thì hiện nay là các ngành nào trong 6 tháng cuối năm chị sẽ tăng số phân bổ. Và cái ngành nào mà chị sẽ giảm phân bổ trên cái cơ sở bối cảnh mỹ mô hiện nay."
+    },
+    {
+      "block_id": 7,
+      "start": 1093.9,
+      "end": 1373.4,
+      "speaker": "speaker_02",
+      "text": "Chính là bởi vì là đi theo cái chiến lược đầu tư là bottom-up đoạn. Tức là mình lựa chọn từng doanh nghiệp một. Chứ mình cũng không có một cái phân bổ tổng quan. Xem là cái ngành này mình sẽ phải allocate bao nhiêu phần trăm hay cái ngành khác mình là bao nhiêu phần trăm mà mình sẽ lựa chọn từ dưới lên xem là những cái doanh nghiệp. Nó phù hợp nhất với cái tiêu chí đầu tư của mình hay là phù hợp nhất với cái chiến lược đầu tư của từng cái quỹ mà mình đang đầu. Thế thì đương nhiên là những cái doanh nghiệp mà họ hoạt động trong những cái lĩnh vực mà bị ảnh hưởng. Ví dụ trên sàn thì mình có những doanh nghiệp dệt mây, thủy sản hay là. Cái ngành electronics là cái ngành điện tử thì đúng là cái đóng góp vào xuất khẩu rất là lớn. Xuất khẩu đi Mỹ rất là nhiều nhưng mà thực ra trên sàn của mình thì lại không có bởi vì chủ yếu là các doanh nghiệp. IDI thì các doanh nghiệp. Chủ yếu là ở những cái ngành dệt may ra giày rồi thủy sản. Và một trong những cái ngành nữa mà cũng bị mặc dù họ không xuất khẩu nhưng mà là họ lại bị ảnh hưởng tương đối trực tiếp. Các doanh nghiệp khu công nghiệp khi mà cái phần lớn cái diện tích của họ cho thuê là cho các doanh nghiệp. Như từ trước đến giờ, đầu giờ đến giờ thì các diễn giả đều nói đến việc là các doanh nghiệp nước ngoài khi mà đến đầu tư Việt Nam. Với cái chính sách thuế quan mà chưa rõ ràng như thế thì họ đều tạm dừng lại có thể là Website NC họ xem là cái chính sách như thế nào rồi họ mới quyết định đầu tư. Vậy thì ngay lập tức là các doanh nghiệp bất động sản đấy là sẽ bị ảnh hưởng bởi vì là đáng ra có thể ký hợp đồng rồi thì bây giờ nhà đầu tư lại tạm hoãn lại. Là cái dòng tiền nó cũng sẽ bị ảnh hưởng thế tuy nhiên là ở VCBF thì cái cách chúng tôi làm đấy là chúng tôi cũng lại. Đối với những cái doanh nghiệp mà họ hoạt động trong lĩnh vực xuất khẩu hoặc là những doanh nghiệp khu công nghiệp thì chúng tôi cũng lại phải xem lại từng doanh nghiệp một, ví dụ như là các doanh nghiệp xuất khẩu. Thì mỗi một doanh nghiệp họ cũng đều bị ảnh hưởng nhưng mà cái mức độ ảnh hưởng nó sẽ khác nhau. Liệu cùng là dệt may hay là cùng là thủy sản thì có doanh nghiệp sẽ tập trung rất nhiều vào thị trường Mỹ. Và trong ngắn hạn họ sẽ rất khó để mà có thể đa dạng hóa sang các cái thị trường khác đi tìm kiếm những bạn hàng khác nhưng mà cũng có những doanh nghiệp ngay từ ban đầu. Thì cái tỷ trọng giữa các thị trường nó cũng đã tương đối nhau rồi, họ không quá phụ thuộc vào thị trường Mỹ. Hay là cũng là doanh nghiệp dệt may nhưng mà có những doanh nghiệp thì họ có thể gia công những cái đơn hàng khó. Để mà bạn hàng đi tìm một cái đơn vị khác mà thay thế ngay thì nó rất là khó khăn nên là nhiều khả năng là họ vẫn có thể duy trì được các cái đơn hàng của mình. Hay là đối với cả các doanh nghiệp thủy sản cũng vậy thôi. Cái thị trường của họ như thế nào. Và cái ví dụ giá của họ chi phí. Sản xuất của họ so với cả những cái mặt hàng cũng là thủy sản nhưng mà có thể nhập ở nước khác thì họ có cạnh tranh không ví dụ kể cả áp thuế lên 46. Ở cái mức cao nhất đi, có khi họ vẫn cạnh tranh thì sao thì cũng chưa chắc là họ sẽ mất hoàn toàn các cái đơn hàng. Vậy thì như thế tức là đối với từng doanh nghiệp thì mình cũng phải xem xét xem là cái mức độ ảnh hưởng như thế nào. Cái tỉ trọng chứ cũng không phải là cứ trong cái ngành đấy là chúng ta giảm hoàn toàn tỉ trọng hay là đối với các cái doanh nghiệp khu công nghiệp thì cái quan điểm. Của tôi thì có lẽ là nó cũng sẽ theo hướng như thế này. Tức là đúng là trước mắt thì khi mà chúng tôi gặp các cái doanh nghiệp của công nghiệp thì họ cũng đều chia sẻ. Hiện giờ có thể là các cái hợp đồng cũng hơi bị chậm lại nè, rồi nhà đầu tư cũng dừng lại để wet and see nhưng mà với. Cái xu hướng hiện nay ấy. Đấy là. Việt Nam mình sẽ tập trung vào thu hút. FDI có một chọn lọc hơn. Trước đây thì có thể là ai vào mình cũng mở cửa nhưng mà có thể bây giờ mình sẽ phải chọn lọc những cái doanh nghiệp mà họ có chuyển giao công nghệ này hoặc là họ tham gia ở cái công đoạn giá trị gia tăng cao hơn hoặc là họ sẽ có những cái kế hoạch mà xây dựng cả một cái chuỗi cung ứng ở Việt Nam. Họ không chỉ vào Việt Nam họ kéo theo cả các doanh nghiệp khác nữa thì đối với cả trong những cái trường hợp đấy thì các cái doanh nghiệp khu công nghiệp. Họ có quỹ đất tốt, họ có quỹ đất sạch và đặc biệt là những cái khu công nghiệp mà họ chú ý vào các cái yếu tố về môi trường hay là ESG thì theo chúng tôi nghĩ. Họ sẽ là những đối tượng được hưởng lợi bởi vì là chỉ cần những cái chính sách thuế quan nó rõ ràng hơn một chút và có lẽ là cũng chỉ trong một vài tháng tới thôi thì nó cũng sẽ rõ ràng hơn. Thì chắc chắn là đấy là những cái doanh nghiệp đầu tiên mà sẽ được hưởng lợi bởi vì là họ sẽ thu hút được những cái đối tượng hoặc là các cái doanh nghiệp FDI mà gọi là tốt nhất. Có những cái kế hoạch dài hạn ở Việt Nam và không những chỉ thu hút được trong ngắn hạn mà họ sẽ giữ chân được các cái khách hàng để trong suốt dài hạn thì đối với cả những cái doanh nghiệp đấy. Có thể nói là không những là không giảm thị trạng mà chúng tôi còn tăng."
+    },
+    {
+      "block_id": 8,
+      "start": 1375.5,
+      "end": 1385.6,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chia sẻ rất là thú vị của chị Kim Anh. Tức là quan điểm đầu tư của việc. Còn anh Phan sẽ đi từ rất là chi tiết từ công ty và từ đi từng đến doanh nghiệp cụ thể."
+    },
+    {
+      "block_id": 8,
+      "start": 1387.0,
+      "end": 1390.4,
+      "speaker": "speaker_03",
+      "text": "Em xin phép hỏi chị lệ nếu mà được lựa."
+    },
+    {
+      "block_id": 8,
+      "start": 1392.2,
+      "end": 1412.2,
+      "speaker": "speaker_03",
+      "text": "Nếu mà một cái performance tốt từ giờ đến cuối năm thì theo chị là những ngành nào. Chị Kim Anh thì có liệt kê các ngành mà sẽ nằm trong vòng ảnh hưởng của thuế quan. Còn chị Lệ thì theo đánh giá của chị thì với những cái bất định về thuế quan hiện nay thì ngành nào sẽ được hưởng lợi. Ý nhất là ít bị."
+    },
+    {
+      "block_id": 8,
+      "start": 1413.4,
+      "end": 1442.3,
+      "speaker": "speaker_01",
+      "text": "Như tôi chia sẻ lúc nãy thì đối với lại bên phía UOBAM Việt Nam thì cái chiến lược đầu tư của chúng tôi trong cái bối cảnh. Là chúng tôi tập trung hơn vào những cái ngành và công ty. Mà thứ nhất là hoạt động chủ yếu ở thị trường trong nước hơn là xuất khẩu và thứ hai là những cái công ty mà được hưởng. Thì cái chủ trương và những cái ưu tiên mang tính chiến lược của nhà nước đặc biệt là trong đầu tư công."
+    },
+    {
+      "block_id": 8,
+      "start": 1443.8,
+      "end": 1546.1,
+      "speaker": "speaker_01",
+      "text": "Một số ngành mà hiện nay chúng tôi quan tâm nhiều. Thứ nhất là ngành ngân hàng. Vì mục tiêu tăng trưởng tiến dục năm nay tương đối cao 16%. Cũng sẽ hưởng lợi từ cái đẩy mạnh giải ngân đầu tư công. Cái ngành thứ hai mà chúng tôi cũng quan tâm đó là về xây dựng và vật liệu xây dựng. Thì đương nhiên là chúng ta đều thấy là khi mà các cái dự án trọng điểm đặc biệt là về đầu tư cơ sở hạ tầng trong năm nay được chính phủ đang đẩy mạnh như là một trong những cái biện pháp. Để giúp hỗ trợ tăng trưởng kinh tế thì ngành này cũng là một cái ngành đáng quan tâm. Tiếp theo đó là về bán hàng và tiêu dùng. Thì mặc dù là bị mô bên ngoài, tức là các yếu tố bên ngoài, thì thế giới còn rất nhiều bất ổn. Nhưng mà cái sức mua trong nước cho đến thời điểm hiện tại thì vẫn cho thấy những cái dấu hiệu tương đối tích cực. Cho nên là chúng tôi vẫn chú trọng đến cái ngành này. Và một cái ngành nữa mà chúng tôi nghĩ là trong thời gian tới cũng có nhiều cái tiềm năng tăng trưởng đó là ngành bất động sản. Thì như chúng ta đã nghe các diễn giả trao đổi trong phiên thảo luận thứ nhất là hiện nay chính phủ đang tích cực. Cỡ các cái vướng mắc pháp lý cho trên 2000 dự án và nếu điều này mà được thực hiện tốt thì rõ ràng đây là một cái cú hích lớn cho ngành bất. Và cuối cùng là chúng tôi cũng quan tâm đến các công ty trong lãnh vực công nghệ và logistics. Vì thật ra. Thì cái quan ngại về chính sách thuế của Tổng thống Trump thì đương nhiên là một trong những cái quan ngại chính của tất cả các nhà đầu tư không chỉ ở Việt Nam. Tuy nhiên nếu chúng ta nhìn kỹ hơn vào bức tranh giữa thương mại Việt Nam và Mỹ và đàm phán giữa."
+    },
+    {
+      "block_id": 9,
+      "start": 1547.3,
+      "end": 1669.2,
+      "speaker": "speaker_01",
+      "text": "Mọi người đều nói về cái mức thuế 46%. Và với những cái thông tin mà tôi đọc được trên báo chí thì hiện nay mọi người đang nói về cái mức chắc bằng khoảng một nửa. 20-22% gì đấy nhưng quan điểm của chúng tôi là chúng tôi không nghĩ là cái mức thuế đấy. Được áp cho tất cả các cái mặt hàng xuất khẩu của Việt Nam sang Mỹ mà cái quan trọng hơn là chúng tôi muốn chờ đợi xem là cái kết quả này không chỉ giữa Mỹ và Việt Nam. Mà còn là giữa Mỹ và các nước là đối thủ trực tiếp của Việt Nam trong việc xuất khẩu hàng hóa. Những cái nước cũng xuất khẩu các cái mặt hàng tương tự như Việt Nam sang Mỹ thì họ sẽ được hưởng cái mức thuế đối ứng của Mỹ như thế nào chứ không phải chỉ nhìn đơn thuần. Mỹ-A phi mức tới đôi Việt Nam là như thế này. Nhưng nếu chúng ta nghĩ là nó tích cực nhưng nó vẫn cao hơn các cái đối thủ trực tiếp thì nó không tích cực. Thì tương tự như vậy. Đối với FDI thì chúng ta đều biết là cái vai trò quan trọng của FDI, khối FDI trong kinh tế Việt Nam trong suốt 20-30 năm. Và hiện nay cái khối FDI đang đóng góp cho đầu đó khoảng 70% tổng kim ngạch xuất khẩu của Việt Nam thì chúng ta cũng cần phải họ cũng quan sát xem là. Kết quả cuối cùng của đàm phán giữa Mỹ và Việt Nam như thế nào và những mặt hàng nào cụ thể là chịu mức thuế như thế nào thì tôi nghĩ là những cái doanh nghiệp. Những cái ngành đó họ sẽ có cái điều chỉnh chiến lược cho nên thật ra hiện tại để mà nói là một cái câu trả lời chung. Và thì chúng tôi cũng thật sự là chúng tôi cũng vẫn phải đang chờ có một cái thông tin đầy đủ rõ ràng hơn để đưa ra những cái chiến lược đầu tư nó sát. Có thể là sau khi vài tháng tới khi mà chúng ta có cái kết quả đàm phán cuối cùng. Thì lúc đó chúng tôi sẽ quan tâm nhiều hơn đến các công ty xuất. Mà chúng tôi nghĩ là họ vẫn còn giữ được cái ưu thế cạnh tranh so với các cái đối thủ khác mà cũng xuất khẩu hàng hóa sang Mỹ chẳng hạn."
+    },
+    {
+      "block_id": 9,
+      "start": 1670.9,
+      "end": 1710.8,
+      "speaker": "speaker_01",
+      "text": "Đối với chúng tôi thì chúng tôi thật sự là đối với chiến lược đầu tư hay là triết lý đầu tư thì chúng tôi kết hợp giữa cả top down và bottom up. Top down thì chúng tôi nhìn về cái bức tranh vĩ mô. Định hướng chiến lược của nhà nước và các yếu tố bên ngoài là những cái ngành nào sẽ được hưởng lợi trong thời gian tới không phải là chỉ hiện tại mà nó thường thường đầu tư là nhìn về tương lai. Và trong những cái ngành đó thì chúng tôi bắt đầu chọn những cái công ty, những cái doanh nghiệp hàng đầu. Tuy nhiên cũng có những cái ngành chúng tôi không phải nằm trong cái gọi là prefer list. Có những công ty ngoài những ngành đấy nhưng họ stand out và nền tảng của họ rất là tốt và vị thế của họ thị trường rất là tốt thì chúng tôi cũng."
+    },
+    {
+      "block_id": 9,
+      "start": 1712.4,
+      "end": 1722.2,
+      "speaker": "speaker_01",
+      "text": "Đưa vào cái danh sách để mà đầu tư thì đấy là những cái gọi là chia sẻ về chiến lược đầu tư của phía UBAM."
+    },
+    {
+      "block_id": 10,
+      "start": 1723.4,
+      "end": 1765.1,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chị Lệ. Thì nhân chị Lệ có nhắc đến cái kịch bản. Tạm gọi là cơ sở về tariff mà hiện nay báo chí các anh chị có thể đọc trong tuần gần đây là cỡ khoảng một nửa, khoảng mức 46%, nghĩa là khoảng 23%. Thì anh hỏi anh với vai trò là một nhà đầu tư nước ngoài. Anh nhận xét như thế nào? Liệu có mức thuế 23%? Tất nhiên là cũng sẽ có sự thay đổi giữa các nhóm mặt hàng khác nhau. Nhưng liệu 23% có là mức khả thi hay không? Và với 2,3 phần trăm thì chúng ta gọi là positive surprise. Chắc là đã realize vào cái định giá của thị trường chứng khoán sau khi mà đã tăng lại từ cái mức giảm cú sụt vào tháng 4. Em xin mời anh."
+    },
+    {
+      "block_id": 10,
+      "start": 1766.5,
+      "end": 1820.3,
+      "speaker": "speaker_04",
+      "text": "Mình nghĩ là cái mức thuế thì mình cũng thống nhất với cái ý kiến của chị Lệ thì nó sẽ không có một cái mức thuế chung là. 20 hay 25 phần trăm cho tất cả các mặt hàng như bản thân chủng Tổng thống Trump thì cũng có nói rằng là cũng sẽ không đánh thuế để đưa những ngành sản xuất. Ví như là diệt may, giày dép. Rồi là gia công trở về nước Mỹ. Tại nhiên là mình nghĩ rằng là cái mức thuế đối với những ngành đó của Việt Nam mà lúc đấy nó cũng chiếm rất là lớn trong cái xuất khẩu Việt Nam. Khoảng từ 40-50% thì sẽ ở mức độ là vừa phải. Mình cũng không thể nói trước nó là bao nhiêu nhưng mà điều quan trọng. Nếu mà không bị thấp và không bị cao hơn các cái sản phẩm mà sản xuất từ các nước khác thì tính cạnh tranh của Việt Nam sẽ càng tốt. Và đối với cả những cái sản phẩm đó. Thậm chí nó lại sẽ là tích cực cho Việt Nam tại vì là."
+    },
+    {
+      "block_id": 10,
+      "start": 1821.2,
+      "end": 1837.5,
+      "speaker": "speaker_02",
+      "text": "Như Trump nói là không đưa các cái sản phẩm đó về sản xuất ở Mỹ và vẫn để ở các nước khác. Thì những cái cơ sở sản xuất ở những nước như của Việt Nam thì người ta cũng chẳng có lý do gì. Người ta đưa những cái sản xuất đó ra các nước khác cả. Mất rất là nhiều thời gian để làm và Việt Nam vẫn có những cái lợi thế cạnh tranh như vậy."
+    },
+    {
+      "block_id": 11,
+      "start": 1837.7,
+      "end": 1996.0,
+      "speaker": "speaker_04",
+      "text": "Và thậm chí mình nghĩ là còn có thể sẽ là tốt hơn tại vì một số các ngành sản xuất như vậy nó có thể đã dịch chuyển từ Trung Quốc mà tiếp tục dịch chuyển sang Việt Nam. Thì đấy là đối với cả những cái ngành sản xuất như diệt may, gia dày, gia công các thứ thì mình nghĩ sẽ là rất là tốt. Tuy nhiên cũng có một số những cái sản phẩm mà mình nghĩ sẽ là mức thuế cao hơn so với cả cái mức độ mà mọi người nói là khoảng 15-20% gì đó. Khiến cho là đồ điện tử, điện thoại, di động thì đó Trump cũng nói rất rõ là ngay bản thân Apple mà không đưa về Mỹ thì cũng bị đánh thuế thêm 20. Và Samsung hay là LG các thứ cũng sẽ bị đánh thuế cao. Thì cái đó là cái vấn đề là sẽ áp một cái mức thuế cao với tất cả các cái công ty mà làm về đồ điện tử và điện thoại di động ở ngoài Đông Mỹ. Thì mình cũng nghĩ là điều đó thì nó sẽ dẫn tới một cái là các cái công ty như chẳng hạn Samsung chẳng hạn họ đã sản xuất tại Việt Nam rồi mà nếu mức thuế ở các nước khác cũng không thấp hơn ở Việt Nam thì chẳng có lý do gì lấy đưa ra khỏi Việt Nam. Thì mình nghĩ rằng là như vậy thì trong trường hợp mà cái mức thuế ở Việt Nam nó không cao hơn so với các mức thuế khác. Cũng không di chuyển đi. Tuy nhiên là các doanh nghiệp nước ngoài như là Samsung hay LG thì họ có những lý do khác để họ chuyển. Dịch ra khỏi Việt Nam chứ không phải là vấn đề tariff ví dụ như là cái vấn đề là cái miễn thuế của chính phủ Việt Nam đối với cả những cái lĩnh vực đó trong vòng 10 năm qua thì có thể sau này sẽ không còn tiếp tục nữa thì mình cũng không biết là chính phủ có cân nhắc cái việc gia hạn hay không thì họ chuyển sang lý dụng các nước khác thì không phải là dọng về. Thuế nó cũng bị tăng lên mà do các nước khác đưa ra một cái điều kiện thuế thấp hơn. Thì đó là cái lý do mà mình nghĩ rằng là thứ nhất là sẽ không có một cái mức thuế chung đã vụng đối với Việt Nam mà nó sẽ có những mức thuế với hai ngành nghề. Đối với những cái hàng gia công và những đó thì mình nghĩ sẽ còn thậm chí sẽ còn tốt hơn còn những cái hàng điện tử các thứ thì cái đó nó phụ thuộc rất nhiều vào. Và đàm phán giữa Trump và các nước khác như là Hàn Quốc, Nhật Bản hay là bản thân với cả những doanh nghiệp của Mỹ về làm những. Thì còn những hàng nông nghiệp và hàng thủy sản thì mình nghĩ rằng là. Đó thì nó cũng lại xe theo mặt hàng và mình nghĩ rằng là nếu mà Việt Nam từ trước đến nay cái vấn đề mà gia nhậu tham gia vào thị trường Mỹ thì là. Mình nói nhiều đến cái vấn đề đó vì cái thị trường mỹ đó nó tương đối là dễ cho các doanh nghiệp Việt Nam để tham gia nhưng mà đây là một cái thời điểm rất là tốt cho các doanh nghiệp Việt Nam và bản thân bọn mình cũng có trao đổi với cả một số doanh nghiệp Việt Nam làm trong lĩnh vực. Nông nghiệp hải sản."
+    },
+    {
+      "block_id": 11,
+      "start": 1997.4,
+      "end": 2012.4,
+      "speaker": "speaker_04",
+      "text": "Rồi là thực phẩm các thứ tiếp tục bảo là tự dưng là bây giờ đi tìm các thị trường khác thì những thị trường khác thậm chí còn hay hơn thị trường của. Nếu như là họ có thể đa dạng được. Tất nhiên nó phải có thời gian để chuyển dịch. Nhưng mà nó lại là cơ hội cho các doanh nghiệp."
+    },
+    {
+      "block_id": 12,
+      "start": 2013.7,
+      "end": 2273.2,
+      "speaker": "speaker_04",
+      "text": "Nên mình tương đối là thận trọng lạc quan trong cái vấn đề là thuế của Mỹ áp đặt với Việt Nam và một lý do. Mà mình cũng nghĩ là như vậy. Vì là mình trên cơ sở một số cái nhận định về cái chính quyền của Trump thứ nhất là Trump thì bản thân cá nhân ông ta. Thì có một cái thiện trí đối với Việt Nam ngay cả từ trong nhiệm kỳ đầu tiên được sang Việt Nam. Ba lần. Đấy. Và khi mà nói cái tuyên bố thuế với Việt Nam là 46% thì ông câu đầu tiên ông nói là ông rất là yêu Việt Nam. Nhưng ông vẫn phải thuế 46%, nhưng việc ông nói đó thì thực ra thì không phải đối với Việt Nam. Cả những nước mà ông cũng rất yêu hoặc là ông cũng bình thường nhưng mà ông đều áp dụng cái mức thuế mà tất cả mọi người đều rất là bất ngờ. Đó là cá nhân Trump. Thứ hai nữa là. Quan hệ đối tác chiến lược toàn diện của Việt Nam với Mỹ thì có những cái mà các doanh nghiệp Việt Nam và các doanh nghiệp Mỹ cũng sẽ được. Cái quan hệ chiến lược đó chắc là mọi người cũng đều biết rằng là các cái doanh nghiệp Mỹ ví dụ như là Trump Organization thì vừa xong là có cái dự án. Ở Hưng Yên 1 tỷ rưỡi sắp tới lại có dự án ở Thủ Thiêm một loạt các dự án của các tập đoàn về năng lượng, tái tạo. Các thứ thì sẽ có cơ hội mở ra và có thể có những cái được những cái ưu đại hơn trong cái vấn đề tại Việt Nam. Thì đấy là cái lợi ích mà cho bản thân các công ty Mỹ đầu tư vào Việt Nam. Thứ hai nữa rằng là một thứ ba nữa rằng là rất nhiều các sản phẩm Việt Nam như mình nói. Trump cũng đã xác nhận lại đó là những cái sản phẩm đó là nước Mỹ không muốn đưa về Việt Nam và bản thân là những nước mà đưa sang Việt Nam để mà sản xuất, dịch chuyển từ Trung Quốc sang Việt Nam. Ý đồ chiến lược của Trump là đưa những sản xuất ra khỏi Trung Quốc sang các nước khác mà họ thành nhiên là bản thân các doanh nghiệp Mỹ bây giờ họ cũng đang nói là tại sao lúc đó thì tôi thực hiện theo. Cái định hướng chiến lược của Trump trong vấn đề đưa các cái sản xuất đó sang một nước thứ ba mà Việt Nam trở nên là một cái nước rất lý tưởng để làm việc đó thì nay lại phải chịu về những cái chính sách thuế mới thì cái điều việc đó thì. Chắc mọi người cũng biết rằng là các cái phòng thương mại và công nghiệp Mỹ rồi là hội đồng thương mại Asia cũng đang đưa ra cái vấn đề là đối với cả những nước như Việt Nam thì vẫn phải có những cái sự tôn trọng trong cái vấn đề là định hướng chứng liệt của Mỹ đối với Việt Nam. Một điểm. Cuối cùng nữa thì mình nghĩ rằng là. Về mặt. Về chính trị thì. Cũng không muốn nhìn thấy Việt Nam sẽ yếu đi trong tương lai vì cái quan hệ đối tác chiến lược của Việt Nam với cả Mỹ thì cũng có lợi cho không phải cho Việt Nam và cả Mỹ mà các nước ở trong. Cái sự ổn định chung thì mình nghĩ đó là một cái lợi ích chiến lược của Mỹ thì mình nghĩ đó là cái tốt cho tất cả các nước. Cái việc ổn định của kinh tế Việt Nam cũng sẽ dẫn tới cái sự ổn định kinh tế ở khu vực thì đó là một cái nguyên nguyên cho tất cả mọi người đều được hưởng từ cái vấn. Nên là lý do mình nói rằng là thuế thì sẽ chắc là sẽ không thấp như trước đây. Nhưng mà sẽ không đến nỗi là mọi người phải. Nữ rằng là thậm chí rằng mình nhìn thấy nhiều yếu tố tích cực hơn nếu như là Việt Nam đạt được cái thỏa thuận thuế với cả Mỹ trong thời gian sắp. Và mọi người cũng biết rằng là trong những đối tác đàm phán với cả Mỹ thì họ chọn Hàn Quốc và Nhật Bản đầu tiên để đàm phán. Bây giờ họ cũng không đạt được thỏa thuận anh thì đạt được một cái khung nhưng mà thực ra anh thì là nước xuất siêu đối với Mỹ. Thì thành ra là hiện bây giờ nó cần phải tìm một cái đối tác đàm phán để chứng minh rằng cái học thuyết. Tariff của Trump, cái nghệ thuật đàm phán của Trump đạt được một kết quả cụ thể nào đó thì bây giờ chỉ có Việt Nam và Ấn Độ là hai nước có thể gần nhất mà thậm chí Ấn Độ thì có lẽ sẽ không nhanh bằng Việt Nam thì có thể họ sẽ chọn Việt Nam sẽ là một cái case, một cái case thành công. Một cái trường hợp đàm phán thành công và chứng minh cho là cái học thuyết đàm phán và cái học thuyết thương mại của Trump là thành công thì điều đó thậm chí lại sẽ là rất là. Một cái xem cái hình ảnh trong mọi người thấy rằng là nếu như một cái đối."
+    },
+    {
+      "block_id": 13,
+      "start": 2274.6,
+      "end": 2293.8,
+      "speaker": "speaker_04",
+      "text": "Thiện trí như vậy, phối hợp như vậy thì sẽ có những cái mức thuế quan mà phù hợp, như là mọi người tất cả đều là rất là. Đợi chờ cái việc đó, nhưng mình nghĩ việc đó nó sẽ đến ở cái mức độ mà mình nghĩ sẽ không đến nỗi phải bi quan nhưng mà mọi người vẫn có thể lo lắng đến từ giờ."
+    },
+    {
+      "block_id": 13,
+      "start": 2298.0,
+      "end": 2320.2,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chia sẻ của anh Hoài Anh. Em xin tổng kết về mặt quan điểm của anh Hoài Anh về chính sách mới tới của Trump là lạc quan song thận trọng. Hy vọng là chúng ta. Những cái tin vui hoặc là ít nhất là tin tích cực hoặc là ít nhất nữa là những tin mà chúng ta đã dự đoán về cái chính sách thuế mới của Trump áp dụng cho Việt Nam. Xin quay trở lại về diễn biến thị trường."
+    },
+    {
+      "block_id": 13,
+      "start": 2321.8,
+      "end": 2343.9,
+      "speaker": "speaker_03",
+      "text": "Câu này, chắc là em xin phép để hỏi tiếp anh Hoài Anh. Yêu tiên anh ngồi gần. Anh Hoài Anh ạ, trong 4 tháng đầu. Tổng khối lượng bán dòng nhà đầu tư nước ngoài Việt Nam khoảng 42 ngàn tỷ vẫn tiếp tục xu hướng bán dòng trong vòng mấy năm hiện nay. Tuy nhiên là tháng 5 thì có một số phiên. Đến giữa tháng năm thì cái xu hướng bán dòng này nó có xu hướng đảo."
+    },
+    {
+      "block_id": 13,
+      "start": 2345.4,
+      "end": 2358.2,
+      "speaker": "speaker_03",
+      "text": "Như vậy là liệu với trong một cái bối cảnh vĩ mô rất là thế giới rất là bất định và khó đoán như hiện nay thì liệu Việt Nam có trở thành một cái điểm sáng hơn để cho nhà đầu tư nước ngoài đảo. Chính sách bán dòng mà đã duy trì rất là lâu hiện nay."
+    },
+    {
+      "block_id": 14,
+      "start": 2359.7,
+      "end": 2709.8,
+      "speaker": "speaker_04",
+      "text": "Vì là quỹ của mình thì là đầu tư trung và dài hạn tức là từ 3 năm trở lên và số lượng lớn là khoảng 150-200 triệu một cái đầu tư. Thành nhiên là mình cũng rất là. Khó đưa ra cái nhận định về các cái nhà đầu tư mà mua bán cổ phiếu trên sàn chứng khoán hàng ngày hoặc là giao dịch trong thời gian 6 tháng đến 1 năm nhưng mà mình nghĩ rằng là có một số cái điểm mà mọi người cũng cân nhắc về cái. Vấn đề là cái cổ phiếu của Việt Nam trên thị trường thế nào so sánh với cả các nước xung quanh và đồng thời quan tâm của các nhà đầu tư đối với thị trường Việt Nam thứ nhất rằng là những cái cổ phiếu mà sẽ nhà đầu tư. Thì một số đã nói ví dụ như là cổ phiếu với cái tăng trưởng tiến dụng của ngân hàng của 16% năm nay. Là các cổ phiếu ngân hàng thì chắc chắn là sẽ rất là tốt mình chỉ nói những cái gì mà. Ví dụ như là HD Bank là cái ngân hàng mình đầu tư vào và thời điểm mình đầu tư là khoảng 2020. Tức là thời điểm rất là khó khăn, thời điểm bắt đầu Covid. Thì đến bây giờ thì bọn mình tính lại cũng rất là thành công. Sau 4 năm thì cũng tăng khoảng 100%. Và nếu nhìn về mặt là cái cổ phiếu của HD Bank chẳng hạn thì là tăng trưởng về lợi nhuận trước thuế của họ là 30% 1 năm, tỷ suất AOE của họ là khoảng 29% 1 năm. Sắp tới thì với cái cả những cái triển vọng của HD Bank ví dụ như là họ có cái co banking mới. Họ có cái việc sát nhập của ngân hàng Đông Á, rồi là tìm nhà đầu tư chiến lược, nâng cái room đầu tư lên 49% thì thoại thị hiện nay chắc là mọi người đều biết rằng là. Trên cái hoạt động hợp đồng quản trị thì cũng đưa ra cái phương án là tìm nhà đầu tư chiến lược và hiện bây giờ có rất nhiều nhà đầu tư chiến lược quan tâm đến. HDB và đồng thời quan tâm đến các ngân hàng ở Việt Nam hay là ví dụ như là ngân hàng của Việt Công Bán để mình cũng tham gia từ thời điểm là bắt đầu cổ phần hóa sau đó thì đưa các nhà đầu tư. Cái chiến lược vòng 1 là Mizuho sau đó là GIC cùng sau đó là vòng 2 tiếp tục là Mizuho tăng vốn và GIC tiếp tục đầu tư và Bankers' Surround thì. Mặc dù là ngân hàng Vietcombank thì được luôn luôn giao dịch ở cái PB tức là rất là cao, khoảng 3 lần, thậm chí là có lúc 4 lần. Nhưng tất cả các nhà đầu tư đầu tư vào Vietcombank thì đều rất là thành công và rất là. Thì do sao là vì họ có đội ngũ quản lý rất là. Rất nhiều những cái mặt mạnh về vấn đề về quản lý cái lượng ngoại hối. Quản lý về các doanh nghiệp lớn tại Việt Công Bank tương tự như vậy thôi thì các ngân hàng như ngân hàng quân đội ngân hàng tích. Thì mình nghĩ sắp tới là cái. VP Bank họ cũng sẽ là tốt. Thế nên mình nghĩ là cổ phiếu của. À, xin lỗi, cổ hiến của các ngân hàng trong thời gian tới thì chắc là sẽ là rất là. Vì mình đã thấy rằng là ngay cả bán dân lúc khó khăn nhất cũng như là lúc mà tất nhiên thuận lợi thì không làm gì thì đều rất là tốt và trung bình. Như là bọn mình đầu tư Hardbank thì mỗi năm là lợi nhuận tăng khoảng 20%. Hai nữa là đối với các cổ phiếu khác như mọi người đã nói, như là liên quan cơ sở hạ tầng, xây dựng các thứ v.v. Và một điều nữa mọi người cũng ít nói tới đó là cổ phiếu trực quan tại vì sắp tới là. Với cái lượng tiền lớn như vậy ra thị trường như vậy, với tăng trưởng tốt như vậy của doanh nghiệp thì mình nghĩ rằng là sẽ có một lượng tiền sẽ tiếp tục đầu tư vào thị trường chứng khoán. Và như vậy thì cổ phiếu của chứng khoán cũng sẽ tiếp tục sẽ rất là tốt. Thành nhiên là mình rất là khó nói rằng là một cái. Trong vòng 6 tháng đến 1 năm tới thì cái lượng tiền của nhà đầu tư quay lại Việt Nam như thế nào? Mà mình tin rằng là nó sẽ tiếp tục vào những cái cổ phiếu. Đối với cả thị trường thì mình nghĩ rằng là sẽ không có nhiều thay đổi lớn, ví dụ vì mấy điểm. Thứ nhất là cái chi phí vốn ở Việt Nam và huy động vốn trên thị trường thế giới bây giờ vẫn là rất là cao. Lãi suất cơ bản vẫn là khoảng 4.5 đến 5%. Thì việc đầu tư vào Việt Nam mà cái mức lợi nhuận của nó ít nhất là nó phải. 20 đến 20% một năm thì nó mới bù đắp được cho cái vấn đề là chi phí vốn mà đồng đô cũng như là cái trượt giá của đồng. Để đạt được thứ hai nữa là cái lượng tiền đầu tư vào Mỹ trong những năm vừa xong rất là thành công nếu như ai đầu tư vào cổ phiếu Mỹ thì đều biết. Và theo dõi thị trường chứng khoán Mỹ thì không phải cần vào cổ phiếu cụ thể như là NVDA chẳng hạn thì trong vòng 5 năm vừa xong thì nó tăng khoảng 2000% nhưng mà chỉ cần. Ở thị trường Việt Nam thì là cổ phiếu là vẫn lanh quanh 1.2 từ cách đây 10 năm và hy vọng rằng là sau tương lai sẽ tăng lên. Thì nhà đầu tư nước ngoài thì họ không phải chỉ đầu tư về Việt Nam nhưng mà họ sẽ đầu tư vào các thị trường khác thì nếu như là. Cái tỷ suất lợi nhuận của các doanh nghiệp Việt Nam không tăng, tăng trưởng của các doanh nghiệp Việt Nam không tăng thì cái khả năng thu hút các nhà đầu tư quay trở lại thị trường Việt Nam rất là khó. Mặc dù là điều kiện kinh tế vĩ mô rất là tốt, rất là thuận lợi tại vì họ còn có những cái cơ hội đầu tư các cái thị trường khác mà cái tỷ suất lợi nhuận của họ cao hơn ví dụ như thị trường Mỹ."
+    },
+    {
+      "block_id": 15,
+      "start": 2713.0,
+      "end": 2738.8,
+      "speaker": "speaker_03",
+      "text": "Cái câu chuyện mà cơ hội chi phí cơ hội đầu tư của các nhà đầu tư nước ngoài trên thị trường thế giới thì chắc là em xin phép hỏi chị Lệ một câu bởi vì anh Hoài Anh có nhắc đến định giá của thị trường Việt Nam. Thì theo quan điểm của chị định giá thị trường Việt Nam so với các thị trường mà có thể so sánh được. Chắc là thời gian lời lượng chương trình có hạn em cũng xin phép cho anh chị trả lời nha anh. Định giá thị trường Việt Nam so với cái thị trường so sánh, thị trường cận biên, thị trường mới nồi và thị trường phát triển trên thế giới như thế nào? Yếu có hấp dẫn với nhà đầu tư"
+    },
+    {
+      "block_id": 15,
+      "start": 2739.7,
+      "end": 2878.2,
+      "speaker": "speaker_01",
+      "text": "Chị nghĩ là chị cũng muốn bổ sung thêm một chút cái phần câu hỏi mà em dành cho anh Hoài Anh. Thì thật ra cái dòng vốn nước ngoài vào Việt Nam nó không chỉ bị tác động bởi bản thân thị trường Việt Nam. Mà như anh Hoài Anh đã nói là nhà đầu tư nước ngoài, nhất là những cái định chế tài chính lớn. Khi người ta đầu tư là người ta có cái chiến lược toàn cầu, người ta sẽ khoan vùng là người ta muốn tập trung vào những cái khu vực nào. Và thường thì trong giới đầu tư thì họ chia ra là Developed Markets, Emerging Markets và Frontier Markets. Thì năm ngoái rõ ràng là những cái cổ phiếu công nghệ ở Mỹ người ta có cái gọi là Magnificent Seven tức là 7 cái cổ phiếu công nghệ lớn nhất. Thì rõ ràng năm ngoái là MAC7 ở Mỹ là cái gọi là hiệu suất đầu tư nó quá tuyệt vời. Và thứ hai là mặt bằng chung thì cái tỷ suất lợi nhuận của Mỹ như là anh Hải có chia sẻ trong cái phần một là cái risk free đã đạt 5%. Và đối với nhà đầu tư khi đầu tư vào những cái thị trường cận biên như Việt Nam thì vấn đề tỷ giá luôn luôn là một trong những cái concern chính và khi đầu tư vào Mỹ thì họ không có bị cái concern. Cho nên là đối với nhà đầu tư nước ngoài khi nhìn vào thị trường Việt Nam thì chúng ta không thể nói tất nhiên định giá hấp dẫn là một yếu tố nhưng nó không phải là tất cả. Người ta nhìn vào những yếu tố khác cũng quan trọng. Và tất cả những cái đó nó phản ánh vào hiệu suất cuối cùng. Cho nên là hiện tại thì tôi nghĩ là sau cái ngày 2 tháng 4 khi ông Trầm ông tuyên bố cái mức thuế đối ứng. Và thị trường Việt Nam đảm sâu thì rõ ràng là chúng ta thấy sau đó là bắt đầu có cái nhà đầu tư tức là net buy từ nhà đầu tư nước ngoài vào thị trường Việt Nam nhưng. Để nói là cái khuynh hướng này nó sẽ kéo dài trong thời gian tới thì thật sự chúng tôi cũng chưa đủ can đảm để mà đưa ra cái khẳng định. Tại vì thật ra thì nó có thể chỉ là những cái mang tính chất cơ hội trong cái thời điểm hiện tại khi mà vẫn còn nhiều những cái yếu tố bất ổn và moving. Cho nên để xem là cái dòng vốn nước ngoài có thực sự là quay trở lại Việt Nam sau khi đã bán ròng khám mạnh trong năm 2024 và trong quý 1. Thì tôi nghĩ là cũng phải chờ đợi thêm vài tháng nhất là sau khi có cái kết quả cuối cùng về đàm phán thương mại giữa Mỹ và Việt Nam và tất cả các nước liên quan."
+    },
+    {
+      "block_id": 16,
+      "start": 2881.1,
+      "end": 2937.7,
+      "speaker": "speaker_01",
+      "text": "Ở góc độ của chúng tôi khi mà tiếp cận với những nhà đầu tư nước ngoài đầu tư vào Việt Nam. Thì hầu hết đều có một cái tin tưởng vào cái câu chuyện long thơm của kinh tế Việt Nam. Họ nhìn vào nước chúng ta. Trăm triệu dân số 100 triệu người trẻ tiêu thụ nội địa mạnh và như là anh Hoài Anh có nói là thật ra Việt Nam. Một cái vai trò mang tính chiến lược trong khu vực cho nên là nó không chỉ là nhìn ở góc độ về kinh tế hay thương mại nó còn về chính trị. Cho nên là Mỹ tôi nghĩ là khi mà đàm phán với Việt Nam thì người ta cân nhắc tất cả yếu tố đấy chứ không đơn thuần chỉ là vấn đề về thương mại. Để trả lời câu hỏi của em là nhà đầu tư nước ngoài có quay lại nhiều trong thời gian tới thì thật sự tôi. Ở thời điểm này tôi cũng chưa thể đưa ra cho em một cái khẳng định."
+    },
+    {
+      "block_id": 17,
+      "start": 3006.6,
+      "end": 3499.3,
+      "speaker": "speaker_00",
+      "text": "Cảm ơn câu hỏi của Chịu. Thì thật ra thì Chịu có nhắc đến cái vấn đề gọi là khủng hoảng năm 2022. Thì nếu mà. Về số liệu thì so cái số liệu trước cái cuộc khủng hoảng đấy thì thực ra bây giờ kể cả đến 2024 và đến 5 tháng năm 2025 thì đâu đấy. 2024 mới cái tỷ lệ phát hành sơ cấp nó mới chỉ được hơn một nửa so với cái thời điểm cao. Đấy là cái thứ nhất về mặt số liệu. Và đến 5 tháng đầu năm nay thì nó cũng rất là trầm lắng mặc dù gọi là phục hồi so với thời điểm năm 22. Thì cái vấn đề nó nằm ở đâu thì nó ngoài cái vấn đề lòng tin là của thị trường khi mà đã bị khủng hoảng như vậy rồi thì thực ra. Quan điểm của tôi là cái việc vấn đề lòng tin đã được gọi là chính phủ với các chính sách và bản thân nhà đầu tư sau cái cũ ngã. Đã khá là tỉnh táo hơn rất là nhiều rồi. Và bản thân các cái chính sách của. Ủa của ủy ban chứng khoán rồi bộ tài chính. Để siết chặt cái việc quản lý. Thì khá là tốt trong cái việc là lọc ra những cái kênh nào là kênh công chúng, kênh nào là kênh phát hành riêng lẻ và có những cái. Thì đấy là về mặt lòng tin thì đâu đó nó phục hồi được một chút. Nhưng mà về mặt cấu trúc thì lại đang có vấn đề. Cái vấn đề này chắc là em cũng xin phép. Có anh Hiếu đây anh cũng mới nhắc ở phiên 1 là đang thảo luận về vấn đề trái phiếu doanh nghiệp thì em cũng xin phép là trả lời tức là đề xuất luôn tức là. Đối với nếu mà mình nhìn về capital market tức là toàn bộ dòng vốn của nền kinh tế thì hai cái dòng. Thì hiện nay là Việt Nam dựa rất nhiều vào ngân hàng đúng không ạ? Doanh nghiệp tư nhân nữa thứ là vào ngân hàng. Thứ hai mà chính phủ đặc biệt là bộ tài chính rất kỳ vọng là phát triển được cái thị trường vốn mà thị trường vốn ai là lớn nhất sau ngân hàng thì thực ra là khối doanh nghiệp bảo hiểm. Mà kể cả các thống kê của ủy ban chứng khoán trong các quỹ đang quản lý nguồn tiền. Thì phải thật sự là hơn 70% đó là nguồn tiền của bảo hiểm. Tuy nhiên là ở đây là có cái vấn đề về chính sách giữa. Bộ tài chính và ngân hàng nhà nước nó đang không xuyên suốt. Ở đây em có mấy cái đề cập như thế này. Thứ nhất là đối với bảo hiểm là một cái nguồn đối với em là. Quỹ của PVI thì nó là bảo hiểm phi nhân thọ thì nó ngắn hơn. Nhưng thực ra dòng tiền trên thị trường là nhiều của các cái quỹ bảo hiểm nhân. Thì cái dòng tiền họ rất là dài hạn và ổn định và cái chi phí vốn nếu như mà cung cấp được ra cho các cái doanh nghiệp. Thông qua thị trường vốn và đặc biệt là trái phiếu thì đâu đó nó cũng sẽ giúp cho doanh nghiệp rất là nhiều nhưng mà nó đang bị mấy cái quy định. Thứ nhất là đối với quy định, đối với đầu tư của các doanh nghiệp bảo hiểm là đang không cho phép doanh nghiệp được đầu tư vào các trái. Mà là tái cấu trúc nợ. Thế thì nó có một cái bất cập là. Bộ tài chính đã nhìn nhận ở góc độ là. Doanh nghiệp bảo hiểm thì phải đầu tư vào những cái tài sản. Thì mọi người đang nhìn nhận là tái cấu trúc nợ là xấu. Nhưng thực ra không phải. Tất cả tài công chức độ. Vì thực ra cái định nghĩa tài công chức nợ gì. Nó refinance. Thì ở thị trường Việt Nam nó đang bất cập là vì là thị trường trái phiếu nó không có thanh khoản này rồi nhà đầu tư cũng rất là. Vẫn còn sợ cái vấn đề về trái phiếu đâm ra hầu hết các kỷ hạn trái phiếu nó chỉ là 3 năm 5 năm cùng lắm là các cái trái phiếu mà tiêu thu của ngân hàng mới lên được. Thế thì bây giờ rõ ràng một cái kỳ của một cái dự án nếu mà chỉ là bất động sản thôi, em nói thật là nó phải 7 năm đến 10 năm rồi nếu như mà là. Là phải mấy chục năm. Thế thì bây giờ rõ ràng giữa cái mặt nhà đầu tư cái lòng tin người ta chưa đủ để người ta đi dài đến như thế thì doanh nghiệp muốn thu hút vốn người ta cũng chỉ. Để mà thành công người ta chỉ dám issue đến 5 năm thôi. Thế mà bây giờ lại chặn luôn cái đường là anh không được đầu tư cái khúc. Tức là một cái dự án tệ nhất là 7 năm hay 10 năm thì bây giờ gọi là doanh nghiệp người ta cũng sợ các doanh nghiệp bảo hiểm họ gây bỏ em là đại diện là quỹ đầu tư đi đầu tư cho doanh. Dám đầu tư đến 5 năm thôi quá sợ lắm. Thế thì nó vênh giữa bên cầu và bên cung. Và khi mà lại bị. Nó quy định là không được đầu tư vào cái tái cấu trúc như thế thế là dẫn đến một việc là làm được đúng cái vòng đầu thôi tức xong doanh nghiệp. Trả được 5 năm cho mình nhưng mình không được đi đầu tư tiếp. Mặc dù dự án đấy vẫn tốt. Doanh nghiệp đấy vẫn tốt. Nhưng không được đầu tư. Thế là nó tự nhiên nó chặn nguồn ở phía bảo hiểm. Không tài trợ được vào trong cái thị trường vốn. Đấy là cái vấn đề thứ nhất. Cái vấn đề thứ hai mà. Thực ra bây giờ các doanh nghiệp bất động sản. Họ cũng sợ làm phát hành trái. Đi gặp tất cả những cái top doanh nghiệp bất động sản mà tốt nhất trên thị trường để mà em làm việc thậm chí mình gọi là sẵn sàng ngồi cấu. Làm sao ra một cái gói trái phiếu nó đáp ứng nhu cầu của doanh nghiệp cũng như là gọi là khớp với cái khẩu vị rủi ro của bên quỹ đầu tư mà bên bảo hiểm. Thì nó lại gặp một vấn đề là bây giờ cái quy định về trái phiếu do xít chặt. Thế lại quy định là ngày xưa nó còn có là tài trợ bốn lưu động này thì bây giờ chỉ được tài trợ vào đúng dự án. Công ty bất động sản thì họ lại đang là. Thông thường họ sẽ phải đặt mỗi một dự án là một cái công ty con ở. Thì bây giờ quy định mà gọi là tài trợ dự án có nghĩa là dự án đó phải nằm luôn công ty mẹ. Thế nhưng mà cách cấu trúc của các cái công ty bất động sản thì họ thường là để xuống công ty con và họ phát hành trái phiếu để muốn góp vốn vào cái công ty con thì cũng là tài trợ dự án. Thế nhưng bây giờ cái định nghĩa đấy nó đang bị gọi là nó khấp khiển và dưới cái cách nhìn của cơ quan. Khi xét diệp hồ sơ lại đang bảo là đấy không phải là tài trợ dự án mà đấy là đi góp vốn thì lại chưa chắc đã được dùng vào cái mục đích sử dụng vốn đấy. Đấy. Và một cái vấn đề nữa mà nó nằm ở cái việc là từ mùng 1 tháng 7 năm ngoái thì là ngân hàng nhà nước. Thì lại có một cái quy định mà làm cho là các cái ngân hàng thương. Thì lại đâu đó là hiểu được là không được tham gia quản lý tài sản đảm bảo cho các cái gói phát hành trái. Thế là từ mùng 1 tháng 7 năm ngoài đến giờ thì thực sự là bọn em cũng rất khó để mà đầu tư bởi vì lúc đấy thì chỉ còn là trái phiếu hoặc là. Không có cái tài sản đảm bảo gì hoặc là trái phiếu mà coi như là đảm bảo bằng cổ phiếu thế ra là những cái hình thức đấy nó rất rủi ro. Thì bây giờ nếu như không cho ông ngân hàng nào thì ai làm thì bộ tài chính phải có một cái ban hành là bây giờ cho phép ai làm cái đó chứ bây giờ nó để chống cả một cái hành lang. Rất là khó cho cả doanh nghiệp lẫn nhà đầu tư. Nên thật sự là cái sụt giảm của cái thị trường trái chiếu đấy nó không phải chỉ là phần lòng tin. Lòng tin nó đã khôi phục được rồi. Bởi vì bản chất các nhà đầu tư tổ chức như quỹ đầu tư hay là doanh nghiệp bảo hiểm. Họ là những nhà đầu tư chuyên nghiệp, họ hoàn toàn có đủ năng lực, họ đánh giá. Thế nhưng mà bây giờ nó lại đang về vấn đề gọi là cấu trúc của thị trường và dẫn đến cái việc là hồi xưa các doanh nghiệp bất động sản thì thông thường là cái cấu trúc phát hành trái phiếu. Là nó đang là thường thường là một phần ba sẽ là ngân hàng, một phần ba bất động sản, còn lại là các ông khác. Thế nhưng bây giờ 77%. Là ngân hàng thì cuối cùng bọn em còn lại là lại đi bơm vốn bằng trái phiếu cho ông ngân hàng. Thế thì nó lại không còn một cái mục đích chung của cả chính phủ là muốn phát triển cái thị trường vốn. Và bây giờ lại cứ như bảo hiểm chẳng có cái gì để mua thì lại quay ra phải mua trái phiếu ngân hàng. Đấy thì nó là một cái bất cập mà thực sự là bây giờ hiện tại nó đang là như thế. Và nếu mà nói xét về góc độ là kênh đầu tư trái phiếu thì thực ra đối với các nhà đầu tư nó vẫn là một cái. Nếu ở các thị trường khác nó kênh cũng rất là lớn so với cả cổ phiếu nhưng ở thị trường mình thì nó bị những cái khủng hoảng niềm tin, nó bị những cái vấn đề cấu trúc nó chưa hoàn thiện. Kể cả những vấn đề về định mức tín nhiệm nó cũng chưa, chưa ấy vào vấn đề thanh khoản nữa thì thực sự là đối với nhà đầu tư tổ chức đã khó khăn. Đối với nhà đầu tư cá nhân thì cũng rất là khó tham gia nên thực sự thì nó vẫn là kênh an toàn và nó ổn định so với cổ. Cái lời khuyên nếu mà hỏi đối với nhà đầu tư cá nhân thì nên là đầu tư qua quỹ thì người ta sẽ có đủ năng lực giúp thẩm định. Thì đấy là cái phần trả lời của tôi."
+    },
+    {
+      "block_id": 18,
+      "start": 3499.3,
+      "end": 3577.2,
+      "speaker": "speaker_03",
+      "text": "Cảm ơn chia sẻ của chị Giao. Thì thực ra là với vai trò là một cái đơn vị mà làm IB trên thị trường. Thì em cũng rất là chia sẻ về những cái quan điểm của chị Giao. Về những cái hạn chế về mặt luật pháp khi mà phát hành trái phiếu. Cũng chia sẻ luôn với anh chị là nhiều khi bọn em đi gặp doanh nghiệp. Thì doanh nghiệp sẽ bảo là làm trái phiếu để làm gì. Bởi vì thực ra trong điều kiện tiến dụng. Ví dụ như 6 tháng đầu năm rất là dư thừa. Như hiện nay các ngân hàng chào mời. Tại sao phải đi làm trái phiếu để suốt ngày thanh kiểm tra báo cáo. Vì cơ chế thanh kiểm tra báo cáo trái phiếu chiều khi còn mệt mỏi hơn báo cáo khoản vay trong ngân hàng rất là nhiều chị Giao có nhắc đến là trái phiếu cơ cấu. Thì có một cái độ lệch rất là lớn giữa chính sách và thực tế. Chính sách thì bộ tài chính cho phép doanh nghiệp phát hành trái phiếu với mục đích cơ cấu nợ. Nhưng mà theo luật thì là ngân hàng, tức là những cái key player trên thị trường thì gồm chỉ có ngân hàng, công ty bảo hiểm, quỹ đầu tư. Và khách hàng cá nhân thì ngân hàng không được đầu tư khách hàng trái phiếu tài cơ cấu công ty bảo hiểm cũng không được đầu tư trái phiếu tài cơ cấu như vậy là thực ra cuối cùng. Thành ra mình đẩy cái rủi ro cho nhà đầu tư cá nhân. Thì em cũng rất là hy vọng là với những cái chia sẻ của anh Hiếu về mặt là thể chế, cởi trói, bỏ đi những cái chính. Gọi không quản lý được thì cấm thì chúng ta sẽ có một cái thị trường trái phiếu doanh nghiệp phát triển hơn, minh bạch hơn, bền vững hơn. Vâng, em xin phép."
+    },
+    {
+      "block_id": 18,
+      "start": 3579.2,
+      "end": 3592.1,
+      "speaker": "speaker_03",
+      "text": "Dừng cái cuộc trao đổi của cái phiên thảo luận thứ hai về các kênh đầu tư trong thị trường đầy biến động. Hy vọng là các nhà đầu tư trong hội trường chúng ta cũng thu được những cái thông tin rất là hữu ích trong cái chiến lược đầu tư và phân bổ tài sản."
+    }
+  ],
+  "debug": {
+    "blocks": [
+      {
+        "block_id": 0,
+        "start": 0.0,
+        "end": 175.8,
+        "duration": 175.8,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 1,
+        "start": 177.6,
+        "end": 309.8,
+        "duration": 132.20000000000002,
+        "is_transition_heavy": false,
+        "num_segments": 2
+      },
+      {
+        "block_id": 2,
+        "start": 311.4,
+        "end": 455.5,
+        "duration": 144.10000000000002,
+        "is_transition_heavy": true,
+        "num_segments": 2
+      },
+      {
+        "block_id": 3,
+        "start": 459.3,
+        "end": 687.8,
+        "duration": 228.49999999999994,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 4,
+        "start": 689.7,
+        "end": 820.1,
+        "duration": 130.39999999999998,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 5,
+        "start": 821.6,
+        "end": 1052.3,
+        "duration": 230.69999999999993,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 6,
+        "start": 1054.8,
+        "end": 1092.9,
+        "duration": 38.100000000000136,
+        "is_transition_heavy": false,
+        "num_segments": 2
+      },
+      {
+        "block_id": 7,
+        "start": 1093.9,
+        "end": 1373.4,
+        "duration": 279.5,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 8,
+        "start": 1375.5,
+        "end": 1546.1,
+        "duration": 170.5999999999999,
+        "is_transition_heavy": false,
+        "num_segments": 5
+      },
+      {
+        "block_id": 9,
+        "start": 1547.3,
+        "end": 1722.2,
+        "duration": 174.9000000000001,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 10,
+        "start": 1723.4,
+        "end": 1837.5,
+        "duration": 114.09999999999991,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 11,
+        "start": 1837.7,
+        "end": 2012.4,
+        "duration": 174.70000000000005,
+        "is_transition_heavy": false,
+        "num_segments": 2
+      },
+      {
+        "block_id": 12,
+        "start": 2013.7,
+        "end": 2273.2,
+        "duration": 259.4999999999998,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 13,
+        "start": 2274.6,
+        "end": 2358.2,
+        "duration": 83.59999999999991,
+        "is_transition_heavy": false,
+        "num_segments": 4
+      },
+      {
+        "block_id": 14,
+        "start": 2359.7,
+        "end": 2709.8,
+        "duration": 350.10000000000036,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 15,
+        "start": 2713.0,
+        "end": 2878.2,
+        "duration": 165.19999999999982,
+        "is_transition_heavy": false,
+        "num_segments": 2
+      },
+      {
+        "block_id": 16,
+        "start": 2881.1,
+        "end": 3004.4,
+        "duration": 123.30000000000018,
+        "is_transition_heavy": false,
+        "num_segments": 3
+      },
+      {
+        "block_id": 17,
+        "start": 3006.6,
+        "end": 3499.3,
+        "duration": 492.7000000000003,
+        "is_transition_heavy": false,
+        "num_segments": 1
+      },
+      {
+        "block_id": 18,
+        "start": 3499.3,
+        "end": 3592.1,
+        "duration": 92.79999999999973,
+        "is_transition_heavy": false,
+        "num_segments": 2
+      }
+    ],
+    "block_summaries": [
+      {
+        "block_id": 0,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Chúng ta vừa khép lại phiên thảo luận thứ nhất. Chắc là tôi cũng xin phép tóm tắt sơ. Có lẽ là từ mạnh mẽ và quyết liệt là những từ khóa mà được nhắc đến nhiều nhất trong phiên thả"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 1,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Cảm ơn chia sẻ của chị Lệ. Xin hỏi chị Giao với cũng là tư cách một tổng giám đốc một quỹ đầu tư thì quan điểm chị có đồng ý với quan điểm thận trọng của chị Lệ."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                177.6,
+                186.6
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_00",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                188.1,
+                309.8
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                177.6,
+                309.8
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 2,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Khi mà bọn tôi đánh giá các doanh nghiệp ngoài những vấn đề liên quan đến là các chính sách thuế đấy sẽ ảnh hưởng đến ngành nghề nào, đến doanh nghiệp nào để mình thực sự là mình. "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_00",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                311.4,
+                418.3
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                419.4,
+                455.5
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                311.4,
+                455.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 3,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Bản thân mình thì cũng đã từng đầu tư và cho vay các doanh nghiệp Việt Nam khoảng 20 tỷ đô la trong vòng khoảng 20 năm vừa xong. Thì tất cả những khoản đầu tư đó thì là đều thành c"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                459.3,
+                687.8
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                459.3,
+                687.8
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 4,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Tất nhiên có một cái điểm rất là đáng tiếc là cái thời điểm bây giờ thì là cái lúc mà có cái vấn đề của cái vấn đề tariff nó ảnh hưởng đến cái xuất khẩu của Việt Nam. Nhưng mà thườ"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                689.7,
+                733.5
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                689.7,
+                733.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 5,
+        "segment_type": "game",
+        "overview": "Đoạn trò chơi hoặc tương tác nhẹ giữa các người nói.",
+        "key_points": [
+          "Đoạn trò chơi hoặc tương tác nhẹ giữa các người nói.",
+          "Thực ra là nếu như mà các nhà đầu tư đã có đầu tư vào các quỹ của VCBS hoặc là cũng đã có theo dõi các buổi livestream của chúng tôi. Chắc các quý vị cũng biết là VCBF thì đi theo "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_02",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                821.6,
+                1052.3
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trò chơi hoặc tương tác nhẹ giữa các người nói.",
+            "evidence_spans": [
+              [
+                821.6,
+                1052.3
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 6,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Cảm ơn chị Kim Anh. Thì như vậy là em hiểu là chỉ lược của việc có manh phan. Bởi vì là trong 6 tháng sắp tới. Chuyện sợi trên cơ sở là rất là nhiều yếu tố. Mình sẽ đi theo nguyên "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1054.8,
+                1092.9
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1054.8,
+                1092.9
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 7,
+        "segment_type": "work_story",
+        "overview": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+        "key_points": [
+          "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+          "Chính là bởi vì là đi theo cái chiến lược đầu tư là bottom-up đoạn. Tức là mình lựa chọn từng doanh nghiệp một. Chứ mình cũng không có một cái phân bổ tổng quan. Xem là cái ngành n"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_02",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1093.9,
+                1373.4
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+            "evidence_spans": [
+              [
+                1093.9,
+                1373.4
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 8,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Cảm ơn chia sẻ rất là thú vị của chị Kim Anh. Tức là quan điểm đầu tư của việc. Còn anh Phan sẽ đi từ rất là chi tiết từ công ty và từ đi từng đến doanh nghiệp cụ thể."
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1375.5,
+                1412.2
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_01",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1413.4,
+                1546.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1375.5,
+                1546.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 9,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Mọi người đều nói về cái mức thuế 46%. Và với những cái thông tin mà tôi đọc được trên báo chí thì hiện nay mọi người đang nói về cái mức chắc bằng khoảng một nửa. 20-22% gì đấy nh"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_01",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1547.3,
+                1722.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1547.3,
+                1722.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 10,
+        "segment_type": "guest_intro",
+        "overview": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+        "key_points": [
+          "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+          "Cảm ơn chị Lệ. Thì nhân chị Lệ có nhắc đến cái kịch bản. Tạm gọi là cơ sở về tariff mà hiện nay báo chí các anh chị có thể đọc trong tuần gần đây là cỡ khoảng một nửa, khoảng mức 4"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1723.4,
+                1765.1
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1766.5,
+                1820.3
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_02",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                1821.2,
+                1837.5
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn giới thiệu khách mời hoặc hé lộ chủ đề mới.",
+            "evidence_spans": [
+              [
+                1723.4,
+                1837.5
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 11,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Và thậm chí mình nghĩ là còn có thể sẽ là tốt hơn tại vì một số các ngành sản xuất như vậy nó có thể đã dịch chuyển từ Trung Quốc mà tiếp tục dịch chuyển sang Việt Nam. Thì đấy là "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                1837.7,
+                2012.4
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                1837.7,
+                2012.4
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 12,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Nên mình tương đối là thận trọng lạc quan trong cái vấn đề là thuế của Mỹ áp đặt với Việt Nam và một lý do. Mà mình cũng nghĩ là như vậy. Vì là mình trên cơ sở một số cái nhận định"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2013.7,
+                2273.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                2013.7,
+                2273.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 13,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Thiện trí như vậy, phối hợp như vậy thì sẽ có những cái mức thuế quan mà phù hợp, như là mọi người tất cả đều là rất là. Đợi chờ cái việc đó, nhưng mình nghĩ việc đó nó sẽ đến ở cá"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2274.6,
+                2293.8
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                2298.0,
+                2358.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                2274.6,
+                2358.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 14,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Vì là quỹ của mình thì là đầu tư trung và dài hạn tức là từ 3 năm trở lên và số lượng lớn là khoảng 150-200 triệu một cái đầu tư. Thành nhiên là mình cũng rất là. Khó đưa ra cái nh"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_04",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2359.7,
+                2709.8
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                2359.7,
+                2709.8
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 15,
+        "segment_type": "transition",
+        "overview": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+        "key_points": [
+          "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+          "Cái câu chuyện mà cơ hội chi phí cơ hội đầu tư của các nhà đầu tư nước ngoài trên thị trường thế giới thì chắc là em xin phép hỏi chị Lệ một câu bởi vì anh Hoài Anh có nhắc đến địn"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2713.0,
+                2738.8
+              ]
+            ]
+          },
+          {
+            "speaker": "speaker_01",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2739.7,
+                2878.2
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn chuyển cảnh, dẫn chương trình hoặc giới thiệu phần tiếp theo.",
+            "evidence_spans": [
+              [
+                2713.0,
+                2878.2
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 16,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Ở góc độ của chúng tôi khi mà tiếp cận với những nhà đầu tư nước ngoài đầu tư vào Việt Nam. Thì hầu hết đều có một cái tin tưởng vào cái câu chuyện long thơm của kinh tế Việt Nam. "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_01",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                2881.1,
+                2937.7
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                2881.1,
+                2937.7
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 17,
+        "segment_type": "discussion",
+        "overview": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+        "key_points": [
+          "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+          "Cảm ơn câu hỏi của Chịu. Thì thật ra thì Chịu có nhắc đến cái vấn đề gọi là khủng hoảng năm 2022. Thì nếu mà. Về số liệu thì so cái số liệu trước cái cuộc khủng hoảng đấy thì thực "
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_00",
+            "insight": "Tham gia trao đổi trong đoạn này.",
+            "evidence_spans": [
+              [
+                3006.6,
+                3499.3
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi chính của cuộc trò chuyện; không đủ bằng chứng để tóm tắt sâu hơn theo rule-based.",
+            "evidence_spans": [
+              [
+                3006.6,
+                3499.3
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      },
+      {
+        "block_id": 18,
+        "segment_type": "work_story",
+        "overview": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+        "key_points": [
+          "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+          "Cảm ơn chia sẻ của chị Giao. Thì thực ra là với vai trò là một cái đơn vị mà làm IB trên thị trường. Thì em cũng rất là chia sẻ về những cái quan điểm của chị Giao. Về những cái hạ"
+        ],
+        "action_items": [],
+        "speaker_insights": [
+          {
+            "speaker": "speaker_03",
+            "insight": "Có nhiều lượt phát biểu trong đoạn này.",
+            "evidence_spans": [
+              [
+                3499.3,
+                3592.1
+              ]
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "fact": "Đoạn trao đổi về công việc, khách hàng hoặc tình huống nghề nghiệp.",
+            "evidence_spans": [
+              [
+                3499.3,
+                3592.1
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "rule_summary"
+        ]
+      }
+    ]
+  }
+}

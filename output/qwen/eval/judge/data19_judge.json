@@ -1,0 +1,49 @@
+{
+  "model_name": "Qwen/Qwen2.5-7B-Instruct",
+  "summary_json": "C:\\ai_diarizen5090\\code_qwen_25_7b\\qwen_out\\data19\\summary.json",
+  "transcript": "C:\\ai_diarizen5090\\code_pho_whisper\\test_labeled_bestcp_low025\\data19\\labeled\\transcript.jsonl",
+  "judge_output": {
+    "overall": {
+      "main_summary_score": 2,
+      "speaker_summary_score": 2,
+      "faithfulness_score": 3,
+      "conciseness_score": 2,
+      "total_score": 9,
+      "verdict": "review"
+    },
+    "issues": [
+      "Main summary không nêu đúng ý chính của cuộc hội thoại. Cuộc hội thoại không tập trung vào phân chia lịch và trách nhiệm trong gia đình, mà là về trải nghiệm uống cocktail và kỷ niệm gia đình.",
+      "Speaker summaries không nêu rõ vai trò của từng người trong cuộc hội thoại.",
+      "Faithfulness_score: Có một số phần gộp nhầm các đoạn hội thoại khác nhau, ví dụ: 'Anh' và 'Cuong' đều được mô tả tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm, nhưng thực tế họ chỉ tham gia trao đổi về uống cocktail và kỷ niệm gia đình.",
+      "Conciseness_score: Summary quá dài và không đủ ý chính."
+    ],
+    "speaker_judgments": [
+      {
+        "speaker": "Anh",
+        "score": 0,
+        "supported": false,
+        "reason": "Không đủ bằng chứng để kết luận Anh tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm."
+      },
+      {
+        "speaker": "Cuong",
+        "score": 0,
+        "supported": false,
+        "reason": "Không đủ bằng chứng để kết luận Cuong tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm."
+      },
+      {
+        "speaker": "Dustin",
+        "score": 0,
+        "supported": false,
+        "reason": "Không đủ bằng chứng để kết luận Dustin tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm."
+      },
+      {
+        "speaker": "google",
+        "score": 0,
+        "supported": false,
+        "reason": "google không tham gia vào cuộc hội thoại."
+      }
+    ],
+    "final_comment": "Summary cần được cải thiện để nêu đúng ý chính của cuộc hội thoại và tóm tắt chính xác vai trò của từng người."
+  },
+  "raw_text": "{\n  \"overall\": {\n    \"main_summary_score\": 2,\n    \"speaker_summary_score\": 2,\n    \"faithfulness_score\": 3,\n    \"conciseness_score\": 2,\n    \"total_score\": 9,\n    \"verdict\": \"review\"\n  },\n  \"issues\": [\n    \"Main summary không nêu đúng ý chính của cuộc hội thoại. Cuộc hội thoại không tập trung vào phân chia lịch và trách nhiệm trong gia đình, mà là về trải nghiệm uống cocktail và kỷ niệm gia đình.\",\n    \"Speaker summaries không nêu rõ vai trò của từng người trong cuộc hội thoại.\",\n    \"Faithfulness_score: Có một số phần gộp nhầm các đoạn hội thoại khác nhau, ví dụ: 'Anh' và 'Cuong' đều được mô tả tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm, nhưng thực tế họ chỉ tham gia trao đổi về uống cocktail và kỷ niệm gia đình.\",\n    \"Conciseness_score: Summary quá dài và không đủ ý chính.\"\n  ],\n  \"speaker_judgments\": [\n    {\n      \"speaker\": \"Anh\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không đủ bằng chứng để kết luận Anh tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm.\"\n    },\n    {\n      \"speaker\": \"Cuong\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không đủ bằng chứng để kết luận Cuong tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm.\"\n    },\n    {\n      \"speaker\": \"Dustin\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"Không đủ bằng chứng để kết luận Dustin tham gia trao đổi về đời sống gia đình và phân chia trách nhiệm.\"\n    },\n    {\n      \"speaker\": \"google\",\n      \"score\": 0,\n      \"supported\": false,\n      \"reason\": \"google không tham gia vào cuộc hội thoại.\"\n    }\n  ],\n  \"final_comment\": \"Summary cần được cải thiện để nêu đúng ý chính của cuộc hội thoại và tóm tắt chính xác vai trò của từng người.\"\n}"
+}

@@ -1,0 +1,177 @@
+{
+  "low_threshold": 0.25,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 384,
+  "collect_stats": {
+    "primary": 329,
+    "aux": 0,
+    "fallback": 55,
+    "discarded_lt_0_5": 12
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 370,
+    "assigned_primary": 323,
+    "assigned_aux": 0,
+    "assigned_fallback": 47
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": true,
+    "skip_reason": null,
+    "selected_total": 295,
+    "selected_per_cluster": [
+      70,
+      71,
+      88,
+      66
+    ],
+    "candidate_total": 295,
+    "candidate_per_cluster": [
+      70,
+      71,
+      88,
+      66
+    ],
+    "rejected_invalid": 15,
+    "rejected_tier": 46,
+    "rejected_low_sim": 2,
+    "rejected_low_margin": 0,
+    "rejected_short": 26,
+    "min_cluster_count": 66,
+    "max_cluster_count": 88,
+    "cluster_imbalance_ratio": 1.3333333333333333,
+    "centroid_shift_cosine": [
+      [
+        0.9938009977340698,
+        0.9937918186187744,
+        0.9921447038650513,
+        0.9759176969528198
+      ]
+    ],
+    "skipped_clusters_unstable": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 302,
+    "force_meta_bucket_entries_created": 302,
+    "force_meta_tracks_seen": 520,
+    "force_meta_tracks_existing_skipped": 302,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 0,
+    "force_meta_tracks_no_segments": 218,
+    "force_meta_tracks_no_active": 218,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 0,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 0,
+    "force_meta_entries_created_from_force_only": 0,
+    "force_meta_total_entries": 302,
+    "force_meta_force_only_sample_keys": []
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 0,
+    "kept": 415,
+    "removed_dur_sec": 0.0,
+    "removed_by_tier": {}
+  },
+  "propagate_stats": {
+    "propagated_tracks": 89,
+    "force_assigned_tracks": 0,
+    "force_assign_candidates_total": 0,
+    "force_assign_lookup_hits_pass1": 0,
+    "force_assign_lookup_misses_pass1": 134,
+    "force_assign_lookup_misses_pass1_active": 0,
+    "force_assign_lookup_misses_pass1_inactive": 134,
+    "force_assign_same_track_other_chunk_pass1": 4,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 130,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 130,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 0,
+    "global_propagate_rejected_low_conf": 4,
+    "unmapped_tracks": 130,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 130,
+    "force_assign_sample_pass1_miss_active": [],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 4,
+    "hard_fallback_no_history": 130
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 297,
+  "mapped_tracks_after_propagate": 390,
+  "raw_segment_rows": 415,
+  "vbx_segment_rows": 415,
+  "final_segment_rows": 415,
+  "artifacts": {
+    "raw_rttm": "D:\\infe\\threshold_sweep_vivo_noise_report_optimized\\runs\\ep007_phase2_top6_overlap\\thr_025\\test_data\\data62\\forensics_ep007_phase2_top6_overlap__thr025__test_data__data62\\raw_low025.rttm",
+    "hyp_rttm": "D:\\infe\\threshold_sweep_vivo_noise_report_optimized\\runs\\ep007_phase2_top6_overlap\\thr_025\\test_data\\data62\\forensics_ep007_phase2_top6_overlap__thr025__test_data__data62\\hyp_low025.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "VIVOSSPK24",
+      "SPK_1": "VIVOSSPK30",
+      "SPK_2": "VIVOSSPK40",
+      "SPK_3": "VIVOSSPK43"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 107.96000000000001,
+      "hypothesis_overlap_seconds": 203.46,
+      "true_positive_seconds": 105.87,
+      "false_positive_seconds": 97.59,
+      "false_negative_seconds": 2.09,
+      "precision": 0.5203479799469183,
+      "recall": 0.9806409781400518,
+      "f1": 0.6799177959026395
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 107.96000000000001,
+      "both_correct_any_seconds": 93.10000000001072,
+      "both_correct_exact_seconds": 91.31000000000981,
+      "one_correct_seconds": 14.859999999999728,
+      "zero_correct_seconds": 0.0,
+      "detected_as_overlap_seconds": 105.87000000001726,
+      "collapsed_to_nonoverlap_seconds": 2.0899999999999994
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 90.62000000000945,
+      "kept_true_plus_extra_seconds": 81.27000000000467,
+      "both_wrong_seconds": 9.349999999999845
+    }
+  },
+  "skipped": false,
+  "der": 15.00475312453011,
+  "miss": 0.4995552487057116,
+  "fa": 12.111519344029741,
+  "conf": 2.3936785317946545
+}

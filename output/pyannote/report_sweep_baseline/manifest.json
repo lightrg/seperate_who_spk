@@ -1,0 +1,75 @@
+{
+  "checkpoint": {
+    "label": "baseline",
+    "ckpt_path": null
+  },
+  "thresholds": [
+    0.05,
+    0.15,
+    0.25,
+    0.35,
+    0.45
+  ],
+  "representatives": [
+    {
+      "sample_label": "chuyen_ho",
+      "split": "test_labeled",
+      "case_id": "data1",
+      "group_name": "chuyen_ho",
+      "n_speakers": 4,
+      "overlap_count": 0.0
+    },
+    {
+      "sample_label": "coi_moi",
+      "split": "test_labeled",
+      "case_id": "data19",
+      "group_name": "coi_moi",
+      "n_speakers": 4,
+      "overlap_count": 0.0
+    },
+    {
+      "sample_label": "dustin",
+      "split": "test_labeled",
+      "case_id": "data52",
+      "group_name": "dustin_1",
+      "n_speakers": 3,
+      "overlap_count": 0.0
+    },
+    {
+      "sample_label": "vif",
+      "split": "test_labeled",
+      "case_id": "data56",
+      "group_name": "vif_1",
+      "n_speakers": 4,
+      "overlap_count": 0.0
+    },
+    {
+      "sample_label": "vivo_ov0",
+      "split": "test_data",
+      "case_id": "data2",
+      "group_name": "vivo",
+      "n_speakers": 2,
+      "overlap_count": 0.0
+    },
+    {
+      "sample_label": "vivo_ov5",
+      "split": "test_data",
+      "case_id": "data56",
+      "group_name": "vivo",
+      "n_speakers": 2,
+      "overlap_count": 5.0
+    },
+    {
+      "sample_label": "vivo_ov10",
+      "split": "test_data",
+      "case_id": "data11",
+      "group_name": "vivo",
+      "n_speakers": 2,
+      "overlap_count": 10.0
+    }
+  ],
+  "raw_csv": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_baseline\\tables\\raw_case_results.csv",
+  "summary_csv": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_baseline\\tables\\summary_by_sample_threshold.csv",
+  "failed_csv": null,
+  "plots_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_baseline\\plots"
+}

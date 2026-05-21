@@ -1,0 +1,60 @@
+{
+  "eval_script": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\danh_gia_check_point_md_v2_fixed_pyannote_ckpt_hftoken_v3.py",
+  "hf_model": "pyannote/speaker-diarization-community-1",
+  "checkpoints": [
+    {
+      "label": "baseline",
+      "ckpt_path": null
+    },
+    {
+      "label": "best_model",
+      "ckpt_path": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\cp_pyannote\\best_model.pth"
+    }
+  ],
+  "thresholds": [
+    0.05,
+    0.25
+  ],
+  "cases": [
+    {
+      "case_id": "data5",
+      "noise_pct": 23.0,
+      "overlap_count": 0.0,
+      "n_speakers": 3
+    },
+    {
+      "case_id": "data14",
+      "noise_pct": 17.0,
+      "overlap_count": 10.0,
+      "n_speakers": 3
+    },
+    {
+      "case_id": "data62",
+      "noise_pct": 23.0,
+      "overlap_count": 5.0,
+      "n_speakers": 4
+    },
+    {
+      "case_id": "data2",
+      "noise_pct": 0.0,
+      "overlap_count": 0.0,
+      "n_speakers": 2
+    },
+    {
+      "case_id": "data11",
+      "noise_pct": 0.0,
+      "overlap_count": 10.0,
+      "n_speakers": 2
+    },
+    {
+      "case_id": "data56",
+      "noise_pct": 0.0,
+      "overlap_count": 5.0,
+      "n_speakers": 2
+    }
+  ],
+  "raw_csv": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_vivo_noise_report_pyannote\\tables\\raw_case_results.csv",
+  "summary_csv": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_vivo_noise_report_pyannote\\tables\\summary_by_checkpoint_case_threshold.csv",
+  "failed_csv": null,
+  "plots_dir": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_vivo_noise_report_pyannote\\plots"
+}

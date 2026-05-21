@@ -1,0 +1,184 @@
+{
+  "low_threshold": 0.05,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 1102,
+  "collect_stats": {
+    "primary": 1048,
+    "aux": 0,
+    "fallback": 54,
+    "discarded_lt_0_5": 42
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 973,
+    "assigned_primary": 945,
+    "assigned_aux": 0,
+    "assigned_fallback": 28
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": true,
+    "skip_reason": null,
+    "selected_total": 613,
+    "selected_per_cluster": [
+      182,
+      182,
+      249
+    ],
+    "candidate_total": 613,
+    "candidate_per_cluster": [
+      182,
+      182,
+      249
+    ],
+    "rejected_invalid": 122,
+    "rejected_tier": 29,
+    "rejected_low_sim": 28,
+    "rejected_low_margin": 38,
+    "rejected_short": 272,
+    "min_cluster_count": 182,
+    "max_cluster_count": 249,
+    "cluster_imbalance_ratio": 1.3681318681318682,
+    "centroid_shift_cosine": [
+      [
+        0.9981897473335266,
+        0.9963781833648682,
+        0.9983303546905518
+      ]
+    ],
+    "skipped_clusters_unstable": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 496,
+    "force_meta_bucket_entries_created": 496,
+    "force_meta_tracks_seen": 807,
+    "force_meta_tracks_existing_skipped": 496,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 14,
+    "force_meta_tracks_no_segments": 297,
+    "force_meta_tracks_no_active": 297,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 13,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 6,
+    "force_meta_entries_created_from_force_only": 8,
+    "force_meta_total_entries": 504,
+    "force_meta_force_only_sample_keys": [
+      "(9, 0)|continuous_segment|tier=aux",
+      "(59, 2)|continuous_segment|tier=aux",
+      "(142, 2)|continuous_segment|tier=aux",
+      "(144, 0)|continuous_segment|tier=aux",
+      "(195, 2)|continuous_segment|tier=aux",
+      "(210, 2)|continuous_segment|tier=aux",
+      "(223, 2)|continuous_segment|tier=aux",
+      "(239, 2)|continuous_segment|tier=aux"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 4,
+    "kept": 1227,
+    "removed_dur_sec": 1.4240699152549041,
+    "removed_by_tier": {
+      "primary": 4
+    }
+  },
+  "propagate_stats": {
+    "propagated_tracks": 229,
+    "force_assigned_tracks": 0,
+    "force_assign_candidates_total": 0,
+    "force_assign_lookup_hits_pass1": 0,
+    "force_assign_lookup_misses_pass1": 105,
+    "force_assign_lookup_misses_pass1_active": 0,
+    "force_assign_lookup_misses_pass1_inactive": 105,
+    "force_assign_same_track_other_chunk_pass1": 105,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 0,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 0,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 105,
+    "global_propagate_rejected_low_conf": 0,
+    "unmapped_tracks": 0,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 0,
+    "force_assign_sample_pass1_miss_active": [],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 0,
+    "hard_fallback_no_history": 0
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 473,
+  "mapped_tracks_after_propagate": 807,
+  "raw_segment_rows": 1227,
+  "vbx_segment_rows": 1227,
+  "final_segment_rows": 1227,
+  "artifacts": {
+    "raw_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_pyannote\\runs\\thr_005\\test_labeled\\data52\\forensics_best_model__thr005__test_labeled__data52\\raw_low005.rttm",
+    "hyp_rttm": "C:\\ai_diarizen5090\\code_val_pyantoe\\eval_pyannote\\threshold_sweep_report_pyannote\\runs\\thr_005\\test_labeled\\data52\\forensics_best_model__thr005__test_labeled__data52\\hyp_low005.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "D_ng",
+      "SPK_1": "Dustin",
+      "SPK_2": "Tuy_t"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 18.900000000000002,
+      "hypothesis_overlap_seconds": 79.13,
+      "true_positive_seconds": 5.18,
+      "false_positive_seconds": 73.95,
+      "false_negative_seconds": 13.72,
+      "precision": 0.06546189814229748,
+      "recall": 0.2740740740740741,
+      "f1": 0.10568193410180557
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 16.01,
+      "both_correct_any_seconds": 3.6899999999999653,
+      "both_correct_exact_seconds": 3.6899999999999653,
+      "one_correct_seconds": 10.97999999999981,
+      "zero_correct_seconds": 1.340000000000001,
+      "detected_as_overlap_seconds": 5.169999999999934,
+      "collapsed_to_nonoverlap_seconds": 10.839999999999813
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 47.919999999999035,
+      "kept_true_plus_extra_seconds": 44.5899999999997,
+      "both_wrong_seconds": 3.329999999999973
+    }
+  },
+  "skipped": false,
+  "der": 26.349473450290994,
+  "miss": 3.992133796279805,
+  "fa": 16.029133060886654,
+  "conf": 6.328206593124534
+}

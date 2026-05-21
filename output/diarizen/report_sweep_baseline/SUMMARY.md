@@ -1,0 +1,39 @@
+# Best Model Low-Threshold Sweep Summary
+
+Checkpoint: `baseline`
+
+This report keeps the original diarization logic unchanged and sweeps only the low-threshold hyperparameter.
+
+Thresholds: 0.05, 0.25, 0.35
+
+## Summary by representative sample and low-threshold
+
+| sample_label   | split        | case_id   | group_name   |   low_threshold |     der |     miss |       fa |      conf |   ov_precision |   ov_recall |     ov_f1 |   pred_segments |   ref_segments |
+|:---------------|:-------------|:----------|:-------------|----------------:|--------:|---------:|---------:|----------:|---------------:|------------:|----------:|----------------:|---------------:|
+| chuyen_ho      | test_labeled | data1     | chuyen_ho    |            0.05 | 50.8008 |  7.42893 | 34.1076  |  9.26419  |     0.00587784 |   0.0948063 | 0.0110694 |            1542 |            632 |
+| chuyen_ho      | test_labeled | data1     | chuyen_ho    |            0.25 | 50.8008 |  7.42893 | 34.1076  |  9.26419  |     0.00587784 |   0.0948063 | 0.0110694 |            1542 |            632 |
+| chuyen_ho      | test_labeled | data1     | chuyen_ho    |            0.35 | 50.8008 |  7.42893 | 34.1076  |  9.26419  |     0.00587784 |   0.0948063 | 0.0110694 |            1542 |            632 |
+| coi_moi        | test_labeled | data19    | coi_moi      |            0.05 | 72.4077 | 17.2657  | 40.5793  | 14.5627   |     0.0248191  |   0.201837  | 0.0442027 |            1894 |            669 |
+| coi_moi        | test_labeled | data19    | coi_moi      |            0.25 | 72.4077 | 17.2657  | 40.5793  | 14.5627   |     0.0248191  |   0.201837  | 0.0442027 |            1894 |            669 |
+| coi_moi        | test_labeled | data19    | coi_moi      |            0.35 | 72.4077 | 17.2657  | 40.5793  | 14.5627   |     0.0248191  |   0.201837  | 0.0442027 |            1894 |            669 |
+| dustin         | test_labeled | data52    | dustin_1     |            0.05 | 44.078  | 13.8652  | 20.5166  |  9.69625  |     0.0257405  |   0.210582  | 0.0458737 |            1643 |            785 |
+| dustin         | test_labeled | data52    | dustin_1     |            0.25 | 44.078  | 13.8652  | 20.5166  |  9.69625  |     0.0257405  |   0.210582  | 0.0458737 |            1643 |            785 |
+| dustin         | test_labeled | data52    | dustin_1     |            0.35 | 44.078  | 13.8652  | 20.5166  |  9.69625  |     0.0257405  |   0.210582  | 0.0458737 |            1643 |            785 |
+| vif            | test_labeled | data56    | vif_1        |            0.05 | 18.248  | 13.622   |  4.45591 |  0.170131 |     0          |   0         | 0         |            1421 |            625 |
+| vif            | test_labeled | data56    | vif_1        |            0.25 | 18.248  | 13.622   |  4.45591 |  0.170131 |     0          |   0         | 0         |            1421 |            625 |
+| vif            | test_labeled | data56    | vif_1        |            0.35 | 18.248  | 13.622   |  4.45591 |  0.170131 |     0          |   0         | 0         |            1421 |            625 |
+| vivo_ov0       | test_data    | data2     | vivo         |            0.05 | 30.5392 | 15.9432  |  8.37613 |  6.21994  |     0          |   0         | 0         |             450 |            257 |
+| vivo_ov0       | test_data    | data2     | vivo         |            0.25 | 30.5392 | 15.9432  |  8.37613 |  6.21994  |     0          |   0         | 0         |             450 |            257 |
+| vivo_ov0       | test_data    | data2     | vivo         |            0.35 | 30.5392 | 15.9432  |  8.37613 |  6.21994  |     0          |   0         | 0         |             450 |            257 |
+| vivo_ov10      | test_data    | data11    | vivo         |            0.05 | 26.1481 | 14.6842  |  8.45126 |  3.0127   |     0.660836   |   0.517772  | 0.580621  |             533 |            285 |
+| vivo_ov10      | test_data    | data11    | vivo         |            0.25 | 26.1481 | 14.6842  |  8.45126 |  3.0127   |     0.660836   |   0.517772  | 0.580621  |             533 |            285 |
+| vivo_ov10      | test_data    | data11    | vivo         |            0.35 | 26.1481 | 14.6842  |  8.45126 |  3.0127   |     0.660836   |   0.517772  | 0.580621  |             533 |            285 |
+| vivo_ov5       | test_data    | data56    | vivo         |            0.05 | 27.6543 | 15.9076  |  7.96954 |  3.77713  |     0.651209   |   0.546641  | 0.594361  |             489 |            257 |
+| vivo_ov5       | test_data    | data56    | vivo         |            0.25 | 27.6543 | 15.9076  |  7.96954 |  3.77713  |     0.651209   |   0.546641  | 0.594361  |             489 |            257 |
+| vivo_ov5       | test_data    | data56    | vivo         |            0.35 | 27.6543 | 15.9076  |  7.96954 |  3.77713  |     0.651209   |   0.546641  | 0.594361  |             489 |            257 |
+
+## Run counts
+
+- Total successful runs: 21
+- Unique representative samples: 7
+- Unique thresholds: 3

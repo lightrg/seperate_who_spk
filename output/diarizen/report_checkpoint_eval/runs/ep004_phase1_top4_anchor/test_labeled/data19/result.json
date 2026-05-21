@@ -1,0 +1,184 @@
+{
+  "low_threshold": 0.25,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 993,
+  "collect_stats": {
+    "primary": 813,
+    "aux": 0,
+    "fallback": 180,
+    "discarded_lt_0_5": 62
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 859,
+    "assigned_primary": 747,
+    "assigned_aux": 0,
+    "assigned_fallback": 112
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": false,
+    "skip_reason": "cluster_imbalance_too_high",
+    "selected_total": 0,
+    "selected_per_cluster": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "candidate_total": 502,
+    "candidate_per_cluster": [
+      182,
+      159,
+      154,
+      7
+    ],
+    "rejected_invalid": 134,
+    "rejected_tier": 112,
+    "rejected_low_sim": 11,
+    "rejected_low_margin": 14,
+    "rejected_short": 220,
+    "min_cluster_count": 7,
+    "max_cluster_count": 182,
+    "cluster_imbalance_ratio": 26.0,
+    "centroid_shift_cosine": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 547,
+    "force_meta_bucket_entries_created": 547,
+    "force_meta_tracks_seen": 968,
+    "force_meta_tracks_existing_skipped": 547,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 21,
+    "force_meta_tracks_no_segments": 400,
+    "force_meta_tracks_no_active": 400,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 9,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 8,
+    "force_meta_entries_created_from_force_only": 13,
+    "force_meta_total_entries": 560,
+    "force_meta_force_only_sample_keys": [
+      "(5, 1)|continuous_segment|tier=aux",
+      "(39, 1)|continuous_segment|tier=aux",
+      "(44, 1)|continuous_segment|tier=aux",
+      "(56, 1)|continuous_segment|tier=fallback",
+      "(83, 1)|continuous_segment|tier=fallback",
+      "(138, 1)|continuous_segment|tier=fallback",
+      "(139, 1)|continuous_segment|tier=fallback",
+      "(153, 1)|continuous_segment|tier=aux"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 1,
+    "kept": 1176,
+    "removed_dur_sec": 0.36045056320404,
+    "removed_by_tier": {
+      "primary": 1
+    }
+  },
+  "propagate_stats": {
+    "propagated_tracks": 169,
+    "force_assigned_tracks": 0,
+    "force_assign_candidates_total": 0,
+    "force_assign_lookup_hits_pass1": 0,
+    "force_assign_lookup_misses_pass1": 265,
+    "force_assign_lookup_misses_pass1_active": 1,
+    "force_assign_lookup_misses_pass1_inactive": 264,
+    "force_assign_same_track_other_chunk_pass1": 23,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 242,
+    "force_assign_lookup_misses_pass3_active": 1,
+    "force_assign_lookup_misses_pass3_inactive": 241,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 23,
+    "global_propagate_rejected_low_conf": 0,
+    "unmapped_tracks": 242,
+    "unmapped_tracks_active": 1,
+    "unmapped_tracks_inactive": 241,
+    "force_assign_sample_pass1_miss_active": [
+      "(7, 0)"
+    ],
+    "force_assign_sample_pass3_miss_active": [
+      "(7, 0)"
+    ],
+    "hard_fallback_tracks": 0,
+    "hard_fallback_no_history": 242
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 534,
+  "mapped_tracks_after_propagate": 726,
+  "raw_segment_rows": 1176,
+  "vbx_segment_rows": 1176,
+  "final_segment_rows": 1176,
+  "artifacts": {
+    "raw_rttm": "D:\\infe\\checkpoint_eval_report_low025\\runs\\ep004_phase1_top4_anchor\\test_labeled\\data19\\forensics_ep004_phase1_top4_anchor__test_labeled__data19\\raw_low025.rttm",
+    "hyp_rttm": "D:\\infe\\checkpoint_eval_report_low025\\runs\\ep004_phase1_top4_anchor\\test_labeled\\data19\\forensics_ep004_phase1_top4_anchor__test_labeled__data19\\hyp_low025.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "Anh",
+      "SPK_1": "Cuong",
+      "SPK_2": "Dustin",
+      "SPK_3": "google"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 34.83,
+      "hypothesis_overlap_seconds": 333.56,
+      "true_positive_seconds": 19.05,
+      "false_positive_seconds": 314.51,
+      "false_negative_seconds": 15.780000000000001,
+      "precision": 0.05711116440820242,
+      "recall": 0.5469422911283377,
+      "f1": 0.10342300279594994
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 34.83,
+      "both_correct_any_seconds": 16.389999999999763,
+      "both_correct_exact_seconds": 15.449999999999715,
+      "one_correct_seconds": 16.229999999999738,
+      "zero_correct_seconds": 2.209999999999997,
+      "detected_as_overlap_seconds": 19.05000000000018,
+      "collapsed_to_nonoverlap_seconds": 15.779999999999708
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 194.78999999996782,
+      "kept_true_plus_extra_seconds": 179.5399999999817,
+      "both_wrong_seconds": 15.24999999999972
+    }
+  },
+  "skipped": false,
+  "der": 51.64165312761499,
+  "miss": 5.385419519679983,
+  "fa": 41.63975331705169,
+  "conf": 4.616480290883311
+}

@@ -1,0 +1,200 @@
+sample_id,data_name,start,end,predicted_text,target_text
+data26_0,data26,12.61,18.75,"Tuyệt quá ha, có nhiều du thuyền ghê ha, mấy chiếc du thuyền đó có thể đi được bao xa.","Tuyệt quá a, có nhiều du thuyền ghê ha mấy chiếc du thuyền đó có thể đi được bao xa vậy ?"
+data26_1,data26,18.76,23.98,Nó có thể đi tới tận biên giới biển của nước ta và có thể đi ngao vô được vòng quanh thế giới luôn.,Nó có thể đi tới tận biên giới biển của nước ta và có thể đi ngao vô được vòng quanh thế giới luôn.
+data26_2,data26,24.06,25.68,Ayumi muốn được lên thử.,Ayumi muốn được lên thử quá.
+data26_3,data26,25.86,27.58,Mình cũng muốn được như vậy đó.,Mình cũng muốn được như vậy đó.
+data26_4,data26,27.58,34.0,Nhưng điều quan trọng nhất bây giờ là mình lại thấy đau bụng nữa rồi mau quay về lấy bento ăn cho no cái đã.,Nhưng điều quan trọng nhất bây giờ là mình lại thấy đói bụng nữa rồi mau quay về lấy bento ăn cho no cái đã.
+data26_5,data26,35.16,38.88,Đúng là ghen ta với cái bụng đói. Thức ăn luôn là ưu tiên số 1 của cậu.,Đúng là ghen ta với cái bụng đói thức ăn luôn là ưu tiên số 1 của cậu.
+data26_6,data26,55.71,63.22,Ở đây rồi. Ngài Takiguchi ơi. Tôi ở khách sạn Shirakabe. Chúng tôi đã chuẩn bị xong bữa ăn ngài đặt rồi đây.,Chắc ở đây rồi ngài Takiguchi ơi tôi ở khách sạn Shirakabe chúng tôi đã chuẩn bị xong bữa ăn ngày đặt rồi đây.
+data26_7,data26,63.52,65.04,Là đầu bếp của khách sạn.,Là đầu bếp của khách sạn á.
+data26_8,data26,65.02,67.54,"Xịn sò quá, hèn gì đồ ăn nhìn hấp dẫn ghê luôn.",Xịn xò quá Hèn gì đồ ăn nhìn hấp dẫn ghê luôn.
+data26_9,data26,67.64,72.16,"Thôi đây, không có cái gì cho mấy nhóc ăn ở đây đâu nha. Đi chỗ khác chơi dùm cái đi.",Thôi đây không có cái gì cho mấy nhóc ăn ở đây đâu nha di chỗ khác chơi dùm cái đi.
+data26_10,data26,72.36,75.38,Sao lại thôi lỗ vậy. Chúng lại trẻ con thôi mà.,Sao lại thô lỗ vậy chúng là trẻ con thôi mà.
+data26_11,data26,77.07,79.55,Cảm ơn anh nhiều lắm nha. Chủng bị cũng nhanh thiệt.,Cảm ơn anh nhiều lắm nha chuẩn bị cũng nhanh thiệt đó.
+data26_12,data26,86.13,88.43,Dòng cổ của cô thiệt là đẹp quá đi.,Dòng cổ của cô thiệt là đẹp quá đi.
+data26_13,data26,88.79,93.47,Cảm ơn cô bé. Đây chỉ là chiếc vòng cổ acrylic nhân tạo. Không phải là trang sức quý gì đâu.,Cảm ơn cô bé đây chỉ là chiếc dòng cổ acrylic nhân tạo không phải là trang sức quý gì đâu.
+data26_14,data26,94.05,96.17,"Dạ thưa phu nhân, bà muốn để thức ăn ở đâu?","Dạ thưa phu nhân, bà muốn để thức ăn ở đâu ạ?"
+data26_15,data26,96.47,101.85,À xin lỗi đã để anh chờ có thể đem nó lên thuyền giúp tôi được chứ mấy đứa ăn cùng với ngà cô luôn đi.,"À, xin lỗi đã để anh chờ, có thể đem nó lên thuyền giúp tôi được chứ. Mấy đứa ăn cùng với nhà cô luôn đi."
+data26_16,data26,101.97,103.19,Nhưng chuyện đó.,"À, nhưng chuyện đó..."
+data26_17,data26,103.27,105.49,Cháu ăn cùng như vậy có tiện không hả cô.,Tụi cháu ăn cùng như vậy có tiện không hả cô?
+data26_18,data26,105.45,113.73,Thức ăn của khách sạn này ngon nổi tiếng ở đây đó. Cùng ăn với cô đi á. Nhưng nếu như tụi cháu ăn cùng với nhà cô. Thì sẽ tốn thêm nhiều đồ ăn lắm.,"Thức ăn của khách sạn này ngon nổi tiếng ở đây đó. Cùng ăn với cô đi hả? Nhưng nếu như tụi cháu ăn cùng với nhà cô, thì sẽ tốn thêm nhiều đồ ăn lắm đó cô."
+data26_19,data26,114.43,120.7,Mấy đứa đừng có lo chuyện đó Nhà bác đã đặt thức ăn cho bữa tối rồi Tụi cháu có thể ăn bao nhiêu tùy thích đâu.,"Mấy đứa đừng có lo chuyện đó. Nhà bác đã đặt thức ăn cho bữa tối rồi, tụi cháu có thể ăn bao nhiêu tùy thích đó."
+data26_20,data26,121.87,124.13,"Dạ, bây giờ mình ăn luôn được không bác?",Dạ bây giờ mình ăn luôn được không bác.
+data26_21,data26,124.17,129.63,Chứ du thuyền này chỉ có hai vợ chồng cô nên hơi buồn. Có mấy đứa không khí sẽ vui hơn.,Được chứ Dù thuyền này chỉ có hai vợ chồng cô nên hơi buồn có mấy đứa không khí sẽ vui hơn nhiều lắm.
+data26_22,data26,129.83,132.43,Vậy cho tụi cháu xin lỗi nếu như làm phiền cô và bác.,Vậy cho tụi cháu xin lỗi nếu như làm phiền cô và bác.
+data26_23,data26,259.98,262.83,Tụi nhóc chạy đi đâu mất tiêu rồi không biết nữa à.,Tụi nhóc chạy đi đâu mất tiêu rồi không biết nữa a.
+data26_24,data26,262.98,264.33,Thì cũng tại cậu chứ.,Thì cũng tại cậu chứ ai.
+data26_25,data26,264.43,266.31,Cứ ngủ suốt trên đường đi tới đây đó.,Cứ ngủ suốt trên đường đi tới đây đó.
+data26_26,data26,266.93,271.51,"Speaker Conan:""Nếu không tìm thấy tụi nhóc trước giờ cơm trưa, mình sẽ ăn hết phần bento đó.",Nếu không tìm thấy tụi nhóc trước giờ cơm trưa mình sẽ ăn hết phần bên tô đó.
+data26_27,data26,272.11,277.07,Cậu mà làm vậy thì tụi nhóc sẽ ghét cậu lắm. Ác cảm về việc ăn uống là đáng sợ nhất đó.,Cậu mà làm vậy thì tụi nhóc sẽ ghét cậu lắm ác cảm về việc ăn uống là đáng sợ nhất đó nha.
+data26_28,data26,277.11,278.47,"Cũng đúng, mình hiểu rồi.","Cũng đúng, mình hiểu rồi."
+data26_29,data26,280.41,285.91,Conan và Haibara thật sự tội nghiệp quá đây à. Không được thưởng thức mấy món ăn ngon tuyệt vời này cùng với tụi mình.,Cô Nan và hai ba ra thật sự tội nghiệp quá đây à không được thưởng thức mấy món ăn ngon tuyệt vời này cùng với tụi mình.
+data26_30,data26,286.67,291.35,Còn gì phải lo cho hai cậu ấy. Ai bị cứ ngủ gà ngủ gật trên đường đen. Chị không biết nữa.,Còn gì phải lo cho hai cậu ấy Ai biểu cứ ngủ gà ngủ gật trên đường điên thì không biết nữa à.
+data26_31,data26,291.99,293.95,Mấy đứa tới đây cùng các bạn khác nữa đúng không?,Mấy đứa tới đây cùng các bạn khác nữa đúng không?
+data26_32,data26,294.01,300.67,Vậy hát nhóm bạn tụi cháu thường đi chơi cùng nhau đó cơ Nhưng mà bé ai nói sợ bị đen da nên cậu ấy ngại đi biển.,"Dạ, nhóm bạn tụi cháu thường đi chơi cùng nhau đó cô nhưng mà bé ai nói sợ bị đen da nên cậu ấy ngại đi biển."
+data26_33,data26,300.89,308.89,Thật vậy sao? Mới là học sinh tiểu học mà đã biết chăm sóc da rồi hay sao? Bác rất muốn biết cô bé đó xinh đẹp cỡ nào mà điệu nào quá.,Thật vậy sao mới là học sinh tiểu học mà đã biết chăm sóc da rồi hay sao bác rất muốn biết cô bé đó xinh đẹp cỡ nào mà điệu đà quá vậy.
+data26_34,data26,308.89,316.09,"Còn Conan, tuy chỉ mới học tiểu học, nhưng thường thức khuya để đọc tiểu thuyết trinh thám. Nên suy nghĩ của cậu ấy cũng khác xa với bạn bè cùng lớp luôn đó.",Còn cô này tuy chỉ mới học tiểu học nhưng thường thức khuya để đọc tiểu thúy trình thám nên suy nghĩ của cậu ấy cũng khác xa với bạn bè cùng lớp luôn đó bác.
+data26_35,data26,316.19,317.49,Có vẻ hấp dẫn lắm.,Có gì hấp dẫn lắm đâu.
+data26_36,data26,317.89,319.61,Xin lỗi vì mình không đủ hấp dẫn.,Xin lỗi vì mình không đủ hấp dẫn với cậu.
+data26_37,data26,320.18,321.11,Conan hả ?,Conan hả.
+data26_38,data26,321.52,324.88,Vậy cô bé dễ thương này chắc là hai ba ra rồi có đúng không hả.,Vậy cô bé dễ thương này chắc là hai ba ra rồi có đúng không hả.
+data26_39,data26,325.08,328.92,Dạ đúng vậy. Cháu rất tiếc vì cháu không được xinh đẹp giống như mong đợi của bác.,Dạ đúng vậy cháu rất tiếc vì cháu không được xinh đẹp giống như mong đợi của bác.
+data26_40,data26,330.1,334.56,Như vậy cũng đã xinh đẹp lắm rồi. Chỉ tiếc cháu mới là học sinh tiểu học thôi.,Như vậy cũng đã xinh đẹp lắm rồi chỉ tiếc cháu mới là học sinh tiểu học thôi.
+data26_41,data26,336.22,338.88,Mà sao hai cậu lại xuất hiện ở đây vậy hả.,Mà sao hai cậu lại xuất hiện ở đây vậy hả?
+data26_42,data26,338.92,340.68,Câu này mình phải hỏi mấy cậu mới đúng á.,Câu này mình phải hỏi mấy cậu mới đúng á.
+data26_43,data26,340.88,344.56,Nãy giờ hai đứa mình đi lòng vòng tìm mấy cậu về để ăn bento đây nè.,Nãy giờ hai đứa mình đi lòng vòng tìm mấy cậu về để ăn bento đây nè.
+data26_44,data26,344.58,350.56,Cô rất tiếc phần bento mà mẹ các cháu chuẩn bị là bị bỏ dở. Nhưng các cháu có thể ăn nó trên đường về cũng được mà.,Cô rất tiếc phần bento mà mẹ các cháu chuẩn bị là bị bỏ dỡ nhưng các cháu có thể ăn nó trên đường về cũng được mà.
+data26_45,data26,350.84,353.54,Đằng nào hai đứa cũng tới đây rồi. Ăn cùng mọi người luôn cho vui.,"Đằng nào hai đứa cũng tới đây rồi, ăn cùng mọi người luôn cho vui."
+data26_46,data26,353.44,356.94,"Hai cậu ăn chung đi, thịt bò nướng này ngon bá trái bò.","Hai cậu ăn chung đi, thịt bò nướng này ngon quá, cháy bò chét"
+data26_47,data26,357.14,359.54,Mấy con tôm rồng sốt bơ tỏi cũng ngon hết chỗ.,Mấy con tôm rồng xốt bơ tỏi cũng ngon hết chỗ chê.
+data26_48,data26,363.99,367.23,"Nè, Michihiko. Đừng có ăn hết mấy con tôm hờ một mình.","Nè Michihiko, đừng có ăn hết mấy con tôm hùm một mình chứ"
+data26_49,data26,367.29,369.33,Đã nói là tôm rồng không phải tôm hùm mà.,"Đã nói là tôm rồng, không phải tôm hùm mà,"
+data26_50,data26,372.45,376.17,Nè ông xã. Coi chừng tụi nhỏ thấy sẽ cười cho bây giờ đó.,"Nè ông xã, coi chừng tụi nhỏ thấy sẽ cười cho bây giờ đó."
+data26_51,data26,378.01,380.16,Bác nhìn yên a vợ chồng son vậy.,Hai bác nhìn y như vợ chồng son vậy.
+data26_52,data26,380.36,390.2,Thật ra thì vợ chồng bác cũng chỉ mới cưới nhau được nửa năm thôi à. Dù đã hơi lớn tuổi rồi nhưng đây là lần đầu bác kết hôn. Vì quá bận rộn với việc mở rộng.,Thật ra thì vợ chồng bác cũng chỉ mới cưới nhau được nửa năm thôi à dù đã hơi lớn tuổi rồi nhưng đây là lần đầu bác kết hôn vì quá bận rộn với việc mở rộng công ty.
+data26_53,data26,390.2,393.6,Bác quên bén chuyện phải lập gia đình nên bác mới cưới vợ hơi trễ chốt.,Mà bác quên bén chuyện phải lập gia đình nên bác mới cưới vợ hơi trễ chút.
+data26_54,data26,400.01,403.47,Đẹp quá à. Phải chi mình có thể đi ra giữa biển.,Đẹp quá phải chi mình có thể đi ra giữa biển khơi.
+data26_55,data26,403.27,405.85,Bơi dài bơi thỏa thích ở đó thì tuyệt biết mấy ha.,Bơi và bơi thoả thích ở đó thì tuyệt biết mấy ha.
+data26_56,data26,405.87,410.75,Bớt mơ mộng đi nha. Cậu bơi có giỏi gì đâu. Mà đòi ra giữa biển để bơi hả Ayumi.,Bớt mơ mộng đi nha cậu bơi có giỏi gì đâu mà đòi ra giữa biển để bơi hả ayumi
+data26_57,data26,410.84,414.01,Được sống ở trên du thuyền này thì mình sẽ học bơi nhanh lắm luôn cho coi.,Nếu được sống ở trên du thuyền này mình sẽ học bơi nhanh lắm luôn cho coi.
+data26_58,data26,414.21,423.11,Cháu nói đúng lắm đó Ayumi Để bắt đầu thì không có gì là quá trễ Bác đã từng tuổi này rồi mà vẫn chưa biết bơi nè Nhờ chăm chỉ luyện tập mà bác đã biết bơi.,Cháu nội đúng lắm đó để bắt đầu thì không có gì là quá trễ bác đã từng tuổi này rồi mà vẫn chưa biết bơi nè nhờ chăm chỉ luyện tập mà bác đã biết bơi.
+data26_59,data26,423.41,425.87,Chỉ cần không bỏ cuộc thì việc gì cũng có thể.,Chỉ cần không bỏ cuộc thì việc gì cũng có thể.
+data26_60,data26,426.25,428.91,Vậy bác đã tham gia vào câu lạc bộ bơi lội rồi hả.,Vậy bác đã tham gia vào câu lạc bộ bơi lội rồi hả?
+data26_61,data26,428.89,432.67,"À không, bác chỉ xây thêm một hồ bơi tại nhà để tập bơi thường xuyên thôi.","À không, bác chỉ xây thêm một hồ bơi tại nhà để tập bơi thường xuyên thôi."
+data26_62,data26,433.11,435.71,Cô có cái này muốn cho các cháu xem nè.,À ha cô có cái này muốn cho các cháu xem nè.
+data26_63,data26,439.51,441.41,Quay lại lúc anh tập bơi ở nhà hả.,Em quay lại lúc anh tập bơi ở nhà hả?
+data26_64,data26,441.55,444.45,"Thôi đừng mở nữa mà, mấy đứa nhỏ coi anh ngượng lắm đó.","Thôi đừng mỡ nữa mà, mấy đứa nhỏ coi anh ngượng lắm đó."
+data26_65,data26,444.98,447.26,Speaker 08? Nhưng mà sau đó thì như vậy nè.,"Nhưng mà sau đó thì như vậy nè, đây đây."
+data26_66,data26,450.74,452.13,Bán chọi quá.,Bác giỏi quá.
+data26_67,data26,452.34,454.43,Đúng là bác bơi giỏi thật luôn đó nha.,Đúng là bác bơi giỏi thật luôn đó nha.
+data26_68,data26,454.69,459.97,"Được thôi, vậy bây giờ chúng ta cùng thi bơi coi ai tới bờ bên kia trước là người chiến thắng.","Được thôi, vậy bây giờ chúng ta cùng thi bơi con ai tới bờ bên kia trước là người chiến thắng."
+data26_69,data26,460.47,463.05,"Vậy thì Ayumi, cậu dùng thêm phao cho chắc nha.","Vậy thì Ayumi, cậu dùng thêm phao cho chắc nha."
+data26_70,data26,465.21,472.79,"Không được đó, anh vừa uống rượu nên xuống bơi liền sẽ không tốt cho sức khỏe. Hơn nửa quyết áp của anh cũng đang cao nên nghỉ ngơi một chút thì sẽ an toàn hơn.","Thôi không được đâu, anh vừa uống rượu nên xuống bơi liền sẽ không tốt cho sức khỏe hơn nửa quyết áp của anh cũng đang cao, nên nghỉ ngơi một chút thì sẽ an toàn hơn đó."
+data26_71,data26,472.99,476.35,"Sợ, mình tự tin mình sẽ thắng cuộc thi bơi này đó.","Sờ, mình tự tin mình sẽ thắng cuộc thi bơi này đó."
+data26_72,data26,480.52,482.95,Dễ thương quá bé cún này mấy tuổi rồi cô.,"Dễ thương quá, bé cún này mấy tuổi rồi cô?"
+data26_73,data26,483.22,485.55,"Nó chỉ mới hơn một tuổi thôi, hai ba ra.","Nó chỉ mới hơn một tuổi thôi, hai ba ra."
+data26_74,data26,485.72,488.95,Hình như mảnh kim loại trên vòng cổ của nó bị rỉ rồi.,Hình như mảnh kim loại trên vòng cổ của nó bị rỉ rồi.
+data26_75,data26,489.03,492.41,"Speaker 08.: À, chắc là do hôm qua lăn lộn dưới mưa quá đi mà.","À, chắc là do hôm qua lăn lộn dưới mưa quá đi mà."
+data26_76,data26,494.81,497.23,"Nè, tụi mình cũng nên về được rồi đó.","Nè, tụi mình cũng nên về được rồi đó."
+data26_77,data26,497.81,499.43,"Speaker Conan:""À, tự nhiên mình quên mất.","Ờ, tự nhiên mình quên mất."
+data26_78,data26,500.61,507.59,Mấy đứa được người ta chiêu đãi một bữa toàn đồ sơn hào hải dị ít ra cũng phải phân công một đứa về báo tin cho bác biết.,Mấy đứa được người ta chiêu đái một bữa toàn đồ sơn hào hải dĩ. Ít ra cũng phải phân công một đứa về báo tin cho bác biết chứ.
+data26_79,data26,508.01,511.81,Bắt tìm mãi không thấy đứa nào đang định đi báo cảnh sát địa phương rồi đó.,Bác tìm mãi không thấy đứa nào đang định đi báo cảnh sát địa phương rồi đó.
+data26_80,data26,512.01,515.25,Ăn trong tâm trạng thức giận sẽ không tốt cho sức khỏe của bác đâu.,Ăn trong tâm trạng thức giận sẽ không tốt cho sức khỏe của bác đâu.
+data26_81,data26,519.61,520.65,Tới đây.,Tới đây
+data26_82,data26,520.71,522.55,Đập hay lắm Conan.,Đập hay lắm conan.
+data26_83,data26,526.95,532.55,Nè các cậu mau nhìn chiếc du thuyền đó kìa nó có phải của bác Takiguchi không vậy.,Nè các cậu mau nhìn chiếc du thuyền đó kìa nó có phải của bác Takiguchi không vậy.
+data26_84,data26,534.35,535.35,Đúng rồi đó.,Đúng rồi đó.
+data26_85,data26,538.45,539.97,Hình như họ định tắm biển á.,Hình như họ định tắm biển á.
+data26_86,data26,540.17,543.2,"Bác ơi bác, cảm ơn quân lúc nãy nha.",Bác ơi bác Cảm ơn bữa ăn lúc nãy nha.
+data26_87,data26,548.9,550.6,Tụi mình cũng xuống bơi chút đây.,Tụi mình cùng xuống bờ yên chút đi.
+data26_88,data26,550.8,551.6,"Ở đây, tất cả các bạn, đều có một cái tài năng để tìm hiểu về mình. Ý hay đó.",Ý hay đó.
+data26_89,data26,551.8,553.68,Mấy cậu chờ mình đi lấy phao nha.,Vậy mấy cậu chơi mình đi lấy phao nha.
+data26_90,data26,555.08,559.18,Nước khác quá vậy. Có ai có ai có ai có.,Sao nước khác quá vậy có ai có ai cứu.
+data26_91,data26,559.38,560.18,Có thấy đàn chim?,Bác ấy đang chìm
+data26_92,data26,582.47,583.87,Hy vọng là không sao.,Hy vọng là không sao.
+data26_93,data26,584.27,587.07,Tự nhiên mình không còn tâm trạng để chơi bò ở gì nữa.,Tự nhiên mình không còn tâm trạng để chơi bờ gì nữa.
+data26_94,data26,588.25,594.57,Nắng vẫn còn gắt lắm. Chúng ta nên quay về trước đi. Có thể gọi điện cho bệnh viện hỏi thăm tình hình của ông Takiguchi sau.,Nắng vẫn còn gắt lắm chúng ta nên quay về trước đi có thể gọi điện cho bệnh viện hỏi thăm tình hình của ông Takiguchi sau mà.
+data26_95,data26,600.57,604.58,Hồi nãy mấy đứa đã cùng dùng bữa trưa cùng với vợ chồng ngài Takiguchi có đúng không hả?,Hồi nãy mấy đứa đã cùng dùng bữa trưa Cùng với vợ chồng ngài Takiguchi có đúng không hả.
+data26_96,data26,604.88,610.12,Quay lại để dọn chén đĩa nhưng không thấy có ai ở trên du thuyền hết trơn á. Mấy đứa có biết họ ra đi đâu rồi.,Chú quay lại để dọn chén đĩa nhưng không thấy có ai ở trên du thuyền hết trơn á mấy đứa có biết họ đã đi đâu rồi hay không.
+data26_97,data26,610.76,613.66,"Ờ, vậy để tụi cháu lên dọn rồi đem lại đây cho chú nha.",Ờ Vậy để tụi cháu lên dọn rồi đem lại đây cho chú nha.
+data26_98,data26,620.36,621.48,Thật là tội nghiệp.,Thật là tội nghiệp.
+data26_99,data26,621.68,624.65,Ra là bé không được lên xe cấp cứu cùng với họ hả?,Ra là bé không được lên xe cấp cứu cùng với họ hả.
+data26_100,data26,626.88,628.55,Còn quần áo này thì làm sao đây.,Còn quần áo này thì làm sao đây.
+data26_101,data26,629.11,631.49,Tụi mình thu dọn luôn cho vợ chồng bác ấy nha.,Tụi mình thu dọn luôn cho vợ chồng bắt ấy nha.
+data26_102,data26,631.99,633.29,"Ờ phải, cậu nói đúng.","Ờ phải, cậu nói đúng."
+data26_103,data26,639.29,640.81,Đây là một vụ tai nạn thật sao.,Đây là một vụ tai nạn thật sao.
+data26_104,data26,641.47,648.94,Hiện giờ chúng tôi vẫn đang tiến hành điều tra vụ việc. Để biết chính xác nguyên nhân nhưng theo lời khai của các nhân chứng. Thì lúc đó ông ấy đã tự nhảy xuống biển.,Hiện giờ chúng tôi vẫn đang tiến hành điều tra vụ diệt để biết chính xác nguyên nhân nhưng theo lời khai của các nhân chứng thì lúc đó ông ấy đã tự nhảy xuống biển.
+data26_105,data26,649.34,650.66,Không thể nào có chuyện như vậy.,Không thể nào có chuyện như vậy.
+data26_106,data26,650.86,653.84,Biết đâu thời điểm đó có người đẩy ông ấy xuống biển thì sao?,Biết đâu thời điểm đó có người đẩy ông ấy xuống biển thì sao.
+data26_107,data26,654.06,660.34,Chúng tôi đã xác nhận trên YouTube lúc đó chỉ có ông ấy và vợ thôi không lẽ ý của anh chính là vợ ông ấy đã làm sao.,"Chúng tôi đã xác nhận trên du thuyền lúc đó chỉ có ông ấy và vợ thôi, không lẽ ý của anh chính là vợ ông ấy đã làm sao?"
+data26_108,data26,660.4,668.07,Không phải là tôi muốn đổ tội cho ai hết nhưng Ngài chủ tịch đã từng kể là Lúc nhỏ ông ấy suýt nữa thì chết đuối ở một.,Không phải là tôi muốn đổ tội cho ai hết nhưng... Ngài chủ tịch đã từng kể là lúc nhỏ ông ấy suýt nửa thì chết đuối ở một ô sông.
+data26_109,data26,668.33,671.51,Nên từ đó rất sợ nước. Hơn nữa ông ấy cũng không biết bơi.,Nên từ đó rất sợ nước. Hơn nửa ông ấy cũng có biết bơi đâu.
+data26_110,data26,671.65,674.99,Nhưng bác ấy đã tập bơi và đã có thể bơi thành thạo luôn rồi.,Nhưng bác ấy đã tập bơi và đã có thể bơi thành thạo luôn rồi.
+data26_111,data26,676.67,677.92,Sao có mấy đứa nhỏ ở đây.,Sao có mấy đứa nhỏ ở đây?
+data26_112,data26,678.67,680.82,Ờ xin lỗi vì đã chen ngang.,"Ờ, xin lỗi vì đã chen ngang."
+data26_113,data26,681.04,685.24,Đã làm quen với ông Takiguchi ở trên du thuyền khi cũng tới đây tắm biển.,Tụi nhỏ đã làm quen với ông Takiguchi ở trên du thuyền khi chúng tới đây tắm biển.
+data26_114,data26,720.67,726.39,Trước đây chúng tôi đã thuyết phục ngài chủ tịch. Lập di chúc trước khi kết hôn. Để đảm bảo minh bạch mọi tài sản. Thuộc sở hữu của ông ấy.,Trước đây chúng tôi đã thuyết phục ngài chủ tịch lập Di Trúc trước khi kết hôn để đảm bảo minh bạch mỗi tài sản thuộc sở hữu của ông ấy.
+data26_115,data26,726.79,731.67,Nếu như thật sự chủ tịch bị vợ của mình lừa gạt. Và ra tay giết hại. Thì tất cả tài sản đó sẽ.,"Nếu như thật sự chủ tịch bị vợ của mình lựa gạt và ra tay giết hại, thì tất cả tài sản đó sẽ..."
+data26_116,data26,733.08,735.08,Sao chúng lại có thể nói conao như vậy.,Sao chú có thể nói cô Nao như vậy
+data26_117,data26,735.02,738.1,"Phải đó, cô ấy không bao giờ làm chuyện độc ác cho chú vừa nói.","Phải đó, cô ấy không bao giờ làm chuyện độc ác như chú vừa nói."
+data26_118,data26,738.14,745.04,"Thôi thôi, bình tĩnh đi mấy đứa. Rất tiếc về sự mất mát này. Vậy anh là nhân viên công ty của ông Takiguchi.","Thôi thôi, bình tĩnh đi mấy đứa. Rất tiếc về sự mất mát này. Vậy anh là nhân viên công ty của ông Takiguchi hả?"
+data26_119,data26,745.06,748.04,"Dạ đúng, tôi chính là thư ký của chủ tịch Takiguchi.","Dạ đúng, tôi chính là thư ký của chủ tịch Takiguchi."
+data26_120,data26,748.48,750.58,Các cháu để nhìn thấy toàn bộ sự việc sau.,Các cháu đã nhìn thấy toàn bộ sự việc sao?
+data26_121,data26,750.9,752.02,"Dạ, tụi cháu thấy hết.","Dạ, tụi cháu thấy hết."
+data26_122,data26,752.2,760.32,Lúc đó tụi cháu đang chơi bóng trên bãi biển. Và nhìn thấy bác ấy bị đuối nước. Trước đó bác ấy đứng trên du thuyền dãy chào tụi cháu. Sau đó thì nhảy ầm xuống nước luôn.,Lúc đó tụi cháu đang chơi bóng trên bãi biển và nhìn thấy bác ấy bị đuối nước lúc đó bác ấy đứng trên du thuyền dãy tay chào tụi cháu sau đó thì nhảy âm xuống nước luôn.
+data26_123,data26,761.22,768.28,Thì ra là vậy. Cảm ơn thông tin của các cháu nha. Giờ các cháu có thể đi theo chú. Để trả lời thêm vài câu hỏi nữa có được không hả.,Thì ra là vậy cảm ơn thông tin của các cháu nha giờ các cháu có thể đi theo chú để trả lời thêm vài câu hỏi nữa có được không hả?
+data26_124,data26,779.01,783.57,Các cháu có biết vợ ông Takiguchi làm gì khi ông ấy nhảy xuống biển và bị đuối nước.,Các cháu có biết vợ ông Takiguchi làm gì Khi ông ấy nhảy xuống biển và bị đuối nước hay không?
+data26_125,data26,787.62,790.76,Hình như là cô ấy đang dọn dẹp chén dĩa sau bữa ăn trưa á chú.,Hình như là cô ấy đang dọn dẹp chán dĩa sau bữa ăn trưa á chú.
+data26_126,data26,791.06,797.02,Thì ra là vậy. Vậy là lát sau cô ấy mới để ý chồng mình đã nhảy xuống và bị đuối nước. Mời vào.,Thì ra là vậy Vậy là lát sau cô ấy mới để ý chồng mình đã nhảy xuống và bị đuối nước Mời vào.
+data26_127,data26,802.41,803.4,Conao.,Cô Nao ?
+data26_128,data26,806.53,809.48,Ayumi. Cảm ơn cháu đã đem quần áo kế đây cho cô nha.,"Ayumi, cảm ơn cháu đã đem quần áo tới đây cho cô nha."
+data26_129,data26,815.08,820.1,Chắc móc sắt bị đứt ra nên nó rơi xuống biển. Khi cô nhảy xuống biển cứu chồng mình lúc anh ấy bị đuối nước.,Chắc móc sắt bị đứt ra nên nó rời xuống biển khi cô nhảy xuống biển cứu chồng mình lúc anh ấy bị đuối nước.
+data26_130,data26,822.63,829.05,Tôi đã nghe lời khai của tụi nhỏ chứng kiến sự việc. Chồng của cô đã tự mình nhảy xuống biển và nguyên nhân tử vong là do bị đuối nước.,Tôi đã nghe lời khai của tụi nhỏ chứng kiến sự diệt chồng của cô đã tự mình nhảy xuống biển và nguyên nhân tử vong là do bị đuối nước.
+data26_131,data26,829.25,833.11,Và xem ra đây đúng là một vụ tai nạn đáng tiếc trong lúc ông ấy tấm biển.,Và xem ra đây đúng là một vụ tai nạn đáng tiếc trong lúc ông ấy tâm biển.
+data26_132,data26,833.91,841.19,Tai nạn này tất cả là do tôi. Dù chồng tôi có bơi giỏi như thế nào đi chăng nữa. Tôi cũng phải chú ý tới ông ấy mọi lúc mọi nơi.,Tai nạn này tất cả là do tôi dù chồng tôi có bơi giỏi như thế nào đi chăng nữa tôi cũng phải chú ý tới ông ấy mọi lúc mọi nơi.
+data26_133,data26,841.49,849.21,Speaker 07.: Tôi cần xác nhận với cô một chi tiết nữa để chắc chắn các kết luận ở trên là đúng. Speaker 07.: Một nhân viên của công ty ông Takiguchi nói nạn nhân không hề biết bơi.,Tôi cần xác nhận với cô một chi tiết nữa để chắc chắn các kết luận ở trên là đúng một nhân viên của công ty ông Takiguchi nói nạn nhân không hề biết bơi.
+data26_134,data26,849.75,853.27,Vậy trước đó thật sự ông ấy đã học và bơi được rồi hả?,Vậy trước đó thật sự ông ấy đã học và bơi được rồi hả?
+data26_135,data26,853.84,854.46,Speaker 07.,Đúng vậy.
+data26_136,data26,854.64,858.16,Cô có thể cho chú ấy xem đoạn băng cảnh bác ấy tập bơi ở nhà.,Cô có thể cho chú ấy xem đoạn băng cảnh bác ấy tập bơi ở nhà.
+data26_137,data26,858.88,864.57,Cháu nói đúng. Đoạn phim này quay lại cảnh chồng tôi lần đầu tiên tập bơi trong hồ bơi ở nhà.,Cháu nói đúng đoạn phim này quay lại cảnh chồng tôi lần đầu tiên tập bơi trong hồ bơi ở nhà.
+data26_138,data26,866.23,870.09,Lúc đó có tôi xuất hiện trong đoạn phim này. Bởi vì người cầm máy quay là cô giúp việc.,Lúc đó có tôi xuất hiện trong đoạn phim này bởi vì người cầm máy quay là cô giúp việc.
+data26_139,data26,872.01,875.15,Còn cái này là đoạn phim quay lại. Chồng tôi bơi vào tuần trước.,Còn cái này là đoạn phim quay lại chồng tôi bơi vào tuần trước.
+data26_140,data26,885.56,889.76,Vậy là tôi hiểu rồi. Đúng thật là ông già bơi khá giỏi chứ không phải không biết bơi.,Vậy là tôi hiểu rồi đúng thật là ông nhà bơi khá giỏi chứ không phải không biết bơi.
+data26_141,data26,891.65,892.66,Ra đây với mình một chút.,Ra đây với mình một chút.
+data26_142,data26,895.35,896.46,Chuyện gì vậy Conan.,Có chuyện gì vậy conan?
+data26_143,data26,896.76,898.72,Cháu mình coi lại đoạn phim cậu đó quay hồi nãy đi.,Cho mình coi lại đoạn phim cậu đã quay hồi nãy đi.
+data26_144,data26,898.86,900.42,"Ờ được, để mình lấy cho cậu.","Ờ được, để mình lấy cho cậu."
+data26_145,data26,907.92,912.02,Trong đó có gì quan trọng hả? Hay cậu đã phát hiện ra lúc đó có điều gì bất ổn?,Trong đó có gì quan trọng hả? Hay cậu đã phát hiện ra lúc đó có điều gì bất ổn?
+data26_146,data26,917.4,919.28,Tốt lắm. Đoạn phim này có âm thanh.,Tốt lắm. Đoạn phim này có âm thanh.
+data26_147,data26,937.33,939.55,Mình có thể phóng to hình ảnh được không?,Mình có thể phóng to hình ảnh được không?
+data26_148,data26,939.73,941.85,"Được chứ, đây là máy quay kỹ thuật số mà.",Được chứ. Đây là máy quay kỹ thực số mà.
+data26_149,data26,958.44,966.27,Như vậy nghĩa là sao? Khi nhìn thấy chồng mình dùng dãy dưới biển. Và đang kêu cứu liên tục như vậy. Thì cô ấy chờ thêm một lát mới nhảy xuống.,Như vậy nghĩa là sao? Khi nhìn thấy chồng mình dùng dãy giữa biển và đang kêu cứu liên tục như vậy thì cậu ấy chờ thêm một lát mới nhảy xuống để cứu chồng.
+data26_150,data26,967.15,969.71,"Mà hơn nữa, trên du thuyền có phao cứu hộ.","Mà hơn nữa, trên du thuyện có phao cứu hộ."
+data26_151,data26,1009.17,1015.51,Sẽ đưa cô quay trở lại bệnh viện. Nhờ mọi người mà cảnh sát đã giải quyết xong vụ án. Cảm ơn mọi người rất nhiều.,"Cảnh sát sẽ đưa cô bay trở lại bệnh viện, nhờ mọi người mà cảnh sát đã giải quyết xong vụ án cảm ơn mọi người rất nhiều."
+data26_152,data26,1015.71,1018.15,Ngài thanh tra hả?,Vui lòng chờ tôi một lát nghe ngài thanh tra hả?
+data26_153,data26,1018.55,1021.19,Không lẽ là ông còn điều gì muốn nói về vụ án nữa.,Không lẽ là ông còn điều gì muốn nói về vụ án nữa hay sao?
+data26_154,data26,1021.51,1028.77,"Không, không có. Đây không phải là một vụ tai nạn đuối nước. Mà là một vụ án mạng có sắp đặt cẩn thận từ trước.","Không, không có. Đây không phải là một vụ tai nạn đuối nước mà là một vụ án mạng có sắp đặt cẩn thận từ trước."
+data26_155,data26,1032.7,1041.62,Các nhân chứng đều nói đã nhìn thấy ông Takiguchi tự nhảy xuống biển mà đúng như vậy nhưng nếu như ông ấy nhận thức được mình không hề biết bơi thì tôi chắc.,Các nhân chứng đều nói đã nhìn thấy ông Takiguchi tự nhảy xuống biển mà. Đúng như vậy Nhưng nếu như ông ấy nhận thức được mình không hề biết bơi thì tôi chắc chắn.
+data26_156,data26,1041.62,1050.42,Không bao giờ dám nhảy xuống biển như vậy đâu Takiguchi nghĩ là mình đã bơi rất thuần thục Nhưng thực tế thì hoàn toàn ngược lại Và ông ta đã bị dụ lên.,Ông ấy không bao giờ dám nhảy xuống biển như vậy đâu Takiguchi nghĩ là mình đã bơi rất thuần thuộc nhưng thực tế thì hoàn toàn ngược lại và ông ta đã bị vụ lên du thuyền.
+data26_157,data26,1050.42,1059.56,Một vùng biển mình không quen thuộc Để thể hiện khả năng bơi lội Vậy đây không phải vụ mưu sát có tính toán sao Đúng chứ Cô Takiguchi nào.,Tới một vùng biển mình không quen thuộc để thể hiện khả năng bơi lội vậy đây không phải vụ mưu sát của tính toán sao đúng chứ cô Takiguchi Nao.
+data26_158,data26,1060.14,1068.84,Sự thật là chồng của tôi bơi rất thành thạo. Mọi người đã tận mắt nhìn thấy rồi kia mà. Không lẽ ý ông muốn nói. Đoạn phim đó có gì đó không ổn.,Sự thật là chồng của tôi bơi rất thành thạo mọi người đã tận mắt nhìn thấy rồi kìa mà không lẽ ý ông muốn nói đoạn phim đó có gì đó không ổn hay sao chứ.
+data26_159,data26,1069.04,1078.1,"Không phải vậy. Đoạn phim đã quay không có gì bất ổn. Đúng là ông Takiguchi biết bơi. Ê, vậy rốt cuộc ông muốn nói điều gì chứ? Sự thật chính là.",Không phải vậy đoạn phim đã quay không có gì bất ổn đúng là ông ta Kiguchi biết bơi ê vậy rốt cuộc ông muốn nói điều gì chứ sự thật chính là.
+data26_160,data26,1078.6,1082.39,Ông ấy biết bơi trong hồ bơi nhà mình thôi. Conan ơi giúp bác.,Ông ấy biết bơi trong hồ bơi nhà mình thôi Conan ơi giúp bác.
+data26_161,data26,1084.91,1091.15,Cháu chơi mượn cái này chút. Cháu sẽ chỉ cho mọi người thấy sự khác thường. Chú hãy nhìn dòng cổ của cô Nao trong đoạn phim này đi.,Cho cháu mượn cái này chút cháu sẽ chỉ cho mọi người thấy sự khác thường chú hãy nhìn dòng cổ của cô Nao trong đoạn phim này đi.
+data26_162,data26,1092.29,1098.81,"Đây nè, chú có thấy nó đang chìm dưới nước không? Nhưng trong đoạn phim quay tuần trước, đây nó lại nổi trên mặt nước.","Đây nè chú có thấy nó đang chìm dưới nước không nhưng trong đoạn phim quay tuần trước đây, nó lại nổi trên mặt nước nè."
+data26_163,data26,1099.55,1101.41,"Đợi, đợi một chút.","Ê, đợi, đợi một chút."
+data26_164,data26,1104.5,1109.6,Đúng là trong đoạn phim này. Vòng cổ nổ trên mặt nước. Chuyện này là sao.,"Đúng, đúng là trong đoạn phim này dòng cổ nổi trên mặt nước chuyện này là sao chứ?"
+data26_165,data26,1109.8,1111.98,Có thể giải thích kỹ càng hơn cho tôi được không?,Ông có thể giải thích kỹ càng hơn cho tôi được không?
+data26_166,data26,1114.53,1122.64,Tại sao dòng cổ lại chìm thì chính cô Rô đã cho chúng ta biết câu trả lời rồi miếng kim loại đeo trên dòng cổ của bé Cun Cô Rô này.,Tại sao dòng cổ lại chìm? Thì chính cô Rô đã cho chúng ta biết câu trả lời rồi miếng kim loại đeo trên dòng cổ của bé cuốn cô Rô này.
+data26_167,data26,1122.64,1131.52,Bị gỉ một cách rất bất thường vì nó đã bị oxy hóa ở trong nước. Quyên nhân là vì cô Na O đây đã cho vào hồ mơi ở nhà mình một lượng lớn muối.,Đã bị ghỉ một cách rất bất thường vì nó đã bị oxy hóa ở trong nước nguyên nhân là vì cô Na-ô đây đã cho vào hồ mơi ở nhà mình một lượng lớn muối tắm.
+data26_168,data26,1131.82,1140.87,Để cơ thể của chồng mình nổi dậy dàng trên mặt nước chiếc dòng cổ làm từ acrylic và trông lượng riêng của nó so với nước là 1.17 tới 1.2.,Để cơ thể của chồng mình nổi dễ dàng trên mặt nước chiếc dòng cổ làm từ acrylic và trong lượng riêng của nó so với nước là 1.17-1.2.
+data26_169,data26,1140.97,1150.33,Nên cái dòng cổ bị chìm trong đoạn phim đầu tiên. Nhưng sau khi cô ấy cho thêm muối tắm vào hồ bơi. Tỉ trọng thay đổi cho nên cái dòng cổ nổi lên. Tôi nói như vậy có đúng không?,Nên cây dòng cổ bị chìm trong đoạn phim đầu tiên nhưng sau khi cô ấy cho thêm muối tắm vào hồ mơi tỷ trọng thay đổi cho nên cây dòng cổ nổi lên tôi nói như vậy có đúng không?
+data26_170,data26,1152.1,1157.66,Ông nói không đúng. Nếu tôi cho nhiều muối vào hồ như vậy. Thì dù chồng tôi có ngốc tới mấy. Chắc chắn cũng sẽ nhận ra.,Ông nói không đúng nếu tôi cho nhiều muối vào hồ như vậy thì dù chồng tôi có ngốc tới mấy chắc chắn cũng sẽ nhận ra.
+data26_171,data26,1157.76,1167.39,Vậy cô đã dùng thứ gì thay cho muối tắm. Vòng cổ cô đeo lúc đầu chìm trong nước. Sau đó lại nổi trên nước cách đây một tuần. Chỉ cần cảnh sát lấy mẫu xét nghiệm nước hồ bơi ở nhà cô.,Vậy cô đã dùng thứ gì thay cho mũi tắm vòng cổ cô đeo lúc đầu chìm trong nước sau đó lại nổi trên nước cách đây một tuần chỉ cần cảnh sát lấy mẫu xét nghiệm nước hồ bơi ở nhà cô.
+data26_172,data26,1167.59,1174.19,Là có thể xác định được thành phần cắt chất có trong đó ngay thôi mà chắc là chúng tôi phải ghé nhà cô một chuyến để kiểm chứng chuyện này rồi.,Là có thể xác định được thành phần các chất có trong đó ngay thôi mà chắc là chúng tôi phải ghé nhà cô một chuyến để kiểm chứng chuyện này rồi.
+data26_173,data26,1174.66,1179.3,Các ông sẽ không tìm thấy được gì đâu. Bởi vì tôi đã tháo hết nước trong hồ bơi ra từ lâu rồi.,Các ông sẽ không tìm thấy được gì đâu bởi vì tôi đã tháo hết nước trong hồ bơi ra từ lâu rồi.
+data26_174,data26,1179.6,1188.26,Cô đừng đánh giá thấp nghiệp vụ của cảnh sát. Họ có thể xác định được cô đã bỏ chất gì vào trong nước chỉ bằng cách phân tích cái thành hồ bơi chứ không cần lấy bộ nước trong hồ.,Cô đừng đánh giá thấp nghiệp vụ của cảnh sát họ có thể xác định được cô đã bỏ chất gì vào trong nước chỉ bằng cách phân tích cái thành hồ bơi chứ không cần lấy mẫu nước trong hồ.
+data26_175,data26,1188.45,1189.14,Cái gì chứ?,Cái gì chứ.
+data26_176,data26,1189.54,1195.3,"Rè của Nao, những gì ông mới vừa nói có phải là sự thật hay không? Rốt cuộc mọi chuyện là sao?","Nè cô Nao, những gì ông ấy vừa nói có phải là sự thật hay không rốt cuộc mọi chuyện là sao."
+data26_177,data26,1201.76,1203.64,Ông ấy đã nói đúng.,Ông ấy đã nói đúng.
+data26_178,data26,1205.93,1215.63,Đúng như những gì ông ấy vừa phân tích. Lúc đầu tôi đã cho muối tắm vào hồ bơi. Nhưng sau khi tăng lượng muối lên. Thì chồng tôi nhận ra sự bất thường này ngay. Vì vậy tôi đã thay muối tắm.,Đúng như những gì ông ấy vừa phân tích lúc đầu tôi đã cho muối tắm vào hồ bơi nhưng sau khi tăng lượng muối lên thì chồng tôi nhận ra sự bất thường này ngay vì vậy tôi đã thay muối tắm.
+data26_179,data26,1215.63,1222.17,"Speaker 07.: Bằng chất polymer hòa tan trong nước, đây là một hợp chất an toàn, thường được dùng trong thực phẩm và cả trong dược phẩm.","Bằng chất polymer quả tan trong nước đây là một hợp chất an toàn, thường được dùng trong thực phẩm và cả trong dược phẩm cũng vậy."
+data26_180,data26,1223.03,1228.71,"Speaker 07. Khi đó tỉ trọng của nước trong hồ vào khoảng 1,3. Và chồng tôi tin là mình đã biết bơi rồi.","Khi đó tỷ trọng của nước trong hồ vào khoảng 1,3 và chồng tôi tin là mình đã biết bơi rồi."
+data26_181,data26,1230.01,1234.59,Nếu tị trọng khoảng 130 thì đủ để một người lớn vừa nằm đọc sách vừa nói trên mặt.,"Nếu tỷ trọng khoảng 1,3 thì đủ để một người lớn vừa nằm đọc sách vừa nối trên mặt nước."
+data26_182,data26,1236.25,1241.31,Hoàn toàn có thể đánh lừa ông Takiguchi và khiến ông ấy nghĩ là mình đã bơi rất thành thạo.,Hoàn toàn có thể đánh lừa ông Takiguchi và khiến ông ấy nghĩ là mình đã bơi rất thành thạo rồi.
+data26_183,data26,1241.72,1248.38,"Có lẽ vào lúc đó, cô đã cố tình quay lại những đoạn phim này để đề phòng trường hợp cảnh sát sẽ điều tra cái chết của chồng.",Có lẽ vào lúc đó cô đã cố tình quay lại những đoạn phim này để đề phòng trường hợp cảnh sát sẽ điều tra cái chết của chồng mình.
+data26_184,data26,1249.08,1252.42,Nhưng thật không ngờ chính sự cẩn tận đó lại là bằng chứng tố cáo.,Nhưng thật không ngờ chính sự cẩn thận đó lại là bằng chứng tố cáo cô.
+data26_185,data26,1254.92,1260.24,Speaker 07.: Tôi không hề thấy hối hận. Speaker 07.: Người đàn ông đó không hề nghĩ tới một điều gì khác ngoài việc phát triển công ty.,Tôi không hề thấy hối hận người đàn ông đó không hề nghĩ tới một điều gì khác ngoài việc phát triển công ty.
+data26_186,data26,1261.46,1269.85,"Để đạt được mục đích, ông ta sẵn sàng dùng mọi thủ đoạn, bất chấp những hậu quả mình đã gây ra, mà không cần biết những việc mình làm khiến bao nhiêu người phải chịu đau khổ.","Để đạt được mục đích, ông ta sẵn sàng dùng mọi thủ đoạn bất chấp những hậu quả mình đã gây ra mà không cần biết những việc mình làm khiến bao nhiêu người phải chịu đau khổ."
+data26_187,data26,1270.25,1278.93,Cho nên tôi đã quyết định bắt ông ta phải trả giá cho những việc vô nhân tính đó. Tôi không thể chịu đựng được hơn nữa khi chứng kiến sự vô cảm của ông ta.,Cho nên tôi đã quyết định bắt ông ta phải trả giá cho những việc vô nhân tính đó tôi không thể chịu đựng được hơn nữa khi chứng kiến sự vô cảm của ông ta.
+data26_188,data26,1279.33,1285.9,Thật ghê tởm khi sống cùng một mái nhà. Tôi đã chịu đựng quá giới hạn của bản thân mình rồi.,Thật ghê tởm khi sống cùng một mái nhà tôi đã chịu đựng quá giới hạn của bản thân mình rồi.
+data26_189,data26,1286.5,1294.13,Có lẽ ông Takiguchi là một người vô cảm và chỉ biết tới tiền mà thôi. Vì mục đích của mình mà ông ta có thể bất chấp mọi thủ đoạn.,Có lẽ ông Takiguchi là một người vô cảm và chỉ biết tới tiền mà thôi vì mục đích của mình mà ông ta có thể bất chấp mọi thủ đoạn.
+data26_190,data26,1294.23,1300.67,Nhưng cô không nghĩ một người ra tay giết chồng của mình mà không hề thấy hối hận. Cũng là một kẻ mất khích nhân tính và đám bị trừng trị hay sao.,Nhưng cô không nghĩ một người ra tay giết chồng của mình mà không hề thấy hối hận cũng là một kẻ mất khách nhân tính và đáng bị trừng trị hay sao.
+data26_191,data26,1393.5,1397.64,"Sau khi được mời bữa trưa thịnh soạn, mình cũng có ấn tượng rất tốt với cô ấy.",Sau khi được mời bữa trưa thịnh soạn mình cũng có ấn tượng rất tốt với cô ấy
+data26_192,data26,1397.7,1400.34,Chuyện này mình không cần tin vào người lớn nữa.,Sao chuyện này mình không cần tin vào người lớn nữa?
+data26_193,data26,1400.71,1404.01,Speaker 08? Speaker 08?,"Người lớn luôn có rất nhiều chuyện riêng của họ, họ rất phức tạp."
+data26_194,data26,1403.99,1410.63,Cháu nói đúng lắm. Nên bác luôn cố giữ cho mình một tâm hồn trong sáng. Cháu dám cười nhạo sự trong sáng của bác.,"Cháu nói đúng lắm, nên bác luôn cố giữ cho mình một tâm hồn trong sáng. Cháu dám cười nhạo sự trong sáng của bác à."
+data26_195,data26,1410.79,1413.31,Mà chúng ta có bên tôi không vậy bác tiến sĩ ơi.,Mà chúng ta có bento không vậy bác tiến sĩ ơi?
+data26_196,data26,1413.49,1417.71,Ờ quên ha. Bữa trưa chúng ta được ngồi ăn nên bên tôi chỉ cho ai đụng tới.,"Mà chúng ta có bento không vậy bác tiến sĩ ơi? Ờ quên ha, bữa trưa chúng ta được ngồi ăn nên bento vẫn chưa ai đụng tới."
+data26_197,data26,1417.71,1421.91,"Mày quá, cháu muốn ăn lắm. Nhất mới nhớ, tự nhiên mình thấy đói bụng quá.","May quá, cháu muốn ăn lắm. Nhất mến, tự nhiên mình thấy đói bụng quá à."
+data26_198,data26,1426.37,1429.71,Cảm giác buồn bã hồi nãy biến đôi rồi. Đúng là trẻ con.,Cảm giác buồn bã nãy đâu đúng là trẻ con mà.

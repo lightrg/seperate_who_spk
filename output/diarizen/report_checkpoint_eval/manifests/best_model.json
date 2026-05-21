@@ -1,0 +1,311 @@
+{
+  "eval_script": "D:\\infe\\danh_gia_check_point_md_v2_fixed_low025.py",
+  "checkpoint": {
+    "label": "best_model",
+    "ckpt_path": "D:\\infe\\cp\\best_model.pth",
+    "order_key": [
+      2,
+      9998,
+      "best_model.pth"
+    ]
+  },
+  "runs_root": "D:\\infe\\checkpoint_eval_report_low025\\runs",
+  "hf_model": "BUT-FIT/diarizen-wavlm-large-s80-md-v2",
+  "failed_manifest": "D:\\infe\\checkpoint_eval_report_low025\\manifests\\best_model_failed.json",
+  "samples": [
+    {
+      "split": "test_data",
+      "case_id": "data2",
+      "case_dir": "D:\\infe\\data\\test_data\\data2",
+      "wav_path": "D:\\infe\\data\\test_data\\data2\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data2\\labeled\\meeting_20260327_112017_9637db84.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data2\\enrollment",
+      "n_speakers": 2,
+      "group_name": "vivo",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data2",
+        "overlap_count": "0",
+        "n_spk": "2",
+        "index": "2",
+        "_class_name": "2",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 257,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data5",
+      "case_dir": "D:\\infe\\data\\test_data\\data5",
+      "wav_path": "D:\\infe\\data\\test_data\\data5\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data5\\labeled\\meeting_20260327_112028_f928ffae.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data5\\enrollment",
+      "n_speakers": 3,
+      "group_name": "vivo",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data5",
+        "overlap_count": "0",
+        "n_spk": "3",
+        "index": "5",
+        "_class_name": "5",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 237,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data8",
+      "case_dir": "D:\\infe\\data\\test_data\\data8",
+      "wav_path": "D:\\infe\\data\\test_data\\data8\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data8\\labeled\\meeting_20260327_112039_b2452224.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data8\\enrollment",
+      "n_speakers": 4,
+      "group_name": "vivo",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data8",
+        "overlap_count": "0",
+        "n_spk": "4",
+        "index": "8",
+        "_class_name": "8",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 246,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data11",
+      "case_dir": "D:\\infe\\data\\test_data\\data11",
+      "wav_path": "D:\\infe\\data\\test_data\\data11\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data11\\labeled\\meeting_20260327_112127_0a7bb5e9.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data11\\enrollment",
+      "n_speakers": 2,
+      "group_name": "vivo",
+      "overlap_count": 10.0,
+      "metadata": {
+        "data_name": "data11",
+        "overlap_count": "10",
+        "n_spk": "2",
+        "index": "2",
+        "_class_name": "2",
+        "_overlap_count": 10.0
+      },
+      "ref_segments": 285,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data14",
+      "case_dir": "D:\\infe\\data\\test_data\\data14",
+      "wav_path": "D:\\infe\\data\\test_data\\data14\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data14\\labeled\\meeting_20260327_112138_607a3bd2.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data14\\enrollment",
+      "n_speakers": 3,
+      "group_name": "vivo",
+      "overlap_count": 10.0,
+      "metadata": {
+        "data_name": "data14",
+        "overlap_count": "10",
+        "n_spk": "3",
+        "index": "5",
+        "_class_name": "5",
+        "_overlap_count": 10.0
+      },
+      "ref_segments": 324,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data17",
+      "case_dir": "D:\\infe\\data\\test_data\\data17",
+      "wav_path": "D:\\infe\\data\\test_data\\data17\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data17\\labeled\\meeting_20260327_112152_8a366e26.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data17\\enrollment",
+      "n_speakers": 4,
+      "group_name": "vivo",
+      "overlap_count": 10.0,
+      "metadata": {
+        "data_name": "data17",
+        "overlap_count": "10",
+        "n_spk": "4",
+        "index": "8",
+        "_class_name": "8",
+        "_overlap_count": 10.0
+      },
+      "ref_segments": 255,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data56",
+      "case_dir": "D:\\infe\\data\\test_data\\data56",
+      "wav_path": "D:\\infe\\data\\test_data\\data56\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data56\\labeled\\meeting_20260327_112046_fe96cb99.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data56\\enrollment",
+      "n_speakers": 2,
+      "group_name": "vivo",
+      "overlap_count": 5.0,
+      "metadata": {
+        "data_name": "data56",
+        "overlap_count": "5",
+        "n_spk": "2",
+        "index": "11",
+        "_class_name": "11",
+        "_overlap_count": 5.0
+      },
+      "ref_segments": 257,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data59",
+      "case_dir": "D:\\infe\\data\\test_data\\data59",
+      "wav_path": "D:\\infe\\data\\test_data\\data59\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data59\\labeled\\meeting_20260327_112055_c2fec41b.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data59\\enrollment",
+      "n_speakers": 3,
+      "group_name": "vivo",
+      "overlap_count": 5.0,
+      "metadata": {
+        "data_name": "data59",
+        "overlap_count": "5",
+        "n_spk": "3",
+        "index": "14",
+        "_class_name": "14",
+        "_overlap_count": 5.0
+      },
+      "ref_segments": 284,
+      "duration_sec": null
+    },
+    {
+      "split": "test_data",
+      "case_id": "data62",
+      "case_dir": "D:\\infe\\data\\test_data\\data62",
+      "wav_path": "D:\\infe\\data\\test_data\\data62\\audio.wav",
+      "rttm_path": "D:\\infe\\data\\test_data\\data62\\labeled\\meeting_20260327_112110_7ec4c4fa.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_data\\data62\\enrollment",
+      "n_speakers": 4,
+      "group_name": "vivo",
+      "overlap_count": 5.0,
+      "metadata": {
+        "data_name": "data62",
+        "overlap_count": "5",
+        "n_spk": "4",
+        "index": "17",
+        "_class_name": "17",
+        "_overlap_count": 5.0
+      },
+      "ref_segments": 294,
+      "duration_sec": null
+    },
+    {
+      "split": "test_labeled",
+      "case_id": "data1",
+      "case_dir": "D:\\infe\\data\\test_labeled\\data1",
+      "wav_path": "D:\\infe\\data\\test_labeled\\data1\\mixture.wav",
+      "rttm_path": "D:\\infe\\data\\test_labeled\\data1\\labeled\\mixture.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_labeled\\data1\\enrollment",
+      "n_speakers": 4,
+      "group_name": "chuyen_ho",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data1",
+        "overlap_count": "0",
+        "n_spk": "4",
+        "index": "chuyen_ho",
+        "_class_name": "chuyen_ho",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 632,
+      "duration_sec": null
+    },
+    {
+      "split": "test_labeled",
+      "case_id": "data19",
+      "case_dir": "D:\\infe\\data\\test_labeled\\data19",
+      "wav_path": "D:\\infe\\data\\test_labeled\\data19\\mixture.wav",
+      "rttm_path": "D:\\infe\\data\\test_labeled\\data19\\labeled\\mixture.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_labeled\\data19\\enrollment",
+      "n_speakers": 4,
+      "group_name": "coi_moi",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data19",
+        "overlap_count": "0",
+        "n_spk": "4",
+        "index": "coi_moi",
+        "_class_name": "coi_moi",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 669,
+      "duration_sec": null
+    },
+    {
+      "split": "test_labeled",
+      "case_id": "data52",
+      "case_dir": "D:\\infe\\data\\test_labeled\\data52",
+      "wav_path": "D:\\infe\\data\\test_labeled\\data52\\mixture.wav",
+      "rttm_path": "D:\\infe\\data\\test_labeled\\data52\\labeled\\mixture.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_labeled\\data52\\enrollment",
+      "n_speakers": 3,
+      "group_name": "dustin_1",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data52",
+        "overlap_count": "0",
+        "n_spk": "3",
+        "index": "dustin_1",
+        "_class_name": "dustin_1",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 785,
+      "duration_sec": null
+    },
+    {
+      "split": "test_labeled",
+      "case_id": "data56",
+      "case_dir": "D:\\infe\\data\\test_labeled\\data56",
+      "wav_path": "D:\\infe\\data\\test_labeled\\data56\\mixture.wav",
+      "rttm_path": "D:\\infe\\data\\test_labeled\\data56\\labeled\\mixture.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_labeled\\data56\\enrollment",
+      "n_speakers": 4,
+      "group_name": "vif_1",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data56",
+        "overlap_count": "0",
+        "n_spk": "4",
+        "index": "vif_1",
+        "_class_name": "vif_1",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 625,
+      "duration_sec": null
+    },
+    {
+      "split": "test_labeled",
+      "case_id": "data60",
+      "case_dir": "D:\\infe\\data\\test_labeled\\data60",
+      "wav_path": "D:\\infe\\data\\test_labeled\\data60\\mixture.wav",
+      "rttm_path": "D:\\infe\\data\\test_labeled\\data60\\labeled\\mixture.rttm",
+      "enrollment_dir": "D:\\infe\\data\\test_labeled\\data60\\enrollment",
+      "n_speakers": 3,
+      "group_name": "vif_2",
+      "overlap_count": 0.0,
+      "metadata": {
+        "data_name": "data60",
+        "overlap_count": "0",
+        "n_spk": "3",
+        "index": "vif_2",
+        "_class_name": "vif_2",
+        "_overlap_count": 0.0
+      },
+      "ref_segments": 522,
+      "duration_sec": null
+    }
+  ]
+}

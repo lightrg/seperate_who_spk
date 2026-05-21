@@ -1,0 +1,191 @@
+{
+  "low_threshold": 0.05,
+  "high_threshold_used": null,
+  "num_assign_embeddings": 434,
+  "collect_stats": {
+    "primary": 292,
+    "aux": 0,
+    "fallback": 142,
+    "discarded_lt_0_5": 14
+  },
+  "assign_stats_final": {
+    "assigned_embeddings": 403,
+    "assigned_primary": 279,
+    "assigned_aux": 0,
+    "assigned_fallback": 124
+  },
+  "centroid_purify_stats": {
+    "enabled": true,
+    "iterations": 1,
+    "health_ok": true,
+    "skip_reason": null,
+    "selected_total": 260,
+    "selected_per_cluster": [
+      62,
+      61,
+      79,
+      58
+    ],
+    "candidate_total": 260,
+    "candidate_per_cluster": [
+      62,
+      61,
+      79,
+      58
+    ],
+    "rejected_invalid": 31,
+    "rejected_tier": 124,
+    "rejected_low_sim": 1,
+    "rejected_low_margin": 0,
+    "rejected_short": 18,
+    "min_cluster_count": 58,
+    "max_cluster_count": 79,
+    "cluster_imbalance_ratio": 1.3620689655172413,
+    "centroid_shift_cosine": [
+      [
+        0.9937280416488647,
+        0.9928706288337708,
+        0.990647554397583,
+        0.9736309051513672
+      ]
+    ],
+    "skipped_clusters_unstable": []
+  },
+  "force_assign_meta_debug": {
+    "force_meta_bucket_keys": 316,
+    "force_meta_bucket_entries_created": 316,
+    "force_meta_tracks_seen": 520,
+    "force_meta_tracks_existing_skipped": 316,
+    "force_meta_tracks_already_mapped_skipped": 0,
+    "force_meta_tracks_with_segments": 14,
+    "force_meta_tracks_no_segments": 190,
+    "force_meta_tracks_no_active": 190,
+    "force_meta_tracks_fragment_window": 0,
+    "force_meta_tracks_fragment_too_sparse": 0,
+    "force_meta_tracks_fragment_no_dense_window": 0,
+    "force_meta_tracks_clean_primary": 0,
+    "force_meta_tracks_clean_aux": 1,
+    "force_meta_tracks_clean_too_short": 0,
+    "force_meta_tracks_embedding_none": 9,
+    "force_meta_entries_created_from_force_only": 5,
+    "force_meta_total_entries": 321,
+    "force_meta_force_only_sample_keys": [
+      "(7, 1)|continuous_segment|tier=aux",
+      "(32, 0)|continuous_segment|tier=fallback",
+      "(36, 0)|continuous_segment|tier=fallback",
+      "(98, 0)|continuous_segment|tier=fallback",
+      "(114, 1)|continuous_segment|tier=fallback"
+    ]
+  },
+  "silence_filter_stats": {
+    "enabled": true,
+    "removed": 0,
+    "kept": 512,
+    "removed_dur_sec": 0.0,
+    "removed_by_tier": {}
+  },
+  "propagate_stats": {
+    "propagated_tracks": 106,
+    "force_assigned_tracks": 5,
+    "force_assign_candidates_total": 5,
+    "force_assign_lookup_hits_pass1": 5,
+    "force_assign_lookup_misses_pass1": 107,
+    "force_assign_lookup_misses_pass1_active": 7,
+    "force_assign_lookup_misses_pass1_inactive": 100,
+    "force_assign_same_track_other_chunk_pass1": 107,
+    "force_assign_lookup_hits_pass3": 0,
+    "force_assign_lookup_misses_pass3": 0,
+    "force_assign_lookup_misses_pass3_active": 0,
+    "force_assign_lookup_misses_pass3_inactive": 0,
+    "force_assign_same_track_other_chunk_pass3": 0,
+    "force_assign_orphan_accepted": 0,
+    "force_assign_orphan_rejected_low_score": 0,
+    "force_assign_orphan_rejected_low_margin": 0,
+    "force_assign_orphan_rejected_other": 0,
+    "global_propagated_tracks": 0,
+    "global_propagate_rejected_low_conf": 107,
+    "unmapped_tracks": 0,
+    "unmapped_tracks_active": 0,
+    "unmapped_tracks_inactive": 0,
+    "force_assign_sample_pass1_miss_active": [
+      "(7, 0)",
+      "(12, 0)",
+      "(15, 0)",
+      "(49, 0)",
+      "(50, 0)",
+      "(90, 0)",
+      "(108, 0)"
+    ],
+    "force_assign_sample_pass3_miss_active": [],
+    "hard_fallback_tracks": 107,
+    "hard_fallback_no_history": 0
+  },
+  "real_vbx_stats": {
+    "enabled": false,
+    "used": false,
+    "speech_intervals": 0,
+    "vbx_rows": 0,
+    "single_intervals": 0,
+    "relabelled_intervals": 0,
+    "relabelled_seconds": 0.0,
+    "relabel_candidates": 0,
+    "relabel_skipped_unmapped": 0,
+    "relabel_skipped_overlap_context": 0,
+    "relabel_rejected_low_gain": 0,
+    "relabel_rejected_high_conf_current": 0,
+    "relabel_rejected_neighbor": 0,
+    "mapping": {},
+    "mapping_debug": {},
+    "mapping_health": {},
+    "skipped_due_to_mapping_health": false,
+    "workdir": null,
+    "predict_cmd": null,
+    "vbhmm_cmd": null
+  },
+  "mapped_tracks_before_propagate": 302,
+  "mapped_tracks_after_propagate": 520,
+  "raw_segment_rows": 512,
+  "vbx_segment_rows": 512,
+  "final_segment_rows": 512,
+  "artifacts": {
+    "raw_rttm": "D:\\infe\\threshold_sweep_vivo_noise_report_optimized\\runs\\ep014_phase3_top6_consolidate\\thr_005\\test_data\\data62\\forensics_ep014_phase3_top6_consolidate__thr005__test_data__data62\\raw_low005.rttm",
+    "hyp_rttm": "D:\\infe\\threshold_sweep_vivo_noise_report_optimized\\runs\\ep014_phase3_top6_consolidate\\thr_005\\test_data\\data62\\forensics_ep014_phase3_top6_consolidate__thr005__test_data__data62\\hyp_low005.rttm"
+  },
+  "final_overlap_metrics": {
+    "label_mapping_hyp_to_ref": {
+      "SPK_0": "VIVOSSPK24",
+      "SPK_1": "VIVOSSPK30",
+      "SPK_2": "VIVOSSPK40",
+      "SPK_3": "VIVOSSPK43"
+    },
+    "overlap": {
+      "reference_overlap_seconds": 107.96000000000001,
+      "hypothesis_overlap_seconds": 358.11,
+      "true_positive_seconds": 102.72,
+      "false_positive_seconds": 255.39000000000001,
+      "false_negative_seconds": 5.24,
+      "precision": 0.2868392393398676,
+      "recall": 0.9514635050018526,
+      "f1": 0.4407921556847683
+    },
+    "exact2_identity": {
+      "reference_exactly_2_speaker_overlap_seconds": 107.96000000000001,
+      "both_correct_any_seconds": 88.63000000000844,
+      "both_correct_exact_seconds": 76.11000000000203,
+      "one_correct_seconds": 19.330000000000222,
+      "zero_correct_seconds": 0.0,
+      "detected_as_overlap_seconds": 102.72000000001565,
+      "collapsed_to_nonoverlap_seconds": 5.239999999999933
+    },
+    "false_positive_overlap_on_single": {
+      "seconds": 224.54999999994075,
+      "kept_true_plus_extra_seconds": 205.65999999995793,
+      "both_wrong_seconds": 18.890000000000153
+    }
+  },
+  "skipped": false,
+  "der": 29.111969444583302,
+  "miss": 0.4195688420889073,
+  "fa": 25.84451688506844,
+  "conf": 2.847883717425955
+}
