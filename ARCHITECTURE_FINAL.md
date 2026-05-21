@@ -102,14 +102,29 @@ Qwen is the large language model (LLM) family used in the final stage for text p
 
 ---
 
-## 7. Full Repository Tree
+## 7. Hybrid Path Architecture (Config for Full Pipeline)
+
+To seamlessly stitch the 4 independent models into an **End-to-End Full Pipeline**, this project employs a **Hybrid Path Architecture**:
+1. **Independent Model Modules (`diarizen/`, `pyannote/`, `phowhisper/`, `qwen/`)**: Internally, all training, evaluation, and inference scripts rely strictly on **local relative paths**. This ensures that each model can be tested or moved independently without breaking. They accept dynamic output paths via command-line arguments (CLI) such as `--out_json` or `--out_csv`.
+2. **Centralized Config for Full Pipeline (`full_pipeline/config/paths.py`, `full_pipeline/run_full_pipeline.py`, `web_app/`)**: To run the Full Pipeline, we need a "glue" layer. The `config/paths.py` provides this centralized configuration, defining a unified `output/` structure. The orchestrator (`run_full_pipeline.py`) calculates the exact absolute paths using this config and passes them down to the independent models via CLI arguments.
+
+This architecture ensures that we can strictly control where the Full Pipeline saves its outputs (centralized) without needing to modify or hardcode paths inside the isolated model codebases.
+
+---
+
+## 8. Full Repository Tree
 
 ```text
 seperate_who_sp/
 │
 ├── README.md                         # Installation guide, quick start, and results structure
-├── setup_env_310.sh                  # Script to create venv and auto-install Python 3.10 environment
-├── run_full_pipeline.sh              # Script to run the full pipeline (Diarization -> ASR -> Qwen)
+├── full_pipeline/                    # End-to-End Orchestration directory
+│   ├── setup_env_310.sh              # Script to create venv and auto-install Python 3.10 environment
+│   ├── run_full_pipeline.sh          # Bash script to run the full pipeline
+│   ├── run_full_pipeline.py          # Python script to run the full pipeline (Recommended - uses centralized paths)
+│   ├── pipeline/                     # Full Pipeline architecture diagrams and phase images
+│   └── config/
+│       └── paths.py                  # Centralized path configuration (Hybrid Path Architecture)
 │
 ├── requirements/
 │   ├── requirements_web.txt          # Libraries for Streamlit Web App
@@ -289,7 +304,8 @@ seperate_who_sp/
 ### Full Pipeline
 | Script | Called File | Purpose |
 |---|---|---|
-| `run_full_pipeline.sh` | Runs sequentially: Diarization → ASR → Summarization | Automates End-to-End full project |
+| `full_pipeline/run_full_pipeline.sh` | Runs sequentially: Diarization → ASR → Summarization | Automates End-to-End full project (Bash version) |
+| `full_pipeline/run_full_pipeline.py` | Runs sequentially: Diarization → ASR → Summarization | Automates End-to-End full project (Python version with centralized paths) |
 
 ### DiariZen
 | Script | Calls | Key Args |

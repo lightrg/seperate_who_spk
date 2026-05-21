@@ -24,6 +24,11 @@ seperate_who_sp/
 ├── data/              # Dataset splits
 ├── checkpoint/        # Model weights (.pth files)
 ├── requirements/      # Python 3.10 dependency files
+├── full_pipeline/     # End-to-End Orchestration
+│   ├── pipeline/      # Full Pipeline architecture diagrams and phase images
+│   ├── config/        # Centralized path configuration (Hybrid Path Architecture)
+│   ├── run_full_pipeline.py # Python orchestration script (Recommended)
+│   └── run_full_pipeline.sh # Bash orchestration script
 └── report/            # Capstone Project PDF Reports
 ```
 
@@ -39,6 +44,8 @@ Each model module follows a strict internal layout:
 └── README.md          # Module documentation
 ```
 
+> **Hybrid Path Architecture (Config for Full Pipeline):** To run the **Full Pipeline** smoothly without breaking individual models, the codebase uses a hybrid approach. Inside individual model modules (`<model>/`), scripts use **relative paths** to ensure reproducibility and keep experiments independent. To stitch them together into a full pipeline, we use a centralized path configuration in `config/paths.py`. The orchestrator (`run_full_pipeline.py` and `web_app/`) uses this config to manage the unified `output/` directory and passes these dynamic paths down to the models as command-line arguments.
+
 ---
 
 ## Pipeline Overview
@@ -50,28 +57,28 @@ Audio passes through sequential stages:
 | 1 | **DiariZen** or **Pyannote** | Speaker Diarization (Measured by DER*) | RTTM (who spoke when) |
 | 2 | **PhoWhisper** | Vietnamese ASR | Transcript CSV |
 | 3 | **Qwen 1.5B** | Summarization | Meeting Summary JSON + MD |
-| 4 | **Qwen 7B** *(eval only)* | Local Judge | Quality Score JSON |
 
 *(DER = Diarization Error Rate — the primary metric for speaker segmentation quality)*
+*(Note: **Qwen 7B** is also included in the repository as a Local Judge, but it is strictly an isolated evaluation tool and NOT part of the execution pipeline).*
 
 ### 4 Commands to Run the Full Pipeline via Terminal (CLI)
-You can run the entire system end-to-end using the `run_full_pipeline.sh` script in the root directory. Below are 4 use cases:
+You can run the entire system end-to-end using the `run_full_pipeline.py` script (or `run_full_pipeline.sh`) located in the `full_pipeline/` directory. The Python version is recommended as it uses a centralized `config/paths.py` architecture. Below are 4 use cases:
 
 1. **Using DiariZen + PhoWhisper + Qwen (Full):**
    ```bash
-   ./run_full_pipeline.sh --diar_model diarizen --data_dir data/test_labeled/data19
+   python full_pipeline/run_full_pipeline.py --diar_model diarizen --data_dir data/test_labeled/data19
    ```
 2. **Using Pyannote + PhoWhisper + Qwen:**
    ```bash
-   ./run_full_pipeline.sh --diar_model pyannote --data_dir data/test_labeled/data19
+   python full_pipeline/run_full_pipeline.py --diar_model pyannote --data_dir data/test_labeled/data19
    ```
 3. **Using DiariZen + PhoWhisper (Skip Qwen Summarization):**
    ```bash
-   ./run_full_pipeline.sh --diar_model diarizen --data_dir data/test_labeled/data19 --skip_qwen
+   python full_pipeline/run_full_pipeline.py --diar_model diarizen --data_dir data/test_labeled/data19 --skip_qwen
    ```
 4. **Using Pyannote + PhoWhisper (Skip Qwen Summarization):**
    ```bash
-   ./run_full_pipeline.sh --diar_model pyannote --data_dir data/test_labeled/data19 --skip_qwen
+   python full_pipeline/run_full_pipeline.py --diar_model pyannote --data_dir data/test_labeled/data19 --skip_qwen
    ```
 
 ---

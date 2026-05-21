@@ -21,7 +21,7 @@ This module provides a unified Streamlit UI to run the entire system pipeline se
 To maintain modularity and ease of maintenance, the web app code is split into logical components:
 
 *   **`app_streamlit.py`**: The main entry point of the Streamlit application. Manages the overall user interface, audio upload handling, and the sequential execution flow.
-*   **`pipeline_config.py`**: Configuration variables defining default paths to models, output directories, and active pipeline options.
+*   **`pipeline_config.py`**: Configuration variables defining default paths to models, output directories, and active pipeline options. **Note:** This file utilizes the project's central **Hybrid Path Architecture** by importing centralized paths from the root `config/paths.py` to ensure outputs are saved in the unified global `output/` directory.
 *   **`run_scripts/`**: Contains the launch script (`run_web_app.sh`) for macOS/Linux users.
 *   **`windows_scripts/`**: Legacy folder for Windows PowerShell environments. Contains older `.bat` files originally used for testing components on Windows. `pipeline.txt` is a historical command log for reference only — not maintained. `run_streamlit.ps1` (launch script), `install_extra_web.ps1` (dependency installer), and `pipeline.txt` (command reference). These are **not** used by the main Linux/Mac pipeline.
 

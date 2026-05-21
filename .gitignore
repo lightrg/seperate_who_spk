@@ -1,0 +1,92 @@
+# ===== Python environments =====
+venv/
+.venv/
+.venv_*/
+**/venv/
+**/.venv/
+**/.venv_*/
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Model weights / Checkpoints =====
+# All .pth/.pt/.bin/.safetensors are excluded globally (model weights are too large for git)
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+checkpoint/
+
+# Research EEND checkpoints
+pipeline_summary/test_v1/finetune_9_3/checkpoints/
+pipeline_summary/test_v1/finetune_9_3/models/
+pipeline_summary/test_v1/finetune_9_3/pretrained_models/
+
+# ===== Large data files (audio) =====
+# NOTE: output/ is NOT excluded — it contains JSON/CSV/MD/PNG evaluation results that SHOULD be committed
+*.zip
+!tool/tool.zip
+
+# Audio files in data/ are too large for git (data/ is ~30GB)
+data/
+# Allow data directory to exist but exclude audio content
+!data/.gitkeep
+
+# Large legacy pipeline data
+pipeline_summary/test_v1/finetune_9_3/data/
+
+# ===== Third-party libraries =====
+pipeline_summary/test_v1/finetune_9_3/espnet/
+pipeline_summary/test_v1/finetune_9_3/espnet_source/
+
+# ===== Temp / Debug / Logs =====
+debug/
+*.log
+run_out.log
+
+# ===== Security / Tokens =====
+set_hf_token.sh
+
+# ===== Old source folders (không push lên github) =====
+code_capstone/
+pipeline_summary/
+research/
+
+# ===== kết quả diarizen (source folder used for migration, not part of codebase) =====
+kết quả diarizen/
+
+# ===== Stray root-level dev files (older versions, superseded by module versions) =====
+pipeline_diarizen.py
+pipeline_pyannote.py
+data_backup_old/
+setup_env.pid
+*.pid
+
+# ===== Jupyter notebooks (may contain hardcoded paths in cell outputs) =====
+*.ipynb
+
+# ===== Historical docs with Windows command examples (non-executable, dev notes) =====
+qwen/docs/pipeline/
+qwen/docs/setup/readme.txt
+phowhisper/docs/lenh_run.txt
+set_hf_token.sh
+github/
