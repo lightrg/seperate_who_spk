@@ -32,7 +32,7 @@ seperate_who_sp/
 └── report/            # Capstone Project PDF Reports
 ```
 
-> **Technical details:** The 300-line directory tree showing the exact location of each file, algorithm, and internal data flow of the models is detailed in [`ARCHITECTURE_FINAL.md`](ARCHITECTURE_FINAL.md).
+> **Technical details:**showing the exact location of each file, algorithm, and internal data flow of the models is detailed in [`ARCHITECTURE_FINAL.md`](ARCHITECTURE_FINAL.md).
 
 Each model module follows a strict internal layout:
 ```text
@@ -44,9 +44,7 @@ Each model module follows a strict internal layout:
 └── README.md          # Module documentation
 ```
 
-> **Hybrid Path Architecture (Config for Full Pipeline):** To run the **Full Pipeline** smoothly without breaking individual models, the codebase uses a hybrid approach. Inside individual model modules (`<model>/`), scripts use **relative paths** to ensure reproducibility and keep experiments independent. To stitch them together into a full pipeline, we use a centralized path configuration in `config/paths.py`. The orchestrator (`run_full_pipeline.py` and `web_app/`) uses this config to manage the unified `output/` directory and passes these dynamic paths down to the models as command-line arguments.
 
----
 
 ## Pipeline Overview
 
@@ -59,7 +57,6 @@ Audio passes through sequential stages:
 | 3 | **Qwen 1.5B** | Summarization | Meeting Summary JSON + MD |
 
 *(DER = Diarization Error Rate — the primary metric for speaker segmentation quality)*
-*(Note: **Qwen 7B** is also included in the repository as a Local Judge, but it is strictly an isolated evaluation tool and NOT part of the execution pipeline).*
 
 ### 4 Commands to Run the Full Pipeline via Terminal (CLI)
 You can run the entire system end-to-end using the `run_full_pipeline.py` script (or `run_full_pipeline.sh`) located in the `full_pipeline/` directory. The Python version is recommended as it uses a centralized `config/paths.py` architecture. Below are 4 use cases:
